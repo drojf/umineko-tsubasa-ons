@@ -4,6 +4,9 @@ This is an attempt to merge the [English translation](https://uminekotsubasa.git
 of Umineko Tsubasa together with the [PS3 mod by Golden Abyss](http://golden-abyss.blogspot.com/2015/12/umineko-tsubasa-ps3_19.html)
 which is available exclusively in the Russian language.
 
+This mod *does not* add voices, since Tsubasa has never actually been released by Alchemist, and therefore not voiced.
+This mod *does* add ADV mode. However, the first story is fully NVL, so you will not see it right away!
+
 Current progress:
 
 |Episode #|Translated|Edited|Playtested|Released since version|
