@@ -12,7 +12,7 @@ Current progress:
 |Episode #|Translated|Playtested|Released since version|
 |--|--|--|--|
 |1|Yes|Yes|v0.1.0|
-|2|Yes|In progress|Not yet released|
+|2|Yes|Yes|v0.2.0|
 
 Installation instructions:
 
