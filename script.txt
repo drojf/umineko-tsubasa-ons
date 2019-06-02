@@ -27,7 +27,7 @@ killmenu 2
 
 ;caption "В§ВЁВЋВ±ВћВ»В≠Н†В…ЧГ"
 ;versionstr "В§ВЁВЋВ±ВћВ»В≠Н†В…ЧГБ@ver1.000","РІНмБ@ВOВVВФВИБ@ВdВШВРВБВОВУВЙВПВО"
-caption "Umineko no Naku Koro ni Tsubasa PS3 patch by O[A]"
+caption "Umineko no Naku Koro ni Tsubasa - PS3 patch"
 versionstr "Umineko no Naku Koro ni ver1.000","created by 07th Expansion
 
 ;ГБГjГЕБ[ВћУаЧe
@@ -28468,17 +28468,17 @@ bg letter1,2
 
 locate 7,7
 ;Б@РeИ§В»ВйЧFВ÷БB\
-`ћоему дорогому другу.`\
+`To my beloved friend.`\
 se1 1010
 locate 0,3
 ;Б@В®М≥ЛCВ≈ВЈВ©БA@В∆ВҐВ§В®ЦсС©УIВ»И•ОAВЌБAН°ВћЛMХыВ…ВЌВЂВЅВ∆ФзУчБB@
-` Џ00171” теб€ всЄ хорошо?Џ00187`@` “акое приветствие дл€ теб€ наверн€ка звучит как сарказм.`@
+` "Are you feeling well?"`@`  Such a conventional greeting would most certainly sound like sarcasm to you now.`@
 br
 ;Б@ВЊВ©ВзВ±В§ХЈВ≠ХыВ™ВЂВЅВ∆РeРЎБB@
-` ѕоэтому с моей стороны было бы добрее спросить так.`@
+` That's why it'd be kinder of me to ask like this.`@
 br
 ;Б@В№ВЊРґВЂВƒВйБH@Б@РeИ§В»ВйЧFВжБB\
-` “ы ещЄ жива,`@` мой дорогой друг?`\
+` Are you still alive,`@`  my beloved friend?`\
 se1 1010
 bg black,22
 mono 1
@@ -28489,14 +28489,14 @@ csp2 3
 mono off
 locate 0,3
 ;Б@РжУъВЌВ®Х‘ОЦВрВ†ВиВ™В∆В§БB@
-` —пасибо, что ответила на дн€х.`@
+` Thanks for the reply the other day.`@
 br
 ;Б@В№В≥В©ЛMХыВ…БAЦҐВЊХMВрОжВйВЊВѓВћЛCЧЌВ™ОcВЅВƒВҐВљВ∆ВЌЛЅВЂВ≈ВЈБB@
 ;Б@В№ВЯБAХ‘ОЦВрПСВ≠ВжВ§В…С£ВµВљВћВЌОДВ»ВћВЊВѓВкВ«БB@
-` ”дивительно, что тебе до сих пор хватает энергии дл€ того, чтобы писать мне.`@` ¬прочем, € сама убедила теб€ написать ответ. `@
+`I was very surprised that you still had energy to at least write to me.`@` Well, the one who urged you to write an answer was me though.`@
 br
 ;Б@ВїВкВ≈ВаЛMХыВ™БAОДВћИ„В…ХMВрОжВйВЊВѓВћЛCЧЌВрХ±ВҐЛNВ±ВµВƒВ≠ВкВљВ±В∆О©СћВ™В∆ВƒВаЛЅВЂБB@В†ВйВҐВЌКпР’БB\
-` Ќо всЄ равно € очень удивилась тому, что ты собралась с силами и написала мне.`@` ƒаже посчитала это чудом.`\
+` Even so, the fact that you mustered energy to at least write for me, for my sake, was a great surprise.`@`  Or a miracle.`\
 bg black,0
 mono 1
 bg "bmp\background\sbook\zoom\18.png",0
@@ -28506,16 +28506,16 @@ csp2 3
 mono off
 locate 0,3
 ;Б@ВїВµВƒЛMПdВ»ВйПХМЊВрЦ{УЦВ…В†ВиВ™В∆В§БB@
-` » спасибо за ценное предложение.`@
+` And also, thanks for the valuable suggestion.`@
 br
 ;Б@ОДВаЛMХыВћИ”М©В…УѓКіБB@СљХ™БAНХЦЛВЌГЙГАГ_ГfГЛГ^БB\
-` я согласна с тобой.`@` Ћ€мбдадельта та ещЄ интриганка.`\
+` I agree with your opinion too.`@` Perhaps, the wire puller is indeed Lambdadelta.`\
 ;Б@В†ВћОqВЌОДВ…ХЬПQВЈВйВљВяВЊВѓВ…БAОДВ∆ВаВЅВ∆ВаСКРЂВћИЂВҐЦВПЧВрМ©В¬ВѓПoВµБA@ОДВ™ЧUВЂПoВ≥ВкВƒВ≠ВйВћВрС“ВЅВƒВҐВљВћВ≈ВµВеВ§БB@
 locate 0,3
-` ќна нашла ведьму, с которой € просто несовместима,`@` лишь дл€ того, чтобы отомстить мне и заманить мен€ в ловушку.`@
+` That girl probably found a witch who has the worst affinity with me,`@` just to take revenge on me and awaited for me to be lured.`@
 br
 ;Б@В№ВсВ№В∆В†ВҐВ¬Вћг©В…ВЌВ№ВЅВљВнВѓВ≈ВЈБB\
-` » € попалась, пр€мо как лЄгка€ мишень.`\
+` And I fell to her trap like a duck.`\
 
 bg black,0
 mono 1
@@ -28526,27 +28526,27 @@ csp2 3
 mono off
 locate 0,3
 ;Б@БcВ»ВйВўВ«БB@ВїВкВ™Й¬ПќВµВ≠ВƒЛMХыВЌХMВрОжВЅВљВћВ©ВµВзБB@ЛMХыВћИ”ТnИЂВ»ПќВҐКзВ™БAОиВ…ОжВйВжВ§В…ВнВ©ВйВнБB\
-` ...¬от оно что.`@` “ак смешно, что ты решила написать мне.`@` я пр€мо вижу твою вредную ухмылку.`\
+` ...I see.`@` I guess this is so ridiculous that it made you write to me.`@` I feel you're wearing your malicious smile.`\
 
 bg black,22
 se1 1010
 bg Different_spiral_1a,28
 locate 0,3
 ;Б@ВљВЊБAЛMХыВћХaЛCВрНlВ¶ВйВ∆БAОДВ…В∆ВЅВƒФёПЧВЌЛMПdВ»СґНЁВ©ВаВµВкВ»ВҐБB@
-` ќднако, если вспомнить о твоей болезни, она дл€ мен€ драгоценное создание.`@
+` But, when I think about your disease, maybe she is a precious being to me.`@
 
 br
 ;Б@ФёПЧВ™ОДВжВиВаВЌВйВ©В…НВИ ВћЦВПЧВ≈В†ВйВ»ВзВќБA@В¬В№ВиВїВкВЌБAВїВкВЊВѓВ†В»ВљВћХaЛCВ…ЛяВҐВ∆ВҐВ§В±В∆БB\
-` ≈сли она ещЄ выше мен€,`@` выходит, она очень близка к твоей болезни.`\
+` If she is a much higher-ranked witch than I,`@` it means that that is very close to your disease.`\
 ;Б@В¬В№ВиВїВкВ±ВїВ™БAЛMХыВрБAВҐВ¶БAОДВљВњВрРIВёХaЛCВ©ВзУ¶ВкВйЧBИкВћХыЦ@В≈В†ВиБAФёПЧВЌВїВкВрОјСHВµВƒВҐВйВ∆ВҐВ§В±В∆БB@БcВїВµВƒФзУчВ…ВаБAФёПЧВЌВїВкВрОДВ…Л≥В¶ВƒВ≠ВкВƒВҐВйВ∆ВҐВ§В±В∆БB\
 locate 0,3
-` »збавитьс€ от болезни, мучающей теб€, ...нас, можно только так, и этим она и занимаетс€.`@`  ...ѕритом, как ни иронично, она ещЄ и учит мен€ этому.`\
+` In other words, it means that that is the only way to escape from the disease that eats into you, no, into us, and she is putting it into practice.`@` ...And ironically, it also means she is teaching it to me.`\
 
 bg black,22
 se1 1010
 locate 0,3
 ;Б@В№ВЯБAВ«В§В≈ВаВҐВҐВ±В∆В©ВаВЋБB@В≈ВаБAВ†ВћОqВћТГФ‘В…ХtВЂНЗВ§В±В∆В≈БAЛMХыВћХaЛCВ™П≠ВµВ≈ВаЙхХыВ…МьВ©В§ВћВ»ВзВќБB@В«В§В©ВЇВ–БAОДВ…ЧЌВрСЁВµВƒВўВµВҐВћБB\
-` ’от€ неважно.`@` Ќо если с продолжением еЄ фарса тво€ болезнь ненадолго отступит,`@` прошу, помоги мне.`\
+` Well, it doesn't matter.`@` But, if by getting on with that girl's farce, your disease will get better,`@` I'd like you to please lend me your strength.`\
 
 se1 1010
 bg black,0
@@ -28558,124 +28558,124 @@ csp2 3
 mono off
 locate 0,3
 ;Б@ГЙГАГ_ГfГЛГ^ВЌБA@В±ВћГQБ[ГАФ’В…ОДВЌБgРвСќБhВ…ПЯВƒВ»ВҐВ∆НЛМкВµВƒВҐВйБB@
-` Ћ€мбдадельта хвасталась, что мне Џ00171абсолютно точноЏ00187 не победить на этой игровой доске.`@
+` Lambdadelta boasted that I will 'certainly' not be able to win on this game board.`@
 br
 ;Б@ВїВћОЮУ_В≈БAЛtРаУIВ…ГЛБ[ГЛВwВЌФїЦЊВµВƒВҐВйВћБB@Ц{УЦВ…ФnО≠В»ОqВЋБB\
-` ¬ тот раз € парадоксально вывела правило ’.`@`  ак же она глупа.`\
+` At that time, I paradoxically identified the rule X.`@` She's really a stupid girl.`\
 bg black,22
 se1 1010
 
 ;Б@В¬В№ВиБAХ®МкВ™ПнВ…ВUМОВQВOУъВ©ВзОnВ№ВйВжВ§В»ВаВћБB@Л∞ВзВ≠В±ВкВ™БAГxГAГgГКБ[Г`ГFВ»ВйЦВПЧВћРSСЯХФВ≈ВµВеВ§БB\
 locate 0,3
-` Ќапоминает историю, котора€ всегда начиналась с 20-го июн€.`@` ѕолагаю, такова суть ведьмы Ѕеатриче.`\
+` In other words, it's like the story that always starts from June 20th.`@` Probably, this is the core of the Witch named Beatrice.`\
 
 se2 1010
 bg Different_spiral_1a,28
 _ld c,":a;bmp\background\sbook\BEA_kage.bmp",22
 locate 0,3
 ;Б@В»ВйВўВ«БA@ВЊВ∆ВЈВйВ∆В±ВћГxГAГgГКБ[Г`ГFВ∆ВҐВ§ЦВПЧВЌКmВ©В…Ц ФТВҐБB@
-` ƒа,`@` в таком случае, ведьма по имени Ѕеатриче и вправду интересна.`@
+` Indeed,`@` if we consider it that way, this Witch named Beatrice certainly is interesting.`@
 br
 ;Б@ОДВаВ†ВћОqВаБAВїВµВƒЛMХыВаТmВзВ»В©ВЅВљРҐКEВрБA@ФёПЧВЌРЎВиСсВҐВƒВҐВйБB\
-` ќна открыла мир,`@` о котором мы с тобой и Ћ€мбдой не знали.`\
+` She opened up a world`@` that neither I, you, or Lambda knew about.`\
 ;Б@ВїВкВрЦВЦ@ВћН™МєВ∆ВЈВйБAГЛБ[ГЛВxБB@
 locate 0,3
-` »сточник магии - правило Y.`@
+` The rule Y that makes it into the source of the magic.`@
 br
 ;Б@ГЙГАГ_ГfГЛГ^ВаП≠ВµВЌРGВкВљВжВ§ВЊВѓВкВ«БA@ФёПЧВћИжВ…ВЌУЮТкЛyВсВ≈ВҐВ»ВҐБB@
-` —уд€ по всему, Ћ€мбдадельта тоже притронулась к нему,`@` но Ћ€мбде не достичь еЄ уровн€.`@
+` It seems Lambdadelta touched it a bit but too,`@` but Lambda can't possibly reach her level.`@
 br
 ;Б@ВаВµВ±ВкВ±ВїВрЦВЦ@В∆МƒВ‘В»ВзВќБA@ГxГAГgГКБ[Г`ГFВрПЬВЂБAОДВљВњВЌТNИкРlЦВПЧВ»В«В∆ЦЉПжВкВ»ВҐВ…ИбВҐВ»ВҐВнБB\
-` ≈сли вот что считаетс€ магией,`@` тогда из всех нас назвать ведьмой можно только Ѕеатриче.`\
+` If we call this very thing "magic",`@` then the only one of us who could be called a witch is Beatrice.`\
 ;Б@ВїВћИ”Ц°В…В®ВҐВƒБAО©ВзВћЦВЦ@СћМnВрСgВЁПгВ∞ВљФёПЧВЌБAЦВПЧВ∆ВµВƒВЌПЙРSВћХФЧёВ…УьВиВ»В™ВзВаБA@ВїВћИжВЌЦВПЧВрВЈВ≈В…ЧљЙнВµВƒБAБcЛMХыВћИжВ…В№В≈У•ВЁНЮВЁК|ВѓВƒВҐВйВ∆МЊВ¶ВйВ©ВаВµВкВ»ВҐБB\
 locate 0,3
-` ¬ некотором смысле, раз она сложила свою магическую систему,`@` пусть даже она только начинает, как ведьма, она уже превзошла ведьм...и стала на шаг ближе даже к твоему уровню.`\
+` In that sense, we may say that since she put together her own magic system,`@` even though she's just getting started as a witch, she has already surpassed witches... and she is even starting to approach your own level.`\
 bg black,22
 se1 1010
 locate 0,3
 ;Б@ВаВµФёПЧВ™ВїВкВрЛ≠В≠И”ОѓВµБAЧЭЙрВµВљВ»ВзВќБB@
-` ≈сли бы она полностью осознала и постигла это...`@
+` If she was fully aware of that...`@
 br
 ;Б@ОДВЌЛрВ©БAГЙГАГ_ГfГЛГ^В≥В¶ВаСЂМ≥В…ВЌЛyВќВ»ВҐБB@БcБcВїВµВƒСљХ™ВЂВЅВ∆БAЛMХыВ∆УѓВґХaВ…Ц`В≥ВкВйВ±В∆В≈ВµВеВ§БB\
-` ƒаже Ћ€мбдадельта не смогла бы сравнитьс€ с ней, не говор€ уже обо мне.`@`  ...», веро€тно, мен€ поразит тот же недуг, что и теб€.`\
+` Not even Lambdadelta would be a match for her, and I even less.`@` ...And most probably, I'll be affected with the same disease as you.`\
 locate 0,3
 ;Б@ВµВ©ВµВїВкВ…ВµВƒВаБAОјВ…Ц ФТВҐБB@В±ВћГЛБ[ГЛВxВ±ВїВ™БAЦВПЧГxГAГgГКБ[Г`ГFВћСґНЁВїВћВаВћВ≈ВЌВ»ВҐВ©В∆М©ВƒВҐВйВћБB\
-` Ќо всЄ равно интересно.`@` ѕравило Y как будто само существование ведьмы Ѕеатриче.`\
+` However, even so, this is really interesting.`@` I see this rule Y as the very existance of the witch Beatrice.`\
 se1 1010
 bg Different_space_2d,22
 locate 0,3
 ;Б@ВїВ§БB@В±В±В№В≈ВЌОДВаЙрРЌВ≈ВЂВљБB\
-` ƒа.`@` я многое разобрала.`\
+` That's right.`@` I managed to analyze this far.`\
 ;@ВїВµВƒВаВ§В–В∆В¬БA@ГЛБ[ГЛВyВ™В†ВйВћВЌК‘ИбВҐВ»ВҐВћБB@
 locate 0,3
-` », разумеетс€, есть ещЄ одно правило,`@` правило Z.`@
+` And, of course, there's the final rule,`@` rule Z.`@
 br
 ;Б@ВЊВЅВƒГЛБ[ГЛВwВ∆ВxВЊВѓВ≈ВЌРаЦЊВ≈ВЂВ»ВҐМїПџВ™В†В№ВиВ…СљРФБA@КѕС™В≥ВкВƒВҐВйВ©ВзБB\
-` ¬едь число наблюдаемых €влений, которые не объ€снить одними правилами ’ и Y,`@` слишком велико.`\
+` Because the number of phenomenona being observed that can't be explained with rules X and Y alone`@` is way too big.`\
 se1 1010
 bg chess2,22
 locate 0,3
 ;Б@ГЛБ[ГЛВyВћР≥СћВЌХsЦЊБB@
-` »стинный характер правила Z неизвестен.`@
+` I'm not entirely sure what rule Z actually is.`@
 br
 ;Б@ГЙГАГ_ГfГЛГ^ВћМЊУЃВ©ВзТTВйВ…БA@В«В§ВаВ±ВћЧvСfВ™ОДВ…В∆ВЅВƒТvЦљУIВ…СКРЂВ™ИЂВҐВаВћВћЧlОqБB\
-` ѕо словам Ћ€мбдадельты,`@` этот компонент смертельно плохо совместим со мной.`\
+` According to Lambdadelta,`@` it seems that this component has a lethally bad affinity with me.`\
 locate 0,3
 ;Б@БgВїВкБhВ™ГqГУГgВ»ВћВЊВ∆ВµВљВзБA@БcБcИкСћЙљВ»ВћВ©ВµВзБB@
-` ≈сли прин€ть еЄ слова за подсказку,`@` ...что же это за элемент?`@
+` If we assume those words are a hint,`@` ...then what on Earth is this component?`@
 br
 ;Б@ОДВЌОжВиНЗВ¶ВЄВ±ВћГЛБ[ГЛВyВрБA@Р^СКВ©ВзЙМВ…К™В≠БAЦјШHУIВ»СґНЁВЊВ∆ЙЉТиВµВƒВЁВљБB\
-` ƒо поры до времени`@` € предположила, что правило Z представл€ет собой нечто вроде лабиринта, за которым скрыта правда.`\
+` For a while,`@` I had assumed that rule Z is a maze-like existence hiding the truth.`\
 se1 1010
 bg Different_spiral_1b,28
 locate 0,3
 ;Б@В¬В№ВиБA@ГЛБ[ГЛВwВ∆ВxВ…ОДВрЛяХtВѓВ№ВҐВ∆ВЈВйЦјШHВЋБB\
-` »наче говор€,`@` лабиринт не позвол€ет мне приблизитьс€ к правилам ’ и Y.`\
+` In other words,`@` a maze to not let me come close to rules X and Y.`\
 ;Б@ОДВћЧЌВЌБAХSФNВрК|ВѓВƒЦјШHВћСSВƒВћХ™КтВрКmВ©ВяВƒТnР}ВрПСВЂПгВ∞ВйВћВ…ОЧВƒВҐВйБB\
 locate 0,3
-` я словно составл€ю карту, след€ за тем, чтобы ни была пропущена ни одна развилка лабиринта, на что уход€т сотни лет.`\
+` My power is just like writing up a map, making sure I don't miss a single fork in this maze, and it's taking me a hundred years.`\
 locate 0,3
 ;Б@В¬В№ВиБAВ«ВсВ»В…Х°ОGВ»ЦјШHВ≈В†ВлВ§В∆ВаБAВҐВ¬В©ВЌХKВЄНUЧ™В≈ВЂВйВ∆ВҐВ§В±В∆БB@
-` “о есть, каким бы сложным ни был лабиринт, однажды € об€зательно смогу пройти его.`@
+` In other words, no matter how complex is the maze is, one day, I'll certainly be able to walk through it.`@
 br
 ;БiВњВ»ВЁВ…БAГЙГАГ_ГfГЛГ^ВћПкНЗВЊВ∆БA@ПoМыВ…ТHВиТЕВ≠В№В≈БAРзФNВрК|ВѓВжВ§В∆ВаЙEХ«В…ЙИВЅВƒХаВЂС±ВѓВйВжВ§В»ВаВћВ»ВћВ©ВµВзБB@ВҐВҐВ¶БAПoМыВ№В≈ИкТЉРьВ…ИкРЎЙсВиУєВрВєВЄБAСSВƒВћХ«В…МКВрКJВѓВƒТ ВиФ≤ВѓВƒВҐВ≠ВжВ§В»КіВґВЋБj\
-` (  слову, Ћ€мбдадельта на моЄм месте хоть тыс€чи лет просто шла бы вдоль стен до самого выхода.`@` ’от€ нет, она бы скорее стала прорыватьс€ через все стены, до самого выхода проделыва€ дыры по пр€мой.)`\
+` (By the way, if it was Lambdadelta, I guess she'd just keep on walking along the walls until she arrived at the exit, even if it took her a thousand years.`@` No, actually, she would drill holes into the walls in a straight line, until she reaches the exit, without taking a single detour.)`\
 se1 1010
 bg black,22
 locate 0,3
 ;Б@ВїВсВ»ОДВ∆БgСКРЂВћИЂВҐЦјШHБhВ∆ВЌИкСћЙљБcБH@
-`  ак подобный лабиринт может быть плохо совместим со мной?..`@
+` So how does such a maze have a bad affinity with me?..`@
 br
 ;Б@НlВ¶ХtВ≠ВћВЌВ–В∆В¬ВµВ©В»ВҐБB\
-` ” мен€ есть только одно предположение.`\
+` There's only one thing I can think of.`\
 se1 1010
 bg Different_spiral_1a,28
 locate 0,3
 ;Б@В¬В№ВиБA@БcБcТnР}ВрПСВҐВƒВҐВ≠В±В∆В™И”Ц°ВћВ»ВҐЦјШHБB@
-` Ёто...`@`такой лабиринт, в котором бессмысленно составл€ть карты.`@
+` Perhaps...`@` this is a maze for which a map cannot possibly be written.`@
 br
 ;Б@ЧбВ¶ВќБA@ВЃВ…ВбВЃВ…ВбВ∆ПнВ…М`ВрХѕВ¶ВйХsТиМ`ВћЦјШHВ∆В≈ВаМЊВ¶ВќВҐВҐВћВ©БB\
-` Ќапример,`@` может, у этого лабиринта неопределЄнна€, посто€нно мен€юща€с€ форма?`\
+` For example,`@` perhaps, the maze has an indefinite, ever-changing shape?`\
 ;Б@В»ВйВўВ«БA@В±ВћКTФOВ»ВзБAГЙГАГ_ГfГЛГ^ВћМЊВ§ГWГГГУГPГУВ≈ВаРаЦЊВ≈ВЂВйВ©ВаВµВкВ»ВҐБB@
 locate 0,3
-` ¬от как,`@` если это и есть основна€ иде€, еЄ можно объ€снить игрой в камень-ножницы-бумагу, о которой говорит Ћ€мбдадельта.`@
+` I see,`@` if it is this general idea, I may be able to explain it with the Rock-Paper-Scissors game that Lambdadelta talked about.`@
 br
 ;Б@БcОДВћЧЌВ≈ВаНUЧ™В≈ВЂВ»ВҐЦјШHВ≈ВаБAХ«ВрСSВƒК—ВҐВƒГSБ[ГЛВ…МьВ©В¶ВйФёПЧВ…ВЌВ№ВЅВљВ≠ПбКQВ≈ВЌВ»ВҐВнВѓВЊВµБB\
-` ...ћне не дойти своими силами до конца этого лабиринта, но ей, способной идти к цели сквозь стены, он не помеха.`\
+` ...I can't reach the end of this maze with the powers given to me, but to her with her drill, this maze is nothing.`\
 se1 1010
 bg Different_space_2c,22
 locate 0,3
 ;Б@БcБcКTФOВ≈ВЌЧЭЙрВ≈ВЂВйВћБB@В≈ВаГЛБ[ГЛВ∆ВµВƒС®В¶ВжВ§В∆ВЈВйВ∆БAСSВ≠ЧЭЙрВ™В≈ВЂВ»ВҐБB\
-` ...Ёто очевидно, если считать такое основной идеей,`@` но правилом?`\
+` ... I can understand it using this as a general idea,`@` but to consider it a rule?`\
 ;Б@ВЊВЅВƒГЛБ[ГЛВ∆ВЌЦ{ЧИБAХsХѕВ»ВаВћВ≈ВµВеВ§БH@
 locate 0,3
-` ѕравила неизменны.`@
+` Rules are supposed to be immutable.`@
 br
 ;Б@ХsТиМ`В»ВйВаВћВ™ГЛБ[ГЛВ≈В†ВйВ»ВсВƒБAОДВћТmВйПнОѓВрТіВ¶ВƒВҐВйБB\
-` ЌеопределЄнность, считающа€с€ правилом, за гранью моего понимани€.`\
+` Something so indefinite being a rule is beyond my understanding.`\
 ;Б@М≈СћВ≈В»ВѓВкВќВ»ВзВ»ВҐВћВ…БAЙtСћВћВжВ§В»ИкЦ ВрОЭВ¬В»ВсВƒБB@БcБcВ№ВйВ≈РЕЛвВЋБB\
 locate 0,3
-` ќно должно быть твЄрдым, но на самом деле жидкое.`@`  ... ак ртуть.`\
+` Even though this rule should be solid, it is actually fluid. Kind of like...`@` Mercury.`\
 bg black,22
 se1 1010
 mono 1
@@ -28684,13 +28684,13 @@ bgcopy
 mono off
 locate 0,3
 ;Б@РЕЛвВЌГЙГeГУМкВ≈БgРґВЂВљЛвБhБB@
-` Ќа латыни ртуть означает Џ00171живое сереброЏ00187.`@
+` In Latin, mercury means 'living silver'.`@
 br
 ;Б@ВїВµВƒХsШVХsОАВ…Т ВґВйВ∆РMВґВзВкБAШBЛаПpОtВљВњВћМ§ЛЖСќПџВ∆ВµВƒТњПdВ≥ВкВљБB\
-` —читалось, что она дарует вечную молодость, и еЄ высоко ценили как объект исследовани€ алхимиков.`\
+` They believed it that leads to perpetual youth and it was highly valued as research object by the alchemists.`\
 ;Б@ФзУчВЋБB@В¬В№ВиВЌВ№В≥В…БAФёПЧВћО©ПћВЈВйЦВПЧВвШBЛаПpВ…В¬В»В™ВйВ∆ВҐВ§В±В∆БB\
 locate 0,3
-`  ака€ ирони€.`@` ¬ыходит, это св€зано с алхимией и ведьмами, кем она и называет себ€.`\
+` It's ironic.`@` Turns out this is connected to alchemy and witches, and she considers herself to be a Witch.`\
 se1 1010
 bg black,22
 mono 1
@@ -28701,7 +28701,7 @@ csp2 3
 mono off
 locate 0,3
 ;Б@В±ВћГЛБ[ГЛВyВ™ЙрВѓВ»ВҐМјВиБA@БcБcВҐВҐВ¶БAЙрВѓВ»ВҐВ©ВзВ±ВїБAГxГAГgГКБ[Г`ГFВЌВ№В≥В…ЦВПЧВ≈В†ВйВ∆ВҐВ§В±В∆БB\
-` ѕока € не разгадаю правило Z...`@` ’от€ нет, лишь потому, что € не могу его разгадать, Ѕеатриче будет самой насто€щей ведьмой.`\
+` Unless I can unravel this rule Z...`@` No, because I can't unravel it, Beatrice will remain an actual, real witch.`\
 bg black,0
 mono 1
 bg "bmp\background\sbook\zoom\21.png",0
@@ -28711,10 +28711,10 @@ csp2 3
 mono off
 locate 0,3
 ;Б@БcБcВ†ВЯБAВ±В±В№В≈ПСВҐВƒВҐВƒХ†ЧІВљВµВ≠В»ВЅВƒВЂВљВнБB@
-` ...ј-а, € уже столько написала, что мне надоело.`@
+` ...Agh, I got bored from writing this much.`@
 br
 ;Б@ЛMХыВЌВ±В±В№В≈ВрУ«ВсВ≈БAРвСќВ…ПќВЅВƒВҐВйВнБB@В¶В•БAУqВѓВƒВаВҐВҐБB\
-` “ы, должно быть, сейчас смеЄшьс€.`@` ƒа, могу поспорить.`\
+` If you did read up to this point, you must be laughing.`@` I'd be willing to bet on it.`\
 bg black,0
 mono 1
 bg "bmp\background\sbook\zoom\22.png",0
@@ -28724,25 +28724,25 @@ csp2 3
 mono off
 locate 0,3
 ;Б@ВїВлВїВлОДВћНҐВиКзВрМ©ВƒБAВ≥ВзВ…Ъ}ПќВЅВƒВвВиВљВ≠В»ВЅВƒВЂВљН†В≈ВµВеВ§БB@
-` ¬скоре, увидев моЄ встревоженное лицо, тебе захочетс€ поглумитьс€ надо мной ещЄ больше.`@
+` And now that you're seeing me make this face, you'll want to sneer at me even more.`@
 br
 ;Б@ЛяВҐВ§ВњВ…ЛMХыВћВ∆В±ВлВ÷В®М©ХСВҐВ…НsВ≠ВнБB\
-` я скоро навещу теб€.`\
+` Before long, I'll go to pay you a visit.`\
 
 bg black,22
 bg letter1,22
 locate 0,3
 ;Б@М©ХСВҐВћХiВЌОДБB@НDВЂВ»ВЊВѓЪ}ВиПќВ§В∆ВҐВҐБB@НDВЂВ≈ВµВеВ§БH@Б@ВїВ§ВҐВ§ВћВЌБB@
-` ѕодарок с пожеланием скорейшего выздоровлени€ заберу себе.`@` √лумись надо мной сколько хочешь.`@` “ебе ведь это нравитс€.`@
+` Your get-well gift is me.`@` Sneer at me as much as you want,`@` since I know you enjoy that.`@
 br
 ;Б@ВЊВ©ВзЛvВµРUВиВћЧFРlВрМ}В¶ВйИ„В…БAВ«В§В©РґВЂХ‘ВЅВƒВњВеВ§ВЊВҐБB@
-` ѕрошу, возродись, чтобы € смогла встретитьс€ с подругой, которую столько не видела.`@
+` Please, revive at last, so I can meet a friend who I haven't seen for so long.`@
 locate 0,9
 ;Б@В№ВЊРeИ§В≈В†ВйВ∆РMВґВƒВҐВйЛMХыВћЧFРl
-` ќт твоей подруги, котора€ всЄ ещЄ верит, что дорога тебе.`
+` From your friend`@` who hopes that you still care about her,`
 locate 14,12
 ;!d1200ГxГЛГУГJГXГeГЛВжВи\
-!d1200`Ѕернкастель`\
+!d1200` Bernkastel.`\
 textoff
 se1 1010
 bg black,64
