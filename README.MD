@@ -7,7 +7,7 @@ which is available exclusively in the Russian language.
 Current progress:
 
 |Episode #|Translated|Edited|Playtested|Released since version|
-|--|--|--|--|--|--|
+|--|--|--|--|--|
 |1|Yes|Yes|Yes|Yes|v0.1.0|
 
 Main points of interest for developers:
