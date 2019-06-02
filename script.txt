@@ -7383,7 +7383,6 @@ bg "bmp\background\sbook\Kakera_memory_gmb04.bmp",99,2000,"breakup.dll/ulB"
 bg "bmp\background\sbook\Kakera_memory_gmb05.bmp",10,150
 bg "bmp\background\sbook\Kakera_memory_gmb06.bmp",10,150
 bg "bmp\background\sbook\Kakera_memory_gmb07.bmp",10,150
-bg "bmp\background\sbook\Kakera_memory_gmb08.bmp",10,150
 bg "bmp\background\sbook\Kakera_memory_gmb09.bmp",10,150
 bg "bmp\background\sbook\Kakera_memory_gmb10.bmp",10,150
 bg "bmp\background\sbook\Kakera_memory_gmb11.bmp",10,150
@@ -7392,7 +7391,6 @@ bg "bmp\background\sbook\Kakera_memory_gmb13.bmp",10,150
 bg "bmp\background\sbook\Kakera_memory_gmb14.bmp",10,150
 bg "bmp\background\sbook\Kakera_memory_gmb15.bmp",10,150
 bg "bmp\background\sbook\Kakera_memory_gmb16.bmp",10,150
-bg "bmp\background\sbook\Kakera_memory_gmb17.bmp",10,150
 se1v 74,50
 bg "bmp\background\sbook\Kakera_memory_gmb18.bmp",62
 wait 500
@@ -7414,22 +7412,22 @@ me1v 16,50
 bg Different_space_2a,22
 
 ;Б@ВdВoВTВрПIВ¶БAРнРlВЌВ∆В§В∆В§ГQБ[ГАГ}ГXГ^Б[В∆В»ВЅВљБcБB\
-` ѕосле 5-го эпизода Ѕаттлер наконец-то стал ¬ладельцем игры...`\
+` After EP5, Battler has finally become the Game Master...`\
 
 ;Б@ГQБ[ГАФ’В∆ВҐВ§ЦЉВћРҐКEВрБAШлб’ВµБAО©НЁВ…Х®МкВрЦaВ∞ВйРнРlВЌВ†ВйИ”Ц°БA@Р_В∆В≥В¶МƒВсВ≈ВаВ®В©ВµВ≠В»ВҐСґНЁВЊБB@
-` ¬ некотором смысле можно считать Ѕаттлера, теперь уже гл€д€щего на игровую доску с командной точки зрени€ и способного свободно создать историю,`@` богоподобным созданием.`\
+` In a way, it wouldn't be odd to consider Battler, who now has a commanding view of the game board and can freely spin the story`@` a god-like existence.`\
 
 ;Б@БcБcВµВ©ВµБAЙдБXВћЛ≥Л`В≈ВћР_В∆ИбВҐБAГQБ[ГАГ}ГXГ^Б[ВЌКyВ≈ВЌВ»ВҐБB\
-` ...ќднако, в отличие от Ѕога нашей веры, быть ¬ладельцем игры не так-то просто.`\
+` ...However, unlike the usual gods, being a Game Master isn't quite so easy.`\
 
 ;Б@ЙљВµВлБAСSВƒВрМИВяБAСSВƒВрХ`В©В»В≠ВƒВЌВ»ВзВ»ВҐБB@Й_ВћПгВ©ВзВћВсВ—ВиЙЇКEВрМ©ЙЇВлВµВƒФчПќВёБA@В»В«В∆ВҐВ§БAВ№ВЅВљВиВµВљП§ФДВ≈ВЌВ»ВҐВћВЊБB\
-` ¬едь ему нужно самому решить и создать всЄ.`@` Ёто не то зан€тие, когда он может просто в своЄ удовольствие улыбатьс€ миру с облаков. `\
+` After all, he himself must decide and create everything.`@` It isn't an occupation where he can just leisurely smile down on the world from above the clouds. `\
 bg Different_space_2b,22
 
 ;Б@В№ВµВƒВвБAГxГAГgВћГQБ[ГАФ’ВЌПђВ≥В»УЗВ™ХССдВ∆ВЌВҐВ¶БAХ°ОGВ»ГЛБ[ГЛВ™ЧНВЁНЗВҐБAВнВЄВ©ВQУъК‘В∆ВҐВ¶В«БA@ВїВћХ®МкВрЦaВҐВ≈Х`ВЂВЂВйВћВЌБAЛCКyВ…ПoЧИВйВ±В∆В≈ВЌВ»ВҐБcБcБB\
-` —цена игровой доски Ѕеато - маленький остров, и есть много сложных правил, а также двухдневное ограничение по времени.`@` —оздать эту историю непросто... `\
+` `The stage of Beato's game board is a small island, entangled in complicated rules, including time limit of merely two days.`@` It's not so easy to create a story with that... `\
 ;Б@РнРlВаН≈ПЙВЌБAНDВЂПЯОиВ…Х®МкВрНмВкВќВҐВҐВсВЊВлВ∆ЛCКyВ»ЛCОЭВњВЊВЅВљВ™БAВЈВЃВ…ВїВкВ™К√ВҐНlВ¶ВЊВЅВљВ±В∆ВрОvВҐТmВйБcБB\
-` —начала Ѕаттлер не беспокоилс€, счита€, что может слепить любую историю, но вскоре он пон€л, что было наивно так думать...`\
+` At first, Battler accted in a laid-back manner and believed that he could mold the story in any way he wants, but soon understood that this way of thinking was very naive...`\
 E_A
 
 se1 52
@@ -7445,7 +7443,7 @@ bgm1 7
 ld c,BUT_OdorokiA2,80
 
 ;БuВ©Б[Б[Б[БcБB@В±ВиВбБ[БAОvВЅВљВжВиЦпЙоВ»ОdОЦВЊВ»БcБBБv\
-`"ƒа уж...`@` ¬сЄ не так-то просто..."`\
+`"Damn...`@` This isn't easy..."`\
 ;<РнРl
 
 se1 57
@@ -7456,54 +7454,55 @@ mcbg 22
 ld r,LAM_MajimeA1,80
 
 ;БuВрБ[ВЅВўВЅВўВЅВўБI@Б@ВїВ§В≈ВµВеВ§ВїВ§В≈ВµВеВ§БH@Б@Р^СКВрТmВзВ»ВҐШAТЖВЌБAНDВЂПЯОиВ…ГfГ^ГЙГБВ»Х®МкВрНмВЅВƒВйВ∆ОvВЅВƒВйВ≈ВµВеБ[ВѓВ«БAВ∆ВсВ≈ВаВ»ВҐБI@Б@ГxГAГgВћГQБ[ГАФ’ВћВµВЅВњВбВ©ВяВЅВњВбВ©В»ГЛБ[ГЛВћТ†РKВрНЗВнВєВ»В™ВзБAГVГiГКГIВрВPЦ{В№В∆ВяВйВЅВƒБA@В©В»ВиСеХѕВ»ВсВЊВ©ВзБcБIБv\
-`"ќхо-хо-хо!`@` ¬от видишь, видишь?`@` “е, кто не знает правды, думают, что можно состр€пать какую угодно историю, но вообще-то это насто€щий подвиг!`@` —оставл€ть сценарий целого эпизода и при этом следить за соблюдением правил игровой доски Ѕеато`@` на самом деле очень трудно!"`\
+`"Ohohohoho!`@` You see, you see?`@` People who don't know the truth think you can slap together a story however you want, but actually doing it is a real feat!`@` It's actually very difficult`@` to put together an entire Episode while keeping track of every single rule!"`\
 ;БГГЙГАГ_
 
 
 ;Б@СOЙсВћВdВoВTВрТSУЦВµВљГЙГАГ_ГfГЛГ^В™БAВжВ§ВвВ≠О©Х™ВћСOЙсВћЛкШJВрЧЭЙрВµВƒВаВзВ¶ВљВ∆БAВўВ≠ВўВ≠КмВ—В»В™ВзИ–Т£ВиОUВзВЈБB\
-` Ћ€мбдадельта, отвечавша€ за игру в 5-м эпизоде, расхаживала с важным видом в восторге от того, что еЄ трудности наконец пон€ли. `\
+` Lambdadelta, the Game Master of EP5, swaggered around in delight that someone finally understood her hardships.`\
 
 cl c,0
 ld l,BUT_AseruA1,24
 
 ;БuБcБcВ∆В…В©В≠БAУoПкРlХ®В™СљВҐВсВЊВжВ»ВЯБB@ВїВҐВ¬ВзСSВƒВ…БAВ†ВйТцУxВћПoФ‘ВрЧ^В¶В»В™ВзШbВрРiВяВйВЅВƒВћВЌБA@ГfГBГМГNГ^Б[УIВ∆ВҐВ§В©БAГvГНГfГЕБ[ГTБ[УIВ∆ВҐВ§В©БAВ©В»Б[ВиУпВµВҐТНХґВЊВжВ»БcБBБv\
-`"...“ак много персонажей.`@` —ложно дать роли им всем.`@` я будто режиссЄр или продюсер..."`\
+`"...There's too many characters.`@` Trying to give them all some kind of role while still moving the story forward is pretty tough,`@` as if I'm a director or something..."`\
 ;БГРнРl
 
 
 ld r,LAM_AkuwaraiA1,24
 
 ;БuВ№Б[БAВїВ±ВЌКДВиРЎВйВ„ВЂВжВЋВ•БB@ЙљВµВлБAН°ВвГLГГГЙВЌКwНZВћВPГNГЙГXВжВиСљВҐВсВЊВ©ВзБB@ВїВкСSХФВ…ХљУЩВ…ПoФ‘ВрЧ^В¶ВƒВљВзБAВнВѓВнВ©ВсВ»В≠В»ВЅВњВбВ§ВнБ[БBБv\
-`"¬от ты и добралс€ до разделени€ времени в истории.`@` ” нас больше персонажей, чем в одном школьном классе.`@` ≈сли старатьс€ дать всем большую роль, всЄ это превратитс€ в грома-а-адный бардак." `\
+`"Well, you've got to partition the screentime.`@` After all, by now we've got more characters than a single school class.`@` If you try to give everyone a big role, it'll just turn into a huuuge mess."`\
 ;БГГЙГАГ_
 
 bg black,22
 bg chess2,22
 
 ;Б@ВўВсВћРФГLГГГЙВ≈Х®МкВрХ`В≠ВћВЌУпВµВ≠В»ВҐБB@
-` Ќаписание истории усложн€ло уже множество персонажей.`\
+` Just the sheer number of characters made writing the story difficult.`\
 
 ;Б@РнРlВ∆ГxГAГgВрО≤В…БAВўВсВћВPБ`ВQГLГГГЙТцУxВ≈В»ВзБAЙљВ∆В©ГVГУГvГЛВ…В№В∆ВяВзВкВ»ВҐВ±В∆ВаВ»ВҐВћВЊБcБB\
-` –аз истори€ вертитс€ вокруг Ѕаттлера и Ѕеато, было бы гораздо проще, будь всего 1-2 других персонажа, но...`\
+` Since this is the story of Battler and Beato, we barely even need any other characters.`@` One or two more would be fine, but...`\
 bg Mlib_1bP,0
 ld r,BUT_KomaruA2,22
 
 ;БuВїВ§ВЌМЊВЅВљВЅВƒБAВ«В§ВЈВиВбВҐВҐВсВЊВжБB@МїОјВ…БAРФП\РlЛKЦЌВ≈ГLГГГЙВ™ВҐВйВнВѓВЊВЉБHБv@
-`"¬озможно, но что мне делать?`@` ” нас дес€тки персонажей, знаешь?"`\
+`"Perhaps you're right, but what exactly do I do?`@` We've got dozens of characters, you know?"`\
 ;БГРнРl
 
 
 ld l,LAM_FutekiA2,23
 
 ;БuВ†ВсВљБAЦ{УЦВ…ГNГЛГNГЛГpБ[ВЋВ•БH@Б@В±ВћГЙГАГ_ГfГЛГ^ВњВбВсЧlВЁВљВҐВ…У™ОgВҐВ»В≥ВҐВжБA/
-`"Ќу ты и тупица.`@` ’от€ бы иногда используй голову, как госпожа Ћ€мбдадельточка, `/
+`"Wow, you are a moron.`@` Try using your head a little like Lambdadelta-chan-sama here, `/
 ;!s0 /
 ;!d800В†БA/
 ;!d800ВљБA/
 ;!d800В№БB@/
 !s0``/
-!d800`используй-`/
-!d800`голову...`@/
+!d800`use `/
+!d800`your `/
+!d800`head!`@/
 
 
 ld r,BUT_AseruA2,80
@@ -7512,7 +7511,7 @@ quakey 2,300
 ld l,LAM_OdorokiA2,80 
 !sd /
 ;БcБcБcВ†Т…БIБI@Б@У™УЋВЂВґВбВ»ВҐВнВжГoГJБ[БIБIБv\
-`јй!`@` я имела в виду не стукнуть мен€ по голове, болван!"`\
+` ...Ow!`@` I didn't ask you to punch me in the head, stupid!"`\
 
 ;БГГЙГАГ_
 
@@ -7520,15 +7519,15 @@ ld l,LAM_OdorokiA2,80
 ld r,BUT_MajimeA7,80
 
 ;БuВвВ©В№ВµВҐВЅБB@В±ВЅВњВЌБAНlВ¶ВƒВЌГ{ГcБA@НlВ¶ВƒВЌГ{ГcВћМJВиХ‘ВµВ≈У™В™Т…ВҐВсВЊБB@Й©РFВҐРЇВ≈В“Б[В“Б[СЫВЃВ»БcБI@Б@В†ВсВ№ВиВ§ВйВ≥ВҐВ∆ВdВoВUВ≈ВЌУoПкВ≥ВєВЋБ[ВЉБI@Б@ЙљВ©В§В№ВҐФйМНВ™В†ВйВ»ВзВ∆ВЅВ∆В∆Л≥В¶ВвВ™ВкВЅВƒВсВЊБBБv\
-`"«аткнись.`@` ” мен€ болит голова уже когда € просто думаю.`@` ѕрекрати верещать и шуметь!..`@` «амолчи, иначе 6-й эпизод никогда не начнЄтс€!`@` —кажи, если знаешь хорошую стратегию."`\
+`"Just shut up.`@` My head already hurts from just thinking.`@` Stop making so much noise!..`@` Ahhh, shut up, shut up, shut up!`@` Or else EP6 would never start at all!`@` Or, if you know a good strategy, tell me about it!"`\
 ;БГРнРl
 
 ld l,LAM_FutekiA2,80
 
 ;БuБcВЅВљВ≠БA/
-`"...„Єрт, `/
+`"...Geez, `/
 ;!d1000ЛГВ≠ОqВ∆ГQБ[ГАГ}ГXГ^Б[В…ВЌПЯВƒВ»ВҐВнВЋВ•БcБI@Б@В≈ВаБAВаВ§Л≥В¶ВйВ№В≈В»ВҐВнБB@В†ВсВљУЪВ¶В™ВнВ©ВЅВƒВсВґВбВ»ВҐБBБv\
-!d1000`с ¬ладельцем игры не поспоришь!..`@` Ќо мне больше нечего тебе сказать.`@` “ы уже должен знать ответ."`\
+!d1000` I can't argue with the Game Master!..`@` But I have nothing to tell you.`@` You're supposed to already know the answer."`\
 ;БГГЙГАГ_
 
 se1 57
@@ -7539,18 +7538,18 @@ mcbg 22
 cl r,0
 ld c,BUT_OdorokiA2,80
 ;БuВ¶БH@Б@В®ВҐБAС“ВƒВжВЅБB@ЙМВ…К™ВҐВљВ№В№У¶В∞ВйВ»БcБIБI@Б@БcБcБcВњВЅБAУ¶В∞ВњВ№ВҐВвВ™ВЅВљБBБv\
-`"Ё?`@` Ёй, стой,`@` не сбегай в клубе дыма!..`@`  ...„Єрт, смылась." `\
+`"Eh?`@` Hey, wait, do not disappear!..`@` Damn, she's gone." `\
 ;БГРнРl
 
 bg black,22
 
 ;Б@ЙЉВ…ВаГQБ[ГАГ}ГXГ^Б[ВћРжФCО“БB@ВаВ§П≠ВµЙЇОиВ…ПoВƒБAРFБXГRГcВ∆В©Л≥В¶ВƒВаВзВ¶ВќЧ«В©ВЅВљВ©В»БB@
-` ’от€ всЄ-таки она была предыдущим ¬ладельцем игры.`@` Ќадо было быть поскромнее и выт€нуть из неЄ хорошие подсказки и хитрости. `\
+` Though she was the previous Game Master.`@` I should have been kinder and asked for some tricks and tips instead.`\
 
 ;Б@БcБcВ№ВЯБAВҐВ»В≠В»ВЅВњВ№ВЅВљМгВ…ЛрТsВЅВƒВаОnВ№ВзВЋВ•ВЇБB@
-` ...¬прочем, нет смысла сожалеть, раз она уже ушла.`\
+` ...Well, no point in regretting it now that she's gone.`\
 ;Б@ТъВяВƒБAВ№ВљГ[ГНВ©ВзГVГiГКГIВрНlВ¶ВйВ©БcБcБB\
-` я снова начну строить сценарий с нул€... `\
+` I'll start building the scenario from scratch again...`\
 
 
 fede 0,1000
@@ -7560,14 +7559,14 @@ bg Mlib_1eP,22
 se1 19
 
 ;Б@ГhГУГhГУБB@ГmГbГNВћЙєБB@
-` *бам*бам*. —тук. `\
+` *knock, knock*`\
 
 ;Б@Н°УxВЌТNВЊБH\
-`  то на этот раз?`\
+` Who is it this time?`\
 
 
 ;БuВ†ВҐВжБ[БAКJВҐВƒВйВЇБ[БB@ГВГiГJВаЧrгїВаВҐВзВЋВ•В©ВзБAГVГiГКГIВћГlГ^ВрОЭВЅВƒВЂВƒВ≠ВкБ[БBБv\
-`"¬ходи-ите, открыто.`@` ћне не нужен бобовый джем, лучше принесите описание сюжета..."`\
+`"Come in, it's open...`@` I don't want bean jam or anything, so bring me a plot summary instead..."`\
 ;БГРнРl
 
 
@@ -7580,14 +7579,14 @@ ld l,GEN_DefA1,22
 bgm1 60
 
 ;БuБcБcРнРlВ≥В№БB@В®ЦZВµВҐВ∆В±ВлБAОЄЧзВҐВљВµВ№ВЈБBБv\
-`"...√осподин Ѕаттлер.`@` ѕростите, что отвлекаем, когда вы так зан€ты."`\
+`"...Master Battler.`@` We apologise for distracting you when you are this busy."`\
 ;БГМєОЯ
 
 bg Mlib_1cP,0
 ld c,BUT_DefA1,22
 
 ;БuВ®В§БAМєОЯВ≥ВсВ©БB@В∆ОvВЅВљВзБAМFСтВћФkВњВбВсВ…ЛљУcВ≥ВсВ…БAУмЮКРжРґВ№В≈БB@ОgЧpРlСеРlР®ИкУѓВЅВƒКіВґВЊВ»БBБv\
-`"ќ, √енджи.`@`  ак € и думал, ещЄ бабул€  умасава, √оуда и доктор Ќанджо.`@` ¬се взрослые слуги."`\
+`"Oh, it's Genji.`@` And as I thought, you brought Kumasawa, Gohda and Nanjo with you.`@` All the adult servants are here."`\
 ;БГРнРl
 
 bg Mlib_1bP,0
@@ -7595,7 +7594,7 @@ ld l,GOH_DefA1,23
 ld l,GOH_WaraiA1,80
 
 ;БuРнРlВ≥В№БAВ≤Ц≥НєСњВµВƒВ®ВиВ№ВЈБB@ЛљУcВ≈В≤ВіВҐВ№ВЈБBБv@
-`"ƒавно не виделись, господин Ѕаттлер.`@` √оуда к вашим услугам."`\
+`"Long time no see, Master Battler.`@` Gohda is at your service."`\
 ;БГЛљУc
 
 
@@ -7603,14 +7602,14 @@ ld r,KUM_DefA1,24
 ld r,KUM_WaraiA2,80
 
 ;БuВўВЅВўВЅВўБB@ОЯВћГVГiГКГIВћГlГ^ВрВ®ТTВµВ≈ВµВљВзБAОјВ…НDУsНЗВ≈В≤ВіВҐВ№ВЈБBБv\
-`"’о-хо-хо.`@` ѕридумываете следующий сценарий?  ак удобно."`\
+`"Hohoho.`@` Thinking of your new scenario? How convenient."`\
 ;БГМFСт
 
 ld c,NAN_DefA1,22
 ld c,NAN_MajimeA1,80
 
 ;БuВ»ВзБAОДВљВњВЌРнРlВ≥ВсВћЧЌВ…В»ВкВйВ∆ОvВҐВ№ВЈБB@Ц{УЦВ…НKВҐВЊВЅВљБBБv\
-`"¬ этом мы можем вам помочь, Ѕаттлер.`@` ¬от так везение."`\
+`"In that case, we could help you, Battler.`@` You're quite fortunate."`\
 ;БГУмЮК
 
 cl c,0
@@ -7623,43 +7622,43 @@ ld r,BUT_WaraiA1,80
 ;!d800В®БA/
 ;!d800ЙљВїВкБA/
 ;ПdФ†БH@Б@ТЖРgВЌБHБv@
-`"’м-м?`@` Ќе совсем понимаю, но если у вас есть идеи, € с радостью их выслушаю.`@` O, `/
-!d800`эй, `/
-!d800`что? `/
-` оробки?`@` „то внутри?" `\
+`"Hmm?`@` I don't really get it, but if you've got any ideas to share, I'll gladly listen.`@` Oh, `/
+!d800`hey, `/
+!d800`what the? `/
+`What are those boxes?`@` What's in them?" `\
 ;БГРнРl
 
 
 ld l,GEN_MajimeA1,23
 
 ;БuБcБcБcУ™ВрВ®ОgВҐВЊВ∆БAУЬХ™В™Ч~ВµВ≠В»ВйВаВћБB@ЛљУcВ™РнРlВ≥В№В÷ВћНЈВµУьВкВ…В∆БAШrВрРUВйВҐВ№ВµВљБBБv\
-`"...–азмышл€€, обычно начинаешь хотеть сладкого.`@` √оуда вложил в приготовление этого все свои умени€."`\
+`"...When one is deep in thought, they often start to crave sugar.`@` Gohda made use of his skills to provide you with refreshments, Master Battler."`\
 ;БГМєОЯ
 
 bg Mlib_1bP,0
 mld c,GOH_OmakaseA3,22
 
 ;БuРнРlВ≥В№ВЌЧmЙўОqВЌВ®МЩВҐВЊВЅВљВ≈ВµВеВ§В©БcБB@ВїВ§В≈ВµВљВзВ±ВћЛљУcБAВ∆ВсВЊВ≤Ц≥ЧзВрБcБcБBБv\
-`"¬ам не нравитс€ сладкое, господин Ѕаттлер?..`@` ¬ таком случае, €, √оуда, прошу прощени€..."`\
+`"I hope you don't dislike sweets, Master Battler?..`@` If that is the case, then I, Gohda, sincerely apologise for..."`\
 ;БГЛљУc
 
 
 ld r,KUM_WaraiA2,24
 
 ;БuВўВЅВўВЅВўБI@Б@В∆ВсВ≈ВаВ»ВҐВ∆ВсВ≈ВаВ»ВҐБB@РнРlВ≥В№ВЌБAЧrгїВ©ВзГvГКГУБAИ«РmУ§ХЕВ№В≈ЙљВ≈ВаВ®НDВЂВ≈ВҐВзВЅВµВбВҐВ№ВЈВаВћВЋВ•БBБv@
-`"’о-хо-хо!`@`  онечно нет, конечно нет.`@` √осподин Ѕаттлер очень любит сладости - от пудинга до миндального желе и всего остального."`\
+`"Hohoho!`@` Of course not, of course not.`@` From pudding to almond jelly to anything else, Master Battler just loves sweets."`\
 ;БГМFС
 
 ld l,NAN_MajimeA1,23
 
 ;БuВЊВҐВ‘ЛкШJВ≥ВкВƒВҐВйВ∆ХЈВЂВ№ВµВƒВ»БB@В±ВћХ”В≈ИкХЮВаЧ«ВҐВ©В∆ОvВҐВ№ВµВƒБB@ИгКwВрХRЙрВ≠В№В≈ВаВ»В≠БAПWТЖЧЌВрИџОЭВЈВйВљВяВ…ВаБAЛxМeВЌСеОЦВ≈ВЈВЉБBБv\
-`"√овор€т, у вас были непри€тности.`@` ћы подумали, что так у вас будет возможность сделать короткий перерыв.`@` ќтдых помогает сосредоточитьс€ лучше лекарств."`\
+`"We heard you were having quite a bit of trouble.`@` We thought this might be a good opportunity for you to take a short break.`@` The most important thing for maintaining your ability to concentrate is rest."`\
 ;БГУмЮК
 
 
 mld c,GOH_omakaseA2,80
 ;БuБcБcБcВїВкВ≈ВЌБAФzСVВрОЄЧзВ≥ВєВƒВҐВљВЊВЂВ№ВЈБBБv\
-`"...≈сли позволите, € накрою на стол." `\
+`"...Then if you will allow me, I will set the table." `\
 ;БГЛљУc
 
 mcl c,0
