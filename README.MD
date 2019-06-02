@@ -10,6 +10,10 @@ Current progress:
 |--|--|--|--|--|
 |1|Yes|Yes|Yes|v0.1.0|
 
+Installation instructions:
+
+- Go to the [releases page](releases) 
+
 Main points of interest for developers:
 - script.txt is the main script file which is used by this mod. 
 This is the file where the English translation is being added to.
