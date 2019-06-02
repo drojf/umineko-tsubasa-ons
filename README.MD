@@ -9,10 +9,10 @@ This mod *does* add ADV mode. However, the first story is fully NVL, so you will
 
 Current progress:
 
-|Episode #|Translated|Edited|Playtested|Released since version|
-|--|--|--|--|--|
-|1|Yes|Yes|Yes|v0.1.0|
-|2|In progress|No|No|Not yet released|
+|Episode #|Translated|Playtested|Released since version|
+|--|--|--|--|
+|1|Yes|Yes|v0.1.0|
+|2|Yes|In progress|Not yet released|
 
 Installation instructions:
 

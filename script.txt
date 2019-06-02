@@ -7105,7 +7105,7 @@ bg Different_space_2b,22
 ld r,BER_DefA2,24
 
 ;u‚à‚µB@‚ ‚È‚½‚ªS‚Ì’ê‚©‚çA–{“–‚Ì•ê‚Ì‹A‚è‚ðŠè‚¤‚È‚çB@cc‚»‚Ì•ê‚ÌÈ‚ðA‘¼‚ÌlŠÔ‚ÉŸŽè‚ÉÀ‚ç‚¹‚Ä‚Í‘Ê–ÚB@•ê‚ÌÈ‚ªŽ¸‚í‚ê‚½‚È‚çA‰i‰“‚É–{“–‚Ì•ê‚ª‹A‚é‚±‚Æ‚Í‚È‚¢‚íBv\
-`"Åñëè òû`@` èñêðåííå õî÷åøü, ÷òîáû òâîÿ íàñòîÿùàÿ ìàòü âåðíóëàñü,`@` ...íå ïîçâîëÿé íèêîìó äðóãîìó çàíÿòü å¸ ìåñòî.`@` Åñëè ìåñòî òâîåé ìàòåðè áóäåò çàíÿòî, îíà íèêîãäà íå âåðí¸òñÿ."`\
+`"If you truly,`@` from the bottom of your heart, wish for your real mother to return...`@` then you must never let anyone else take her place.`@` If her place in your heart is taken by someone else, she will never come back home."`\
 ;ƒƒxƒ‹ƒ“
 
 
@@ -7116,14 +7116,14 @@ ld c,KIR_WaraiA1,22
 
 
 ;uccccccccccBv@
-`"....................."`\
+`"..."`\
 ;ƒ‰Žõ
 
 ;@‚»‚ê‚ÍA—c‚¢‰Žõ‚É‚Æ‚Á‚ÄA‚ ‚Ü‚è‚É“¹—‚¾‚Á‚½B@
-` Ìàëåíüêàÿ Ýíæ âèäåëà â ýòîì ñìûñë.`\
+` To the young Ange, that seemed very logical.`\
 
 ;@•ê‚Å‚È‚¢l‚ð•ê‚¾‚Æ”F‚ß‚½‚çB@–{“–‚Ì•ê‚ª‹A‚Á‚Ä‚«‚½ŽžA‹A‚éêŠ‚ª‚È‚­‚È‚Á‚Ä‚µ‚Ü‚¤ccB\
-` Åñëè îíà ïðèçíàåò ìàòåðüþ òó, êòî åé íå ìàòü,`@` å¸ íàñòîÿùåé ìàòåðè áóäåò íåêóäà âåðíóòüñÿ...`\
+` If she accepted someone who wasn't her mother as her mother,`@` her real mother would have no home to return to...`\
 
 
 
@@ -7141,19 +7141,19 @@ ld l,BER_WaraiA1,22
 bgm1 76
 
 ;ucc‚ËH@ @–{“–‚Ì•ê‚Ì‚½‚ß‚ÉA‘åØ‚È‚±‚Æ‚Å‚µ‚å‚¤cHv\
-`"...Õîðîøî?`@` Ýòî âàæíî äëÿ òâîåé íàñòîÿùåé ìàòåðè, òàê âåäü?.."`\
+`"...Alright?`@` That's important for your real mother, is it not?.."`\
 ;ƒƒxƒ‹ƒ“
 
 bg Different_space_2b,22
 
 ;u‚ÍAcc‚Í‚¢B@–‚——lB@ccŠG‰H”Œ•ê‚³‚ñ‚ÍŠG‰H”Œ•ê‚³‚ñ‚Å‚·B@â‘Î‚É‚¨•ê‚³‚ñ‚Æ‚ÍŒÄ‚Ñ‚Ü‚¹‚ñB@‚¨•ê‚³‚ñ‚Æ‚ÍŽv‚¢‚Ü‚¹‚ñBv\
-`"Ä-...äà,`@` ìèññ âåäüìà.`@`  ...Ò¸òÿ Åâà - ýòî ò¸òÿ Åâà.`@` ß íèêîãäà íå íàçîâó å¸ ìàìîé.`@` ß íå ïîñ÷èòàþ å¸ ìàòåðüþ."`\
+`"Y-yeah...,`@` miss Witch.`@` Aunt Eva is just Aunt Eva.`@` I will never call her my mother."`\
 ;ƒ‰Žõ
 
 ld c,BER_NayamuA1,22
 
 ;u‚¦‚¥B@cc‚»‚µ‚ÄAŠG‰H‚Í‚±‚¤‚àŒ¾‚Á‚½‚í‚ËHv\
-`"Ïðåêðàñíî.`@`  ...È ò¸òÿ Åâà ñêàçàëà åù¸ êîå-÷òî, äà?"`\
+`"Wonderful.`@` But Aunt Eva also told you something else,`@` did she not?"`\
 ;ƒƒxƒ‹ƒ“
 
 
@@ -7166,35 +7166,35 @@ mono 0
 print 2
 
 ;@Ž„‚½‚¿‚Í–¢‚¾‚ÉAS‚Ì‚ð–Y‚ê‚é‚±‚Æ‚Ío—ˆ‚¸A–¢‚¾‚É‚¨ŒÝ‚¢AÎŠç‚ð–Y‚ê‚Ä‚¢‚éB@
-` Ñåé÷àñ ìû íå ìîæåì çàáûòü î ñâîèõ øðàìàõ è îáå ðàçó÷èëèñü óëûáàòüñÿ. `\
+` Right now, we cannot forget the scars on our hearts, and together we have forgotten how to smile.`\
 ;@‚Å‚à‚«‚Á‚Æ‚»‚ê‚ðAŽ„‚ÌŽq‚àA‚ ‚È‚½‚Ìe‚àA”ß‚µ‚ñ‚Å‚é‚ÆŽv‚¤‚ÌB@
-` Íî òàê ìîåìó ñûíó è òâîèì ðîäèòåëÿì íàâåðíÿêà áóäåò ãðóñòíî. `\
+` However, I believe that this would surely sadden my child and your parents.`\
 
 ;@ccŽ„‚½‚¿‚Í­‚µ‚¸‚ÂAÎŠç‚ðŽv‚¢o‚µ‚Ä‚¢‚Á‚Ä‚à‚¢‚¢‚ñ‚¶‚á‚È‚¢‚©‚µ‚çB\
-` ...Áûëî áû íåïëîõî ïîñòåïåííî âñïîìèíàòü, êàê óëûáàòüñÿ.`\
+` ...Wouldn't it be alright if we could remember how to smile, if only a little bit at a time?`\
 
 ld c,EVA_hohoemiA1,80
 
 ;@‚à‚¿‚ë‚ñAŽ„‚½‚¿‚É‚Í‹}‚É‚Ío—ˆ‚È‚¢B@
-` Êîíå÷íî æå, ìû íå ñìîæåì òàê ñðàçó. `\
+` Of course, we can't do this right away.`\
 ;@–Y‚ê‚Ä‚µ‚Ü‚Á‚½ÎŠç‚ðA­‚µ‚¸‚ÂŽv‚¢o‚µ‚Ä‚¢‚©‚È‚­‚¿‚áB@
-` Íàì íóæíî âñïîìèíàòü íàøè çàáûòûå óëûáêè ïîñòåïåííî. `\
+` We have to remember our forgotten smiles bit by bit.`\
 
 ;@‚¾‚©‚çAccŽ„‚à¡“ú‚©‚çA‚ª‚ñ‚Î‚Á‚ÄÎŠç‚Ì—ûK‚ð‚µ‚Ä‚Ý‚é‚±‚Æ‚É‚µ‚½‚ÌB\
-` Ïîýòîìó...ÿ ðåøèëà íà÷àòü óæå ñåãîäíÿ. `\
+` That's why.....I've decided that from today on, I'll try my best to practice smiling.`\
 
 ld c,EVA_KomaruA1,80
 
 ;@ccccccccB@cc•ÏAc‚©‚ÈB@
-` .............`@`Ñòðàííî, äà?`\
+` That's weird...`@` isn't it?`\
 
 ;@‚à‚µ‰Žõ‚¿‚á‚ñ‚àAccÎŠç‚ðŽv‚¢o‚¹‚»‚¤‚É‚È‚Á‚½‚çB@cccŽ„‚É‚àŒ©‚¹‚Ä‚ËB@/
-` Ýíæ, åñëè âñïîìíèøü, êàê óëûáàòüñÿ,`@` ...ïîêàæè è ìíå.`\
+` Ange-chan, if you ever remember how to smile,`@` ...please show me too.`\
 
 ld c,EVA_hohoemiA1,80
 
 ;@‚»‚µ‚½‚çŽ„‚½‚¿‚Í‚à‚Á‚ÆAÎŠç‚ðŽv‚¢o‚¹‚»‚¤‚È‹C‚ª‚·‚é‚©‚çB\
-` Ìíå êàæåòñÿ, ÷òî òàê ìû ñìîæåì åù¸ ëó÷øå âñïîìíèòü ñâîè óëûáêè. `\
+` I feel that if we do that, we'll be able to remember how to smile even better.`\
 
 textoff
 
@@ -7203,36 +7203,36 @@ bg black,22
 bg Different_space_2c,22
 
 ;u‚Í‚¢B@ccŠG‰H”Œ•ê‚³‚ñ‚ÍŠm‚©‚É‚»‚¤Œ¾‚¢‚Ü‚µ‚½Bv\
-`"Äà.`@`  ...Ò¸òÿ Åâà òàê ñêàçàëà."`\
+`"Yes.`@` ...Aunt Eva definitely said that."`\
 ;ƒ‰Žõ
 
 ld l,BER_DefA1,23
 
 ;u‚ ‚È‚½‚É‚Æ‚Á‚ÄA‰Æ‘°‚ª‹A‚Á‚Ä—ˆ‚Ä—~‚µ‚¢Šè‚¢‚ªA“V‚É‚à“Í‚­‚Ù‚Ç‚É”ß’É‚Å‚ ‚é‚È‚ç‚ÎB@cc‚ ‚È‚½‚Í‚»‚Ì“ú‚Ü‚ÅÎŠç‚ðŒ©‚¹‚Ä‚Í‘Ê–Ú‚æBv\
-`"Åñëè õî÷åøü, ÷òîáû òâîÿ ñåìüÿ âåðíóëàñü, òâîÿ ïå÷àëü äîëæíà áûòü äîñòàòî÷íî ñèëüíîé äëÿ òîãî, ÷òîáû âîçíåñòè ýòî æåëàíèå äî íåáåñ.`@`  ...Äî òîãî äíÿ íèêîãäà íå óëûáàéñÿ."`\
+`"If you want your family to come back, your pain and sorrow must be strong enough to lift that wish to the heavens.`@` Until that day, you must not smile even once."`\
 ;ƒƒxƒ‹ƒ“
 
 bg Different_space_2d,24
 
 ;!s0uÎŠç‚ðA/
-!s0`"Íèêîãäà...`/
+!s0`"Not...`/
 ;!d800ccŒ©‚¹‚Ä‚ÍA/
-!d800`íå...`/
+!d800`even...`/
 ;!d900ccc‘Ê–ÚBv/
-!d900`óëûáàòüñÿ."`/
+!d900`once."`/
 !sd\
 ;ƒ‰Žõ
 
 ld r,BER_NayamuA1,24
 
 ;u‚¦‚¥A‚»‚¤‚æB@ccŽ„‚Í‚ ‚È‚½‚ðŒ©Žç‚Á‚Ä‚é‚íB@‚à‚µ‚à‚ ‚È‚½‚ªÎŠç‚ð•‚‚©‚×‚é‚æ‚¤‚È‚±‚Æ‚ªˆê“x‚Å‚à‚ ‚Á‚½‚È‚çB@cc‚à‚¤‰Æ‘°‚È‚ñ‚Ä‹A‚Á‚Ä—ˆ‚È‚­‚Ä‚à‚¢‚¢‚Æ‚¢‚¤‹CŽ‚¿‚Ì•\‚ê‚¾‚ÆŽó‚¯Žæ‚Á‚ÄB@‰i‰“‚É‹A‚Á‚Ä‚­‚éŠïÕ‚È‚Ç‹N‚±‚³‚È‚¢‚Æ–ñ‘©‚µ‚Ä‚ ‚°‚é‚íBv\
-`"Äà, èìåííî.`@`  ...ß áóäó íàáëþäàòü çà òîáîé. Åñëè ìíå õîòü ðàç ïîêàæåòñÿ, ÷òî òû ñîáèðàåøüñÿ óëûáíóòüñÿ,`@` ...ÿ ïîñ÷èòàþ, ÷òî òåáå óæå âñ¸ ðàâíî, âåðí¸òñÿ òâîÿ ñåìüÿ èëè íåò.`@` ß îáåùàþ, ÷òî ÷óäà èõ âîçâðàùåíèÿ íå áóäåò."`\
+`"Exactly.`@`...I'll be watching over you. If it seems like a smile is going to come upon your face, even once,`@` ...I'll consider that a sign that you no longer care about your family coming back.`@` I promise you that in that case, they will never return."`\
 ;ƒƒxƒ‹ƒ“
 
 bg Different_space_2c,22
 
 ;ucc‚¢AccŒ™‚Å‚·ƒbB@â‘Î‚ÉÎ‚¢‚Ü‚¹‚ñcI@@‚¨•ƒ‚³‚ñ‚Æ‚¨•ê‚³‚ñ‚Æ‚¨ŒZ‚¿‚á‚ñ‚ª‹A‚Á‚Ä‚­‚é‚Ü‚ÅA‰Žõ‚Íâ‘Î‚ÉÎ‚¢‚Ü‚¹‚ñcIv\
-`"...Í-íåò.`@` ß íå áóäó óëûáàòüñÿ!`@` Ïîêà ïàïà, ìàìà è áðàòèê íå âåðíóòñÿ, ÿ íèêîãäà íå óëûáíóñü!.."`\
+`"...I don't want that!`@` I will never smile again!`@` Not until Dad, Mom and Onii-chan come home!.."`\
 ;ƒ‰Žõ
 
 bg black,22
@@ -7244,13 +7244,13 @@ ld c,RUD_WaraiA1,0
 ld r,BUT_DefA2,22
 
 ;uK‚¹‚ðŠ´‚¶‚Ä‚à‘Ê–ÚB@Šì‚Ñ‚ðŠ´‚¶‚Ä‚à‘Ê–ÚB@ccc‰Æ‘°‚ðŽ¸‚Á‚½’Q‚«‚ðA‰i‰“‚É–Y‚ê‚Ä‚Í‘Ê–Ú‚æB@cc‚»‚µ‚Ä‚»‚ê‚ð–Y‚ê‚³‚¹‚æ‚¤‚Æ‚µ‚½‚èAŒë–‚‰»‚»‚¤‚Æ‚µ‚½‚è‚·‚éˆ«–‚‚©‚çAŽ©‚ç‚ð‰“‚´‚¯‚È‚³‚¢B@ccc‰E‘ã‹{ŠG‰H‚ÍAŠÃ‚¢Œ¾—t‚Å‚ ‚È‚½‚Ì‚»‚ÌˆÓŽv‚ðÁ‚±‚¤‚Æ‰½“x‚àŽŽ‚Ý‚é‚Å‚µ‚å‚¤B@‚Å‚àA‚»‚ê‚ðŒˆ‚µ‚Ä•·‚¢‚Ä‚Í‘Ê–Ú‚æcH@@ŠG‰H‚ÍA‚ ‚È‚½‚©‚ç‰Æ‘°‚ð‰i‰“‚É’D‚¨‚¤‚Æ‚·‚éˆ«–‚‚È‚Ì‚æB@/
-`"Òû íå äîëæíà èñïûòûâàòü ñ÷àñòüå`@` è íå äîëæíà èñïûòûâàòü ðàäîñòü.`@`  ...Íèêîãäà íå çàáûâàé ïå÷àëü ïîòåðè ñâîåé ñåìüè.`@`  ...È äåðæèñü ïîäàëüøå îò äåìîíà, êîòîðûé ïîñòàðàåòñÿ çàñòàâèòü òåáÿ çàáûòü è ñáèòü òåáÿ ñ òîëêó."`\
-`"......Óøèðîìèÿ Åâà îáÿçàòåëüíî ïîïûòàåòñÿ ñëîìèòü òâîþ ðåøèìîñòü ñëàäêèìè ñëîâàìè.`@` Íî íå ñëóøàé å¸.`@` Åâà - äåìîí, êîòîðûé õî÷åò íàâå÷íî ëèøèòü òåáÿ ñåìüè. `@/
+`"You must neveer feel happiness.`@` Never forget the sorrow of losing your family.`@` ...And stay away from the demon who will try to make you forget that, who will try and decieve you"`\
+`"...Ushiromiya Eva will try and crush that resolve many times with her sweet words.`@` But you must never listen to them, alright?..`@` Eva is a demon who will try and steal away your family for all eternity.`@/
 
 se1 37
 
 ;‚­‚·‚­‚·‚­‚·‚­‚·B@‚¢‚âŽÀÛA’Dƒbƒ^ƒƒPƒ_ƒPƒhBv\
-`*õè-õè*.`@` Õîòÿ íåò, îíà è âïðàâäó ÈÕ ÂÑÅÕ Ó ÒÅÁß ÇÀÁÐÀËÀ."`\
+`*giggle*.`@` No, she actually DID STEAL THEM AWAY."`\
 ;ƒƒxƒ‹ƒ“
 textoff
 mono 0
@@ -7259,13 +7259,13 @@ bg black,22
 bg Different_space_2b,22
 
 ;u‚­AÁ‚¯‚½‚è‚µ‚Ü‚¹‚ñcI@@ Šè‚¢‚ªŠ‚¤‚Ü‚ÅAâ‘Î‚ÉŠG‰H”Œ•ê‚³‚ñ‚ÌŒ¾‚¤‚±‚Æ‚Í•·‚«‚Ü‚¹‚ñ‚©‚çcII@@ ‚¾‚©‚çŠè‚¢‚ðŠ‚¦‚Ä‰º‚³‚¢A–‚——lcIIv\
-`"Ì-ìîÿ ðåøèìîñòü íå äðîãíåò!..`@` Ïîêà ìî¸ æåëàíèå íå ñáóäåòñÿ, ÿ íè çà ÷òî íå ñòàíó ñëóøàòü ò¸òþ Åâó!..`@` Ïðîøó, èñïîëíèòå ìî¸ æåëàíèå, ìèññ âåäüìà!.."`\
+`"M-my resolve won't break!..`@` Until my wish comes true, I will certainly not listen to Aunt Eva's words!..`@` Please, grant my wish, miss Witch!.."`\
 ;ƒ‰Žõ
 
 ld r,BER_WaraiA1,24
 
 ;u‚¦‚¥B@‚»‚ê‚ð‚µ‚Á‚©‚è‚¸‚Á‚Æ‰i‰“‚ÉŽç‚è‘±‚¯‚é‚±‚Æ‚ªo—ˆ‚½‚È‚çB@ccÅŒã‚ÌŽžB@Ž„‚Í•K‚¸‚ ‚È‚½‚Ì‘O‚ÉŒ»‚êAŠè‚¢‚ðŠ‚¦‚Ä‚ ‚°‚é‚íB@cc‘åä•v‚æB@Ž„‚Í‚ ‚È‚½‚Ì‚»‚Ì‚Œ‰‚ÈˆÓŽv‚ðAŒˆ‚µ‚Ä•Ì‚ë‚É‚µ‚È‚¢B@cccc‚­‚·‚­‚·‚­‚·‚­‚·‚­‚·‚­‚·Bv\
-`"Ëàäíî.`@` Åñëè âñåãäà áóäåøü äåðæàòü ñâî¸ îáåùàíèå,`@` ...â êîíöå êîíöîâ ÿ îáÿçàòåëüíî ïîÿâëþñü è èñïîëíþ òâî¸ æåëàíèå.`@`  ...Íå áîéñÿ. ß íè çà ÷òî íå ïðîèãíîðèðóþ òâîþ èñêðåííþþ ðåøèìîñòü.`@` .........*õè-õè*õè-õè*õè-õè*."`\
+`"Fine.`@` As long as you continue to keep your promise,`@` ...then in the end, I will definitely appear before you and grant your wish.`@`  ...It's alright. I will definitely not ignore your pure-hearted resolve.`@` ...*giggle*giggle*giggle*."`\
 ;ƒƒxƒ‹ƒ“
 textoff
 bg black,42
@@ -7279,10 +7279,10 @@ bgm1 112
 bg G1F_S2c,2
 
 ;@ŽŸ‚Ì’©B@
-` Íà ñëåäóþùåå óòðî. `\
+` The next morning.`\
 
 ;@‰E‘ã‹{‰Žõ‚ÍAŠG‰H‚É‚«‚Á‚Ï‚è‚Æ‚°‚éB\
-` Óøèðîìèÿ Ýíæ ñêàçàëà Åâå íàïðÿìóþ. `\
+` Ushiromiya Ange clearly announced it to Eva.`\
 
 se1v 1006,70
 se1v 1006,70
@@ -7292,46 +7292,46 @@ bgcopy
 nega 0
 
 ;@‚»‚ê‚ÍAcc‰Æ‘°‚ª‹A‚Á‚Ä—ˆ‚éŠïÕ‚Ì‚½‚ß‚ÌA–‚–@‚ÌŒ¾—tB@
-` Ýòè ñëîâà áûëè...çàêëèíàíèåì, âåäóùèì ê ÷óäó âîçâðàùåíèÿ å¸ ñåìüè. `\
+` Those words were... a spell that would bring forth the miracle of her family coming home. `\
 
 ;@‚»‚µ‚ÄŽc“‚È–‚—‚ªŒ¾‚í‚¹‚½AŽô‚¢‚ÌŒ¾—t‚¾‚Á‚½B\
-` À òàêæå ïðîêëÿòèåì, êîòîðîå å¸ çàñòàâèëà ñêàçàòü æåñòîêàÿ âåäüìà. `\
+` And they were also a curse that the cruel witch had made her say.`\
 
 bg black,22
 bg Different_spiral_1a,22
 
 ;!s0@‚»‚ÌŒ¾—t‚Í‚»‚Ì“ú‚æ‚èA/
-!s0` Â òîò äåíü...`/
+!s0` On that day...`/
 ;!d900cc‰Žõ‚ÆŠG‰H‚ÌÎŠç‚ðA/
-!d900`ýòè ñëîâà íàâñåãäà...`/
+!d900` those words have forever...`/
 ;!d1000‰i‰“‚É’D‚¤‚Ì‚¾ccB/
-!d1000`ëèøèëè Ýíæ è Åâó óëûáîê...`/
+!d1000` stolen the smiles from both Eva and Ange...`/
 !sd\
 
 bg black,22
 
 ;ucc–‚—‚É‚ÍB@‚±‚ñ‚ÈŽµ—[‚Ì•û‚ª‘f“G‚¶‚á‚È‚¢H@@cccc‚­‚·‚­‚·‚­‚·B@/
-`"...Ðàçâå òàêàÿ Òàíàáàòà`@` äëÿ âåäüìû íå ãîðàçäî ïðèÿòíåå? ......*õè-õè*. `@/
+`"...Isn't this kind of Tanabata`@` much more pleasant for a witch? *giggle*`@/
 
 se1 37
 
 ;‚ ‚Á‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚ÍB@ccc‚ ‚ŸA‘Þ‹ü‚µ‚È‚¢‚íB@‚à‚¤‚µ‚Î‚ç‚­’ö“x‚É‚Í‚ËBv\
-`Àõà-õà-õà-õà-õà-õà-õà-õà.`@`  ...À-à, ÿ íå çàñêó÷àþ.`@` Ïîêà ÷òî."`\
+` Ahhahahahahahaha.`@` Ahh, this won't get boring.`@` Not for a while."`\
 ;ƒƒxƒ‹ƒ“
 
 bg book1,22
 
 ;@‚±‚ñ‚ÈƒJƒPƒ‰‚à‚ ‚é‚í‚¯‚¾‚¯‚ÇAcc‚¢‚©‚ªH@
-` Òàêèå Îñêîëêè åñòü, íî...÷òî ñêàæåòå?`\
+` These kinds of fragments exist, but...`@` what do you think?`\
 
 ;@‚±‚ñ‚Èˆ«Žï–¡‚È•¨Œê‚ðˆ¤‚·‚é‚ ‚È‚½‚½‚¿‚È‚çA‚±‚Ì‚­‚ç‚¢‹ê‚ß‚Ì•û‚ªAD‚«‚æ‚Ë‚¥cH\
-` Âñå âû, ëþáÿùèå òàêèå çëûå èñòîðèè, òîæå íàâåðíÿêà ïðåäïî÷ëè áû íå÷òî ãîðüêîå.`\
+` All of you who like these kinds of ill-natured stories... would much prefer something this bitter, right?`\
 
 ;@‚±‚ê‚Å‚¢‚¢H@@ƒxƒAƒgH@
-` Ñîéä¸ò,`@` Áåàòî?`\
+` Will this do,`@` Beato?`\
 
 ;@ŽÀ‚ÉŽ„‚Ì–ð‚ç‚µ‚¢•¨Œê‚É‚µ‚Ä‚Ý‚½‚¯‚ê‚ÇB\
-` ß ëèøü ñäåëàëà ýòó èñòîðèþ áîëåå ïîäõîäÿùåé ïîä ñâîþ ðîëü.`\
+` All I really did was make it a tale more suited to my role.`\
 
 
 
@@ -48538,24 +48538,24 @@ savetime %savedataNowNum,%Morth,%Day,%Hour,%Minute
 ;itoa2 $Free1,%Minute : add $SaveTime,$Free1 : add $SaveTime,"•ª"
 
 ; Use abbrev. month name
-if %Morth = 1 mov $SaveTime,"ßíâàðüÚ00032"
-if %Morth = 2 mov $SaveTime,"ÔåâðàëüÚ00032"
-if %Morth = 3 mov $SaveTime,"ÌàðòÚ00032"
-if %Morth = 4 mov $SaveTime,"ÀïðåëüÚ00032"
-if %Morth = 5 mov $SaveTime,"ÌàéÚ00032"
-if %Morth = 6 mov $SaveTime,"ÈþíüÚ00032"
-if %Morth = 7 mov $SaveTime,"ÈþëüÚ00032"
-if %Morth = 8 mov $SaveTime,"ÀâãóñòÚ00032"
-if %Morth = 9 mov $SaveTime,"ÑåíòÿáðüÚ00032"
-if %Morth = 10 mov $SaveTime,"ÎêòÿáðüÚ00032"
-if %Morth = 11 mov $SaveTime,"ÍîÿáðüÚ00032"
-if %Morth = 12 mov $SaveTime,"ÄåêàáðüÚ00032"
-itoa $Free1,%Day : add $SaveTime,$Free1 : add $SaveTime,",Ú00032"
+if %Morth = 1 mov $SaveTime,"January "
+if %Morth = 2 mov $SaveTime,"February"
+if %Morth = 3 mov $SaveTime,"March "
+if %Morth = 4 mov $SaveTime,"April "
+if %Morth = 5 mov $SaveTime,"May "
+if %Morth = 6 mov $SaveTime,"June "
+if %Morth = 7 mov $SaveTime,"July "
+if %Morth = 8 mov $SaveTime,"August "
+if %Morth = 9 mov $SaveTime,"September "
+if %Morth = 10 mov $SaveTime,"October "
+if %Morth = 11 mov $SaveTime,"November "
+if %Morth = 12 mov $SaveTime,"December "
+itoa $Free1,%Day : add $SaveTime,$Free1 : add $SaveTime,","
 ; Use 12-hour time (AM/PM)
-if %Hour = 0 mov $Free2,"Ú00032óòðà" : itoa $Free1,12
-if %Hour > 0 && %Hour < 12 mov $Free2,"Ú00032óòðà" : itoa $Free1,%Hour
-if %Hour = 12 mov $Free2,"Ú00032óòðà" : itoa $Free1,12
-if %Hour > 12 && %Hour < 24 mov $Free2,"Ú00032âå÷åðà" : sub %Hour,12 : itoa $Free1,%Hour : add %Hour,12
+if %Hour = 0 mov $Free2," AM" : itoa $Free1,12
+if %Hour > 0 && %Hour < 12 mov $Free2," AM" : itoa $Free1,%Hour
+if %Hour = 12 mov $Free2," AM" : itoa $Free1,12
+if %Hour > 12 && %Hour < 24 mov $Free2," PM" : sub %Hour,12 : itoa $Free1,%Hour : add %Hour,12
 add $SaveTime,$Free1 : add $SaveTime,":"
 if %Minute < 10 add $SaveTime,"0"
 itoa $Free1,%Minute : add $SaveTime,$Free1 : add $SaveTime,$Free2
