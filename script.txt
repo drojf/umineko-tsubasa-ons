@@ -5795,28 +5795,28 @@ bgm1 35
 bg cit_1a,42
 
 ;Б@ВаВ§ВЈВЃБAОµЧ[БB@
-` —коро будет “анабата. `\
+` Very soon, it will be Tanabata.`\
 
 ;Б@ТZНыВ…КиВҐОЦВрПСВҐВƒНщВћО}В…ТЁВйВЈБAВ®УйРхВЁВћНsОЦБB@
-` «накомый праздник, в который на бамбуковые ветви вешают листочки с желани€ми. `\
+` A familiar event, marked by the hanging of pieces of paper, with wishes written on them, on bamboo branches.`\
 
 ;Б@ВїВћКиВҐВ™КРВ§В±В∆ВЌБAВ»В©В»В©В»ВҐВ±В∆ВЊВѓВкВ«БA@ОЮВ…Р_ЧмВвРЄЧмБAВ†ВйВҐВЌИЂЦВВвЦВПЧВ™БAЛCВ№ВЃВкВ…КиВҐОЦВрМ©В¬ВѓБAКРВ¶ВйВ±В∆ВаВ†ВйБcБcБB\
-` “акие желани€ исполн€ютс€ не часто,`@` но иногда духи и души умерших или даже ведьмы и демоны случайно наход€т их и исполн€ют... `\
+` It is not often that such wishes are granted,`@` but sometimes, spirits and souls of the dead, or even demons and witches, will find the wishes by chance and grant them... `\
 
 bg schR_P1b,22
 
 ;Б@ЙEСгЛ{Р^ЧҐШ±ВЌБAКwНZВ≈ТZНыВрПСВ≠В±В∆В…В»ВЅВљБB@
-` ”широми€ ћари€ должна была написать в школе такое желание. `\
+` Ushiromiya Maria was supposed to write such a wish at school.`\
 
 ;Б@ТZНыВЌВљВ≠В≥ВсВ†ВЅВљВћВ≈БAОvВҐВ¬В≠РlВЌЙљЦЗПСВҐВƒВаВҐВҐВ±В∆В…В»ВЅВƒВҐВљБB\
-` Ѕумаги было много, и ученикам разрешали вз€ть несколько листочков, если они могут придумать достаточно желаний. `\
+` There was plenty of paper, so students were allowed to use several pieces, if they could think of enough wishes.`\
 
 ;Б@ВЁВсВ»ВЌБAЙљЦЗВаПСВ≠В∆Н≈ПЙВЌИ”ЛCНЮВсВ≈ВҐВљВ™БA@ИƒКOБAВQБ`ВRЦЗВаПСВҐВƒВЁВйВ∆БAВ®ЛаОЭВњВ…В»ВиВљВҐВЊВћБAБЫБЫВ…В»ВиВљВҐВ»В«БAМОХјВЁВ»ВаВћВќВ©ВиВ∆В»ВиБA@ИƒКOБAО©Х™В…ВЌСzСЬЧЌВ™В»ВҐВ±В∆ВрБAЧcВҐВ»В™ВзВ…ОvВҐТmВйВћВЊВЅВљБB@
-` —начала всем не терпелось написать как можно больше,`@` но несмотр€ на свою юность, написав два-три, они, к своему удивлению, пон€ли, что могут написать только банальные желани€`@` вроде Џ00171’очу быть богатымЏ00187 или Џ00171’очу стать тем-тоЏ00187. `\
+` At first, everyone was excited about writing a lot of them,`@` but, despite their youth, after writing two or three of them,`@` they have come to realise to their own surprise that they could only write trivial things,`@` such as "I want to be rich" or "I want to become such and such".`\
 
 
 ;Б@ВµВ©ВµБAР^ЧҐШ±ВЌСЉВћОqВ∆ВЌИбВҐБAКиВҐОЦВЌВљВЅВљВPВ¬В≈П[Х™ВЊВ∆ОvВЅВƒВҐВљБB\
-` ќднако, в отличие от других детей, ћари€ посчитала, что будет достаточно написать одно желание.`\
+` However, unlike the other children, Maria thought that writing one wish was enough.`\
 
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 bg black,22
@@ -5824,7 +5824,7 @@ bg black,22
 ;locate 1,6
 locate 0,6
 ;Б@БgГ}Г}В™БAЦИУъЛAВЅВƒЧИВ№ВЈВжВ§В…Бh\
-` ’очу, чтобы мама приходила домой каждый день.`\
+` "I wish that my Mama would come home every day".`\
 
 wait 1000
 me2v 23,30
@@ -5836,35 +5836,35 @@ bg off_1a,22
 
 
 ;Б@ШOНјВЌОdОЦВ™СљЦZВ≈БAРEПкВ…ФСВиНЮВёВ±В∆В™СљВҐБB@
-` –оза была зан€та на работе и часто ночевала там. `\
+` Rosa was busy with work, and had to spend the night there often.`\
 E_M2
 se1 53
 ;Б@ВїВкВ™У≠В≠В∆ВҐВ§В±В∆В»ВћВЊВ∆БAЧcВҐВ»ВиВ…ЧЭЙрВЌВµВƒВҐВйВ™БA@ВЊВ©ВзВ∆ВҐВЅВƒБAОвВµВ≠В»ВҐВнВѓВЌВ»ВҐБB@
-`  ак и подобает ребЄнку, ћари€ пон€ла, что это лишь часть работы еЄ матери,`@` но ей всЄ равно было одиноко. `\
+` Just like a child should,`@` Maria understood that was just part of her mother's job,`@` but that didn't mean she didn't feel lonely.`\
 
 ;Б@ВЊВ©ВзБAЦИУъБAХкВ™ЛAВЅВƒВЂВƒВўВµВҐВ∆ВҐВ§СfЦpВ»КиВҐВрБAВїВћВ№В№ТZНыВ…ПСВЂНЮВсВЊБB\
-` ѕоэтому она написала простое желание, чтобы еЄ мать приходила домой каждый день.`\
+` So she wrote down her simple wish about her mother coming home every day.`\
 
 bg black,22
 bg moon_2a,22
 
 ;Б@В∆В±ВлВ≈БA@ТZНыВћКиВҐОЦВЅВƒБAТNВ™КРВ¶ВƒВ≠ВкВйВ©БAНlВ¶ВљВ±В∆ВЌВ†ВйВЊВлВ§В©БcБH@
-`  стати,`@` вы задумывались о том, кто исполн€ет желани€, написанные на этих листочках?.. `\
+` By the way,`@` have you ever thought about who grants the wishes written on these pieces of paper?..`\
 
 ;Б@ОµЧ[У`РаВ…ВњВ»ВсВ≈БcБcБAВ∆В©БA@УъЦ{М√ЧИВћФ™ХSЦЬВћР_БXВ™БcБcБAВ∆В©БA@РFБXВ†ВйВЊВлВ§В™БAОјВЌСSХФИбВ§БB\
-` ≈сть много теорий -`@` легенда “анабаты или бесчисленные древние боги японии,`@` ...но на самом деле всЄ неверно.`\
+` There are several theories:`@` the Tanabata legend and the various ancient Japanese gods,`@` but all of those are, in fact, false.`\
 
 ;Б@КРВ¶ВйВћВЌБAВїВћКиВҐОЦВрПСВҐВљРlК‘В…В∆ВЅВƒБAВаВЅВ∆ВаРgЛяВ»СґНЁВ»ВћВЊБB@
-` ∆елание исполн€ет то, что ближе всего к человеку, написавшему его. `\
+` What grants the wish is that which is closest to the person who wrote it.`\
 
 ;Б@ВҐВнВдВйБAОзМмЧмВ≈В†ВЅВљВиБAВ≤РжСcЧlВ≈В†ВЅВљВиБB@ВїВ§ВҐВ§ЧмУIВ»ОзМмВћВ»ВҐО“ВћПкНЗВЌБAЧЉРeВвЛяВµВҐЧFРlВ≈В†ВЅВљВиВЈВйБB\
-` “ак называемые духи-хранители или его предки.`@` ƒл€ тех, у кого нет духа-хранител€, это могут быть родители или близкий друг.`\
+` It can be the so-called guardian spirits or ancestors of the person.`@` For those without a guardian spirit, it might be their parents or a close friend.`\
 
 ;Б@ВїВµВƒР^ЧҐШ±В…В∆ВЅВƒВЌБAХкВжВиВаБAЦВПЧВћХыВ™БAЛяВµВҐСґНЁВЊВЅВљБB@
-` » дл€ ћарии ведьма была ещЄ ближе, чем мать. `\
+` And to Maria, that Witch was even closer tahn her mother.`\
 
 ;Б@В»ВћВ≈БAР^ЧҐШ±В™ТZНыВ…СхВµВљКиВҐВЌБA@ОµЧ[ВћЦйВ…ФёПЧВћЦ≤ВћТЖВ≈БAГxГAГgВ™ОуВѓОжВиБAУ«ВсВ≈В≠ВкВљБcБcБB\
-` ѕоэтому во снах ћарии в ночь “анабаты`@` Ѕеато прин€ла желание, которое девочка доверила этой бумажке, и прочитала его...`\
+` So, in Maria's dreams on the night of the Tanabata,`@` Beato accepted the wish that the girl had entrusted to that piece of paper, and read it...`\
 
 
 bg black,22
@@ -5873,7 +5873,7 @@ bg black,22
 
 
 ;БuБcБcР^ЧҐШ±БAР^ЧҐШ±БB@БcБcБcП®ВћРЇВ™ХЈВ±В¶ВйВ©БBБv\
-`"...ћари€... ћари€.`@`  ...“ы мен€ слышишь?"`\
+`"...Maria... Maria.`@` Can you hear me?"`\
 ;БГГxГAГg
 
 textoff
@@ -5890,12 +5890,12 @@ ld r,MAR_DefA1,80
 
 
 ;БuБcБcБcБcВ§ВсБcБcБH@/
-`".......Ё?..`@/
+`"...Eh?"`@/
 
 ld r,MAR_OdorokiA1,80
 
 ;Б@БcВ†БAГxГAГgГКБ[Г`ГFВЊБcБI@Б@ГxГAГgГКБ[Г`ГFВ™Р^ЧҐШ±ВћЦ≤ВћТЖВ…ЧИВƒВ≠ВкВљБcБIБv\
-`  ...ќ, Ѕеатриче!..`@` “ы пришла в мой сон!.."`\
+`"...Oh, it's Beatrice!..`@` Beatrice came to Maria in a dream!.."`\
 ;БГР^ЧҐШ±
 
 bg white,24
@@ -5916,53 +5916,53 @@ wait 1000
 ld c,BEA_DefA1,80
 
 ;БuВ§ВёБB@ВїВ»ВљВЌН°УъБAОµЧ[ВћКиВҐОЦВрНщВ…ТЁВйВµВљВ≈В†ВлВ§БH@Б@ВїВћКиВҐОЦВЌБAП®В…УЌВҐВљВЉБB@/
-`"ƒа.`@` “ы ведь повесила сегодн€ на бамбук желание на “анабату?`@` ќно достигло мен€, `@/
+`"Indeed.`@` Today, you hung a Tanabata wish on some bamboo, did you not?`@` That wish has reached me,`@/
 
 ld c,BEA_WaraiA2,80
 
 ;ВЊВ©ВзВ±В§ВµВƒБAКиВҐОЦВрКРВ¶В…БAВїВ»ВљВћВ∆В±ВлВ÷ВвВЅВƒЧИВљВћВЊБBБv\
-`...и € пришла к тебе исполнить его."`\
+` ...and I have come to grant it."`\
 ;БГГxГAГg
 
 bg rose_3ap,0
 ld l,MAR_OdorokiA1,23
 
 ;БuЦ{УЦВ…БHБI@/
-`"ѕравда?! `@/
+`"Really?! `@/
 ld l,MAR_WaraiA2,23
 ;Б@ГxГAГgГКБ[Г`ГFВ†ВиВ™В∆В§БIБI@Б@В§Б[В§Б[В§Б[БIБIБv\
-`—пасибо, Ѕеатриче!`@` ”-у, у-у, у-у!"`\
+`Thanks, Beatrice!`@` Uu!"`\
 ;БГР^ЧҐШ±
 
 ld r,BEA_fukigenA2,24
 
 ;БuВ≥ВƒВ∆БAВїВкВ≈ВЊВ»БB@ВїВ»ВљВћКиВҐВћБAБgХкВ™ЦИУъЛAВЅВƒВ≠ВйВжВ§В…БhБAВЊВ™БB@/
-`"„то ж, по поводу твоего желани€.`@` “ы пожелала, чтобы тво€ мама приходила домой каждый день. `@/
+`"Now, let us discuss your wish.`@` You have wished for your mother to come home every day.`@/
 
 ;БcБcЦ{УЦВ…В±ВкВ≈Ч«ВҐВћВ©БHБv@
-` ...Ќо ты уверена?" `\
+` ...But, are you quite sure?" `\
 ;БГГxГAГg
 
 ld l,MAR_NiyariA2,80
 
 ;БuВ§ВсБB@ВїВкВЊВѓВ≈КрВµВҐБBБv\
-`"ƒа.`@` „тобы € была счастлива, этого достаточно."`\
+`"Yes.`@` Just that alone will make me happy."`\
 ;БГР^ЧҐШ±
 
 bg black,22
 bg rose_1cp,22
 
 ;БuБcБcБcВ§Б[ВёБcБcБBБv\
-`"......’м-м-м..."`\
+`"Hrm..."`\
 ;БГГxГAГg
 
 ;Б@ГxГAГgВЌШrСgВЁВрВµВƒЪXВиПoВЈБB@
-` Ѕеато скрестила руки и забормотала. `\
+` Beato crossed her arms and mumbled to herself.`\
 ;Б@В№ВйВ≈БAВїВћКиВҐВрКРВ¶ВзВкВЄБAВ«В§ТfВлВ§В©ЦјВЅВƒВҐВйВжВ§В…В≥В¶М©В¶ВљБB@
-` —ловно обдумывала, как бы отказатьс€ и не исполн€ть это желание. `\
+` It seemed as if she was considering to refuse granting this wish,`@` and was thinking of the best way to put it into words.`\
 
 ;Б@ПoЧИВ»ВҐВ±В∆ВЌЙљВаВ»ВҐВ∆РMВґВƒВҐВйГxГAГgВ™БAВїВсВ»Х\ПоВрМ©ВєВйВћВ≈БA@Р^ЧҐШ±ВЌХsИјВ…В»ВЅВƒВµВ№В§БcБB\
-` ”видев, как Ѕеато, котора€, по еЄ мнению, могла что угодно, сделала такое лицо,`@` ћари€ встревожилась...`\
+` When Maria saw Beato, whom she considered all-powerful, make such a face,`@` she grew anxious...`\
 
 bg white,24
 bg rose_3bP,0
@@ -5971,22 +5971,22 @@ ld r,MAR_fukigenA1,24
 
 
 ;БuБcБcВ§Б[БB@БcБcГ}Г}В™ЛAВЅВƒВ≠ВйВћВЌБAУпВµВҐКиВҐВ»ВћБHБv@
-`"...”-у.`@`  ...∆елание, чтобы мама приходила домой, сложно исполнить?"`\
+`"...Uu.`@` Is having Mama come back home`@` a difficult wish to grant?"`\
 ;БГР^ЧҐШ±
 
 ld l,BEA_MajimeA1,23
 
 ;БuВҐВвБB@ВЌВЅВЂВиМЊВ¶ВќБAВ®ТГВћОqВ≥ВҐВ≥ВҐБB@/
-`"Ќет.`@` ≈сли честно, совсем наоборот. `@/
+`"No.`@` Quite honestly, `@/
 ld l,BEA_MajimeA2,80
 ;ВїВсВ»ВћСSСRУпВµВ≠ВаВ»ВҐБB@/
-`Ќичего сложного. `@/
+` it's a piece of cake.`@/
 
 ld l,BEA_MajimeA1,80
 
 
 ;ВЊВ™В»БAР^ЧҐШ±БB@ВжВ≠НlВ¶ВжБB@БcБcВїВ»ВљВЌБAВљВЊГ}Г}В™ЛAВЅВƒВ≠ВйВЊВѓВ≈ВҐВҐВћВ©БHБv\
-`Ќо, ћари€,`@` подумай как следует.`@`  ...ƒостаточно ли того, чтобы она приходила домой?"`\
+` But Maria,`@` consider it carefully.`@` Is her merely coming home actually enough?"`\
 ;БГГxГAГg
 
 
@@ -6001,7 +6001,7 @@ bg black,22
 bg rose_1cp,22
 
 ;БuП®В™ЦВЦ@В…ВƒВїВћКиВҐВрКРВ¶ВкВќБA@ЦЊУъВжВиТЉВњВ…БAХкВЌЦИУъБAЛAСоВЈВйВжВ§В…В»ВйВЊВлВ§БB@БcБcВµВ©ВµБAЛAСоВЌВЈВйВ™БAЛ@МЩВ™Ч«ВҐВ∆ВЌМјВзВ ВЉБHБv\
-`"≈сли € исполню это желание,`@` с завтрашнего дн€ тво€ мама будет приходить домой каждый день.`@`  ...Ќо не об€зательно в хорошем настроении, понимаешь?"`\
+`"Should your wish be granted,`@` then from tomorrow on, your mother will return home every single day.`@` However, she may not always be in a good mood.`@` Do you understand this?"`\
 ;БГГxГAГg
 
 bg black,22
@@ -6011,27 +6011,27 @@ me1v 5,50
 bg cit_2a,6
 
 ;Б@ШOНјВЌПђВ≥В»ЙпО–ВћО–ТЈВрВµВƒВҐВйБB@ЦҐВЊЛOУєВ…ПжВзВЄБAНjУnВиВћВжВ§В»МoЙcВрС±ВѓВйУъБXВЊБB@
-` –оза - директор маленькой компании.`@` ѕока всЄ шло не так, как планировалось, и она посто€нно находилась в трудном финансовом положении. `\
+` Rosa was the CEO of a small business.`@` So far, things have been going badly,`@` and she was in a precarious financial situation every day.`\
 
 ;Б@ВнВЄВ©ВћОdОЦВ…ВЈВ™ВиХtВЂБAВїВ±В©ВзП≠ВµВЄВ¬РMЧКВрТzВЂБA@Л∆Р—ВрКgСеВµВжВ§В∆ОlЛкФ™ЛкВµВƒВҐВйБB@
-` ќна отча€нно стремилась расширить свой бизнес, цепл€€сь за каждый возможный заказ,`@` и благодар€ этому привлекала больше заказов. `\
+` She was desperately trying to expand her business by clinging on to any order she could get,`@` and using that to bring in more requests little by little.`\
 
 ;Б@ВїВћШOНјВ™БAЦИУъБAТиОЮВ…ЛAСоВ≈ВЂВйВжВ§В…В»ВйБA@В∆ВҐВ§ВћВЌБAВ†В№ВиЧ«ВҐИ”Ц°В…ВЌВ»ВзВ»ВҐБB\
-` ≈сли –оза будет каждый день в назначенное врем€ возвращатьс€ домой в таком настроении,`@` это не кончитс€ ничем хорошим.`\
+` If Rosa would always come home in such a state,`@` it wouldn't end well.`\
 
 bg cit_2b,22
 
 ;Б@МїНЁВћШOНјВћЙпО–ВрБAИкЦйВ…ВµВƒЛ∆Р—ИјТиВрВ≥ВєВйВ…ВЌБAШOНјВ™КиВҐОЦВрВЈВйХKЧvВ™В†ВиБA@В«В±ВћХФХ™В…В«ВћВжВ§В»ЦВЦ@ВрК|ВѓВкВќЧ«ВҐВћВ©БAВЌВЅВЂВиВ≥ВєВйХKЧvВ™В†ВйБB@
-` ƒл€ того, чтобы компани€ –озы в одночасье добилась финансовой стабильности,`@` ей бы пришлось самой загадать желание`@` и точно про€снить, как и где должна быть использована маги€. `\
+` In order for Rosa's company to achieve financial security overnight,`@` she'd have to make the wish herself`@` and make it clear exactly what the magic should be used to change.`\
 
 ;Б@ВµВ©ВµБAР^ЧҐШ±В©ВзВћКиВҐВ≈ВЌБAШOНјВ…ЦВЦ@ВЌУЌВҐВƒВаБAШOНјВћЙпО–В…ВЌУЌВ©В»ВҐБB\
-` Ќо даже если маги€ от желани€ ћарии может достичь –озу, она не распростран€етс€ на компанию –озы. `\
+` So, even if the magic from Maria's wish could reach Rosa,`@` it would not extend to Rosa's company.`\
 
 ;Б@В¬В№ВиБAЛ}В…ОdОЦВ™В»В≠В»ВиБAВ†ВйВҐВЌЙпО–В™Т„ВкБA@ЦИУъБAЙ∆В…ВҐВзВкВйВжВ§В…В»ВйМ`В≈БAКиВҐВрКРВ¶ВƒВµВ№В§В±В∆В…В»ВйБB@
-` ¬ общем, чтобы –оза могла быть дома каждый день, либо ей нужно потер€ть работу,`@` либо еЄ компани€ должна неожиданно закрытьс€.`\
+` In short, for this wish to be granted,`@` Rosa would have to either lose her job,`@` or her entire company would have to shut down.`\
 
 ;Б@ВїВкВЌБAР^ЧҐШ±ВћЦ]ВсВЊКиВҐВ≈ВЌВ»ВҐВЌВЄБB@БcБcВЊВ©ВзГxГAГgВЌБAР^ЧҐШ±ВћЦ{УЦВћКиВҐВрХЈВЂВ…БAВ±В§ВµВƒЦ≤ВћТЖВ…В№В≈ВвВЅВƒЧИВљВћВЊБB\
-` ¬р€д ли ћари€ наде€лась на такое желание.`@`  ...ѕоэтому Ѕеато пришла в сон ћарии, чтобы спросить о еЄ истинном желании.`\
+` That likely wasn't something Maria actually wanted.`@` Hence, Beato visited Maria in her dream to inquire about her true desires.`\
 
 bg white,8
 bg black,22
@@ -6043,22 +6043,22 @@ ld l,BEA_MajimeA1,22
 ld l,BEA_DefA2,80
 
 ;БuВЊВ©ВзР^ЧҐШ±БB@Ц{УЦВћКиВҐВрХЈВ±В§БB@ВїВ»ВљВћКиВҐВЌБAХкВ™ВљВЊЛAВЅВƒВ≠ВйВ±В∆В≈ВЌВ†ВйВ№ВҐБHБv@
-`"„то ж, ћари€,`@` скажи мне своЄ насто€щее желание.`@` “ы ведь не просто хочешь, чтобы тво€ мать приходила домой?"`\
+`"So, Maria,`@` make your true wish heard.`@` Your mother merely coming home is not quite enough for you, is it?"`\
 ;БГГxГAГg
 
 ;БuБcБcБcБcБcВ§ВсБB@/
-`"......Ќет. `@/
+`"...It is not.`@/
 ld r,MAR_MajimeA1,80
 
 ;Г}Г}В™ЦИУъБAЛAВЅВƒВ≠ВйВЊВѓВґВбБA@БcБcВЊВяБBБv\
-`ќдного возвращени€ мамы каждый день...`@`мало."`\
+` Just having Mama come home every day is...`@` not enough."`\
 ;БГР^ЧҐШ±
 
 
 ld l,BEA_DefA1,80
 
 ;БuВїВ§ВЊБB@ВїВћС±ВЂВ±ВїВ™БAВїВ»ВљВћЦ{УЦВћКиВҐВ»ВћВЊБBБv\
-`"¬ерно.`@` ѕо-насто€щему ты желаешь того, что следует за этим."`\
+`"Indeed.`@` Your real wish comes after."`\
 ;БГГxГAГg
 
 bg black,22
@@ -6066,19 +6066,19 @@ bg black,22
 bg rose_1ep,22
 
 ;Б@Г}Г}В™ЛAВЅВƒВЂВƒЧ~ВµВҐВ∆ВҐВ§КиВҐВЌБAР^ЧҐШ±ВћЦ{УЦВћКиВҐВћБAН≈ПЙВ≈ВµВ©В»ВҐБB@
-` ∆елание, чтобы еЄ мама приходила домой, было только началом истинного желани€ ћарии. `\
+` The wish of her mother coming home was only the beginning.`\
 
 ;Б@Р^В…КРВ¶ВљВҐКиВҐВ∆ВЌБAТКПџУIВ≈В†ВЅВƒВЌВ»ВзВ»ВҐВћВЊБB\
-` ѕо-насто€щему она желала того, что не должно оставатьс€ абстрактным.`\
+` Her true desires weren't quite so abstract.`\
 
 ;Б@Ц{ЧИБAВїВћКиВҐВЌБAВ«ВсВ»ТКПџУIВ»ВаВћВ≈В†ВЅВƒВаБAКРВ¶ВйСґНЁВ™И”ТnИЂВ»ВзБAВїВћВ№В№КРВ¶ВƒВµВ№В§БB@
-`  ак правило, если желани€ исполн€ют озорники, они исполн€ют его независимо от того, насколько оно абстрактное. `\
+` Normally, if the ones granting the wish were mischievous, they would grant it no matter how abstract it was.`\
 
 ;Б@ВµВ©ВµГxГAГgВЌБAР^ЧҐШ±ВћЧ«ВЂЧFРlВЊВЅВљВ©ВзБAВїВћИ”ТnИЂВрВµВ»В©ВЅВљБB@
-` Ќо Ѕеато была близкой подругой ћарии и не провернула такой трюк. `\
+` But Beato was Maria's close friend, and would never play such a trick on her.`\
 
 ;Б@Р^ЧҐШ±ВћЦ{УЦВћКиВҐВЌБAВїВкВЊВѓВ≈ВЌВ»ВҐВ±В∆ВрТmВЅВƒВҐВљВ©ВзВЊБB\
-` ¬едь она знала, что истинным желанием ћарии было нечто большее.`\
+` Because she knew that Maria's true wish wasn't quite so simple.`\
 
 mov %MAR_Isyou,1
 textoff
@@ -6086,11 +6086,11 @@ textoff
 bg black,22
 
 ;БuГ}Г}В™ЛAВЅВƒВЂВƒБAВїВкВ©ВзБcБHБv@
-`"ћама вернЄтс€, и тогда?.." `\
+`"Your mother shall return home.`@` And so I ask: what next?.." `\
 ;БГГxГAГg
 
 ;БuГ}Г}ВЌВҐВ¬ВаСБВ≠ЛAВЅВƒВЂВƒБAБcБcР^ЧҐШ±В∆ИкППВ…БAВ®Ч[РHВћПАФхВрВЈВйВћБBБv\
-`"ћама всегда будет приходить домой рано...и готовить со мной ужин."`\
+`"Mama will always come home early...`@` and make dinner with Maria."`\
 ;БГР^ЧҐШ±
 
 bg white,2
