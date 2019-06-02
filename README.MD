@@ -12,7 +12,7 @@ Current progress:
 
 Installation instructions:
 
-- Go to the [releases page](releases) 
+- Go to the [releases page](../../releases)
 
 Main points of interest for developers:
 - script.txt is the main script file which is used by this mod. 
