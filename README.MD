@@ -4,8 +4,11 @@ This is an attempt to merge the [English translation](https://uminekotsubasa.git
 of Umineko Tsubasa together with the [PS3 mod by Golden Abyss](http://golden-abyss.blogspot.com/2015/12/umineko-tsubasa-ps3_19.html)
 which is available exclusively in the Russian language.
 
-This is heavily WIP -- most of the text is still only in Russian, and some of it is in Japanese.
-There is no public release yet -- one will become available as soon as at least Story 1 is fully translated.
+Current progress:
+
+|Episode #|Translated|Edited|Playtested|Released since version|
+|--|--|--|--|--|--|
+|1|Yes|Yes|Yes|Yes|v0.1.0|
 
 Main points of interest for developers:
 - script.txt is the main script file which is used by this mod. 
