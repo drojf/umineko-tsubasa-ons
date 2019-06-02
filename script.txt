@@ -6101,15 +6101,15 @@ ld l,MAR_WaraiA1,0
 print 17,1000
 
 ;БuВїВкВ©ВзБcБHБv@
-`"ј потом?.."`\
+`"What next?.."`\
 ;БГГxГAГg
 
 ;БuУсРlВ≈КyВµВ≠В®ШbВµВ»В™ВзБAГWГГГKГCГВВћФзВрФНВҐВљВиБAВ®ОMВрХјВ„ВљВиВЈВйВћБBБv\
-`"ћы будем весело разговаривать, чистить картошку, создавать блюда."`\
+`"We'll have fun talking together,`@` peeling potatoes`@` and setting up dishes."`\
 ;БГР^ЧҐШ±
 
 ;БuВїВкВ©ВзБcБHБv@
-`"»?.."`\
+`"Then?.."`\
 
 ;БГГxГAГg
 
@@ -6120,14 +6120,14 @@ ld c,MAR_WaraiA2,0
 ld r,ROS_WaraiA2,22
 
 ;БuВїВµВƒБAУсРlВ≈ГeГМГrМ©В»В™ВзБB@Ц ФТВҐФ‘СgВ≈КyВµВ≠ПќВҐВ»В™ВзБAВ®ВҐВµВ≠В≤Ф—ВрРHВ„ВйВћБB@ВїВµВљВзВЂВЅВ∆КyВµВҐБB@ВЂВЅВ∆НKВєБcБcБBБv\
-`"ѕотом мы будем смотреть телевизор,`@` сме€тьс€ над весЄлой передачей и есть вкусную еду.`@` ќб€зательно будет весело.`@` » радостно..."`\
+`"Then, we'll watch TV together,`@` laughing at some funny show and enjoying our delicious meal.`@` That...`@` will definitely be fun."`\
 ;БГР^ЧҐШ±
 
 ;Б@ХкВ…ЦИУъЛAВЅВƒВЂВƒЧ~ВµВҐВЊВѓВ≈ВЌВ»ВҐБB@
-` ќна не просто хотела, чтобы еЄ мать каждый день возвращалась домой. `\
+` She didn't just want her mother to come home every day.`\
 
 ;Б@Р^ЧҐШ±ВћОvВҐХ`ВҐВљНKВєВЌБAВ≥ВзВ…ВїВћМгВаБAВЄВЅВ∆С±ВҐВƒВҐВљБcБB\
-` —частье, изображЄнное в голове ћарии, продолжалось гораздо дольше...`\
+` The happiness painted in Maria's mind continued far beyond that...`\
 
 mcl a,0
 
@@ -6136,26 +6136,26 @@ mono off
 bg moon_2a,8
 
 ;Б@ВїВкВЌБAСzСЬВЈВйВЊВѓВ≈ВаВ∆ВƒВаСfУGВ»ОЮК‘ВЊВЅВљБB@
-` Ќечто удивительное даже если просто представить. `\
+` It was wonderful if you simply thought about it for a second:`@/
 
 ;Б@УсРlВ≈НмВЅВƒБAУсРlВ≈В®ВµВбВ„ВиВрКyВµВЁВ»В™ВзВћБAУсРlВ≈ВћРHОЦБB\
-` ѕриготовление еды и наслаждение ею во врем€ разговора. `\
+` to cook a meal together and enjoy it while chatting.`\
 
 ;Б@Р^ЧҐШ±ВЌКOРHВрВЋВЊВЅВљВ±В∆В»ВсВƒИкУxВаВ»ВҐБB@БcБcВљВЊБAХкВ∆КyВµВҐРHСмВрИЌВяВкВќЧ«ВҐВЊВѓВ»ВћВЊБB@
-` ћари€ никогда не просила пойти куда-нибудь поесть.`@`  ...ѕросто есть за столом с мамой было более чем достаточно.`\
+` Maria had never once asked to eat out...`@` Just eating at the table with her mother was more than enough.`\
 
 ;Б@ВїВкВЌОЮР№ЦKВкВйНKВєВЊВѓВкВ«ВаБAБcБcР^ЧҐШ±ВЌВїВкВ™ЦИУъВ≈В†ВЅВƒВўВµВҐВ∆БAВїВ§КиВЅВљВћВЊБB\
-` ’от€ изредка такое бывало, ...ћари€ хотела, чтобы так было каждый день.`\
+` But for her, even that was a rare event.`@` Maria simply wanted to have that every day.`\
 cl a,0
 mono 0
 bg black,22
 bg rose_1cp,22
 
 ;Б@ВїВћЦ≤ВћРҐКEВрК_К‘М©БAГxГAГgВЌФчПќВ№ВµВ≠ПќВ§БB@
-` ѕроблеск мира еЄ мечты вызвал у Ѕеато тЄплый смех.`\
+` The glimpse of that dream world made Beato laugh warmly.`\
 
 ; Р^ЧҐШ±ВЌБAВ«В§В©ВїВћКиВҐВрКРВ¶ВƒВўВµВҐВ∆КиВ§В™БA@ГxГAГgВЌВ≠ВЈВиВ∆ПќВҐБAВ№ВљМЊВЅВљБB\
-` ћари€ хотела, чтобы она как-то исполнила еЄ желание,`@` но Ѕеато только хихикнула и продолжила.`\
+` Maria was impatient to have her wish be granted,`@` but Beato merely giggled and spoke yet again.`\
 
 mov %MAR_Isyou,2
 bfly2 0
@@ -6165,24 +6165,24 @@ ld l,MAR_NiyariA2,22
 ld r,BEA_defA2,80
 
 ;БuВїВкВЊВѓВ≈Ч«ВҐВћВ©БcБHБv@
-`"Ётого достаточно?.." `\
+`"What next?.." `\
 ;БГГxГAГg
 
 
 ld l,MAR_OdorokiA1,80
 
 ;БuВ¶БcБcБHБv\
-`"Ё?.."`\
+`"Eh?.."`\
 ;БГР^ЧҐШ±
 
 
 ld r,BEA_majimeA2,80
 
 ;БuВїВ»ВљВћВїВћЦ≤ВЌБAНKВєВ»Ф”О`ВЊВѓВрКиВ§ВаВћВ≈ВЌВ»ВҐВЌВЄБB@/
-`"ѕо-моему, тво€ мечта включает в себ€ большее, чем счастливый ужин. `@/
+`"I'd imagine your dream extends beyond a mere dinner.`@/
 
 ;БcБcВїВћТцУxВћКиВҐВ≈ВЌБAВ№ВЊВ№ВЊХЈВҐВƒВвВкВ БB@КyВµВҐФ”О`ВрЙяВ≤ВµБAВ№ВЊВ№ВЊВїВћРжВрБAВїВ»ВљВЌР^В…КиВЅВƒВҐВйВЌВЄБBБv@
-` ...„тобы € могла выслушать это желание, оно должно быть больше.`@` “воЄ истинное желание непременно продолжаетс€ и после весЄлого ужина." `\
+` ...So for me to consider granting your wish, I need to hear more of it.`\
 ;БГГxГAГg
 
 ld l,MAR_MajimeA1,80
@@ -6207,32 +6207,32 @@ mono off
 print 42
 
 ;Б@УЦСRВЊБB@БcБcКyВµВҐРeОqВћЧ[РHВЌБAВїВћМгВћКyВµВҐЙ∆С∞РґКИВћБAОnВ№ВиВ…ЙяВђВ»ВҐБB\
-`  онечно.`@`  ...¬есЄлый ужин матери и дочери - только начало счастливого семейного образа жизни.`\
+` It was only natural.`@` ...Fun meals between mother and daughter were but a part of a healthy family lifestyle.`\
 
 ;Б@Г}Г}ВћВљВяВ…НgТГВрЯєВкВƒВ†В∞ВйБB@
-` я сделаю маме чай. `\
+` "I'll make tea for Mama."`\
 
 ;Б@УсРlВ≈ФьЦ°ВµВ≠НgТГВрИщВЁВ»В™ВзБAГeГМГrВрМ©ВƒКyВµВ≠ЙяВ≤ВЈБB\
-` ћы будем пить вкусный чай и смотреть телевизор. `\
+` "As we drink our delicious tea together, we'll watch TV."`\
 
 ;Б@ВїВµВƒВ®ХЧШCВрХ¶В©ВµВƒВ†В∞ВƒБAУсРlВ≈В®ХЧШCВ…УьВйБB@
-` ѕотом € нагрею ванну, и мы будем вместе купатьс€. `\
+`"Then I'll heat up the bath, and we'll bathe together."`\
 
 ;Б@Г}Г}ВћСеНDВЂВ»БAЦAВ™ВҐВЅВѕВҐПoВйГoГXГ{ГАВаУьВкВ†В∞ВжВ§БB@ВїВкВ≈УТСDВћТЖВ≈ВќВµВбВќВµВбВвВЅВƒБAВаВЅВ∆ВҐВЅВѕВҐБAЦAВрЧІВƒВƒВ†В∞ВйВћБB@
-` я даже положу один из тех ванных шариков с пузырьками, которые любит мама.`@` ћы будем весело плескатьс€ в ванне и сделаем ещЄ больше пузырьков. `\
+`"I'll even put in one of those bubble-filled bath bombs that Mama loves.`@` Then we'll splash around having fun in the tub, and make even more bubbles."`\
 
 ;Б@ВїВкВ©ВзВ®ЛxВЁВћГLГXВрВµВƒБAЦЊУъВћПАФхВрВµВƒБAЦ∞ВйБB\
-` «атем она поцелует мен€ на ночь, подготовит всЄ на завтра и пойдЄт спать. `\
+`"Then she'll kiss me goodnight, get things ready for tomorrow, and go to sleep."`\
 
 bg ROS_Ro1a,22
 
 ;Б@БcБcВїВµВƒБAУъВ™ПЄВиБAОЮК‘В…ВµВЅВ©ВиЛNВЂВƒБAВ®РQЦVВћГ}Г}ВрЛNВ±ВµВƒВ†В∞ВйБB@
-` ...ѕотом взойдЄт солнце, € проснусь раньше и разбужу маму, когда она проспит.`\
+`"...Then, the sun will rise, I'll wake up early, and wake Mama up if she oversleeps."`\
 
 ld r,SAK_WaraiA2,26
 
 ;Б@В®ВЌВжВ§БAВ≥В≠ВљВлБB@В§ВсБAВнВ©ВЅВƒВйБB@Г}Г}ВћВљВяВ…ГWГЕБ[ГXВрОЭВЅВƒВ≠ВжБB\
-` ƒоброе утро, —акутаро.`@` ƒа, знаю.`@` я принесу маме чего-нибудь попить.`\
+`"Good morning, Sakutaro.`@` Yes, I know.`@` I'll bring Mama something to drink."`\
 
 textoff
 bg white,23
@@ -6245,43 +6245,43 @@ cl l,0
 ld c,MAR_WaraiA2,23
 
 ;Б@ВжВ≠ЧвВвВµВљГIГКГWГiГЛГuГМГУГhВћЦмНЎГWГЕБ[ГXВрБAВжВ≠ЧвВвВµВљГRГbГvВ≈ОЭВЅВƒВҐВЅВƒВ†В∞ВйБB@
-` ƒам ей холодный, натуральный овощной сок в охлаждЄнной чашке. `\
+`"I'll bring her some chilled original blend vegetable juice in a chilled cup."`\
 
 ld r,ROS_WaraiA1,80
 
 ;Б@ЛNВЂВƒВЈВЃВ…В±ВкВрИщВёВ∆БAУ™В™ВµВбВЅВЂВиВµВƒБAГ}Г}ВЌТ©В©ВзГjГRГjГRБB\
-` ¬ыпив его сразу после пробуждени€, она освежитс€ и улыбнЄтс€. `\
+`"If she drinks it right after waking up, she'll feel refreshed and smile."`\
 
 ;Б@ГgБ[ГXГ^Б[В…ГpГУВрУьВкВƒБAГoГЙВћГWГГГАВрУhВЅВƒВ†В∞ВйБB@
-` я положу хлеб в тостер и намажу на него варенье с ароматом роз. `\
+`"I'll put bread in the toaster and cover it with rose-flavored jam."`\
 ;Б@ВїВµВƒТ©КІВрОЭВЅВƒВЂВƒБAГ}Г}ВћР»В…ТuВҐВƒВ†В∞ВйБB@
-` ѕотом € дождусь утренней газеты и положу еЄ маме на стул. `\
+`"Then I'll wait for the morning paper and set it on Mama's chair."`\
 
 
 ld c,MAR_WaraiA1,80
 
 ;Б@ВґВбВ†БAНsВЅВƒВ≠ВйВЋБAВ≥В≠ВљВлБB\
-` ѕока, € скоро вернусь, —акутаро. `\
+`"Alright, I'll be back soon, Sakutaro."`\
 
 cl a,0
 bg white,22
 bg cit_1a,2
 
 ;Б@ВїВсВ»Т©В©ВзИкУъВ™ОnВ№ВйВ©ВзБAОДВЌКwНZВ≈ВаВЄВЅВ∆НKВєВ™С±ВҐВƒВйБB@
-` ѕосле такого утра € буду счастлива весь долгий день в школе. `\
+`"After a morning like this, I'll be happy all day long at school."`\
 
 ;Б@КwНZВаКyВµВҐВµБAВ§В≥ВђВћМџУJСаВћВЁВсВ»ВаБAВЄВЅВ∆В≤Л@МЩБB@Г|ГPГbГgВћТЖВ≈ВнВҐВнВҐУцВвВ©БB\
-` ¬ школе тоже весело, и все в кроличьей группе всегда счастливы.`@` ќни так шум€т у мен€ в кармане.`\
+` "School is fun too, and everyone in the rabbit band is always happy as well.`@` They make a real ruckus in my pocket."`\
 
 
 ;Б@ВЊВ©ВзВЂВЅВ∆Г}Г}ВаБAЙпО–В≈ВҐВЅВѕВҐВ®ОdОЦВ™ВЌВ©В«ВйВ…ИбВҐВ»ВҐБB@
-` ѕоэтому € уверена, что мама добьЄтс€ успеха в работе. `\
+`"I'm sure Mama will be successful at work."`\
 
 ;Б@ВЊВ©ВзВЂВЅВ∆Г}Г}ВаБAВ®Й∆В…ПгЛ@МЩВ≈ЛAВЅВƒВЂВƒВ≠ВкВйВ…ИбВҐВ»ВҐБB@
-` ѕоэтому € уверена, что мама вернЄтс€ домой в хорошем настроении. `\
+`"I'm sure that she'll come back home in a good mood."`\
 
 ;Б@ВЊВ©ВзВЂВЅВ∆ОДТBВаБAВҐВ¬В№В≈ВаВҐВ¬В№В≈ВаЦИУъБAНKВєВ…ИбВҐВ»ВҐБB\
-` ѕоэтому € уверена, что мы будем счастливы всегда, каждый день.`\
+`"I'm sure that we will always, always be happy, every day."`\
 
 textoff
 fede 0,2000
@@ -6303,48 +6303,48 @@ print 99,3000,"trvswave.dll/"
 `"........................"`\
 
 ;Б@ТPТ≤В»ЙєВ™БAВЄВЅВ∆ВЄВЅВ∆ХЈВ±В¶ВƒВҐВйБB@
-` я услышала гуд€щий, монотонный электронный звук. `\
+` I could hear a monotonous, buzzing electronic noise.`\
 
 ;Б@ВїВкВЌБAЦЏКoВ№ВµОЮМvВћГAГЙБ[ГАВћЙєБB\
-` ќн исходил от моего будильника. `\
+` It was coming from my alarm clock.`\
 E_A
 se1 53
 wait 500
 bg black,22
 
 ;Б@БcБcВїВ§ВЊБB@БcБcОДВЌВЄВЅВ∆БAЦ≤ВрМ©ВƒВҐВљВћВЊБB\
-` ...“очно.`@`  ...я всЄ это врем€ спала.`\
+` ...Ah.`@` ...I must have been dreaming.`\
 
 bg ROS_M1a,22
 
 bgm1v 90,40
 
 ;БgГ}Г}В™БAЦИУъЛAВЅВƒЧИВ№ВЈВжВ§В…Бh@
-` Џ00171’очу, чтобы мама приходила домой каждый деньЏ00187.`\
+`"I wish that Mama will come home every day"`\
 
 
 ;Б@ВїВ§ПСВҐВљТZНыВрТЁВйВµВљБAПђВ≥В»НщВ™БAОДВћЦНМ≥В…В†ВйБB@
-` «а моей подушкой была бамбукова€ ветвь с листком бумаги. `\
+` A small piece of bamboo with that piece of paper hanging from it was beside my pillow.`\
 ;Б@ВЊВ©ВзВ±ВсВ»БAХsОvЛcВ»Ц≤ВрМ©ВљВћВЊВлВ§В©БB\
-` ¬от почему мне приснилс€ такой странный сон? `\
+` I wonder if that's why I had such a strange dream.`\
 
 bg black,5
 mono 1
 ld c,BEA_WaraiA1,22
 
 ;Б@БcБcШZМђУЗВ©ВзГxГAГgГКБ[Г`ГFВ™ЧИВƒВ≠ВкВƒБA@БcБcГ}Г}В™ЦИУъЛAВЅВƒВ≠ВйВЊВѓВћЦ]ВЁВрБAВ«ВсВ«ВсВҐВЅВѕВҐВ…БAЦ≥МјСеВ…ЦcВзВ№ВєВƒВҐВЅВƒБA@БcБcВ±ВћТZНыВ…КиВҐВрПСВҐВљОЮВ…ВЌБAВ№ВЅВљВ≠М©В¶ВƒВҐВ»В©ВЅВљРҐКEВрБAВ≠ВЅВЂВиВ∆Х`ВЂПoВµВƒВ≠ВкВљБB\
-` ...Ѕеатриче пришла с –оккенджимы...`@`и €сно нарисовала дл€ мен€ мир, который € совсем не видела, когда писала своЄ желание.`\
-` ...ћир, в котором моЄ желание было всего лишь тем, чтобы мама приходила домой каждый день, всЄ больше расшир€лс€ в бесконечность.`\
+` ...Beatrice came from Rokkenjima...`@` and clearly showed me a world that I couldn't even see when I was writing that wish of mine down.`\
+` ...A world in which my Mama would simply come home every day has expanded more and more, into infinity.`\
 cl a,0
 mono 0
 
 bg ROS_M1c,22
 
 ;Б@ВҐВвБAОДВЌКmВ©В…В¬ВҐВ≥ВЅВЂВ№В≈БAВїВћРҐКEВ…ВҐВљВћВЊБB@
-` Ќет, не только. ≈щЄ минуту назад € действительно была в том мире. `\
+` No, that's not all.`@` Until a second ago, I really was in that world.`\
 
 ;Б@ГxГAГgГКБ[Г`ГFВ™ВЂВЅВ∆БAХsОvЛcВ»ЦВЦ@В≈БAС©ВћК‘ВћК‘ВЊВѓБAОДВћКиВҐВрКРВ¶ВƒВ≠ВкВљВ…ИбВҐВ»ВҐВћВЊБcБcБB\
-` я уверена, что с помощью своей причудливой магии Ѕеатриче ненадолго исполнила моЄ желание...`\
+` I'm sure that, just for the smallest of moments, Beatrice granted my wish for me using her magic...`\
 
 bg black,22
 
@@ -6352,19 +6352,19 @@ se1 22
 bfly1 11
 
 ;Б@ЦИУъЛAВЅВƒЧИВƒВ≥В¶В≠ВкВкВќВҐВҐБB@БcВїВсВ»БAТъВяВ™ВњВ»НTВ¶ВяВ»КиВҐВ™БAЦ≥МјВ…БAНLВ™ВйБB@
-` ќна расширила до бесконечности моЄ умеренное и неамбициозное желание. `\
+` She has endlessly expanded my unambitious wish.`\
 
 ;Б@ВЊВ©ВзГxГAГgГКБ[Г`ГFВЌБAЦ≥МјВћЦВПЧБB\
-` ¬едь Ѕеатриче - Ѕесконечна€ ведьма. `\
+` After all, Beatrice is the Endless Witch.`\
 
 ;Б@БcБcВїВµВƒБAФёПЧВ™М©ВєВƒВ≠ВкВљЦ≤В™ЦВЦ@В…ВжВйВаВћВ»ВзВќБAБcБcЦВПЧМ©ПKВҐВ≈В†ВйО©Х™В…ВЊВЅВƒБAВЂВЅВ∆ПoЧИВйВЌВЄБB@
-` ...» если мир, который она показала мне, создала маги€, ...как начинающа€ ведьма, € тоже должна суметь создать его.`\
+` ...And if the world she has shown me was made by magic, `@`...as a witch apprentice, I should be able to create it myself.`\
 
 ;Б@В†ВћНKВєВ»Ц≤ВрБAГAГЙБ[ГАВ≈МƒВ—ЦяВ≥ВкВƒВµВ№В§ВжВ§В»ЩRВҐВаВћВ≈В»В≠БAЦ{УЦВћВаВћВ…ПoЧИВйВЌВЄВ»ВћВЊБB\
-` я должна превратить в нечто реальное этот счастливый сон, который был таким слабым, что будильник пробудил мен€ от него.`\
+` That happy dream, which was so faint that the alarm had drawn me away from it...`@` I should be able to make into something real.`\
 
 ;Б@Р^ЧҐШ±ВЌБAВїВћЦВЦ@ВрМїОјВћВаВћВ…ВЈВйВ…ВЌВ«В§ВЈВкВќВҐВҐВ©БAЦВПЧМ©ПKВҐВ∆ВµВƒТmВЅВƒВҐВљБB\
-`  ак начинающа€ ведьма, ћари€ знала, как сделать эту магию реальностью.`\
+` As a witch apprentice, Maria knew how to make that magic a reality.`\
 
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 
@@ -6376,34 +6376,34 @@ locate 1,7
 
 
 ;БuБcБcБcБcВ§Б[БB@БcБcРMВґВйВ±В∆БBБv\
-`".........”-у.`@`  ...¬ерой."`\
+`"...Uu.`@` ...By believing."`\
 ;БГР^ЧҐШ±
 
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
 ;Б@ВїВ§БB@ЦВЦ@ВЌРMВґВйВ±В∆В≈БAЧЌВрПhВЈБB@
-` ƒа.`@` ≈сли верить в магию, она становитс€ сильнее.`\
+` Yes.`@` Belief is what grants magic its power.`\
 
 ;Б@ВЊВ©ВзР^ЧҐШ±ВЌБAВ†ВкВ™Ц≤В≈ВЌВ»В≠БAМїОјВ…ПoЧИВйВ±В∆ВЊВ∆БAЛ≠В≠РMВґВйБB@
-` ѕоэтому ћари€ твЄрдо верила, что это был не сон, а то, что можно исполнить.`\
+` And thus, Maria strongly believed that it wasn't a dream, but something that actually came true.`\
 
 ;Б@БcБcВ†ВћНKВєВ»Т©ВћОДВЌБAВ№ВЄЙљВрВµВљВЅВѓБB\
-` ...„то € первым делом сделала в то счастливое утро?`\
+` ...What's the first thing I should do on this happy morning?`\
 
 bg white,26
 bg ROS_M1b,2
 
 ;Б@ВїВ§ВЊБB@В№ВЄВЌГ}Г}ВрЛNВ±ВµВƒВ†В∞ВжВ§БB@
-` ¬ерно.`@` —начала разбужу маму.`\
+` That's right.`@` First, I'll wake Mama up.`\
 
 ;Б@ВжВ≠ЧвВвВµВљГRГbГvВ≈БAЦмНЎГWГЕБ[ГXВрОЭВЅВƒВҐВЅВƒВ†В∞ВжВ§БB\
-` ѕринесу ей витаминный сок в охлаждЄнной чашке.`\
+` I'll bring her a cup of chilled vegetable juice.`\
 
 ;Б@Р^ЧҐШ±ВЌГxГbГhВрФ≤ВѓПoВµБAСдПКВ÷МьВ©В§БB@
-` ћари€ вскочила с кровати и направилась на кухню.`\
+` Maria jumped out of bed and headed for the kitchen.`\
 
 ;Б@НKВєВ»Т©В™ОnВ№ВиБAВїВкВ™НKВєВ»ИкУъБAВїВµВƒНKВєВ»ЦЊУъВ÷МqВ™ВЅВƒВҐВ≠В±В∆ВрБAХкВ…У`В¶ВљВ≠ВƒБB\
-` ќна хотела, чтобы еЄ мать знала, что началось счастливое утро, которое приведЄт к счастливому дню и счастливому завтра.`\
+` She wanted to let her mother know that this was the start of a happy morning, which would lead to happy days today and tomorrow.`\
 
 bg white,23
 bg ROS_P1a,0
@@ -6411,14 +6411,14 @@ bg ROS_P1a,0
 ld c,MAR_WaraiA1,23
 ld c,MAR_WaraiA2,80
 ;БuВ†ВиВ™В∆В§БAГxГAГgГКБ[Г`ГFБB@БcБcОµЧ[ВћКиВҐОЦБAКРВ¶ВƒВ≠ВкВƒБAВ†ВиВ™В∆В§БBБv\
-`"—пасибо, Ѕеатриче.`@`  ...—пасибо, что исполнила моЄ желание на “анабату."`\
+`"Thank you, Beatrice.`@` Thank you for making my Tanabata wish come true."`\
 ;БГР^ЧҐШ±
 
 bg white,48
 bg black,22
 locate 13,15
 ;Б@Б\Б\В®ВµВ№ВҐБB\
-`Џ08213Џ08213  онец.`\
+`END.`\
 
 fede 0,2000
 E_A
@@ -6442,22 +6442,22 @@ print 99,2000,"breakup.dll/lrp"
 ld r,BER_WaraiA3,80
 
 ;БuБcБcЙљВжВ±ВкБB@МЛЛ«БAГxГAГgВЌЙљВаКРВ¶ВƒВ»ВҐВґВбВ»ВҐБBБv@
-`"...Ќу и что это?`@` ¬ итоге Ѕеато так ничего и не исполнила." `\
+`"...The heck was that?`@` It seems like Beato never actually granted her wish." `\
 ;БГГxГЛГУ
 
 ;Б@ГxГЛГУГJГXГeГЛВ™БAПђФnО≠В…ВЈВйВжВ§В…М®ВрвРВяВйБB\
-` Ѕернкастель насмешливо пожала плечами.`\
+` Bernkastel shrugged mockingly.`\
 
 ld l,LAM_OdorokiA1,80
 
 ;Б@ВўВћВЏВћВ∆ВµВљЧ«ВҐВ®ШbВЊВЅВљВ∆БAВўВ≠ВўВ≠ВµВƒВҐВљГЙГАГ_ГfГЛГ^ВЌБAРЕВрНЈВЈВжВ§В»Ф≠МЊВ…БAГJГ`Б[ГУВ∆ЧИВйБB\
-` Ћ€мбдадельте, хихикавшей над сладостью истории, не понравилс€ еЄ пустой ответ.`\
+` Lambdadelta, who had been chuckling at how sweet the story had been, looked annoyed at this wet blanket response.`\
 
 bg black,26
 bg Different_space_1c,2
 
 ;Б@ГxГAГgГКБ[Г`ГFВЌБAВнВ©ВЅВƒВ®ВзВ В»БAВ∆ТНОяВЈВйБB\
-` Ѕеатриче отметила, что Ѕерн не пон€ла. `\
+` Beatrice noticed Bern's lack of understanding. `\
 
 se1 52
 ld c,BEA_WaraiA2,0
@@ -6465,7 +6465,7 @@ print 99,2000,"breakup.dll/lrp"
 
 
 ;БuВїВсВ»В±В∆ВЌВ»ВҐВЉБB@Р^ЧҐШ±ВћЦ]ВсВЊРҐКEВћГJГPГЙВрЦaВђБAВїВ±В÷ОКВйМЃВрЧ^В¶ВљБB@В†В∆ВЌР^ЧҐШ±В™ВїВкВрОgВЅВƒФаВрКJВ≠ВЊВѓВЊБBБv\
-`"Ќеправда.`@` я соткала ќсколок желанного мира ћарии и дала ей ключ, ведущий к нему.`@` ћарии осталось лишь этим ключом открыть дверь."`\
+`"That's untrue.`@` I've woven a Fragment of the world of Maria's desires, and given her a key to unlock it.`@` The only thing Maria has to do now is to unlock the door."`\
 ;БГГxГAГg
 
 bg black,23
@@ -6475,7 +6475,7 @@ bg Different_space_1b,0
 ld r,BER_DefA1,23
 
 ;БuЙЉВ…ВїВкВ≈НKВєВ…В»ВкВљВ∆ВµВƒВаБB@БcБcВїВкВрКРВ¶ВљВћВЌР^ЧҐШ±О©РgВ≈В†ВЅВƒБAВ†В»ВљВґВбВ»ВҐВнБBБv@
-`"ƒаже если она обрадовалась,`@` ...желание исполнила сама ћари€, а не ты."`\
+`"Even if you made her happy,`@` ...she made her wish come true herself. You did nothing."`\
 ;БГГxГЛГУ
 
 se1v 57,40
@@ -6489,13 +6489,13 @@ ld r,BER_DefA2,23
 ld c,LAM_FutekiA2,80
 
 ;БuГxГЛГУВЌСКХѕВнВзВЄВ–ВЋВ≠ВкВƒВйВнВЋВ•БB@КиВҐВЅВƒВћВЌВЋБAКРВ¶ВжВ§В∆ВЈВйИ”ОvВћЛ≠В≥В™В»ВҐВ∆БAКРВ¶ВжВ§В™В»ВҐВћВжБBБv\
-`"“ы как всегда испорчена, Ѕерн.`@` ∆елание ни за что не исполнитс€ без сильного стремлени€ к его исполнению."`\
+`"Bern, you're acting like a spoiled child.`@` There's no way for a wish to be granted unless there is a strong desire for it to come true."`\
 ;БГГЙГАГ_
 
 ld r,BER_WaraiA3,80
 
 ;БuБcБcБcВїВкВЊВѓИ”ОvВ™Л≠ВҐРlК‘В»ВзБAЦВПЧВ™КРВ¶В»В≠ВƒВаБAВвВ™ВƒО©Х™В≈ПЯОиВ…КРВ¶ВйВнБB@ЦВПЧВћПoФ‘В»ВсВƒВ»ВҐБBБv\
-`"......— такой решимостью люди в конце концов исполн€ют свои желани€ сами независимо от того, исполн€ет ведьма их или нет.`@` ¬едьмам нет места."`\
+`"...Humans with a will that strong will eventually grant that wish themselves, regardless of whether a witch grants it or not.`@` Then there's no point to witches at all."`\
 ;БГГxГЛГУ
 
 bg Different_space_1a,0
@@ -6503,40 +6503,40 @@ ld l,BEA_AkuwaraiA1,23
 
 
 ;БuИ”ОvОгВЂКиВҐВ»В«БAКРВ¶ВйЛCВ…ВаВ»ВзВ В≈ВЌВ»ВҐВ©БBБv@
-`"я бы не хотела исполн€ть слабовольное желание." `\
+`"Myself, I wouldn't even want to grant a weak-willed wish." `\
 ;БГГxГAГg
 
 ld r,LAM_FutekiA3,24
 
 ;БuВ№ВЅВљВ≠ВжБB@РвСќВћИ”ОvВ…В±ВїБAРвСќВћЦҐЧИВ™ПhВйВћВжБB@ВїВћИ”ОvВћЛ≠В≥В…НЫВкВƒБAОДВљВњВЌОvВнВЄЧЌВрСЁВµВњВбВ§ВнВѓВ≈ВµВеБHБv\
-`"ƒа, именно.`@` јбсолютное будущее кроетс€ в абсолютной силе воли.`@` Ќаше безумное увлечение силой этой воли просто приводит к тому, что мы неосознанно помогаем."`\
+`"Exactly.`@` Certainty in willpower creates an absolutely certain future.`@` Our infatuation with the strength of that will leads us to just unconsciously lend them our power, right?"`\
 ;БГГЙГАГ_
 
 ld l,BEA_WaraiA1,80
 
 ;БuВ§ВёВ§ВёБAВ№ВЅВљВ≠БB@ОvВнВЄЧЌВрСЁВµВљВ≠В»ВйВжВ§В»БAНЛЙхВ»КиВҐВ≈В»В≠ВƒВЌБAЦ ФТЦ°ВаВ»ВҐВ∆ВҐВ§ВаВћВжБBБv@
-`"ƒа, точно.`@` Ѕыло бы неинтересно, не будь желание достаточно сильным дл€ того, чтобы мы неосознанно захотели помочь." `\
+`"Yes, precisely.`@` It wouldn't be interesting if the wish weren't bold enough to make us unconsciously want to lend our power." `\
 ;БГГxГAГg
 
 ld r,LAM_AkuwaraiA1,80
 ;БuГxГЛГУВЌРlВћУwЧЌВ∆В©КиВҐВћЛ≠В≥В∆В©БAВїВ§ВҐВ§ВаВћВрВњВеВЅВ∆ХћВлВ…ВµЙяВђБ[БBБv\
-`"Ѕерн, ты слишком легкомысленно относишьс€ к усили€м людей и силе их желаний."`\
+`"Bern, you take people's efforts and the strength of their wishes a little too lightly."`\
 ;БГГЙГАГ_
 
 ;Б@ГxГAГgВ∆ГЙГАГ_ВЌБAГxГЛГУВЌВнВ©ВЅВƒВ»ВҐЙ]БXВ∆ТQВЂВ†В§БB\
-` Ѕеато и Ћ€мбда продолжали жаловатьс€ на то, что Ѕерн совсем не понимает. `\
+` Beato and Lambda kept complaining about Bern's utter lack of comprehension.`\
 
 bg Different_space_1a,0
 ld l,BER_AkuwaraiA2,23
 
 ;БuБcБcБcВ”В£ВсБB@В»ВзГЙГАГ_В»ВзБAВ«ВсВ»КіВґВ≈КиВҐОЦВрКРВ¶ВƒВ†В∞ВйВнВѓБH@Б@В†ВсВљВ…ВаБAОµЧ[В…ТNВ©ВћКиВҐВрКРВ¶ВљМoМ±В™БcБcБHБv\
-`"......O?`@` “огда, Ћ€мбда, как бы ты исполнила желание?`@` “ы тоже исполнила чьЄ-то желание на “анабату?.."`\
+`"...Oh?`@` Then, Lambda, how would you grant a wish?`@` Have you also granted someone's wish on this Tanabata?.."`\
 ;БГГxГЛГУ
 
 ld r,BEA_AkuwaraiA1,24
 
 ;БuВўВ§БB@Ф@ЙљВ©БAГЙГАГ_ГfГЛГ^Л®БB@ГjГУГQГУВ…ХзВнВкВйВ±В∆ВаСљВҐВїВ»ВљВ»ВзБAКиВҐВћКРВ¶ХыВаБAВ»В©В»В©У∞В…УьВЅВƒВҐВїВ§В»ВаВћВЊВ™БBБv\
-`"’о.`@` „то скажете, леди Ћ€мбдадельта?`@` “а, кого люди так люб€т, должна быть мастером исполн€ть желани€."`\
+`"Hoh...`@` What say you, Lady Lambdadelta?`@` I believe that one so beloved by humans should be an expert in granting wishes."`\
 ;БГГxГAГg
 
 bg black,24
@@ -6544,50 +6544,50 @@ bg Different_space_1b,0
 ld c,LAM_MajimeA1,24
 
 ;БuОДБH@Б@ ОДВЌГVГУГvГЛВжБB@ВєВҐВЇВҐВµВЅВ©ВиКжТ£ВиВ»В≥ВҐВ∆БAУЩВµВ≠МцХљВ…ЙЮЙЗВЈВйВЊВѓВжБBБv\
-`"я?`@` ” мен€ всЄ просто.`@` я справедливо и одинаково побуждаю всех постаратьс€."`\
+`"Me?`@` I keep it simple.`@` I just encourage everyone to give it their all, fairly and equally."`\
 ;БГГЙГАГ_
 
 bg black,22
 
 ;Б@ГЙГАГ_ГfГЛГ^ВЌРвСќВћЦВПЧБB@Н≈МгВ№В≈РђВµРЛВ∞ВжВ§В∆ВЈВйБAРвСќВћИ”ОvВрСЄВ‘БB@
-` Ћ€мбдадельта - ведьма абсолюта.`@` ќна хвалит решимость непременно преуспеть. `\
+` Lambdadelta is the Witch of Certainty.`@` She praises the willpower to certainly succeed until the very end.`\
 
 ;Б@Ц≥О„ЛCВ∆ОcНУВрХєВєОЭВњВ»В™ВзВаБAРlВћПоВ…Р∆ВҐИкЦ ВаВ†ВйВћВЊБB\
-` Ќесмотр€ на обладание как невинностью, так и жестокостью, часть еЄ уважает стремлени€ людей.`\
+` Despite possessing both innocence and cruelty, she also has a more tender side with regards to people's passion.`\
 
 bg gold3,22
 
 ;БuОДВ÷ВћКиВҐОЦВ≈ИкФ‘СљВҐВћВЌБAБgСеЛаОЭВњВ…В»ВиВљВҐБhВ∆В©БA@/
-`"—амые распространЄнные желани€ - Џ00171’очу быть богатымЏ00187, `@/
+`"The most common wishes I get are 'I want to be super-rich',`@/
 
 bg off_1a,22 
 
 ;БgПoРҐВµВљВҐБhВ∆В©БA@/
-`Џ00171’очу подн€тьс€ по карьерной лестницеЏ00187 `@/
+` or 'I want a promotion',`@/
 
 bg cit_2a,22
 
 ;БgМїНЁВћТnИ ВрФ÷РќВ…ВµВљВҐБhВ∆В©БA@/
-`или Џ00171’очу укрепить своЄ текущее положениеЏ00187, `@/
+` or 'I want to solidify my current position',`@/
 
 bg Different_space_1b,0
 ld c,LAM_MajimeA3,22
 
 ;ВїВсВ»ВћВќВЅВ©ВиВЊВнБBБv\
-`ну и всЄ такое."`\
+` things like that."`\
 ;БГГЙГАГ_
 
 ld l,BEA_DefA2,23
 
 ;БuРжВўВ«БAВїВ»ВљВЌУЩВµВ≠МцХљВ…ЙЮЙЗВЈВйВ∆МЊВЅВљВ™БAВїВћР}БXВµВҐКиВҐВрСSВƒКРВ¶ВйВћВ©БcБHБv@
-`"“олько что вы сказали, что справедливо и одинаково подбадриваете всех, но вы действительно исполн€ете дл€ всех такие наглые желани€?.."`\
+`"Just now, you said that you fairly and equally encourage everyone, but do you really grant such impudent wishes for everyone?.."`\
 ;БГГxГAГg
 
 cl c,0
 ld r,LAM_FutekiA3,23
 
 ;БuВ№В≥В©БB@СSХФУЩВµВ≠КРВ¶В»ВҐВнБB@В≈ВаВїВћСгВнВиБAВїВћКиВҐВрОјМїВЈВйВ№В≈БAУwЧЌВрС”ВзВ»ВҐОqВрБAОДВЌУЩВµВ≠Н≈МгВ№В≈М©ОзВйВнБBБv\
-`" онечно нет.`@` я избегаю исполн€ть эти желани€ дл€ всех в равной степени.`@` Ќо взамен € наблюдаю за теми, кто не отлынивает в своих усили€х до самого исполнени€ желани€, тоже в равной степени."`\
+`"Of course not.`@` I avoid granting those wishes to everyone in equal measure.`@` But in exchange, I watch over the ones who don't slack off in their efforts until their wish is realized--also in equal measure."`\
 ;БГГЙГАГ_
 
 bg white,28
@@ -6595,13 +6595,13 @@ bg black,22
 bg gold2,22
 
 ;Б@БgСеЛаОЭВњВ…В»ВиВљВҐБhВ∆КиВҐБAВїВћВљВяВћУwЧЌВрЙљВаВµВ»ВҐРlК‘В…БAГЙГАГ_В™ФчПќВёВ±В∆ВЌМИВµВƒВ»ВҐБB@
-` Ћ€мбдадельта никогда не улыбнЄтс€ люд€м, которые хот€т Џ00171стать очень богатымиЏ00187, но ничего дл€ этого не делают. `\
+` Lambda will never smile upon humans who wish to 'become super-rich', but do nothing to work towards that goal.`\
 
 ;Б@ВїВµВƒБAСеЛаОЭВњВ…В»ВйВљВяВ…БAИкУxВЂВиВћТІРнВрВµВљО“В…БAРђМчВрЧ^В¶ВйВ±В∆ВаМИВµВƒВ»ВҐБB\
-`  роме того, она никогда не одарит успехом тех, кто попыталс€ стать очень богатым всего раз. `\
+` Also, she will never grant success to those who only try to become super-rich once.`\
 
 ;Б@ГЙГАГ_ГfГЛГ^В™Ч^В¶ВйВћВЌБAКиВҐВћРђПAВ≈ВЌВ»В≠БAБcБcТBРђВ№В≈ВћБAЧЌБB\
-` Ћ€мбдадельта дарует не исполнение желани€, ...а силу, нужную дл€ его исполнени€. `\
+` What Lambdadelta bestows is not the fulfillment of the wish, ...but the power needed to achieve it.`\
 
 bg white,28
 bg Different_space_1a,0
@@ -6609,53 +6609,53 @@ ld c,LAM_FutekiA3,2
 ld c,LAM_FutekiA1,80
 
 ;БuБgСеЛаОЭВњВ…В»ВиВљВҐБhВЅВƒКиВҐВЌВЋБAОјВЌТNВ≈ВаКРВ¶ВзВкВйВћВжБH@Б@ВаВњВлВсБAСRВйВ„ВЂУwЧЌВ≈ВЋБB@ОДВЌВїВћУwЧЌВћМЛОјВрХџПЎВЈВйВћБBБv\
-`"∆елание Џ00171’очу стать очень богатымЏ00187 на самом деле может исполнить кто угодно, знаешь?`@` —амо собой, после определЄнных усилий.`@` я гарантирую плодотворность этих стараний."`\
+`"Anyone could actually grant the wish of 'I want to be super-rich', you know?`@` Obviously, it would take some effort.`@` What I guarantee is that the effort will not go to waste."`\
 ;БГГЙГАГ_
 
 
 ld r,BER_WaraiA4,24
 
 ;БuБcБcБcВљВЊВµБAВїВкВ™КРВ§ВћВ…ХKЧvВ»УwЧЌВћЧ ВрБAВ†ВсВљВЌХџПЎВµВƒВ»ВҐВнВЋБHБv@
-`"......Ќо не даЄшь гарантий насчЄт того, сколько усилий потребуетс€ дл€ исполнени€ желани€."`\
+`"...However, you make no guarantees about the necessary amount of effort, huh?"`\
 ;БГГxГЛГУ
 
 
 ld l,BEA_WaraiA1,23
 
 ;БuВ≠ВЅВ≠ВЅВ≠БB@В»ВйВўВ«БB@УwЧЌВћМЛЙ ВрБAВҐВ¬В©КРВ¶ВЌВЈВйВ™БAВїВкВ™ВҐВ¬В∆ВЌЦсС©ВµВ»ВҐВнВѓВ©БB@В»В©В»В©И”ТnВћИЂВҐМдРmВжБBБv\
-`"*хи-хи*хи-хи*.`@` ѕон€тно.`@` “руд в конечном итоге принесЄт плоды, но вы не обещаете, когда.`@` ∆естоко."`\
+`"*cackle*cackle*.`@` I see.`@` Effort will eventually bring fruit, but you can't promise when.`@` You are quite cruel."`\
 ;БГГxГAГg
 
 ld c,LAM_OdorokiA3,80
 
 ;БuВїВ§БH@Б@ВҐВ¬В©ХKВЄКРВ§В±В∆ВћХџПЎВЅВƒБAВ«ВкВЊВѓСЄВҐЙњТlВ™В†ВйВ∆ОvВЅВƒБH@
-`"—читаешь?`@` ѕо-твоему, сколько стоит гаранти€ того, что усили€ об€зательно принесут плоды? `@/
+`"Really?`@` You don't think the guarantee that your efforts will bring fruit is worth much?`@/
 
 ld c,LAM_MajimeA1,80
 
 ;Б@БcБcОДВЌВЋБAУwЧЌВрВЈВйРlВ™НDВЂБB@ВїВћИ„В…СSВƒВрУКВ∞ПoВµБAПIВнВзВ ЛкНsВ…РgВрУКВґВкВйРlВ™НDВЂВ»ВћБBБv\
-`...«наешь, мне нрав€тс€ люди, которые усердно труд€тс€.`@` я люблю тех, кто жертвует всем ради своей цели и бросаетс€ с головой в эту бесконечную самопытку."``\
+`...You see, I like hardworking people.`@` I like people who throw away everything for their goal, and who are capable of abandoning themselves to unending self-torment to acheive it."``\
 ;БГГЙГАГ_
 
 bg black,22
 bg Different_space_2d,22
 
 ;Б@ГЙГАГ_ГfГЛГ^В…КиВҐВрХщВ∞ВљРlБXВЌБAВїВкВ™ВҐВ¬В©КРВ§В∆Л≠В≠РMВґВ»ВѓВкВќВ»ВзВ»ВҐБB@
-` “е, кто говорит Ћ€мбдадельте свои желани€, должны твЄрдо верить в то, что они в конце концов исполн€тс€.`\
+` Those who make their wishes to Lambdadelta must strongly believe that those wishes will be granted eventually.`\
 
 ;Б@ВїВћРSВћЛ≠В≥В™В»ВѓВкВќБAГЙГАГ_ГfГЛГ^В…ВЌУЌВ©ВЄБAВ№ВљБAРвСќВћЦВЦ@В…ЧЌВ™ПhВйВ±В∆ВаВ»ВҐБB\
-` Ѕез силы сердца эти желани€ не достигнут Ћ€мбдадельты, и не будет никакой магии абсолюта. `\
+` Without the strength of heart, the wishes would never reach Lambdadelta, and would never be granted the help of the magic of Certainty.`\
 
 ;Б@ВїВµВƒБAРвСќВ…ТъВяВЄБAУwЧЌВрЦYВкВ»ВҐРlБXВ…В∆ВЅВƒБB@СЉЧЌЦ{КиВ»КиВҐВћОјМїВЌБAФёВзВћУwЧЌВ…СќВЈВйЦ`УјВ≈ВµВ©В»ВҐБB\
-` ј дл€ тех, кто никогда не сдаЄтс€ и не забывает смысл т€жЄлого труда,`@` исполнение их желаний другими попросту кощунство по отношению к их усили€м.`\
+` And, to those people who certainly never give up, and do not forget the meaning of hard work,`@` it's blasphemous to all their hard work to have their wishes simply be granted by another person.`\
 
 bg Different_space_2c,22
 
 ;Б@ВЊВ©ВзГЙГАГ_ГfГЛГ^ВЌБAФёВзВћСЄВҐУwЧЌВрБAМИВµВƒЙШВ≥В»ВҐБB@
-` ¬от почему Ћ€мбдадельта никогда бы не зап€тнала их драгоценный труд. `\
+` That's why Lambdadelta would never dirty their precious hard work.`\
 
 ;Б@РвСќВћИ”ОvВ™БAРвСќВћЦҐЧИВрЦaВђПoВЈВ±В∆ВрБAВљВЊВїВкВЊВѓВрО¶ВµБAЦсС©ВЈВйВћВЊБB\
-` ќна обещает лишь то, что абсолютна€ решимость приведЄт к абсолютному будущему. `\
+` All she promises is that certain determination will lead to a certain success.`\
 
 bg black,22
 textoff
@@ -6663,13 +6663,13 @@ mono 1
 bg "bmp\background\sbook\JT1.bmp",22
 
 ;Б@ВїВµВƒБAВїВкВЊВѓВ≈ФёВзВ…ВЌП[Х™В»ВћВЊБB@
-` » одного этого дл€ них достаточно. `\
+` And, just that is enough.`\
 
 ;Б@ВїВµВƒФёПЧВЌХKВЄКиВҐВрКРВ¶ВйВЊВлВ§БB@В«ВћВжВ§В»КиВҐВ≈В†ВЅВƒВаБB@ХKВЄВҐВ¬В©БB@
-` ќна непременно исполнит желание.`@`  аким бы оно ни было.`@` ќб€зательно.  огда-нибудь.`\
+` Your wish will certainly be granted.`@` No matter what it is.`@` Some day.`\
 
 ;Б@ВїВкВ™В–В∆ВиВћП≠ПЧВћБAР_В…В»ВиВљВҐВ∆ВҐВ§КиВҐВ≈В≥В¶БcБcБB\
-` ƒаже если желание загадала маленька€ девочка, пожелавша€ стать богом...`\
+` Even if the wish would be made by a young girl who wanted to become a god...`\
 
 textoff
 mono 0
@@ -6686,20 +6686,20 @@ ld r,BEA_WaraiA1,22
 bgm1v 131,60
 
 ;БuВ”В£ВёБB@ВїВкВ™РвСќВћЦВЦ@В©БB@ЙдВ™Ц≥МјВћЦВЦ@В…ПЯВйВ∆ВаЧтВзВ БAМ©ОЦВ»ЧЌВжБBБv@
-`"’м-м.`@` «начит, вот какова маги€ абсолюта.`@` ¬еликолепна€ сила, ни в чЄм не уступающа€ моей бесконечной магии."`\
+`"Hmm.`@` So that is the Magic of Certainty.`@` A magnificent power that is in no way inferior to my own Endless Magic."`\
 ;БГГxГAГg
 
 
 ld c,LAM_AkuwaraiA4,24
 
 ;БuПЯВиВ№В≠ВиВ≈ВµВеБ[В™БcБI@Б@В†ВсВљВЌГOБ[БB@ОДВЌГpБ[БIБI@Б@ВїВкВ«В±ВлВ©БAУсЙсУ]ВћВ–ВЋВиВ№В≈УьВЅВљТіГpБ[В»ВсВЊВ©ВзВЯБIБv\
-`"ƒа, и она гораздо лучше!..`@` “ы - камень.`@` я - бумага!`@` Ќе просто, а дважды скрученна€ супер бумага!"`\
+`"Yeah right, it's way better...!`@` You're rock.`@` I'm paper!`@` Double-twisted, super-thick super-paper!"`\
 ;БГГЙГАГ_
 
 
 ld l,BER_defA1,24
 ;БuБcБcБcУсЙсУ]ВЅВƒВ±В∆ВЌБAГNГЛГNГЛВЅВƒВнВѓВЋБB@БcБcВ†ВсВљВ…В“ВЅВљВиВжБBБv\
-`"......—крученна€ дважды означает, что ты взвинченна€.`@`  ...»деально тебе походит."`\
+`"...That just means you're a wound-up idiot.`@` I suppose that fits."`\
 ;БГГxГЛГУ
 
 mcl a,0
@@ -6707,24 +6707,24 @@ bg black,26
 bg Different_space_1c,26
 
 ;БuВ≈ВµВеВ§БHБI@/
-`"ј € о чЄм! `@/
+`"Right!? `@/
 
 se1 37
 
 ;Б@В®ВЅВўВЅВўВЅВўВЅВўБIБv@
-`ќхо-хо-хо-хо!" `\
+`Ohohohoho!" `\
 ;БГГЙГАГ_
 
 
 ;Б@ГЙГАГ_ВЊВѓВЌИ”Ц°В™ВнВ©ВзВЄБAВRРlВћЦВПЧВЌВѓВзВѓВзВ∆ПќВҐНЗВ§БcБB\
-` ¬месте с Ћ€мбдой, котора€ единственна€ не пон€ла, три ведьмы захихикали... `\
+` With Lambda being the only one who didn't get it, the three witches cackled together...`\
 
 bg black,22
 bg Different_space_1a,0
 ld c,BEA_futekiA1,22
 
 ;БuГxГЛГУГJГXГeГЛЛ®В»В«БAКпР’ВрОiВйЦВПЧВ≈ВЌВ»ВҐВ©БB@ВїВ»ВљВ…КиВҐВрКРВ¶ВƒВаВзВҐВљВҐГjГУГQГУВ»В«БAРѓВћРФВўВ«ВаВ®ВиВїВ§В»ВаВћВЊВ™В»БBБv\
-`"Ћеди Ѕернкастель, вы ведь ведьма, которой подвластны чудеса?`@` “ех, кому хотелось бы, чтобы вы исполнили их желани€, должно быть столько же, сколько звЄзд на небе."`\
+`"Lady Bernkastel, are you not the witch who controls miracles?`@` There must me as many humans who want you to grant a wish as there are stars in the sky."`\
 ;БГГxГAГg
 
 bg black,23
@@ -6734,12 +6734,12 @@ ld r,BER_DefA1,23
 ld l,LAM_AkuwaraiA3,80
 
 ;БuКпР’ВЊВаВсВЋВ•БB@БcБcКРВ§ВЌВЄВћВ»ВҐВаВћВ™КРВ§БB@БcЦмРSВЌРlИкФ{ВћВ≠ВєВ…БAУwЧЌВрМЩВ§ЙЇжЋВ«ВаВ™НDВЁВїВ§ВЊВнБB@/
-`"¬от именно, чудеса.`@`  ...»сполнение того, что не должно быть исполнено.`@`  ...—ерым мышкам с высокими стремлени€ми и ненавистью к работе понравилось бы."`\
+`"Yeah, miracles.`@` Things that should never be granted.`@` I imagine the people  with double the normal ambition but a dislike of work would love that."`\
 
 ld l,LAM_AkuwaraiA1,80
 
 ;В≈ВаС ЦЏВжБI@ Б@СfУGВ»ГxГЛГУВ…ВЌБAВїВсВ»ЙШВзВнВµВҐКиВҐОЦВ»ВсВƒСКЙЮВµВ≠В»ВҐВаВсБB@ВїВсВ»ШAТЖВћКиВҐОЦВ…М©МьВЂВЈВйВ≠ВзВҐВ»ВзБAОДВћКиВҐОЦВ©ВзКРВ¶В»В≥ВҐВжВ£БAГxГЛГУБ`БIБIБv\
-`"Ќо так не годитс€!`@` Ёти гр€зные желани€ не подход€т такой чудесной ведьме, как ты, Ѕерн.`@` ѕеред тем как ты взгл€нешь на желани€ таких людей, исполни дл€ начала моЄ желание, Ѕе-ерн!"`\
+`"But that's all useless, right?!`@` Those filthy wishes are unfitting for someone as wonderful as you, Bern.`@` Before you look at wishes of people like that, grant my wish first, Be~rn!"`\
 
 textoff
 
@@ -6760,7 +6760,7 @@ quakey 2,300
 ld r,BER_defA2,80
 
 ;БuБcБcБcПЛЛкВµВҐВнВЋБAЧ£ВµВ»В≥ВҐВжБB@КпР’ВЌВЋБAЛNВЂВ»ВҐВ©ВзКпР’ВЅВƒМЊВ§ВћВжБB@БcБcБcОДВ™КиВҐВрКРВ¶ВйВ»ВсВƒК√ВҐВ±В∆ВрВЈВйВ±В∆О©СћВ™БAКпР’БBБv\
-`"......ќтпусти, ты мен€ задушишь.`@` „удеса называютс€ чудесами потому, что их не бывает.`@`  ...ƒл€ мен€ исполнение желани€ само по себе чудо."`\
+`"...Stop hugging me, you're suffocating me.`@` I said let me go!`@` Miracles are called miracles because they don't happen.`@` To me, granting a wish is in itself a miracle."`\
 ;БГГxГЛГУ
 
 
@@ -6769,22 +6769,22 @@ bg Different_space_1a,0
 ld l,BEA_AkuwaraiA1,23
 
 ;БuЦВПЧВ…РlВћПоВ»В«ТГЙўВ…ВаВ»ВзВ В™БcБB@ВїВ»ВљВ…ВЌБAИкМЗВѓВзВаВ»ВҐВжВ§В≈В†ВйВ»БBБv\
-`"ѕристрасти€ людей дл€ ведьм не многое значат...`@` Ќо дл€ вас они, похоже, вообще ничего не значат."`\
+`"Human passions don't amount to much to witches...`@` But it seems they don't amount to anything at all to you."`\
 ;БГГxГAГg
 
 ld r,BER_defA1,23
 
 ;БuБcБcОcЛsВ≈ЦЉВрНМВ©ВЈВ†ВсВљВ…МЊВнВкВљВ≠В»ВҐВнБBБv@
-`"...Ќе хочу слышать это от теб€, сделавшей себе им€ на своей жестокости."`\
+`"...I don't want to hear that from someone who made a name for herself just by being cruel."`\
 ;БГГxГЛГУ
 
 ld l,BEA_FutekiA2,80
 se1 37
 ;БuВ≠ВЅВ≠В≠В≠В≠В≠БAВнВЅВЌВЌВЌВЌВЌВЌВЌВЌБI@/
-`"*хи-хи*хи-хи*хи-хи*, ва-ха-ха-ха-ха! `@/
+`"*cackle*cackle*cackle*, wahhahahahahahahaha!`@/
 
 ;Б@ВїВкВрМЊВнВкВƒВЌУGВнВ В»БB@П®ВаХњВ…Ц≥В≠К√ВвВ©ВµЙяВђВљВ©БBБv\
-`“ут мне нечего возразить.`@` ƒумаю, € была непривычно м€гкой."`\
+` Not much I can say against that..`@` I may have been too uncharacteristically soft today."`\
 ;БГГxГAГg
 
 bg black,24
@@ -6792,32 +6792,32 @@ bg Different_space_1b,0
 ld c,LAM_AkuwaraiA3,24
 
 ;БuГxГAГgВЌР^ЧҐШ±В…ВвВљВзВ∆К√ВҐВ©ВзВЋБB@ВїВћК√В≥ВрБAВаВ§П≠ВµР^ЧҐШ±И»КOВ…ВаХ™ФzВЈВйВ∆ВҐВҐВнВжБB@В№ВйВ≈БAТЊУaВµВњВбВЅВљВ®НїУЬВЁВљВҐБBБv\
-`"“ы очень спокойна, когда дело касаетс€ ћарии, Ѕеато.`@` “ак должно быть и с другими людьми, помимо неЄ.`@` Ёто как сахар, выпадающий в осадок."`\
+`"Well, you are really easy-going when it comes to Maria, Beato.`@`You should spread that around to more people besides Maria.`@` You're like sugar leftovers."`\
 ;БГГЙГАГ_
 
 
 ld l,BER_WaraiA4,23
 
 ;БuБcВ№ВЅВљВ≠ВЊВнБB@ГxГAГgВЊВѓВґВбВ»ВҐБB@ГЙГАГ_ВаБB@Н°УъВћВ†ВсВљВљВњВЌП≠ВµК√В≥В™ЙяВђВйВнБB@/
-`"......“очно.`@` » не только Ѕеато.`@` “ы тоже, Ћ€мбда.`@` —егодн€ ты была слишком спокойна.`@/
+`"...Exactly.`@` It's not just Beato, either.`@` You too have been easy-going today,`@` Lambda.`@/
 
 ld l,BER_waraiA1,80
 
 ;БcБcГRБ[ГqБ[В…ВЌНїУЬВжВиВаФ~К±В™ОЧНЗВ§В∆ВҐВ§ВћВ…БBБv\
-`  ...„ернослив к чаю лучше сахара."`\
+` ...Dried plums go better with tea than sugar."`\
 ;БГГxГЛГУ
 
 cl c,0
 ld r,LAM_AkuwaraiA4,23
 
 ;БuГxГЛГУБB@ВєВЅВ©В≠ВћОµЧ[ВжБH@Б@В†ВсВљВаВ–В∆В¬В≠ВзВҐБAКиВҐВрКРВ¶ВƒЧИВ»В≥ВҐВжБBБv\
-`"Ѕерн,`@` “анабата настаЄт не каждый день.`@` »сполни хот€ бы одно желание."`\
+`"Bern,`@` it's not like Tanabata comes every day, right?`@` Go and grant at least one wish."`\
 ;БГГЙГАГ_
 
 ld l,BER_waraiA4,80
 
 ;БuМЩВжБBБv@
-`"Ќи за что."`\
+`"Nope."`\
 ;БГГxГЛГУ
 
 se1 52
@@ -6825,7 +6825,7 @@ cl l,99,1000,"breakup.dll/llB"
 
 
 ;Б@ГxГЛГУВЌХрВкВљКзВрМ©ВєВйВ∆БAВ’ВҐВЅВ∆ОpВрПЅВЈБB\
-` Ѕерн исчезла с раздражЄнным взгл€дом. `\
+` With a fed up look on her face, Bern disappeared.`\
 
 textoff
 ld r,LAM_MajimeA3,80
@@ -6833,7 +6833,7 @@ ld r,LAM_MajimeA3,80
 bg black,22
 
 ;Б@ФёПЧВЌБAРзФNВрМoВйЙяТцВ≈БAРlВћРSВ™МЗВѓВƒВµВ№ВЅВƒВҐВйБB@БcБcК√ВҐШbВвЙЈВ©ВҐШbВЌЛкОиВ»ВћВЊБB\
-` «а тыс€чу лет она утратила человечность.`@`  ...≈й не нравились сладкие и добрые истории.`\
+` She had lost her humanity over a thousand years.`@` She no longer enjoyed sweet and heartwarming stories.`\
 
 textoff
 bg Different_space_1b,0
@@ -6841,12 +6841,12 @@ wait 600
 ld c,BEA_AkuwaraiA1,80
 
 ;Б@ГxГAГgВЌБAВвВЌВиЦВПЧВЌВїВ§В†ВзВЋВќВ»В∆ЧвНУВ…ПќВ§БB@/
-` Ѕеато холодно засме€лась, словно такой и должна быть ведьма.`\
+` Beato laughed coldly, as though this was the way a witch was supposed to be.`\
 ld c,BEA_AkuwaraiA2,80
 se1 37
 
 ;Б@ВїВћХ\ПоВ…БAВаВЌВвР^ЧҐШ±ВћНKВєВрЦaВҐВЊЙЈВ©В≥ВЌВ»В©ВЅВљБcБcБB\
-` ¬ еЄ взгл€де больше не было той теплоты, создавшей счастье ћарии...`\
+` In her expression, no longer was there any of the warmth that had woven Maria's happiness...`\
 fede 0,1000
 textoff
 
@@ -6878,53 +6878,53 @@ setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 
 locate 0,3
 ;Б@БcБcОµЧ[ВЊВ©ВзБAОДВаВ–В∆В¬В≠ВзВҐКиВҐВрКРВ¶ВлБH@
-` ...»сполнить хот€ бы одно желание, потому что сейчас “анабата? `@
+` ...You're telling me to grant at least one wish because it's Tanabata?`@
 br
 ;Б@В”ВсБB@
-` ’мф. `@
+` Hrmphff.`@
 br
 ;Б@ОДВЌЦВПЧБB@КпР’ВрОiВйЦВПЧБB\
-` я ведьма.`@` ¬едьма, которой подвластны чудеса.`\
+` I am a witch.`@` The Witch of Miracles.`\
 
 locate 0,3
 ;Б@БcБcВ«ВсВ»УwЧЌВаБAНKЙ^ВаБAПоФMВаТcМЛВаБA@БcБcВїВћЙ ВƒВ…ВЌКпР’В»В«С“ВЅВƒВҐВ»ВҐВ∆ТmВЅВƒВҐВйБB\
-` ......„то бы то ни было - усили€, удача, энтузиазм или единство,`@` ...€ знаю, что чуда в итоге не будет.`\
+` ...No matter the effort, luck, or enthusiasm,`@` ...I know that the miracle never happen.`\
 
 locate 0,3
 ;Б@КпР’В»В«МИВµВƒЛNВЂВ»ВҐВ∆ТmВЅВƒВҐВйВ©ВзВ±ВїБAОДВЌКпР’ВћЦВПЧВ»ВћВЊБB@
-` ћне известно, что чудес не бывает, и именно поэтому € ведьма чудес. `@
+` Precisely because I know that, I am the Witch of Miracles.`@
 br
 ;Б@ВїВћОДВ™БAТNВћКпР’ВрКиВ§В∆БcБcБH\
-` “ак какое желание € должна исполнить?.. `\
+` So what kind of a wish must I grant?..`\
 
 locate 0,3
 ;Б@ЙљВ™ОµЧ[ВжБB@В†ВҐВ¬ВзБAП≠ВµХВВ©ВкЙяВђВЊВнБB@
-` „то с того, что сейчас “анабата?`@` ѕросто у них слишком праздничное настроение.`@
+` So what if it's Tanabata?`@` They're just being a little too festive.`@
 br
 ;Б@НKВєВ»Ц≤ВрЦ≥МјСеВ…БH@
-` –асширить счастливую мечту в бесконечность? `@
+` Expanding a happy dream into infinity?`@
 br
 ;Б@ХKВЄМЛОјВЈВйУwЧЌБcБH@
-` ”сили€, которые об€зательно принесут плоды?.. `@
+` Efforts which would certainly bring fruit?.. `@
 br
 ;Б@К√ВЅВљВйВ≠ВƒБAРгВ™ФnО≠В…В»ВйВнБB@БcБcВ†ВЯБAЛCОЭВњИЂВҐБB\
-` ¬сЄ это так сладко, что у мен€ €зык цепенеет.`@`  ...ј-а, до чего мерзко.`\
+` All of this is so sickening that I'm about to vomit.`@` Blergh, how disgusting.`\
 
 bg cateye_1,6
 
 locate 0,3
 ;Б@ВїВкВЌВ†В»ВљВаУѓВґВ≈ВµВеВ§БH@
-` “ы ведь считаешь так же? `@
+` You think so too?`@
 br
 ;Б@ВЊВ©ВзБB@
-` ѕоэтому. `@
+` Well then.`@
 br
 ;Б@ОДВ™БAЦ{УЦВ…ЦВПЧВзВµВҐКиВҐВћКРВ¶ХыВрМ©ВєВƒВ†В∞ВйБB\
-` я покажу вам, как ведьмы должны исполн€ть желани€.`\
+` Allow me to demonstrate how witches must truly grant wishes.`\
 
 locate 0,3
 ;Б@В†В»ВљВЊВЅВƒВЂВЅВ∆БAВїВ§ВҐВ§ВћВрКъС“ВµВƒВҐВйВћВЊВ©ВзБB\
-` “ы наверн€ка с нетерпением ждЄшь.`\
+` Because you're obviously looking forward to that.`\
 
 bg black,22
 
@@ -6937,13 +6937,13 @@ bgm1 85
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
 ;Б@ПђВ≥В»ЙПОхВЌБAПђКwНZВ≈ВаВзВЅВљПђВ≥В»ТZНыВ…БAБcБcБgЙ∆С∞В™ЛAВЅВƒЧИВ№ВЈВжВ§В…БhВ∆ПСВҐВƒБA@ПђВ≥В»НщВ…ТЁВйВµБAВїВкВрГxГbГhВћТМВ…КЗВиВ¬ВѓВљБB@
-` ћаленька€ Ёнж вз€ла в школе листок бумаги, ...написала Џ00171’очу, чтобы мо€ семь€ вернулась домойЏ00187,`@` повесила его на бамбуковую ветвь и прикрепила еЄ к спинке кровати.`\
+` The small Ange took a small piece of paper at school and wrote "I wish for my family to come home" on it,`@` hung it on a bamboo branch, and fastened that to her bed post.`\
 
 ;Б@ВїВµВƒБAВїВкВ…ФПОиВрС≈ВЅВƒБAВЂВЅВ∆КРВҐВ№ВЈВжВ§В…В∆В≥ВзВ…КиВҐВрВ©ВѓВйБcБB\
-` «атем она похлопала и загадала желание ещЄ раз, чтобы оно исполнилось... `\
+` Then, she clapped, and made her wish again so that it would come true...`\
 
 ;Б@ВїВћИкРґМЬЦљВ»КиВҐВ∆БAМґСzВ™ТnС±ВЂВ∆В»ВйВ№В«ВлВЁВћРҐКEВ≈БAГxГЛГУВЌОpВрМїВЈБB\
-` Ѕлагодар€ еЄ сильному желанию Ѕерн €вилась к ней на земле р€дом с иллюзи€ми - в мире сна. `\
+` Thanks to her strong wish, Bern has appeared to her in the land of illusions,`@` the world of sleep.`\
 
 
 bg black,22
@@ -6953,7 +6953,7 @@ ld c,BER_DefA1,0
 print 99,2500,"whirl.dll/r"
 
 ;БuБcБcБcБcВ±ВсВ…ВњВЌБAЙПОхБB@ВїВкВ™В†В»ВљВћКиВҐБHБv\
-`"......«дравствуй, Ёнж.`@` ¬от твоЄ желание?"`\
+`"...Hello, Ange.`@` So this is your wish?"`\
 
 ;БГГxГЛГУ
 
@@ -6961,15 +6961,15 @@ bg black,23
 bg Different_space_2d,23
 
 ;БuВ§БAБcВ§ВсБB@БcБcБcВ†В»ВљВЌ/
-`"ƒ-да.`@`  ...... то...`/
+`"Y-yeah...`@` Who...`/
 ;!d800БcБcБcТNБcБcБHБv\
-!d800`...ты?.."`\
+!d800` ...who are you?"`\
 ;БГЙПОх
 
 ld c,BER_DefA2,23
 
 ;БuЦЉПжВзВ»ВҐВнБB@В±В±ВЌИшВҐВƒПЅВ¶ВйТ™ВћВжВ§В»БAВ№В«ВлВЁВћРҐКEБB@БcБcБcОДВћЦЉВрХЈВҐВљВ∆В±ВлВ≈БAВ†В»ВљВћЛLЙѓВ…ВЌОcВзВ»ВҐБBБv\
-`"я не назову своЄ им€.`@` ћы в мире сна, напоминающем отступающий прилив.`@`  ......ƒаже если € представлюсь, ты мен€ не вспомнишь."`\
+`"I will not tell you my name.`@` This is the world of slumber, a world like the receding tide.`@` ...Should I tell you my name, you'll forget it anyway."`\
 ;ГxГЛГУ
 
 bg Different_space_2b,24
@@ -6981,70 +6981,70 @@ bg Different_space_2b,24
 ld r,BER_WaraiA1,24
 
 ;БuВїВкВ≈БAВ†В»ВљВћКиВҐВЊВѓВкВ«БB@БcБcБcОДВ™КпР’ВрЛNВ±ВµВƒБAВїВкВрКРВ¶ВƒВ†В∞ВƒВаВҐВҐВнБBБv\
-`"„то ж, твоЄ желание.`@`  ......я не против €вить чудо и исполнить его."`\
+`"Well then, your wish.`@` ...I wouldn't mind causing a miracle and granting your wish."`\
 ;БГГxГЛГУ
 
 bg Different_space_2a,24
 
 ;БuБcБcБcЦ{УЦБcБH@Б@Ц{УЦВ…БcБHБIБv\
-`"......ѕравда?..`@` ѕравда?!.."`\
+`"..Really?`@` Really!?!.."`\
 ;БГЙПОх
 
 ld c,BER_DefA2,24
 
 ;БuВ¶В•БB@Ц{УЦВжБB@БcБcВ≈ВаБAЦВЦ@ВЌБAВ†В»ВљВ™ВїВкВрЛ≠В≠КиВЅВƒБAУwЧЌВµВ»В≠ВњВбКРВнВ»ВҐВћБB@БcБcВїВ§ВҐВ§ВаВсВЊВїВ§ВжБB@ГЙГАГ_В™МЊВ§В…ВЌБB@Ц У|ПLВҐВнВЋБBБv\
-`"ƒа.`@` ѕравда.`@`  ...“олько маги€ не даЄтс€ без твЄрдого желани€ и стараний ради его исполнени€.`@`  ...Ћ€мбда рассказала мне принцип. —плошное мучение."`\
+`"Yes.`@` Really.`@` ...However, magic is something that will not be granted unless you wish for it strongly and work hard for it.`@` Lambda explained the basics to me. Honestly, such a pain."`\
 ;БГГxГЛГУ
 
 bg black,22
 
 ;Б@ЙПОхВЌБAЦ≤ВћРҐКEВ…УЋСRМїВкВљЦВПЧВћБAКиВҐВрКРВ¶ВйВ∆ВҐВ§МЊЧtВ…БAЛЅВЂВрЙBВєВ»ВҐБB@
-` Ёнж не смогла скрыть удивление, увидев, как ведьма пришла к ней в сон, утвержда€, что исполнит еЄ желание. `\
+` Ange couldn't hide her surprise seeing this witch intrude her dream and claim that she would grant her wish.`\
 
 ;Б@ВµВ©ВµБAВїВћЦВПЧВЌБAКпР’ВћСгПЮВ…БAЙљВ©ВрЛБВяВїВ§В»ЛCФzВЊВЅВљБB\
-` Ќо ей показалось, что ведьма чего-то хочет в обмен на чудо. `\
+` However, she felt that the witch wanted something in exchange for the miracle.`\
 
 ;Б@БcБcВ≈ВаБAЙ∆С∞В™ЛAВЅВƒЧИВƒВ≠ВкВйВћВ»ВзБAЙПОхВЌВ«ВсВ»ЛкУпВ≈В†ВЅВƒВаОуВѓУьВкВжВ§В∆ОvВЅВљБB\
-` ...ќднако Ёнж подумала, что примет любое об€зательство, если так еЄ семь€ вернЄтс€. `\
+` ...But Ange decided that she would do anything if her family would come back home.`\
 
 
 bg Different_space_2c,22
 
 ;БuЙљВ≈ВаУwЧЌВµВ№ВЈВ©ВзБAЦВПЧЧlБB@ОДВћКиВҐВрХЈВЂУЌВѓВƒЙЇВ≥ВҐБcБIБv\
-`"я буду старатьс€, как вы и хотите, мисс ведьма.`@` »сполните моЄ желание!.."`\
+`"I'll work as hard as you want me to, miss Witch.`@` Please, grant my wish!.."`\
 ;БГЙПОх
 
 ld l,BER_WaraiA3,23
 
 ;БuБcБcВнВ©ВЅВљВнБB@ОДВћМЊВ§В±В∆ВрБAИкУъВаМЗВ©В≥ВЄВ…С±ВѓВйВ±В∆В™ПoЧИВƒБB@Ц{УЦВ…ВїВћКиВҐВрКРВ¶ВљВҐВ∆ВҐВ§ЛCОЭВњВ™УVВ…УЌВҐВљВ»ВзБB@БcБcВїВћОЮБAОДВЌХKВЄВ†В»ВљВћВ∆В±ВлВ…НƒВ—ЦKВкВƒБAВїВћКиВҐВрКРВ¶ВƒВ†В∞ВйВнБBБv\
-`"...’орошо.`@` ≈сли ты каждый день будешь следовать моим указани€м,`@` если твоЄ стремление исполнить желание достигнет небес,`@` ...€ об€зательно нанесу тебе ещЄ один визит и исполню его." `\
+`"...Very well.`@` If you follow my instructions every single day,`@` if your desire for that wish to be truly granted reaches the heavens,`@` ...I will certainly visit you again and grant it." `\
 ;БГГxГЛГУ
 
 bg black,22
 
 ;Б@ВаВЅВ∆ВаБAВїВкВ™ВPФNРжВћВ±В∆В©БAВTФNРжВћВ±В∆В©БAВ†ВйВҐВЌВPВOФNИ»ПгРжВћВ±В∆В©ВнВ©ВзВ»ВҐВѓВкВ«ВЋБB@
-` ¬от только не знаю, когда. „ерез год, через п€ть лет, а может, через дес€ть и более.`\
+` But I don't know when that shall be. It could be a year, five, or even ten or more.`\
 
 ;Б@ВїВћХ”БAГЙГАГ_В∆УѓВґВЊВ©ВзВҐВҐВ≈ВµВеБAХ В…БB@БcБcН≈МгВ…ВЌХKВЄКРВ¶ВƒВ†В∞ВйВсВЊВ©ВзБAХ В…И”ТnИЂВґВбВ»ВҐВµБB@В≠ВЈВ≠ВЈВ≠ВЈБcБcБB\
-` ¬ этом € напоминаю Ћ€мбду.`@`  ...я ведь в итоге исполню желание, так что ничего страшного.`@` *хи-хи*...`\
+` In that regard, I guess I'm about the same as Lambda.`@` I will grant it in the end, so nothing else matters, right?`@` *giggle*...`\
 
 bg Different_space_2d,22
 
 ;БuВїВкВ≈ЦВПЧЧlБB@БcБcОДВЌБAЙљВрУwЧЌВЈВкВќВҐВҐВсВ≈ВЈВ©БcБcБHБv@
-`"», мисс ведьма,`@` ...в чЄм мне нужно старатьс€?.."`\
+`"Then, miss Witch,`@` what should I do?.."`\
 ;БГЙПОх
 
 ld c,BER_waraiA4,22
 
 ;БuВ†В»ВљВЌН°УъБB@ЙЉВћРeВ≈В†ВйБAЙEСгЛ{КGЙHВ…БAХкВћСгВнВиВЊВ∆ОvВЅВƒБAЙљВ≈ВаЧКВЅВƒВҐВҐВ∆МЊВнВкВљВ≈ВµВеВ§БcБHБv\
-`"—егодн€`@` тво€ приЄмна€ мать, ”широми€ ≈ва, сказала тебе, чтобы ты считала еЄ своей матерью и во всЄм полагалась на неЄ, так?.."`\
+`"Today`@` your adoptive mother, Ushiromiya Eva, has told you to consider her a replacement for your mother, and that you could count on her for anything at all, didn't she?.."`\
 ;БГГxГЛГУ
 
 
 bg Different_space_2c,22
 
 ;БuВЌБAБcБcВЌВҐБBБv\
-`"ƒ-да."`\
+`"Y-yeah..."`\
 ;БГЙПОх
 
 bg black,22
@@ -7065,41 +7065,41 @@ mono 0
 print 2
 ;Б@КGЙHВЌЙПОхВ…Н°УъБB@БcБcВїВ§МЊВЅВљБB\
 `
-` ≈ва...`@`сказала Ёнж.`\
+` Eva...`@` did tell Ange that.`\
 
 ;Б@О©Х™ВљВњВЌФМХкВ∆Ц√ВћК÷МWВЊВѓВкВ«ВаБB@ОДВЌОqВрОЄВҐБAВ†В»ВљВЌРeВрОЄВЅВљК÷МWВЊВѓВкВ«ВаБB@
-` ћы св€заны как тЄт€ и плем€нница.`@` Ќо также мы св€заны тем, что € потер€ла своего сына, а ты потер€ла родителей. `\
+` As aunt and niece, we are connected.`@` But we are also connected in that I have lost my child, and you have lost your parents.`\
 
 ;Б@ВїВµВƒБAВ«В§В®МЁВҐВрйxВїВ§В∆ВаБAВ®МЁВҐВрОЄВЅВљОqВ∆РeВћХѕВнВиВ…ВЌПoЧИВ»ВҐВѓВкВ«БB\
-` » мы не можем обманывать себ€, счита€ друг друга заменой своей потер€нной семьи. `\
+` And we cannot trick ourselves into thinking of each other as replacements for our lost family.`\
 
 ld r,EVA_hohoemiA2,80
 
 ;Б@ВїВкВ≈ВаБAОДВЌВ†В»ВљВЌЙдВ™ОqВЊВ∆ОvВ§В©ВзБB@
-` Ќо € считаю теб€ своей дочерью. `\
+` Even so, I consider you my own daughter.`\
 
 ;Б@В†В»ВљВаБA@БcБcВаВµВаВїВкВрЛЦВєВйВ»ВзБAОДВрХкВћСгВнВиВЊВ∆ОvВЅВƒБAЙљВ≈ВаЧКВЅВƒЧ~ВµВҐБB@
-` » если позволишь,`@` ...€ бы хотела, чтобы ты считала мен€ своей матерью и во всЄм полагалась на мен€. `\
+` So please allow me to ask you to...`@` consider myself your mother and count on me for anything you might need.`\
 
 ;Б@ВїВ§КGЙHВЌМЊВҐБAЙПОхВрХшВЂТчВяВƒВ≠ВкВљВћВЊБB\
-` ≈ва обн€ла Ёнж. `\
+` Eva hugged Ange.`\
 textoff
 cl a,0
 bg white,48
 bg black,22
 
 ;Б@ЧcВҐЙПОхВ…В∆ВЅВƒБAХкВЌХкВ≈БAТfВґВƒКGЙHВ≈ВЌВ»ВҐБB@БcБcВµВ©ВµБAВїВћМЊЧtВћИ”Ц°В∆БAФяВµВҐВ№В≈ВћОЬВµВЁВрБAЧЭЙрВЌВµВƒВҐВљБB@
-` ƒл€ маленькой Ёнж мама была мамой, а ≈ва - однозначно нет.`@`  ...ќднако она пон€ла значение этих слов и прив€занность на грани печали. `\
+` To the young Ange, Mom was Mom, and Eva definitely wasn't.`@` ...However, she understood the the meaning of those words, and the affection verging on sorrow.`\
 
 ;Б@ВµВ©ВµБAВїВкВрОуВѓУьВкВйВ…ВЌБAЧcВ≥СКЙЮВ…БAВаВ§ВµВќВзВ≠ВћОЮК‘В™ХKЧvВЊВЅВљБcБcБB\
-` Ќо, как и ожидалось от ребЄнка еЄ возраста, ей нужно было врем€, чтобы прин€ть... `\
+` But as would be expected from a child her age, she needed some time to accept this... `\
 
 
 
 bg Different_space_2b,22
 
 ;БuВЌВҐБB@БcБcКGЙHФМХкВ≥ВсВЌКmВ©В…ВїВ§МЊВҐВ№ВµВљБBБv@
-`"ƒа.`@`  ...“Єт€ ≈ва сказала так." `\
+`"Yeah.`@` Aunt Eva did say that." `\
 ;БГЙПОх
 
 ld r,BER_DefA2,24
