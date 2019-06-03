@@ -8000,7 +8000,7 @@ se1 74
 ld c,BUT_WaraiA1,23
 
 ;「うん、悪くねぇな。@……群がる山羊どもを、コック帽の郷田さんが、合気道の技でばったばった！@　そこに熱いバトル曲がかかれば、脳汁溢れっぱなしだぜ！@　よし決まりだ。@郷田さんには必ず、カッコイイバトルシーンを用意するぜ！」\
-`"Yeah, that's not bad at all.`@` The chef, Gohda, will use his aikido techniques to blow away the swarm of goats!`@` Then if we make sure to play some pumped up battle music there, the scene's sure to stick in everyone's minds!..`@` Right, it's decided.`@` I'll definitely make preparations for Gohda-san's awesome battle scene!"`\
+`"Yeah, that's not bad at all.`@` The chef, Gohda, will use his aikido techniques to blow away the swarm of goats!`@` Then if we make sure to play some pumped up battle music there, the scene's sure to stick in everyone's minds!..`@` Right, it's decided.`\` I'll definitely make preparations for Gohda-san's awesome battle scene!"`\
 ;＜戦人
 
 
@@ -8253,13 +8253,13 @@ ld r,EV2_OdorokiA2,80
 ld l,BUT_NayamuA2,80
 
 ;「男は露出に弱ぇからなぁ。@スカートの丈一つとってもそうだぜ？@/
-`"It's 'cause men are weak against exposure.`@` Even a shorter skirt helps.`@/
+`"It's 'cause men are weak against exposure.`@` Even a shorter skirt helps. `@/
 bg black,22
 ld l,ERI_DefA2,0
 ld r,EV2_HohoemiA1,22
 
 ;　ヱリカは膝丈だけど、あんたはロングだし。@……何しろこの絶対領域のご時世に、靴下かタイツかニーソかさえわかりゃしねぇ。@髪形もただのパッツン。@そこへ来たらヱリカは超王道のツインテール。@スカート、髪形、露出に変態度と、どこを取っても勝ち目がねぇよ。@完全にキャラが飲み込まれてる。@わざわざ出番を設ける理由がねぇ。」\
-`Erika's only reaches her knees, but yours is a long one.`@` Besides, in this age of zettai ryouiki, you can't get anywhere without stockings or thigh highs.`@` Also, your hairstyle is very plain. `@` Erika's popular twin-tail style is a huge improvement over that."`\
+`Erika's only reaches her knees, but yours is a long one.`@` Besides, in this age of zettai ryouiki, you can't get anywhere without stockings or thigh highs.`\` Also, your hairstyle is very plain. `@` Erika's popular twin-tail style is a huge improvement over that."`\
 `"Against her skirt, hairstyle, exposure, and perverted nature, you've got no chance.`@` She's better than you in every single aspect.`@` You have no place left in my story!"`\
 ;＜戦人
 
@@ -8325,7 +8325,7 @@ se1 61
 ;locate 5,4
 locate 2,5
 ;　もう二度と出番なし！@
-`     Never makes an appearance again!`@
+`   Never makes an appearance again!`@
 locate 4,6
 ;　　　　　　↓
 `               ﾚ08595`
@@ -8333,14 +8333,14 @@ se1 61
 ;locate 4,6
 locate 6,7
 ;　　『うみねこ』をクビ！@
-`   Fired from "Umineko"!`@
+` Fired from "Umineko"!`@
 locate 4,8
 ;　　　　　　↓
 `               ﾚ08595`
 se1 61
 locate 6,9
 ;　　　路頭に迷う。@
-`   Abandoned on a roadside.`@
+` Abandoned on a roadside.`@
 locate 4,10
 ;　　　　　　↓
 `               ﾚ08595`
@@ -8349,7 +8349,7 @@ se1 61
 locate 6,11
 
 ;　　　栄養失調。@/
-`   Starvation.`@/
+` Starvation. `@/
 
 se1 27
 bg white,28
@@ -8613,7 +8613,7 @@ ld r,NAT_TukareA1,24
 ld c,JES_WaraiA1,23
 
 ;「私はバトルでも活躍したいぜッ。@一緒に大暴れして、魔女や悪魔どもを蹴散らそうぜ！」\
-`"I wanna fight!.`@` Let's make some noise and beat up witches and demons!"`\
+`"I wanna fight!`@` Let's make some noise and beat up witches and demons!"`\
 ;＜朱志香
 
 cl c,0
@@ -8650,7 +8650,7 @@ se2 47
 ld l,BUT_KomaruA1,80
 
 ;「む、無理にとは言わないぜ…？@　まぁその、出来たら水着姿でしてくれると…。@あ、水着については当社規定のものを支給します…！@/
-`"I-It's not like I'm gonna force you into it, though.`@` Also, if you could, I'd like you to wear a swimsuit... `@` Ah, and I'll give you the swimsuit myself!.. How about a school swimsuit?!`@/
+`"I-It's not like I'm gonna force you into it, though.`@` Also, if you could, I'd like you to wear a swimsuit... `@` Ah, and I'll give you the swimsuit myself!.. How about a school swimsuit?! `\
 
 se1v 5,100
 ld l,BUT_WaraiA1,80
@@ -8803,7 +8803,7 @@ quakey 1,100
 se1 48
 quakey 1,100
 ;!sdでグラマラスなけしからんボディで、いっひっひっひ！@　水着姿で手料理でも作ってもらって、晩酌でもしてもらっちゃおっかなぁ～、/
-!sd`sexy body of hers, ihihihi!`@` I'll have you cook for me in a bunny girl outfit, and maybe pour me an evening drink!~`/
+!sd`sexy body, ihihihi!`@` I'll have you cook for me in a bunny girl outfit, and maybe pour me an evening drink!~`/
 
 se1 3
 
