@@ -7739,7 +7739,7 @@ bg Mlib_1eP,26
 ` I'm not coming up with any new ideas and my concentration is just getting worse.`@` It's not like I'll get anywhere just sitting in front of the desk with my arms folded.`\
 
 ;Б@РlРґВћРжФyВљВњВћЛCМ≠ВҐВ…КіО”ВµВ»В™ВзБAРнРlВЌВµВќВзВ≠ВћК‘БA@ГQБ[ГАГ}ГXГ^Б[ВћПdР”ВрЦYВкБAВћВсВ—ВиВ∆ОGТkВрКyВµВсВ≈ЛCХ™ВрРЎВиС÷В¶ВйВћВЊВЅВљБcБB\
-` Ѕлагодар€ старших за заботу, Ѕаттлер ненадолго забыл о т€жЄлой ответственности ¬ладельца игры`@` и подн€л себе настроение, неторопливо беседу€ и получа€ удовольствие... `\
+` While thanking his seniors in life for their concern, Battler forgot about the heavy responsibility of the Game Master for a bit,`@` and improved his mood by leisurely chatting and enjoying himself.... `\
 
 
 bg black,2
@@ -7753,7 +7753,7 @@ ld r,BUT_DefA2,22
 ld l,GOH_hohoemiA1,23
 
 ;БuБcБcВ∆В±ВлВ≈РнРlВ≥В№БB@ВdВoВUВћПАФхВЌФ@ЙљВ≈ВЈВ©БBБv\
-`"...ћежду прочим, господин Ѕаттлер.`@`  ак идЄт подготовка к шестому эпизоду?"`\
+`"...By the way, Master Battler.`@` How is EP6 coming along?"`\
 ;БГЛљУc
 
 bgm1 174
@@ -7762,11 +7762,11 @@ bgm1 174
 ld r,BUT_AseruA1,80
 
 ;БuВ§Б[ВсБB@ВїВкВ™В≥ВЅВѕВиВ≈В»ВЯБB@БcБcВ≥ВЅВЂГЙГАГ_ГfГЛГ^В…ВаВЏВвВҐВљВсВЊВ™БAВ±ВћГQБ[ГАВЌУoПкРlХ®В™СљЙяВђВйБB@ВїВҐВ¬ВзСSИхВ…ВњВбВсВ∆ВµВљПoФ‘ВвМ©ВєПкВрВ†В∞ВљВҐВ∆ОvВЅВƒВйВсВЊВ™БcБB@ВїВкВрВPЦ{ВћГVГiГКГIВ…В№В∆ВяВйВћВ™УпВµВ≠ВƒБcБcБB@/
-`"’м-м.`@` ≈сли честно, у мен€ нет идей.`@`  ...я жаловалс€ и Ћ€мбдадельте.`@` ¬ этой истории слишком много персонажей.`@` ’отелось бы дать всем врем€ про€вить себ€, но...`@` —лишком трудно уместить всЄ это в сценарий одного эпизода..."`\
+`"Ugh.`@` Honestly, I'm completely lost on that.`@`  ...I already complained about this to Lambdadelta before, too.`@` This story has way too many characters.`@` I want to give everyone some time to shine, but...`@` It's way too hard to fit all that into a scenario for just one episode..."`\
 ld r,BUT_OyaA1,80
 
 ;БcБcВ†ВкБH@Б@ВїВ§МЊВ¶ВќВ≥ВЅВЂБAГVГiГКГIВћГlГ^ВрТTВµВƒВйВ»ВзНDУsНЗВ∆МЊВнВ»В©ВЅВљВЅВѓБHБv\
-`"...Ё?`@`  стати, разве вы не сказали, что хорошо, что € ещЄ придумываю сюжет?"`\
+`"...Eh, wait a moment.`@` Didn't you guys say it's 'convenient' that I'm still coming up with the plot?"`\
 ;БГРнРl
 
 
@@ -7774,31 +7774,31 @@ ld c,KUM_WaraiA2,24
 ld l,GOH_hohoemiA1,80
 
 ;БuВ¶БAБcБcВ¶В•БAВїВкВ≈В»ВћВ≈ВЈВ™БAВїВћБcБcБBБv@
-`"ƒ-да, по поводу этого, э-э..." `\
+`"Y...Yes, about that, well..." `\
 ;БГЛљУc
 
 ;Б@ЛљУcВ∆МFСтВ™БAВїВ§ВҐВ§НќВ≈ВаВ»ВҐВЊВлВ§В…БAВЌВ…В©ВёВжВ§В…ПќВ§БB\
-` ¬опреки своему возрасту √оуда и  умасава застенчиво засме€лись. `\
+` Gohda and Kumasawa, despite their age, laughed shyly.`\
 
 bg Mlib_1ap,0
 ld l,GEN_DefA1,23
 
 ;Б@ЙљОЦВ©В∆ВЂВеВ∆ВсВ∆ВµВƒВҐВйВ∆БAМєОЯВ™МµВ©В…МыВрКJВҐВљБB\
-`  огда Ѕаттлер безучастно посмотрел на них, интересу€сь, в чЄм дело, с достоинством заговорил √енджи. `\
+` When Battler stared at them blankly, wondering what was up, Genji spoke with dignity.`\
 
 ld l,GEN_MajimeA2,80
 
 ;БuБcБcРнРlВ≥В№ВЌБAН°ЙсВћРlЛCУКХ[ВћМЛЙ ВЌБAВ≤ЧЧВ…В»ВиВ№ВµВљВ©БHБv@
-`"...√осподин Ѕаттлер, вы видели результаты последнего опроса попул€рности?"`\
+`"...Master Battler, have you seen the results of the latest popularity poll?"`\
 ;БГМєОЯ
 ld r,BUT_FutekiA1,24
 
 ;БuВ¶БH@Б@В†БAВ†Б[БAЧLОuОеН√РlЛCУКХ[ВЊВлБHБI@/
-`"Ё?`@` ј, опрос попул€рности наших спонсоров?! `@/
+`"Eh?`@` Oh, the one from our sponsors!? `@/
 ld r,BUT_AseruA1,24
 
 ;Б@ЙіВ™РlЛCСжИкИ В≈БAВҐВвБAВЌВЌВЌВЌБcБAП∆ВкВйВЇБcБBБv\
-`я зан€л первое место, ха-ха-ха... Ќеловко..."`\
+` I took first place in that, haha...`@` It's...`@` kind of awkward."`\
 ;БГРнРl
 
 mov %BUT_Isyou,1
@@ -7812,10 +7812,10 @@ ld c,BE2_HousinB2,0
 ld r,BER_WaraiA3,22
 
 ;Б@БcБcХБТ БAВ±В§ВҐВ§ГQБ[ГАВћПгИ ВЅВƒБAГqГНГCГУВ™ЦДВяРsВ≠ВЈВаВсВґВбВЋВ•ВћВ©В»ВЯБB@
-` ...ќбычно в таких играх на первом месте оказываютс€ героини.`\
+` ...Usually, in our genre, girls end up taking first place.`\
 
 ;Б@ТjОеРlМцВ™СжИкИ В»ВсВƒБAЦ{УЦВ…ТњВµВҐВжВ»БcБcБB@В†БAВїВкВрМЊВЅВљВзБAБwВ–ВЃВзВµБxВћМ\ИкВ≠ВсВаВ©БcБB\
-` ѕервое место редко занимают главные герои мужского пола...`@` ќ, наверное, то же самое было и с  еичи из Џ00171÷икадЏ00187... `\
+` It's really rare for a protagonist who is a man to take first place...`@` Ah, well, I guess that was the case with Keiichi from "Higurashi," too...`\
 
 bg black,22
 wait 600
@@ -7827,39 +7827,39 @@ ld l,GEN_MajimeA2,22
 ld l,GEN_DefA1,80
 
 ;БuБcБcВ±ВћТЖВ≈ИкФ‘Х±УђВµВ№ВµВљЛљУcВ™БAВQВQИ БB@УмЮКРжРґВЌВSВWИ БB@МFСтВЌВTВRИ В≈В≤ВіВҐВ№ВµВљБcБBБv@
-`"...Ћучшим среди нас стал √оуда, 22-е место.`@` ƒоктор Ќанджо зан€л 48-е.`@`  умасава - 53-е..."`\
+`"...The one who fared best among the servants was Gohda, who came 22nd.`@` Doctor Nanjo took 48th.`@` And Kumasawa was stuck in 53rd..."`\
 ;БГМєОЯ
 
 
 ld c,KUM_DefA1,24
 
 ;БuВўВЅВўВЅВўБcБB@В№ВЯБAШVВҐВЏВкВ…ВЌС√УЦВ»ПЗИ В≈ВµВеВ§ВЋВ•БBБv\
-`"’о-хо-хо...`@` ѕодход€щее место дл€ старушки."`\
+`"Hohoho...`@` Sounds about right for an old lady like myself."`\
 ;БГМFСт
 
 
 ld r,BUT_OyaA1,80
 
 ;БuМєОЯВ≥ВсВЌЙљИ ВЊВЅВљВсВЊБHБv\
-`"ј √енджи?"`\
+`"What of Genji?"`\
 ;БГРнРl
 
 cl l,24
 ld l,NAN_KomaruA3,23
 
 ;БuВSВPИ В≈ВЈБB@БcБcВ№ВЯБAОбВҐРҐСгВћХыВ…ВЌБAВ»В©В»В©СЊУБС≈ВњВЌУпВµВҐВ≈ВЈВ»БBБv\
-`"41-е место.`@`  ...„то ж, с молодым поколением трудно конкурировать."`\
+`"41st.`@` ...We can hardly compete with the younger generation."`\
 ;БГУмЮК
 
 bg Mlib_1eP,26
 
 ;БuВЁВсВ»БAИкФ‘Н≈ПЙВћГGГsГ\Б[ГhВ©ВзБAВ–В«ВҐЦрВрБAХґЛеИкВ¬МЊВнВЄВ…В±В»ВµВƒВйВЅВƒВћВ…БAБcБcВњВеВЅВ∆РhВҐМЛЙ ВЊВ»БB@В†ВћГNГ\ГАГJВ¬В≠ГСГКГJВ»ВсВƒБAГНГNВ»В±В∆ВµВƒВЋВ•ВћВ…ВUИ ВЊВЇБHБv\
-`"√рустно, что вас так низко оценили, учитыва€, что вы с самого первого эпизода без единой жалобы исполн€ли свои ужасные роли.`@` ќсобенно когда этой раздражающей стерве Ёрике удалось схватить 6-е место, не сделав ничего даже наполовину достойного."`\
+`"From the first episode, you guys have all been stuck in horrible roles, and took them on without complaining even once...`@` It's kind of sad you're ranked that low.`@` Especially when that annoying bitch Erika managed to get 6th place without doing anything halfway decent, you know?"`\
 ;БГРнРl
 
 
 ;БuРlЛCУКХ[В≈ВЈВ©ВзВЋВ•БcБB@БcБcЧнВµВҐПЧРЂХыВ…ВЌБAВ»В©В»В©СЊУБС≈ВњВ™ПoЧИВ»ВҐВћВЌБAП≥ТmВµВƒВ®ВиВ№ВЈВ™БcБcБBБv\
-`"Ёто ведь опрос попул€рности...`@` ≈стественно, что все голосуют за прекрасных юных леди..." `\
+`"Well, it's a popularity poll...`@` Of course, everyone is voting for the beautiful young ladies..." `\
 ;БГЛљУc
 
 bg black,22
@@ -7870,13 +7870,13 @@ ld l,NAN_KomaruA3,0
 ld r,KUM_KomaruA1,24
 
 ;Б@ЛкПќВҐВµВ»В™ВзВаБAВЁВсВ»ВЌВ§В»РВВкВйБcБB@
-` ¬се помрачнели с горькими улыбками на лицах... `\
+` Wearing bitter smiles, everyone deflated a little...`\
 
 ;Б@В≥ВЅВЂВ№В≈ВћБAКyВµВҐГfГUБ[ГgГoГCГLГУГOВ∆НgТГВћОЮК‘В™БA@БcБcВµВгВсВ∆БAИёВёВжВ§В…ЧвВяВƒВµВ№В§ВћВЊВЅВљБcБB@
-` Ќаше веселье, когда мы ели десерты и пили чЄрный чай,`@` потускнело и тихо закончилось.`\
+` The fun time we had been having eating desserts and drinking tea seemed to wither away and end quietly.`\
 
 ;Б@ЙљВ∆В©ВЁВсВ»ВрМ≥ЛCХtВѓВљВҐБcБcБB\
-` я хочу как-нибудь подбодрить их... `\
+` I want to cheer everyone up somehow...`\
 textoff
 
 fede 0,1000
@@ -7891,12 +7891,12 @@ ld c,BUT_OdorokiA3,26
 ld c,BUT_FutekiA1,80
 
 ;БuВ†БAБcБcБB@БcБcЙіВЌЙљВрХрВѓВƒВйВсВЊВжБB@ГQБ[ГАГ}ГXГ^Б[ВЌЙіВґВбВЋВ•В©БB@/
-`"ќ...`@`  акой же € идиот.`@` я ¬ладелец игры или как? `@/
+`"Wow, I'm an idiot.`@` Am I the Game Master or what? `@/
 
 bgm1 137
 
 ;БcБcВ»ВзБI@Б@ВЁВсВ»В™РlЛCГAГbГvПoЧИВйВжВ§В…БAПoФ‘ВвМ©ВєПкВрСЭВвВєВќВҐВҐВЅВƒВ±В∆ВґВбВЋВ•В©БcБIБv\
-`...“огда!`@` „тобы вы стали попул€рнее, мне просто нужно дать вам больше сцен!.." `\
+`...Alright then!`@` To boost your popularity, I can just give you guys some more screentime!" `\
 ;БГРнРl
 
 se1v 2,90
@@ -7913,23 +7913,23 @@ ld l,NAN_fumuA1,0
 print 22
 
 ;Б@В®В®ВЅБAВ∆ИкУѓВЌЦЮЦ ВћПќКзВрХВВ©В„ВйБB\
-` ¬се оживились и расплылись в улыбках.`\
+` Everyone perked up and broke into a smile.`\
 
 ;Б@БcБcВ»ВйВўВ«БB@ФёВзВЌВїВћВљВяВћТ¬ПоВ…ЧИВљВћВЊБB\
-` ...ѕон€тно.`@` ќни пришли обратитьс€ ко мне.`\
+` ...I get it.`@` This is precisely what they came here for.`\
 
 ;Б@ОбО“В™ЦЏЧІВЅВƒВќВ©ВиВћБwВ§ВЁВЋВ±БxВЌБAСеРlР®ВћПoФ‘В™ФсПнВ…П≠В»ВҐБcБB@
-` ¬ Џ00171„айкахЏ00187, где молодое поколение выдел€етс€ больше, взрослые обычно не получают крупных ролей...`\
+` In "Umineko", where the younger generation stands out more, the adults don't usually get huge roles...`\
 
 ;Б@УЅВ…ОgЧpРlСеРlР®ВЌБAСжИкВћФ”В…ОEВ≥ВкВƒВµВ№В§В±В∆ВаСљВ≠БAВҐВвБAЙЉВ…РґВЂЙДВ—ВљВ∆ВµВƒВаБA@ЦВПЧР®ВвЙіВвГxГAГgВ…В®ВҐВµВҐВ∆В±ВлВрТDВнВкБAВ№ВЅВљВ≠ЦЏЧІВƒВйПкЦ ВЌВ»ВҐБcБB\
-` ќсобенно старые слуги, которых часто убивали на первые сумерки.`@` », ну, даже когда они выживали, все хорошие роли перехватывали мы с Ѕеато, и у них никогда не было насто€щего шанса про€вить себ€... `\
+` Especially the older servants, who are often killed on the first twilight.`@` And, well, even when they do survive, all the good parts are usually snatched away by me and Beato, so they never really get their chance to shine...`\
 csp -1
 bg black,22
 bg Mlib_1eP,26
 
 ;БuВҐВвБAЦ{УЦВ…В§ВЅВ©ВиВµВƒВљВЇБcБB@РlЛCУКХ[ВћМЛЙ В…УѓПоВЈВйВ»ВзБAЙіВ™П≠ВµЙЅМЄВЈВиВбВ†ВжВ©ВЅВљВсВЊБB@РlЛCВЌПoФ‘В∆М©ВєПкВ…ФдЧбВЈВйВнВѓВЊВ©ВзВ»ВЯБcБI@Б@ВїВсВ»В±В∆В…ВаЛCХtВ©В»В≠ВƒР\ВµЦуВ»ВҐБcБI@Б@ГxГAГgВвГЙГАГ_ГfГЛГ^ВћГVГiГКГIВ≈ВЌВЁВсВ»ВаВЄВҐВ‘ВсХsЛцВЊВЅВљВжВ§ВЊВ™БAН°ВвГ}ГXГ^Б[ВЌЙіВ…Р≠М†МрСгБcБI@Б@ФCВєВƒВ≠ВкБB@ВЁВсВ»ВћРlЛCВ™ГhБ[ГУВ∆ПгВ™ВйВжВ§В…БAЙіВ™ПoФ‘ВвМ©ВєПкВрБAВҐВЅВѕВҐСЭВвВµВƒВвВйВЇБIБv\
-`"Ѕоже, € так неосмотрителен...`@` –аз € сочувствую вам насчЄт результатов опроса попул€рности, мне нужно что-нибудь сделать.`@` ѕопул€рность пропорциональна тому, сколько времени ты блистаешь!..`@` »звините, что не пон€л раньше!..`@` ¬ам не везло в сценари€х Ѕеато и Ћ€мбды, но теперь ¬ладелец игры здесь €!.."`\
-`"ѕоложитесь на мен€.`@` „тобы ваша попул€рность взлетела, € об€зательно дам вам кучу сцен!"`\
+`"Geez, how careless of me...`@` If I sympathize with you about the popularity poll results, I should try and do something about it.`@` Popularity is proportional to the amount of time you get to shine!..`@` Sorry for not realising that sooner!..`@` It seems you guys were really unfortunate in Beato's and Lambda's scenarios, but now I'm Game Master!"`\
+`"You can count on me.`@` To make your popularity go way up, I'll make sure to give you guys tons of scenes!"`\
 ;БГРнРl
 
 se1v 74,50
@@ -7940,17 +7940,17 @@ quakey 2,200
 bg black,22
 
 ;Б@БcБcВ∆ВЌМЊВЅВљВаВћВћБB@В«В§ВҐВ§ХЧВ…КИЦфВ≥ВєВкВќВҐВҐВвВзБB@
-` ...ѕроще сказать, чем сделать.`@`  акие сцены им можно дать? `\
+` ...Well, that was easier said than done.`@` What kind of scenes can I even give them? `\
 
 bg different_spiral_1a,22
 ;Б@ЦВЦ@ГoГgГЛВЊВћРДЧЭГoГgГЛВЊВћВ∆ВҐВ§РҐКEВ≈БAФёВзВ…В«ВсВ»М©ВєПкВ™Ч^В¶ВзВкВйВ∆ВҐВ§ВћВ©БcБB\
-`  уда € могу вставить их в мире битв магии и рассуждений?.. `\
+` In this world of witches and reasoning, where can I fit them in?.. `\
 bg black,22
 bg Mlib_1cP,0
 ld l,BUT_FutekiA1,23
 
 ;БuБcБcВґВбВ†БAЛtВ…ОњЦвВЊВ»БB@В«ВсВ»М©ВєПкВ™Ч~ВµВҐБH@Б@В®ВҐВµВҐГfГUБ[ГgВћВ®ЧзВЊБB@ГhБ[ГУВ∆ЙіВ™КРВ¶ВƒВвВйВЇБIБv@
-`"...“огда спрошу вас.`@`  акие роли вы хотите?`@` ¬ благодарность за вкусные десерты € выполню любую вашу просьбу!"`\
+`"...How about I just ask?`@` Hey guys, what kind of a role do you all want?`@` As thanks for these delicious desserts, I'll give you any role you ask for!"`\
 ;БГРнРl
 
 ld r,GOH_hohoemiA2,24
@@ -7958,56 +7958,56 @@ se1 4
 ld r,GOH_omakaseA1,80
 
 ;БuВ≈БAВ≈ВµВљВзБcБB@ВЇВ–В∆ВаОДВЌБAР~Ц[В≈СеКИЦфВ∆ВҐВ§В±В∆БcБIБv\
-`"“-тогда...`@` ѕозвольте мне сделать нечто великое на кухне!" `\
+`"Then...`@` Allow me to do something amazing in the kitchen!" `\
 ;БГЛљУc
 
 
 ld l,BUT_DefA1,80
 
 ;БuВїВиВбВаВњВлВсВЊВЇБB@В≈ВаБAЧњЧЭВЊВѓВћКИЦфВґВбБAОЦМПМгВ…М©ВєПкВ™В»ВҐВЇБcБHБv@
-`" онечно.`@` Ќо если ваша единственна€ роль - готовить, после начала убийств вы не многое сможете сделать."`\
+`"That is only natural.`@` But if you do nothing but cook, you'll fade away into the background as soon as the murders start..."`\
 ;БГРнРl
 
 
 ld r,GOH_DefA1,80
 
 ;БuВҐВ¶ВҐВ¶БAВ®ФCВєВрБcБI@Б@ЙљВµВлОДВЌБAГpГeГBГVГGКEВћГZГKБ[ГЛБI@Б@Р~Ц[В≈В»ВзХЙВѓВ»ВҐВ∆БAСдПКЧpХiВ≈СеГoГgГЛВ∆В©Ф@ЙљВ≈ВµВеВ§БcБIБv\
-`"Ќет-нет, смотрите!..`@` Ќа кухне € не могу проиграть!`@` „то если мне сразитьс€ кухонными принадлежност€ми?!"`\
+`"No-no, you don't understand!..`@` If it's in the kitchen, I can't lose!`@` What if I were to take part in a huge battle wielding kitchen supplies!?"`\
 ;БГЛљУc
 
 cl l,24
 ld l,NAN_fumuA1,23
 
 ;БuТЉСOВћГVБ[ГУВ№В≈ВЌГwГ^ВкВƒВҐВƒБA@Р~Ц[В…Т«ВҐЛlВяВзВкБAЧњЧЭУєЛпВрж»В≥ВкВƒБAУ{ВиВћЧЌВ≈КoРЅБAЛtУ]БcБI@/
-`"ќн не сможет дать отпор, и его загон€т на кухню.`@` Ќо когда оскорб€т его принадлежности дл€ приготовлени€ пищи, высвободитс€ сила €рости, и ситуаци€ обернЄтс€ не в пользу противника!`@/
+`"He will appear completely cornered in the kitchen.`@` But once someone insults his cooking skill, the strength of rage will manifest and the tables will turn the on the opponent!`@/
 ld l,NAN_DefA1,23
 ;Б@В®В®БAОбО“МьВѓВЅВџВҐВ≈ВЈВ»БBБv\
-` ’м-м, пр€мо как у молодЄжи."`\
+` Hmm, this could be appealing to the younger generation as well."`\
 ;БГУмЮК
 
 ld r,GOH_hohoemiA2,80
 
 ;БuМИВяСдОМВЌБAБgСдПКВ≈В»ВзХЙВѓВ»ВҐВЇБI/
-`"» моей коронной фразой будет Џ00171я не могу проиграть на кухнеЏ00187!`/
+`"Let my catchphrase be: "In the kitchen, I am immortal"!`/
 
 se1 74
 
 ;!d800БhВ≈ВЌФ@ЙљВ≈ВµВеВ§БcБIБIБv\
-!d800` „то скажете?!.."`\
+!d800` What do you think, everyone?!.."`\
 ;БГЛљУc
 
 
 ld c,BUT_WaraiA1,23
 
 ;БuВ§ВсБAИЂВ≠ВЋВ•В»БB@БcБcМQВ™ВйОRЧrВ«ВаВрБAГRГbГNЦXВћЛљУcВ≥ВсВ™БAНЗЛCУєВћЛZВ≈ВќВЅВљВќВЅВљБI@Б@ВїВ±В…ФMВҐГoГgГЛЛ»В™В©В©ВкВќБAФ]П`ИмВкВЅВѕВ»ВµВЊВЇБI@Б@ВжВµМИВ№ВиВЊБB@ЛљУcВ≥ВсВ…ВЌХKВЄБAГJГbГRГCГCГoГgГЛГVБ[ГУВрЧpИ”ВЈВйВЇБIБv\
-`"ƒа, неплохо.`@`  ...Ўеф-повар √оуда своими техниками айкидо сметЄт стаю козлорогих!`@` — подход€щей музыкой эта сцена об€зательно всем запомнитс€!..`@` Ћадно, решено.`@` я всЄ подготовлю к шикарной сцене битвы √оуды!"`\
+`"Yeah, that's not bad at all.`@` The chef, Gohda, will use his aikido techniques to blow away the swarm of goats!`@` Then if we make sure to play some pumped up battle music there, the scene's sure to stick in everyone's minds!..`@` Right, it's decided.`@` I'll definitely make preparations for Gohda-san's awesome battle scene!"`\
 ;БГРнРl
 
 
 ld r,GOH_omakaseA1,80
 
 ;БuВ®В®В®ВІВ®В®ВІБIБI@Б@В†ВиВ™В∆В§В≤ВіВҐВ№ВЈБAВ†ВиВ™В∆В§В≤ВіВҐВ№ВЈБIБIБv\
-`"ќ-о-о-о!`@` Ѕольшое спасибо, спасибо!"`\
+`"Oooooohhh!`@` Thank you so very very much!!!"`\
 ;БГЛљУc
 
 bg black,24
@@ -8015,67 +8015,67 @@ bg Mlib_1bP,0
 ld r,BUT_DefA1,24
 
 ;БuМFСтВћФkВњВбВсВЌВ«ВсВ»М©ВєПкВ™ВҐВҐБH@Б@ВвВЌВиГAГМВ©БH@Б@РFБXВ»ПdЧvГVБ[ГУВрВҐВ¬ВаФаВћМДК‘В©ВзВ±ВЅВїВиЦЏМВВµВƒВйГpБ[ГtГFГNГgОgЧpРlВ©БHБIБv\
-`"„то хотите вы, бабул€  умасава?`@` ћожет, так?`@` »деальна€ слуга, котора€ всегда украдкой становитс€ свидетелем ключевых сцен через щель в двери?!"`\
+`"What would you like, Kumasawa?`@` Perhaps, you could be the perfect servant who's always stealthily witnessing the key scenes from a crack in the door?!"`\
 ;БГРнРl
 
 ld l,KUM_DefA1,23
 
 ;БuВўВЅВўВЅВўБcБI@Б@ОДВЌВвВЌВиБAФNЧоВ∆МoМ±ВрКИВ©ВµВљЦрКДВ™ИкФ‘В“ВЅВљВиВ©В∆БcБB@ЦLХxВ»РlРґМoМ±В©ВзБAМїПкВћИбШaКіВрВҐВњСБВ≠О@ТmВµВƒБAОЦМПЙрМИВћГJГMВрИђВйБcБB@/
-`"’о-хо-хо!..`@` –оль, где пригод€тс€ мой возраст и опыт, была бы самой подход€щей...`@` Ѕлагодар€ своему обильному жизненному опыту € тут же замечаю, что на месте преступлени€ что-то не так, и нахожу ключ к разгадке."`\
+`"Hohoho!..`@` A role that makes use of my age and experience like this is quite appropriate indeed...`@` Because of my plentiful life experience, I immediately sense that something seems out of place at the crime scene, and find the key to solving the mystery."`\
 ld l,KUM_DefA2,23
 ;БcБcВѓВкВ«ВаВїВкВрФ∆РlВ…ТmВзВкБAЧ№В»В≠ВµВƒВЌМкВкВ ТпНRВћЦЦБAГ_ГCГCГУГOГБГbГZБ[ГWВрОcВµБA@В†БAФ∆РlВрГbБAТ«ВҐЛlВяВйБ`Б`БIБI@Б@ГxГxГУБIБv\
-`"...ќднако преступник узнаЄт и заставл€ет мен€ замолчать в душераздирающей сцене, но € оставл€ю предсмертное послание:`@` Џ00171ј-а, выследите престу-упника!Џ00187`@` “а-да!"`\
+`"...However, the culprit discovers this, silences me in a heartrending scene, and I leave behind a dying message:`@` 'Ah, track down the culprit~~!'`@` Ta-da!"`\
 ;БГМFСт
 
 ld r,BUT_WaraiA1,80
 
 ;БuВнВЅВЌВЅВЌБAВїВиВбПaВҐВ»ВЯБI@Б@ВҐВљВЊВЂВЊБI@Б@МFСтВ≥ВсВЌВїВ§ВҐВ§ЦрВ…ВµВжВ§БB@ОEВ≥ВкВйЦрВЅВƒВћВЌМ©ВєПкВаНмВиВвВЈВҐВ©ВзВ»БB@МFСтВ≥ВсВ™У|ВкВйГVБ[ГУВ≈ВЌБAЛвЦЛВрЧ№В≈У№ВзВєВƒВвВйВЇБIБv\
-`"¬а-ха-ха, мрачновато!`@` “ак и быть!`@` Ќазначим вас на эту роль,  умасава.`@` ¬ыделить вас грандиозной, драматической сценой смерти проще некуда.`@` я сделаю из неЄ насто€щую мелодраму!" `\
+`"Wahaha, that's quite dark!`@` But that's alright!`@` I'll give you that kind of role, Kumasawa.`@` It's pretty easy to make you stand out with a big, dramatic death scene.`@` I'll make it a real tearjerker!" `\
 ;БГРнРl
 
 bg black,22
 
 ;Б@ВїВсВ»Т≤ОqВ≈БA@/
-` —леду€ тенденции, `@/
+` Moving right along, `@/
 
 bg NAN_R1a,0
 ld c,NAN_fumuA1,22
 
 ;УмЮКВЌБAВ†ВиВаВћВћРґКИЧpХiВЊВѓВ≈ГXБ[ГpБ[ОиПpВрВ±В»ВµВƒВµВ№В§БAГXБ[ГpБ[КOЙ»ИгВ…БB@/
-`Ќанджо будет супер-хирургом, провод€щим любые операции простым швейным набором, который он всегда носит с собой. `@/
+`Nanjo will be a super-surgeon who's capable of saving people using nothing but a sewing set he happened to have on himself. `@/
 se1 58
 bg BLADE1W,1
 bg BLADE5W,25
 ;ВµВ©ВаБAФТИяВћУаС§В…ВЌГБГXВвЦтХ®ВрВҐВЅВѕВҐОЭВЅВƒВҐВƒБAВїВкВ≈РнВ§В±В∆ВаВnВjВ»БAГuГЙГbГNВ≈ГWГГГbГNВ»КіВґВЊБB\
-` роме того, в его халате будет тонна скальпелей и препаратов, так что он даже сможет сражатьс€.`\
+`Besides, his robe is actually full of scalpels and lethal drugs, so he could even fight if he had to!`\
 
 bg Glob_1aN,0
 ld r,GEN_MajimeA2,22
 ld r,GEN_DefA1,80
 
 ;Б@МєОЯВ≥ВсВЌБAВҐВ‘ВµЛвВћШeЦрВ™ВҐВҐВ∆ВҐВ§ВћВ≈БA@ГQГXГgГnГEГXВћГЙГEГУГWВ≈БAГJГNГeГЛВ»ВсВ©НмВЅВњВбВЅВƒБAРћМкВиВрМкВЅВњВбВ§ЦрВ«В±ВлВрЧ^В¶ВйВ±В∆В…ВµВљБB\
-` √енджи сыграет роль сдержанного персонажа поддержки.`@` ќн будет делать коктейли в холле домика дл€ гостей, напомина€ о былых временах.`\
+` Genji will play a modest support role.`@` He'll be making a cocktail or something in the guesthouse lounge, reminiscing about the old days.`\
 ;Б@ГoГgГЛГVБ[ГУВЌВ»ВҐВсВЊВѓВ«БAЛ≠ЧЌВ»УGГLГГГЙВ™БA/
-` ” него не будет сцены битвы, но очень сильный враг скажет нечто вроде...`/
+` He won't get a battle scene, but a really strong enemy character will say something like:`/
 
 ;!d800БuВ®БA/
-!d800`Џ00171√е-`/
+!d800`"Ge-`/
 se1 74
 quakey 2,200
 ;!d800В®СOВЌМєОЯБcБcБHБI@Б@ФnО≠В»БAОАВсВЊВЌВЄБcБcБIБIБv@ВЁВљВҐВ»В±В∆ВрМЊВЅВƒБAРћВћР¶В≥ВћХ–ЧЎВрМкВзВкВњВбВ§БAВЁВљВҐВ»ХыМьРЂВ≈ИкВ¬БB\
-!d800`√енджи?!..`@` Ќевозможно, ты же должен быть мЄртв!Џ00187,`@` и он напомнит нам, каким потр€сающим был в прошлом.`\
+!d800`Genji?!..`@` That's impossible, you're supposed to be dead!",`@` and this will give us a glimpse of how awesome he was in the past.`\
 
 bg Mlib_1cP,0
 ld c,BUT_WaraiA2,24
 
 ;БuБcБcВжВµВжВµБB@Н°ЙсВЌОgЧpРlСеРlР®В™СеКИЦфБB@ЦLХxВ»РlРґМoМ±В∆ШVа‘В»ТmМbВ≈БAРзФNВћЦВПЧВљВњВрС≈ВњФjВйГbБAВƒВ»УWКJВ…ВµВжВ§БcБI@Б@В†ВиВ™В∆В§БAВЁВсВ»БI@Б@ХыМьРЂВ™МИВ№ВкВќБAВаВ§П≠ВµГAГCГfГAВаПoВвВЈВ≠В»ВйВЅВƒВаВсВЊВЇБcБIБIБv\
-`"...ƒа, на этот раз взрослые слуги сделают много всего.`@` — вашим обильным жизненным опытом и хитрым умом вы затмите тыс€челетнюю ведьму и еЄ свиту!..`@` —пасибо всем!`@` –аз теперь € знаю, в каком направлении вести историю, у мен€ может по€витьс€ больше идей!"`\
+`"...Alright, this time, the adults will get better roles.`@` With your plentiful life experience and cunning wit, you'll be able to leave a scratch on the 1000-year-old witch and her familiars!..`@` Thanks, everyone!`@` Now that I know what direction to take the story, I might start getting more ideas!"`\
 ;БГРнРl
 
 ld r,NAN_DefA1,24
 
 ;БuВїВкВЌЧ«В©ВЅВљБcБI@Б@ОДВзВаБAРнРlВ≥ВсВћВ®ЦрВ…ЧІВƒВљВжВ§В≈ВЈВ»БBБv@
-`"«амечательно!..`@` ¬ижу, мы смогли вам помочь, Ѕаттлер." `\
+`"Excellent!..`@` We're glad we were able to help." `\
 ;БГУмЮК
 
 
@@ -8083,25 +8083,25 @@ ld l,GEN_DefA1,23
 ld l,GEN_MajimeA1,80
 
 ;БuБcБcБcВїВкВ≈ВЌБAОДВљВњВЌВ±ВћХ”В≈В®Й…ВҐВљВµВ№ВµВеВ§БB@В±ВкИ»ПгВрЛПНјВЅВƒВЌБAОЈХMВћВ®О„ЦВВ≈ВµВеВ§В©ВзБcБBБv\
-`"...„то ж, нам пора.`@` Ќе будем больше мешать вам..."`\
+`"...Well then, we should probably take our leave.`@` We wouldn't want to distract you..."`\
 ;БГМєОЯ
 
 ld c,BUT_WaraiA1,80
 
 ;БuВ†ВЯБAЛCВрМ≠ВЅВƒВ≠ВкВƒВ†ВиВ™В∆В§В»БI@Б@ВїВµВƒЛ¶ЧЌВрВ†ВиВ™В∆В§БI@Б@ОЯЙсВћРlЛCУКХ[БAСSИхВ™ВPВOИ И»УаВ…УьВкВйВ≠ВзВҐВ…КИЦфВ≈ВЂВйВжВ§БAН≈НВВћГVГiГКГIВрПСВ≠ВЇБIБIБv\
-`"ƒа, спасибо за беспокойство!`@` » благодарю за сотрудничество!`@` я об€зательно напишу потр€сающий сценарий и дам вам столько времени про€вить себ€, что в следующем опросе попул€рности вы попадЄте в первую дес€тку!" `\
+`"Thank you very much for your concern!`@` And for collaborating with me!`@` I'll be sure to write an awesome scenario and give you guys enough spotlight that you'll all rank in the top 10 in the next popularity poll!" `\
 
 bg black,22
 bg Mlib_1eP,26
 
 ;Б@ЛљУcВаМFСтВаУмЮКВаБA@ ;/
-` √оуда,  умасава, Ќанджо`@ ;/
+` Gohda, Kumasawa, Nanjo...`@ ;/
 
 ;БcБcМєОЯВ≥В¶ВаКіЧ№В…ИфВ‘БB\
-`...и даже √енджи подавились слезами благодарности.`\
+` and even Genji were choking on tears of gratitude.`\
 
 ;Б@РнРlВЌБAФёВзВћТЈВЂВћЦ≥ФOВрР∞ВзВЈВљВяБAИкСwБAВdВoВUВћГVГiГКГIРІНмВ…ЦvУ™ВЈВйВћВЊВЅВљБcБcБB\
-` „тобы разве€ть их зат€жные сожалени€, Ѕаттлер ещЄ больше углубилс€ в создание сценари€ 6-го эпизода... `\
+` Battler, in order to clear away their long-standing regrets, immersed himself even more in the production of the EP6 scenario...`\
 bg black,2
 fede 1,2000
 E_B
@@ -8109,10 +8109,10 @@ wait 600
 
 se1 19
 ;Б@ГhГУГhГУБI@Б@НƒВ—ГmГbГNВћЙєБB@
-` *бам*бам*! —нова стук. `\
+` *knock, knock*! Again with the knocking.`\
 
 ;Б@Н°УxВЌТNВЊБH@Б@БcБcВЈВйВ∆Н°УxВЌИ”КOВ»РlХ®ВЊВЅВљБB\
-`  то там?`@` ...Ќа этот раз пришЄл очень неожиданный персонаж. `\
+` Who is it?`@` ...Well, this sure is an unexpected character. `\
 
 
 se2 17
