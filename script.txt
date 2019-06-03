@@ -7928,7 +7928,7 @@ bg black,22
 bg Mlib_1eP,26
 
 ;「いや、本当にうっかりしてたぜ…。@人気投票の結果に同情するなら、俺が少し加減すりゃあよかったんだ。@人気は出番と見せ場に比例するわけだからなぁ…！@　そんなことにも気付かなくて申し訳ない…！@　ベアトやラムダデルタのシナリオではみんなもずいぶん不遇だったようだが、今やマスターは俺に政権交代…！@　任せてくれ。@みんなの人気がドーンと上がるように、俺が出番や見せ場を、いっぱい増やしてやるぜ！」\
-`"Geez, how careless of me...`@` If I sympathize with you about the popularity poll results, I should try and do something about it.`@` Popularity is proportional to the amount of time you get to shine!..`@` Sorry for not realising that sooner!..`@` It seems you guys were really unfortunate in Beato's and Lambda's scenarios, but now I'm Game Master!"`\
+`"Geez, how careless of me...`@` If I sympathize with you about the popularity poll results, I should try and do something about it.`@` Popularity is proportional to the amount of time you get to shine!..`@` Sorry for not realising that sooner!..`\` It seems you guys were really unfortunate in Beato's and Lambda's scenarios, but now I'm Game Master!"`\
 `"You can count on me.`@` To make your popularity go way up, I'll make sure to give you guys tons of scenes!"`\
 ;＜戦人
 
