@@ -8790,7 +8790,7 @@ bg Mlib_1ep,1
 quakey 3,280
 
 ;БuВљВЊВµБI@Б@ВЃВЅВ–ВЅВ–ВЅВ–БI@Б@КGЙHФМХкВ≥ВсВрИкФ”БAО©ЧRВ…В≥ВєВƒВаВзВЅВњВбВ§ВѓВ«В»ВЯБH@/
-`"However!`@` Guhihihi!`@` I'll be borrowing Eva-obasan for one night! `@/
+`"However!`@` Guhihihi!`@` I'll be borrowing Aunt Eva for one night! `@/
 ;!s0Б@ВїВћ/
 ;!d400ВљВдВс/
 !s0`Her `/
@@ -9186,12 +9186,12 @@ bg portrait6,11
 ` Battler was now wearing a cape he found somewhere,`@` and sitting on a ridiculous throne, looking down arrogantly.`\
 
 ;Б@ОµОoЦЕВЌжмВЂБAВ«В§В…В©ПoФ‘ВрВаВзВ¶В»ВҐВ©В∆СiВ¶ВйБcБB\
-` —емь сестЄр встали перед ним на колени, пыта€сь обратитьс€ к нему насчЄт роли...`\
+` The Seven Sisters kneeled before him, trying to somehow appeal to him for a role.`\
 
 ld c,BUT_FutekiA1,24
 
 ;БuБcБcВҐВжВІБAГЛГVГtГ@Б[БB@В№В≥В©В±ВсВ»УъВ™ЧИВйВ∆ВЌВ»Г@В†В†ВЯБH@Б@ВҐВЅВ–ВЅВ–ВЅВ–БcБBБv\
-`"...ѕривет, Ћюцифер.`@`  то бы мог подумать, что настанет такой день, да-а?`@` »хи-хи-хи..."`\
+`"...Yo, Lucifer.`@` Who'd think a day like this would ever come, eeeeeeh?`@` Ihihi..."`\
 ;БГРнРl
 
 bg Mlib_1dp,0
@@ -9199,7 +9199,7 @@ ld r,RG1_OdorokiA2,24
 ld r,RG1_IkariA1,80
 
 ;БuВ≠БAБcБcБcВ≠БcГbБBБv@
-`" ...кх......"`\
+`"Kh..."`\
 ;БГГЛГVГtГ@Б[
 
 se1 52
@@ -9207,16 +9207,16 @@ ld l,RG7_NakuA1,0
 print 99,1000,"breakup.dll/llb"
 
 ;БuРнРlВ≥В№Г@БI@Б@ОДВљВњБAПoФ‘В™Ч~ВµВҐВ≈ВЈВ£БIБv@
-`"√осподин Ѕаттлер!`@` ћы хотим роли!"`\
+`"Master Battler!`@` We wanna have roles!"`\
 se1 52
 ld c,RG5_IkariA2,0
 print 99,1000,"breakup.dll/llb"
 
 ;БuЙљВ≈ВаМЊВ§В±В∆ХЈВЂВ№ВЈВ©ВзБAУoПкВ≥ВєВƒЙЇВ≥ВҐВ°ВҐВ°БIБv@
-`""ћы сделаем всЄ, что попросите, поэтому дайте нам ро-о-оли!""`\
+`""We'll do anything you want, so please give us roooooles!""`\
 
 ;Б@ОoЦЕВљВњВЌБAжмВҐВƒНІКиВЈВйВжВ§В…СiВ¶ВйБB\
-` ”мол€ли сЄстры на колен€х.`\
+` The sisters pleaded on their knees.`\
 
 mcl c,0
 bg Mlib_1cp,23
@@ -9224,21 +9224,21 @@ bg Mlib_1cp,23
 ld l,BUT_NayamuA2,23
 
 ;БuВ”ВёВ”ВёБB@ВUРlВЌУoПкВЈВйЛCВ™В†ВйВЁВљВҐВЊВ™БA@ГЛГVГtГ@Б[ВЊВѓВЌВїВћЛCВ™В»ВҐВжВ§ВЊВ»ВЯБHБv@
-`"’м-хм.`@` ѕохоже, шестеро из вас хот€т по€витьс€ в истории,`@` и только Ћюцифер не хочет."`\
+`"Nfufufu.`@` It seems that only the six of you want to be in my story, but...`@` Lucifer alone does not."`\
 ;БГРнРl
 
 ld r,RG1_IkariA2,24
 
 ;БuБcБcВ†БA!d800БcБcВ†ВсВљВ…УyЙЇНјВЈВйВ≠ВзВҐВ»ВзБA!d800УсУxВ∆ПoФ‘В™В»В≠ВљВЅВƒХљЛCВжБcБI@Б@ВЊБA!d800БcБcТNВ™В†ВсВљВ»ВсВ©В…жмВ≠ВаВсВ≈ВЈВ©ГbБcБIБv\
-`"...≈-`!d800`если дл€ этого мне нужно встать перед тобой на колени,`!d800` € не против хоть навсегда остатьс€ без роли!..`!d800`  -кто бы стал вставать перед тобой на колени?!.."`\
+`"...Yeah!`!d800` If I have to kneel before you for it,`!d800` I don't care if I never get a role again for the rest of my life!..`!d800` Who would ever kneel before you!?"`\
 ;БГГЛГVГtГ@Б[
 
 ld l,BUT_futekiA3,80
 
 ;БuЧщНЦВћОµОoЦЕВЌБAВVРlВ≈ГZГbГgВЊВ©ВзВ»ВЯБB@ВPРlВ≈ВаФљНRУIВ»ГДГcВ™ВҐВйВ»ВзБA/
-`"—емь сестЄр чистилища - группа из семи.`@` –аз одна не повинуетс€, `/
+`"But the Seven Sisters of Purgatory are a unit of seven.`@` If one does not obey me, `/
 ;!s0ВвВЅВѕВиПoФ‘ВЌВ»ВµВЊВ»ВЯБHБv/
-!s0`остальные, думаю, тоже ничего не получат?"`/
+!s0`I guess that means none of you get any roles."`/
 se1v 57,100
 se2v 75,100
 quakey 2,400
@@ -9251,22 +9251,22 @@ quakey 2,300
 
 
 ;БuБuБuВїБAВїВсВ»В†В†ВЯВ†В†БAРнРlВ≥В№ВЯВ†В†В†ВЯБIБIБvБvБv\
-`"""Ќ-не на-а-а-адо так, господин Ѕаттле-е-е-ер!!!"""`\
+`"""Ddddddon't dooooooooooo this tooooooooooo us, Master Battleeeeeeeeer!"""`\
 
 bg Mlib_1dP,0
 ld c,RG1_IkariA1,23
 ld l,RG3_OdorokiA1,23
 ;!s0БuВ±ГbБAВ±ВћФnО≠ОoГbБIБI/
-`"√-глупа€ сестра!`/
+`"Stupid sis!`/
 se1 11
 quakex 3,400
 ;!sd@Б@В†ВсВљИкРlВћИ”ТnВ≈ОДВљВњСSИхВ™ЦјШfВЈВйВћВжБIБv@
-!s0` »з-за твоего упорства у нас непри€тности!"`\
+!s0` Your stubborness is causing all of us trouble!"`\
 
 ld r,RG2_OdorokiA2,24
 
 ;БuВўВзБ[БI@Б@УyЙЇНјВµВƒО”ВиВ»В≥ВҐВжБ[БIБv@
-`"ƒавай!`@` ѕади на колени и извинись!"`\
+`"Do it!`@` Kneel and apologise!"`\
 
 cl c,0
 
@@ -9283,7 +9283,7 @@ quakey 3,600
 ld c,RG5_AkuwaraiA2,23
 
 ;БuВїВ§ВїВ§КzВрП∞В…ВЃВиВЃВиЙЯВµХtВѓВƒО”ВиВ»В≥ВҐВжБ[БIБv\
-`"¬ерно, верно! ѕрижми лоб к полу и вымаливай прощение!" `\
+`"Yeah, yeah! Press your forehead to the floor and apologize!" `\
 textoff
 se1 12
 msp msp_c,0,120
@@ -9295,41 +9295,41 @@ se1 13
 quakey 2,400
 
 ;Б@ЦЕВљВњВ™СНВ™В©ВиВ≈ГЛГVГtГ@Б[ВрСgВЁХЪВєБAП∞В…ЙЯВµТ„ВЈВжВ§В…Ц≥ЧЭВвВиУyЙЇНјВ≥ВєВйБB@
-` ¬се младшие сЄстры накинулись на Ћюцифер и, прижима€ к полу, вынуждали еЄ склонить колено. `\
+` The younger sisters all held Lucifer down together, and forced her to her knees by pushing her against the floor.`\
 
 ;Б@ГЛГVГtГ@Б[ВЌВїВкВ≈ВаЛьХЮВЈВ№ВҐВ∆БAОХзaВиВµВ»В™ВзЧ№ВрКђВ¶ВƒВҐВйБB\
-` Ћюцифер по-прежнему отказывалась сдатьс€ и сдерживала слЄзы, скрип€ зубами.`\
+` Lucifer refused to give it up, holding back tears and grinding her teeth.`\
 
 bg Mlib_1bP,0
 ld c,RG4_KomaruA2,24
 ;БuРнРlВ≥В№ВЅБAВ±ВћТ ВиГЛГVОoВаО”ВЅВƒВ№ВЈВћВ≈БAВ«В§В©У{ВиВрМдР√ВяЙЇВ≥ВҐБBБv@
-`"√осподин Ѕаттлер, Ћюци тоже просит прощени€, поэтому, прошу, не гневайтесь."`\
+`"Master Battler, Lucy is also asking for forgiveness, so please calm your rage."`\
 ;БГГxГЛГtГFГSБ[ГЛ
 
 se1 4
 ld r,RG7_WaraiA2,24
 
 ;БuВЊВ©ВзСfУGВ»Й§ОqЧlВ∆ВћПoЙпВҐВћПoФ‘ВрВњВеВ§ВЊВҐБ`БIБv@
-`"“ак что дайте мне роль, в которой € встречаю прекрасного принца!"`\
+`"Please give me a role where I meet a handsome prince!~"`\
 ;БГГAГXГВГfГEГX
 se2 47
 ld l,RG6_WaraiA1,23
 
 ;БuОДБAВ®ВҐВµВҐВћВ™ВҐВЅВѕВҐРHВ„ВзВкВйПoФ‘В™ВҐВҐБ`БIБIБv\
-`"ƒайте мне роль, где € ем много вкусной еды!"`\
+`"Please give me a role where I eat a lot of yummy food!~"`\
 ;БГГxГЛГ[ГuГu
 
 bg Mlib_1cP,0
 ld c,BUT_WaraiA1,24
 
 ;БuВїВ§В©ВїВ§В©БB@ЙіВћЛ@МЩВ≥В¶ТЉВкВќБAВ«ВсВ»ПoФ‘ВаМ©ВєПкВаОvВ§В№В№ВЊВµВ»Б`БB@/
-`"ясно, €сно.`@` „то ж, в хорошем настроении € дам вам любую роль, какую захотите. `@/
+`"Alright, alright.`@` Well, if I would be in a good mood right now, I would give you any role you want. `@/
 
 se1 48
 ld c,BUT_WaraiA2,80
 
 ;В†Б[М®В™Л√ВЅВљВЇБ[БBБv@
-`ј-а, у мен€ так затекли плечи."`\
+`But, ahhh, my shoulders are so stiff."`\
 ;БГРнРl
 
 
@@ -9339,12 +9339,12 @@ se1 52
 print 99,800,"breakup.dll/llB"
 
 ;БuБuВЌБ[ВҐБAВ®ЭЖВЁВµВ№Б[ВЅВЈВЅБIБIБvБv\
-`""Ќет проблем, мы помассируем!""`\
+`""Oka~y, we'll rub them!""`\
 
 ld c,BUT_FutekiA1,80
 
 ;БuВ†Б[БAВ”В≠ВзВЌВђВаЛ√ВЅВљВ»Б[БAЭЖВсВ≈В≠ВкВЋВ•В©В»Б`БIБv@
-`"Ќоги у мен€ тоже затекли. ћожете помассировать и их?"`\
+`"Aah, my calves are pretty stiff, too. Could you rub those, too~?"`\
 ;БГРнРl
 
 
@@ -9354,41 +9354,41 @@ print 99,800,"breakup.dll/llB"
 
 
 ;БuВЌВҐБAВ®ФCВєВрБIБv@/
-`"ƒа, положитесь на мен€!"`@/
+`"Yes, leave it to me!"`@/
 lsp 906,":a;bmp2\TATI\RG4\1\RG4_WaraiA1.bmp",340,0
 se1 52
 print 99,800,"breakup.dll/llB"
 ;БuМдИ”БIБv\
-` " ак пожелаете!" `\
+` "As you wish!" `\
 
 cl c,0
 
 ld c,BUT_NayamuA3,80
 
 ;Б@ЙEВћВ”В≠ВзВЌВђВрГ}ГВГУВ…БB@НґВћВ”В≠ВзВЌВђВрГxГЛГtГFВ…ЭЖВсВ≈ВаВзВ§БB@
-` ћаммон массирует мою правую ногу.`@` Ѕельф - левую.`\
+` Mammon is taking care of my right calf.`@` Belph is massaging my left calf.`\
 
 ;Б@ЙEВћШrВрГAГXГВВ…БB@НґВћШrВрГxГЛГ[В…ЭЖВсВ≈ВаВзВ§БB\
-` јсмо массирует мою правую руку.`@` ¬ельз - левую.`\
+` Asmo is taking care of my right arm.`@` Beelz is massaging my left arm.`\
 
 csp -1
 bg black,26
 ;Б@В†ВЯБAНґЙEВћУсВћШrВ™БcБcБA/
-` ј-а, обе мои руки...`/
+` Ahhh, my two arms...`/
 
 se1 48
 quakey 1,200
 ;ЙЈВ©В»Й ОјВ…Л≤В№ВкВƒБA/
-`зажаты между тЄплыми фруктами.`/
+` are being held between warm fruits.`/
 !d200
 se2 48
 quakey 1,200
 ;БcБcВµБAОКХЯВЊБcБcБB\
-` ... -какое блаженство...`\
+` ...W-What bliss...`\
 
 
 ;Б@БcБcВћВнВЯВ†В†В†БAЙљВƒГQБ[ГАГ}ГXГ^Б[ВЌСfР∞ВзВµВҐВсВЊБcБB@ГQБ[ГАГ}ГXГ^Б[ЦЬНќБIБI@/
-` ...Ќичего себе, быть ¬ладельцем игры так при€тно...`@` ƒа здравствует ¬ладелец игры! `@/
+` ...Damn, being a Game Master is fantastic...`@` All hail the Game Master! `@/
 
 textoff
 se1 20
@@ -9398,7 +9398,7 @@ wait 200
 se3 20
 wait 600
 ;!s0Б@ЙіВЌР_ВЊБAРVВљВ»ГQБ[ГАВћР_В∆В»ВйВ£В§В§В§ГbБIБI/
-!s0`я - бог, бог новой игры!`/
+!s0`I am a god of this new game!`/
 se1v 57,70
 se2v 74,70
 
@@ -9411,7 +9411,7 @@ bg Mlib_1eP,26
 
 
 ;БuВUРlВћЦЕВљВњВЌВ∆ВаВ©В≠Б`БB@ВdВoВRВ≈ГЛГVГtГ@Б[В…ВЌВЄВҐВ‘ВсРҐШbВ…В»ВЅВљВсВЊВжВ»ВЯБ`БB@НYВ∆В©В≈ЙљУxВаЭPВзВкВƒБAВЃВиВЃВиВЃВиВЃВиБAВЃВиВЃВиВЃВиВЃВиВЃВиВЃВиБ[БI@Б@В†Б[БAОvВҐПoВµВљВЊВѓВ≈ВаГnГЙГПГ^В™ОѕВ¶В≠ВиХ‘ВйВ£В§В§В§БIБv\
-`"ћладшие сЄстры чисты.`@` Ќо € обижен на Ћюцифер за третий эпизод.`@` “ы столько протыкала мен€ своим кинжалом, пронзала, пронзала, пронзала, пронзала и пронзала!`@` ј-а, даже вспоминать непри€тно!"`\
+`"The six younger sisters are now forgiven~`@` But I'm still mad at Lucifer for EP3.`@` You gouged and stabbed me so many times with that stake of yours, stabbing, stabbing, over and over!`@` Dammit, just remembering it is painful!"`\
 ;БГРнРl
 
 bg black,22
@@ -9419,18 +9419,18 @@ bg Mlib_1dp,0
 ld r,RG7_AkuwaraiA1,24
 
 ;БuВ†Б[Б[БAВ≈ВµВљВзГ@БB@Н°УxВЌЛtВ…ГBБAРнРlВ≥В№В™ГЛГVОoВрЭPВиХ‘ВµВƒВвВЅВљВзВҐВҐВ∆ОvВҐВ№Г@ВЈБBБv@
-`"ј-а, ну тогда-а...`@`пусть на этот раз господин Ѕаттлер проткнЄт Ћюци."`\
+`"Oh well~ `@`I suppose it's Battler's turn to stab Lucy."`\
 
 ld l,RG6_WaraiA1,23
 
 ;БuВїВкВ™ВҐВҐВ∆ОvВҐВ№Г@ВЈБI@Б@РнРlВ≥В№ВћЛCВ™НѕВёВ№В≈БAИкФ”ТЖГCГWГБВњВбВЅВљВзВҐВҐВ∆ОvВҐВ№Г@ВЈБIБv\
-`" лассна€ иде€!`@` ѕусть господин Ѕаттлер издеваетс€ над ней всю ночь напролЄт, пока не станет доволен!"`\
+`"Great idea!`@` Until Master Battler is satisfied, he should torture her all night long!"`\
 
 bg Mlib_1aP,0
 ld c,RG1_OdorokiA1,23
 
 ;БuВ»БAБcБcЙљМЊВЅВƒВсВћВжБAВ®СOВљВњГbБHБI@/
-`"„-что вы сказали?! `@/
+`"W-what are you saying?! `@/
 
 ld l,RG2_AkuwaraiA1,23
 se1 13
@@ -9438,30 +9438,30 @@ quakex 2,200
 ld c,RG1_OdorokiA2,80
 
 ;Б@ВњВеБAВњВеВЅВ∆ГbБAЧ£ВµВ»В≥ВҐВжГbБIБv\
-`Ё-эй, отпустите!"`\
+`H-hey, let me go!"`\
 ;БГГЛГVГtГ@Б[
 
 
 ld l,RG2_AkuwaraiA4,80
 
 ;БuОДБAТmВЅВƒВйВсВЊВ©ВзГ@БB@ГЛГVГtГ@Б[В®ОoЧlВЌГ@БAФwТЖВ™ОгВҐВсВЊВжВжВЋГFБcБHБv@
-`"ќ, € знаю, сестра Ћюцифер.`@` “воЄ слабое место - это ведь спина?.."`\
+`"Oh, I know, Sis Lucifer.`@` Your weak spot is your back, right?.."`\
 ;БГГМГФГBГAГ^ГУ
 
 ld c,RG1_OdorokiA3,80
 
 ;БuВњВеГbБAГМБAГМГФГBГAБHБI@Б@В«БAВ«В§ВµВƒВ†ВсВљБAВїВсВ»В±В∆ВрГbБHБIБv\
-`"ѕо-... Ћ-Ћеви€?!`@` ќ-откуда ты знаешь?!"`\
+`"L-Levia?!`@` H-how do you know that?!"`\
 ;БГГЛГVГtГ@Б[
 
 
 ld l,RG2_AkuwaraiA2,80
 
 ;БuВ†ВсВљВћОгУ_В»ВсВƒВЁВсВ»ТmВЅВƒВйВнВжГbБIБI/
-`"¬се знают твои слабые места! `/
+`"Everyone knows your weak spot! `/
 
 ;@Б@ТmВзВ»ВҐВћВЌТmВзВкВƒВ»ВҐВ∆ОvВЅВƒВйВ®ОoЧlВЊВѓВ≈ВµВеГbБHБI@Б@ВЊВ©ВзРуВЌВ©В»ВћВжВ®ОoЧlВЌГbБIБIБv\
-@`“ы единственна€ думала, что мы не знали!`@` “ы слишком беспечна, сестра!"`\
+@`You were the only one who thought we didn't know, weren't you!`@` You're too careless, Sis!"`\
 ;БГГМГФГBГAГ^ГУ
 
 cl l,24
