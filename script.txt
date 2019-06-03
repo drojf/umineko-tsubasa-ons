@@ -8685,13 +8685,13 @@ ld c,NAT_OdorokiA2,80
 ld c,NAT_KomaruA1,80
 
 ;БcВЁБA!d800БcБcРЕТЕВ≈БA!d800БcБcХGЦНБcБcБA!d800БcБcВµВ№ВЈБcБcБBБv\
-`  ...я...€...`!d800`надену купальник...`!d800`и буду твоей...`!d800`коленной подушкой..."`\
+` ...I...I will`!d800`... wear a swimsuit`!d800 `... and act as your`!d800`... lap pillow..."`\
 ;БГЙƒФ№
 bg Mlib_1ep,26
 ;quakey 2,400
 
 ;БuВ§ВЅВ–ВбВЅВўВІВ®В®В®В®В®В®В®ВІВ®В®БIБIБv\
-`"ќ, да-а-а-а-а!"`\
+`"Oh yeaaaaaaaaah!"`\
 ;БГРнРl
 textoff
 wait 500
@@ -8724,11 +8724,11 @@ ld l,HID_MajimeA1,0
 ld r,EVA_KomaruA1,10
 
 ;Б@ЙўОqР№ВиВрОЭВЅВƒБAПчО°ВћИкЙ∆ВаВвВЅВƒЧИВйБB\
-` ƒалее пришла семь€ ƒжорджа с коробкой печень€.`\
+` Next, George's family arrived carrying a box of biscuits.`\
 ld c,GEO_KomaruA2,80
 
 ;БuВЏБAЦlВљВњИкЙ∆ВаБAУoПкВ…ВЌВїВћБA!d800БcБcПрМПВ™В†ВйБAБcВћВ©В»БBБv\
-`"”...у теб€, э-э...`!d800`есть услови€ дл€ того, чтобы наша семь€ по€вилась в истории?"`\
+`"D-Do you, um...`!d800` have conditions for our family to get screentime, too?"`\
 ;БГПчО°
 
 
@@ -8736,24 +8736,24 @@ cl l,0
 ld l,HID_KomaruA2,80
 
 ;БuВнВµВ≈ВжВѓВкВќЙљВ≈ВаВЈВйБcБI/
-`"я сделаю что угодно!..`/
+`"Ah'll do anythin'!..`/
 
 se1 11
 quakex 3,220
 
 ;@Б@ЧКВёВ©ВзЙ∆С∞В…ВҐВҐПoФ‘ВрВ≠ВкВљВЅВƒВвБI@Б@ЧКВёВ£В§В§В£БIБIБv@
-@` ѕрошу, ты должен дать нашей семье роли!`@` ѕожа-а-а-алуйста!" `\
+@` Please, ya gotta give our family roles!`@` Pleaaaase!" `\
 ;БГПGЛg
 
 ld r,EVA_OdorokiA2,80
 
 ;!s0БuОДВ∆ОеРlВћПoФ‘ВЌВҐВҐВсВ≈ВЈБcБI/
-!s0`"«абудь о нас с мужем!.. `/
+!s0`"Forget me and my husband! `/
 
 se2 12
 quakex 2,180
 ;!sd@Б@В≈ВаПчО°ВЊВѓВЌВЅБAПчО°ВЊВѓВЌСfУGВ»ПoФ‘ВрЧ^В¶ВƒВвВЅВƒЙЇВ≥ВҐВ°БIБv\
-!sd@`Ќо хот€ бы дай ƒжорджу прекрасную роль!"`\
+!sd@`But please, at least give George a wonderful role!!"`\
 ;БГКGЙH
 
 mcl a,0
@@ -8763,13 +8763,13 @@ bg Mlib_1dP,0
 ld r,BUT_FutekiA1,24
 
 ;БuВїВ§ВЊВ»ВЯБAПчО°ВћМZЛMВ…ГJГbГ`ГЗГCГCБ`ГoГgГЛГVБ[ГУВ≈ВћКИЦфВрЧ^В¶ВƒВаВҐВҐВ»ВЯБHБv\
-`"Ћадно.`@` ƒу-умаю, € дам ƒжорджу крутую сцену бо€.`@` —ойдЄт?"`\
+`"Very well.`@` I gueeess I'll give George a kickass battle scene.`@` That alright?"`\
 ;БГРнРl
 
 ld l,HID_WaraiA2,23
 
 ;БuВўБAВўВсВ№В©ВҐВ»БHБI@Б@РнРlВ≠ВсБAВ†ВиВ™В∆В§В»ВЯБ`БIБI@Б@ВўВсВ№В®В®ВЂВ…В»ВЯБIБIБv\
-`"ѕ-правда?!`@` —пасибо, Ѕаттлер!`@` Ѕольшое спасибо!"`\
+`"R-Really?!`@` Thank ya, Battler!`@` Thank ya so much!"`\
 ;БГПGЛg
 
 textoff
@@ -8790,25 +8790,25 @@ bg Mlib_1ep,1
 quakey 3,280
 
 ;БuВљВЊВµБI@Б@ВЃВЅВ–ВЅВ–ВЅВ–БI@Б@КGЙHФМХкВ≥ВсВрИкФ”БAО©ЧRВ…В≥ВєВƒВаВзВЅВњВбВ§ВѓВ«В»ВЯБH@/
-`"ќднако!`@` √у-хи-хи-хи!`@` я одолжу тЄтю ≈ву на один вечер! `@/
+`"However!`@` Guhihihi!`@` I'll be borrowing Eva-obasan for one night! `@/
 ;!s0Б@ВїВћ/
 ;!d400ВљВдВс/
-!s0`≈Є `/
-!d400`гламурное, `/
+!s0`Her `/
+!d400`glamorous, `/
 
 se1 48
 quakey 1,100
 ;ВљВдВс/
-`неистовое, `/
+`outrageous, `/
 se1 48
 quakey 1,100
 ;!sdВ≈ГOГЙГ}ГЙГXВ»ВѓВµВ©ВзВсГ{ГfГBВ≈БAВҐВЅВ–ВЅВ–ВЅВ–БI@Б@РЕТЕОpВ≈ОиЧњЧЭВ≈ВаНмВЅВƒВаВзВЅВƒБAФ”ОёВ≈ВаВµВƒВаВзВЅВњВбВ®ВЅВ©В»ВЯБ`БA/
-!sd`сексуальное тело, ихи-хи-хи!`@` ¬ы приготовите мне ужин в нар€де девушки-кролика и нальЄте вечерний напиток!`/
+!sd`sexy body of hers, ihihihi!`@` I'll have you cook for me in a bunny girl outfit, and maybe pour me an evening drink!~`/
 
 se1 3
 
 ;@В ВЅВ”В”В”В”ВЅВ”ВЅВ”В£БIБIБv\
-@` Ёхе-хе-хе-хе-хех!"`\
+@` Nfufufufufufu!"`\
 ;БГРнРl
 
 bg black,23
@@ -8816,23 +8816,23 @@ bg Mlib_1bP,0
 ld c,HID_KomaruA2,64
 
 ;!s0БuВїБAВїВсВ»БcБIБI/
-!s0`"Ќ-ни за что!..`/
+!s0`"N-never!..`/
 se1 12
 quakey 3,200
 
 ;!sd@Б@КGЙHВЌКђФEВµВљВЅВƒВвБI@Б@СЉВћВ±В∆В»ВзЙљВ≈ВаБcБIБIБv@
-!sd@` Ќе вт€гивай ≈ву!`@` я сделаю всЄ, что захочешь!.."`\
+!sd@` Leave Eva outta this!`@` I'll do anythin' ya want myself!.."`\
 ;БГПGЛg
 
 ld l,EVA_KomaruA4,24
 
 ;БuБcБcВҐБA!d800БcБcВҐВҐВнБAВ†В»ВљБcБcБB@/
-`"...¬-`!d800`всЄ хорошо, дорогой...`@/
+`"...It's...`!d800` it's okay, dear...`@/
 
 ld l,EVA_NakuA1,80
 
 ;БcБcПчО°ВћВљВяВ»ВзБA!d800БcБcБcОДБAБcБcБcБBБv\
-` ≈сли это ради ƒжорджа,`!d800` ...€..." `\
+` For George, I...`!d800` will..." `\
 ;БГКGЙH
 
 textoff
@@ -8856,7 +8856,7 @@ bg black,22
 
 
 ;Б@В№ВЈВ№ВЈР}В…ПжВйРнРlВћВаВ∆В÷БAН°УxВЌШOНјИкЙ∆ВаБB\
-`  огда Ѕаттлера стало заносить всЄ дальше, к нему пришла –оза. `\
+` As Battler became more and more carried away, Rosa appeared before him.`\
 
 
 bg Mlib_1aP,0
@@ -8866,7 +8866,7 @@ ld r,SAK_KomaruA2,24
 ld c,ROS_KomaruA3,80
 
 ;БuРнРlВ≠ВсБcБB@ВїВћБAБcБcР^ЧҐШ±В…ВаПoФ‘ВрБcБcБBБv\
-`"Ѕаттлер...`@` Ё-э, ...по поводу роли ћарии..."`\
+`"Battler...`@` Ehh..., about Maria..."`\
 ;БГШOНј
 
 mcl c,0
@@ -8875,7 +8875,7 @@ ld c,BUT_WaraiA1,24
 se1 47
 
 ;БuВЃВЅВ”ВЅВ”ВЅВ”Б`БIБI@Б@ВїВкВЌВаВњВлВсН\ВнВЋВ•ВѓВ«В≥ВЯБAШOНјПfХкВ≥Г@ВсБH@/
-`"√у-фу-фу-фу-у!`@`  онечно, € не против дать ей роль, но, тЄт€ –оза?` @/
+`"Gufufufu~!`@` Of course I don't mind giving her one, but Aunt Rosa?` @/
 
 se2 5
 mbg white,1
@@ -8883,7 +8883,7 @@ ld c,BUT_WaraiA2,0
 mcbg 80
 
 ;Б@РlВ…В®КиВҐВЈВйВ»ВзБAМ©Х‘ВиВЅВƒВаВсВ™В»ВҐВ∆В»ВЯВ†В†ВЯБHБv\
-` ≈сли просите об одолжении, нужно отплатить тем же, не та-ак ли?"`\
+` If you ask someone for a favor, you've got to pay them back, riiiight?"`\
 ;БГРнРl
 
 se1 22
@@ -8906,10 +8906,10 @@ quakey 3,1000
 ;!d600В«БA/
 ;!d800БcБcВ«В§ВµВлВ∆ВҐВ§ВћБcБcБBБv/
 
-!s0`"—-`/
-!d800`...спортивна€ форма?.. `/
-!d600`«-зачем ты...`/
-!d800`хочешь, чтобы € еЄ надела?.."`/
+!s0`"This is... `/
+!d800`a gym uniform? `/
+!d600`W-why do you...`/
+!d800`want me to wear?.."`/
 !sd\
 ;БГШOНј
 
@@ -8921,7 +8921,7 @@ bgcopy
 csp2 6
 
 ;БuШOНјПfХкВ≥ВсВ…ВЌБAРЕТЕОpВ≈ФwТЖВ≈ВаЧђВµВƒВаВзВЅВњВбВ®ВЅВ©В»ВЯБ`БH@/
-`"“Єт€ –оза-а, думаю, вы будете мыть мне спину в этой форме!`@/
+`"Aunt Rosaaa, I think I'll have you wash my back while wearing this gym uniform!~`@/
 
 bg black,0
 bg "bmp\background\sbook\zoom\2.png",0
@@ -8931,7 +8931,7 @@ bgcopy
 csp2 6
 
 ;Б@ВЃВЅВ–ВбВЅВ–ВбВЅВ–ВбВ†В†Б`БIБIБv\
-` √у-хь€-хь€-хь€-а-а!"`\
+` Guhyahyahyaaah!~"`\
 ;БГРнРl
 
 
@@ -8962,7 +8962,7 @@ msp msp_r,160,0
 print 80
 
 ;БuБcБcБcЙљВ∆ВҐВ§В±В∆В≈ВµВеВ§БcБB@РнРlВ≠ВсВ™ГQБ[ГАГ}ГXГ^Б[ВћИ√НХЦ В…С¬ВњВƒВµВ№В§В»ВсВƒБcБcБBБv@
-`"... акой ужас...`@`  то бы мог подумать, что Ѕаттлер уступит тЄмной стороне ¬ладельца игры..."`\
+`"...This is terrifying...`@` To think that Battler would succumb to the dark side of being the Game Master.."`\
 ;БГГПГЛГMГКГA
 
 
@@ -8971,7 +8971,7 @@ ld l,RON_AkuwaraiA1,0
 print 99,1000,"breakup.dll/lrb"
 
 ;БuНЫВкНЫВкВЈВйЦ\СЦВ‘ВиВ≈ВЈВ»ВЯБB@В’ВЅВ≠ВЅВ≠БcБIБv\
-`"ќн устроил весьма очаровательное шоу.`@` ѕу-ку-ку!.."`\
+`"He's set up quite a charming show.`@` Pukuku!.."`\
 ;БГГНГmГEГF
 mcl a,0
 bg black,22
@@ -8983,30 +8983,30 @@ bg M2F_P1d,0
 ld r,BUT_DefA2,24
 
 ;БuВ®В§БAГНГmГEГFВ…ГПГЛГMГКГAВ©БB@В†ВсВљВзВ…ВЌРҐШbВ…В»ВЅВљВ©ВзВ»БB@/
-`"ќ, –онове и ¬ергили€!`@` я вам должен. `@/
+`"Oh, Ronove and Virgilia!`@` I owe you guys.`@/
 
 ld r,BUT_DefA1,80
 
 ;ИјРSВµВ»БAУЅВ…ЙљВћПрМПВаВ»В≠БAОЯЙсВћГGГsГ\Б[ГhВ≈ВаПoФ‘ВрЧpИ”ВµВƒВвВйВЇБBБv@
-`Ќе беспокойтесь, в следующем эпизоде у вас об€зательно будут роли." `\
+` Don't worry, I'll make sure to give you roles in the next episode." `\
 ;БГРнРl
 
 ld l,RON_WaraiA2,23
 
 ;БuВ®ВвВ®ВвБAВїВкВЌЦ{УЦВ≈ВЈВ©БB@В±ВкВЌВ†ВиВ™ВљВҐВ≈ВЈВ»БBБv\
-`"ќ, надо же.`@` я искренне благодарен."`\
+`"Oh my, that's unexpected.`@` I'm truly grateful."`\
 ;БГГНГmГEГF
 
 ld r,BUT_WaraiA2,80
 
 ;БuЙіВЌВ±В§М©В¶ВƒВаБAОуВѓВљЙґВЌЦYВкВЋВ•ТjВЊВЇБB@ВҐВЅВ–ВЅВ–ВЅВ–БIБv@
-`"„то бы вы ни думали, € не забываю о своих долгах.`@` »хи-хи-хи!"`\
+`"No matter what you may think, I don't forget my debts.`@` Ihihihi!"`\
 ;БГРнРl
 
 ld c,WAL_IkariA1,23
 
 ;БuБcБcРнРlВ≠ВсБB@ВЁВсВ»ПoФ‘В™Ч~ВµВ≠ВƒХKОАВ»ВсВ≈ВЈБB@ВїВћЛCОЭВњВрШMВ‘ВжВ§В»В±В∆ВЌВвВяВƒВ†В∞ВƒЙЇВ≥ВҐБcБBБv\
-`"...Ѕаттлер.`@` ¬се отча€нно хот€т получить роли.`@` ѕерестань игратьс€ с этими чувствами..."`\
+`"...Battler.`@` Everyone here desperately wants a role.`@` Please stop playing with people's feelings..."`\
 ;БГГПГЛГMГКГA
 
 E_MA
@@ -9015,24 +9015,24 @@ bgm1 146
 ld r,BUT_FutekiA1,80
 
 ;БuВҐВ≠ВзГПГЛГMГКГAВћЧКВЁВ≈ВаБAВїВкВЌХЈВѓВЋВ•ВЇБ`БЩ@/
-`"ƒаже если ты просишь, ¬ергили€, боюсь, € не могу-уЏ09734  `@/
+`"Even if it's your request, Virgilia, I'm afraid I can't comply!~ `@/
 
 ld r,BUT_futekiA2,80
 
 
 ;Б@ЙљВµВлЙіВЌБAЙґВЌЦYВкВЋВ•В™БAН¶ВЁВаМИВµВƒЦYВкВЋВ•ТjВЊВ©ВзВ»ВЯБ`БI@Б@ВїВ§ВїВ§БAГНГmГEГFБB@/
-`¬едь € не забываю не только о долгах, но и об обидах!`@` јх да, –онове. `@/
+`After all, I don't forget my debts, but I don't forget my grudges either~!`@` Oh, right, Ronove. `@/
 
 se1 1010
 
 ;В±ВкБAНРО¶ХґВЋБB@У\ВЅВ∆ВҐВƒВ≠ВкБBБv@
-`¬от объ€вление.`@` ѕовесь куда-нибудь."`\
+`Here's an announcement.`@` Please post it somewhere for me."`\
 ;БГРнРl
 
 ld l,RON_AkuwaraiA1,80
 
 ;БuИЎВ№ВиВ№ВµВљБB@БcБcВ®ВвБAВ±ВкВЌБBБv\
-`" ак скажете.`@`  ...ќ, что?"`\
+`"Certainly.`@` ...Oh, my, what is this?"`\
 
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 
@@ -9041,15 +9041,15 @@ bg Mhal_2c,22
 
 locate 0,5
 ;БgЧщНЦВћОµОoЦЕВЌИ»МгБAВЄБ[ВЅВ∆ПoФ‘В»ВµБB@
-` —емь сестЄр чистилища вообще не по€в€тс€ в истории.`@
+` 'The Seven Sisters of Purgatory won't be getting any screentime at all.`@
 br
 ;Б@ИўЛcВ†ВйПкНЗВЌР\ВµПoВйВ±В∆Бh\
-` ≈сли у кого есть возражени€ - приходите, обсудим. `\
+` If anyone has any objections, come talk to me.'`\
 
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
 ;Б@БcБcВїВсВ»ВаВћВ™У\ВиПoВ≥ВкВкВќБA@ОµОoЦЕВЌРнРlВћВ∆В±ВлВ…ВЈВЅФтВсВ≈ЧИВйВµВ©В»ВҐБB\
-` ...≈сли повес€т нечто подобное,`@` —емь сестЄр об€зательно побегут к Ѕаттлеру.`\
+` ...If something like this were posted,`@` there was no doubt the Seven Sisters would run off to see Battler.`\
 
 bg black,22
 bg G1F_S1ap,0
@@ -9057,10 +9057,10 @@ ld r,RG1_OdorokiA1,0
 ld l,RG6_KomaruA1,26
 
 ;Б@ВµВ©ВµВdВoВQВ©ВзУoПкВµВƒВҐВйМ√ОQВ≈В†ВиБA@ВVРlВаВҐВ»В™ВзВїВкВЉВкВ™ИјТиВµВљРlЛCВрОЭВ¬ЧщНЦВћОµОoЦЕБB@
-` Ќо они по€вл€лись в каждом эпизоде, начина€ со второго,`@` и думали, что, как попул€рные —емь сестЄр чистилища, точно получат роли.`\
+` Since the popular Seven Sisters appeared in every episode since EP2,`@` they felt that their role was already secure.`\
 
 ;Б@ВїВкВ™В»ВЇБAН°ЙсВ«В±ВлВ©БAН°МгВћГVГiГКГIСSВƒВ©ВзПoФ‘В»ВµВ∆ВҐВ§В±В∆В…БcБcБB\
-` “ак почему же на этот раз их вдруг не включили в сценарий?..`\
+` So why on Earth would they not be included this time?..`\
 
 bg G1f_S1cp,0
 ld c,RG3_OdorokiA2,64
