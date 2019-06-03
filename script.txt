@@ -8125,7 +8125,7 @@ bg Mlib_1bP,0
 ld c,EV2_NiramuA1,22
 
 ;БuВ«В§БH@Б@РVВµВҐГVГiГКГIБAРiВсВґВбВЅВљВиВµВƒВйГDБHБv\
-`"Ќу что?`@`  ак новый сценарий?"`\
+`"Well?`@` Any progress?"`\
 ;БГГGГФГ@
 
 cl c,0
@@ -8133,37 +8133,37 @@ ld r,EV2_NiramuA1,0
 ld l,BUT_OdorokiA1,23
 
 ;БuКGЙHФМХкВ≥ВсВћТЖКwОЮСгБA/
-`"“Єт€ ≈ва...`/
+`"Aunt Eva... `/
 ;!d800БcБcВґВбВ»В≠ВƒБIБI@Б@ЦВПЧГGГФГ@ВЊВ»БHБI@Б@ЙљВµВ…ЧИВвВ™ВЅВљБBБv\
-!d800`стоп, нет!`@` ¬едьма ≈ва?!`@` «ачем ты пришла?"`\
+!d800` no, wait!`@` EVA?!`@` Why are you here!?"`\
 ;БГРнРl
 
 ld r,EV2_WaraiA1,80
 
 ;БuЙљВЅВƒБAВ≤И•ОAВЋВ•БH@Б@ЙяЛОВћГGГsГ\Б[ГhВ≈ИкФ‘РlЛCВ™В†ВЅВљВћВЌЙљБH@Б@ВdВoВRВґВбВ»Г@ВҐБB@В†ВћГVГiГКГIВ™РЈВиПгВ™ВЅВљВћВЌВ«В§ВµВƒБH@Б@ОДВ∆ВҐВ§НDУGОиВ™КИЦфВµВљВ©ВзВґВбВ»Г@ВҐБB@СfУGВ»ГVГiГКГIВ…ВЌВЋБAСfУGВ»ГЙГCГoГЛВ™МЗВ©ВєВ»ВҐВћБIБv\
-`"ј, ну знаешь.`@`  акой предыдущий эпизод был самым попул€рным?`@` “ретий, верно?`@` ѕо-твоему, почему тот сценарий был таким захватывающим?`@` »з-за мен€, противника.`@` ѕрекрасному сценарию нужен прекрасный противник!"`\
+`"Oh, uhm, you know.`@` Which previous episode was the most popular?`@` The third, "Banquet", right?`@` And why do you think that scenario was so exciting?`@` It was because of me, the rival character.`@` If you have a wonderful scenario, you need to have a wonderful rival to go with it!"`\
 
 ld r,EV2_WaraiA2,80
 
 ;БuВїВкВ…ОДБAВ±В§М©В¶ВƒВаСOЙсРlЛCУКХ[ВЌСжВWИ БI@Б@ВdВoВRИ»Н~БAВўВ∆ВсВ«ПoФ‘В™В»ВҐВ…ВаВ©В©ВнВзВЄВћГgГbГvВPВOГLБ[ГvВЌБAВ≥ВЈВ™ВЊВ∆ОvВнВ»ВҐБH@Б@В§ВЅВ”В”В”В”В”В”БI@Б@В†ВсВљВ≥В¶Ч«ВѓВкВќБAВdВoВUВ…ВаУoПкВµВƒБAВ†ВсВљВрРЈВиПгВ∞ВƒВ†В∞ВƒВаВҐВҐВсВЊВѓВ«ГHБH@Б@В≠ВЈВ≠ВЈВ≠ВЈБAЦ≥ЧЭВµВ»ВҐВ≈УoПкВ≥ВєВњВбВ¶ВќВЯБ`БHБIБv\
-`"» ожидал ты этого или нет, в последнем опросе попул€рности € зан€ла 8-е место!`@` я осталась в первой дес€тке несмотр€ на то, что после третьего эпизода почти не по€вл€лась... –азве не впечатл€ет?`@` ’е-хе-хе-хех!`@` я не против показатьс€ в шестом эпизоде и внести в него волнующие событи€."`\
-`"*хи-хи*хи-хи*хи-хи* ƒавай ты не будешь тратить врем€ на бессмысленное сопротивление и молча отдашь мне роль?!"`\
+`"And even if you wouldn't expect it, I got 8th place in the last popularity poll!`@` Staying in the top 10 when I've had almost no screentime since EP3, don't you think that's just impressive?`@` Ufufufufufufu!`@` I wouldn't mind showing up in EP6 and making things even more exciting."`\
+`"*giggle, giggle, giggle* If only you'd just give me a role!"`\
 ;БГГGГФГ@
 
 cl l,24
 
 ;БuВҐВвВҐВҐБB/
-`"Ќет, спасибо.`/
+`"No, thank you.`/
 
 se1 48
 
 ;@ГЙГCГoГЛВЌК‘В…НЗВЅВƒВйВµБBБv@
-@` ” мен€ уже есть достаточно хороший противник."`\
+@` I've already got a fantastic rival."`\
 ;БГРнРl
 
 ld r,EV2_OdorokiA1,80
 ;БuВ«БAВ«В§ВµВƒВжБHБIБv\
-`" -как так?!"`\
+`"W-whaaat?!"`\
 ;БГГGГФГ@
 bg black,24
 bg Mlib_1ap,0
@@ -8171,13 +8171,13 @@ cl c,0
 ld r,BUT_NayamuA5,24
 
 ;БuБcБcГАГJВ¬В≠ГЙГCГoГЛВЅВ¬Б[И”Ц°В≈ВЌБAП[Х™В…ВаВ§К‘В…НЗВЅВƒВсВЊБB@Г^Г`ВћИЂВ≥ВаХѕС‘УxВаБAВ®СOВ≥ВсВрВЌВйВ©В…ПгЙсВЅВƒВйВЇБBБv@
-`"...ќна идеально подходит на роль раздражающего противника.`@` ¬ своей злобности и извращЄнности она теб€ затмевает."`\
+`"...She fits the role of an annoying rival just perfectly.`@` In her nastiness and perversion, she far outshines you."`\
 ;БГРнРl
 
 ld l,EV2_OdorokiA2,80
 
 ;!s0БuВ»БAЙљВжВїВкВ•В¶В¶В¶В¶В•В¶В¶БHБIБHБIБv/
-!s0`"„-что-о-о-о-о-о?!"`/
+!s0`"Whaaaaaaaat theeeeeee heeeeeeeeeelll?!"`/
 se1 12
 quakey 3,400
 
@@ -8189,18 +8189,18 @@ bg black,0
 ld c,ERI_DefA1,22
 
 ;Б@ГСГКГJВ∆ВЌОЯВћГVГiГКГIВ≈СќМИВЈВйЦсС©ВЊВ©ВзБAУoПкВЌУаТиВµВƒВйБB@
-` ќн пообещал выступить против Ёрики в следующем сценарии и так неофициально предложил ей роль.`\
+` He had promised to confront Erika in the next scenario, thus unofficially offering her a role.`\
 
 ;Б@В¬В№ВиВаВ§БAГЙГCГoГЛВћР»ВЌЦДВ№ВЅВƒВйВнВѓВЊБB@ВїВћИ”Ц°В≈ГLГГГЙВћФнВйГGГФГ@ВћПoФ‘ВЌБAВњВеВЅВ∆НlВ¶ВзВкВ»ВҐБB\
-` ¬ общем, место противника уже зан€то.`@` ѕоэтому он пон€ти€ не имел, куда можно вставить ≈ву, чей характер перекликаетс€ с характером Ёрики.`\
+` In other words, the position of rival was already filled.`@` So he had no idea where he could place EVA, someone whose character overlapped with Erika's.`\
 
 ld c,ERI_WaraiA5,80
 
 ;Б@ГGГФГ@ВаБAВdВoВRВћУЦОЮВ…ВЌБAВ©В»Б[ВиГАГJВ¬В≠ГLГГГЙВ∆ВµВƒУoПкВµВљВнВѓВЊВ™БAГСГКГJВ∆ФдВ„ВйВ∆БAУЅВ…ЙљВ©В™ПGВ≈ВƒВйВЅВƒКіВґВЌВ»ВҐБB@
-`   тому же, ≈ва, показавша€с€ в третьем эпизоде довольно раздражающим персонажем, теперь казалась почти что скучной, если сравнивать с Ёрикой.`\
+` Additionally, EVA, who had seemed like a pretty irritating character when she made her debut in EP3, now seemed almost dull in comparison to Erika.`\
 
 ;Б@ВвВЌВиГСГКГJВЌБAМгПoВµГLГГГЙВЊВѓВ†ВЅВƒБAГXГyГbГNВ™РFБXВ∆НВВҐВ»ВЯВ∆Ф[УЊВЈВйБB\
-`  ак-никак, Ёрика подн€лась очень высоко благодар€ тому, что была из тех персонажей, которые прибегают к дешЄвым трюкам. `\
+` After all, Erika set the bar very high, thanks to her being the type who would resort to cheap tricks.`\
 
 bg black,22
 bg Mlib_1cP,0
@@ -8210,7 +8210,7 @@ ld r,EV2_OdorokiA1,22
 ld l,BUT_DefA1,80
 
 ;БuВ№ВЯБAВїВ§ВҐВ§ВнВѓВЊБB@ЧІВњКGЦљЧяВћГXГNГКГvГgВ™ГoГOВЅВљОЮВ≠ВзВҐВµВ©БAПoФ‘ВЌВЋБ[ВЇБ[БBБv@
-`"„то ж, как видишь.`@` “ы не по€вишьс€, если, конечно, в скрипте дл€ спрайтов не будет ошибки."`\
+`"So, that's the story.`@` Unless there ends up being some kind of a sprite bug in the script, you're not going to appear."`\
 ;БГРнРl
 
 ld r,EV2_OdorokiA2,80
@@ -8218,14 +8218,14 @@ se1 7
 quakey 1,100
 
 ;БuГСБAГСГКГJВЅВƒОqВ…ОДВ™ЧтВйВЅВƒМЊВ§ВћБHБI@Б@ЙљВ™БHБI@Б@В«В§ВµВƒБHБIБHБIБv\
-`"’-хочешь сказать, € хуже этой Ёрики?!`@` „ем?!`@` ѕочему?!"`\
+`"Y-You're saying I'm inferior to this Erika girl?!`@` Why?!`@` In what way?!"`\
 ;БГГGГФГ@
 
 
 ld l,BUT_NayamuA3,80
 
 ;БuБcБcГЙГУГNГIБ[ГЛВrВћТіГXГyГbГNБB@ГАГJВ¬ВЂУxБB@ГwГ^ВкУxБB@УЅВ…ГfГJВҐВћВ™ХѕС‘УxБB@В†ВҐВ¬БAГLГГГЙЧІВњЙяВђВЊВЅВƒБBБv@
-`"...” неЄ есть всЄ необходимое.`@` ќна бесит.`@` ќна жалка€.`@` » ещЄ она извращенка.`@` Ёто даже слишком много дл€ одного персонажа."`\
+`"...She's pretty much got all the specs you need.`@` She's annoying.`@` She's pathetic.`@` And most importantly, she's perverted.`@` It's almost too much for one character."`\
 ;БГРнРl
 
 ld r,EV2_FukigenA3,80
@@ -8233,34 +8233,34 @@ se1 7
 quakey 2,100
 
 ;БuВ»БAЙљВжЙљВжБHБIБHБI@Б@ОДВ™ГCГУГpГNГgВ≈ХЙВѓВƒВйВЅВƒМЊВ§ВћБHБI@Б@ГLГГГЙВ≈ХЙВѓВƒВйВЅВƒМЊВ§ВћБHБIБHБIБv\
-`"„-что-о-о?!`@` »меешь в виду, что € утратила вли€ние?!`@` √оворишь, € плохой персонаж?!" `\
+`"W-w-whaaaaaaaaaaat?!`@` Are you trying to say I've lost my impact?!`@` Are you trying to say I'm a bad character?!" `\
 ;БГГGГФГ@
 
 
 ld l,BUT_FutekiA4,80
 
 ;БuБcБcВЊВЅВƒВ†ВҐВ¬БA@ВнВіВнВіРЕТЕВ…ТЕС÷В¶ВƒБAЙJВћН~ВйТЖБAХ«ВрВжВґУoВЅВƒГKГАГeБ[ГvТ£ВЅВƒЙсВйХѕС‘ВЊВЇВ•БcБH@Б@ГСГКГJВЌРlЛCУКХ[СжВUИ БAВ†ВсВљВЌСжВWИ БB@В≈ВаУЊХ[РФВЌФ{ЛяВҐВсВЊВЇБ[БcБHБv\
-`"...я имею в виду,`@` что она извращенка, котора€ под проливным дождЄм в купальнике забралась на стены и приклеила к окнам печати из клейкой ленты.`@` ¬ опросе попул€рности Ёрика вышла на 6-е место, а ты - на 8-е.`@` Ќо она получила почти вдвое больше голосов."`\
+`"...I mean.`@` She's a pervert who went out in the pouring rain, put on a swimsuit, and climbed the walls just to stick some packing tape onto windows.`@` Yes, Erika came in 6th place in the popularity poll and you were the 8th, only two places behind,`@` but she had almost double the votes."`\
 ;БГРнРl
 
 ld r,EV2_OdorokiA2,80
 
 ;БuВ»БAБcБcЙљВжБcБB@ОбВҐПЧВћОqВ™РЕТЕТЕВƒВйВЅВƒВЊВѓВ≈БAХ[В™УьВЅВњВбВ§ВћБHБIБv\
-`"“-так...`@`девушки могут получить голоса просто надев купальник?!" \
+`"S-so...`@` you're saying a girl can get votes just by wearing a swimsuit?!" \
 ;БГГGГФГ@
 
 
 ld l,BUT_NayamuA2,80
 
 ;БuТjВЌШIПoВ…ОгВ•В©ВзВ»ВЯБB@ГXГJБ[ГgВћПдИкВ¬В∆ВЅВƒВаВїВ§ВЊВЇБH@/
-`"Ќу, мужчины слабы против такого.`@` ћожно даже просто укоротить юбку. `@/
+`"It's 'cause men are weak against exposure.`@` Even a shorter skirt helps.`@/
 bg black,22
 ld l,ERI_DefA2,0
 ld r,EV2_HohoemiA1,22
 
 ;Б@ГСГКГJВЌХGПдВЊВѓВ«БAВ†ВсВљВЌГНГУГOВЊВµБB@БcБcЙљВµВлВ±ВћРвСќЧћИжВћВ≤ОЮРҐВ…БAМCЙЇВ©Г^ГCГcВ©ГjБ[Г\В©В≥В¶ВнВ©ВиВбВµВЋВ•БB@ФѓМ`ВаВљВЊВћГpГbГcГУБB@ВїВ±В÷ЧИВљВзГСГКГJВЌТіЙ§УєВћГcГCГУГeБ[ГЛБB@ГXГJБ[ГgБAФѓМ`БAШIПoВ…ХѕС‘УxВ∆БAВ«В±ВрОжВЅВƒВаПЯВњЦЏВ™ВЋВ•ВжБB@КЃСSВ…ГLГГГЙВ™ИщВЁНЮВ№ВкВƒВйБB@ВнВіВнВіПoФ‘ВрРЁВѓВйЧЭЧRВ™ВЋВ•БBБv\
-`” Ёрики она едва доходит до колен, а тво€ гораздо длиннее.`@`  ...ƒа и в нынешние времена ты ничего не добьЄшьс€ без колготок или гольф.`@` ≈щЄ у теб€ слишком проста€ причЄска,`@` а у Ёрики волосы собраны в попул€рные два хвостика."`\
-`"ѕротив еЄ юбки, причЄски и извращЄнной сущности у теб€ нет ни шанса.`@` ќна превосходит теб€ по всем параметрам.`@` я не вижу причин вставл€ть теб€ в историю!"`\
+`Erika's only reaches her knees, but yours is a long one.`@` Besides, in this age of zettai ryouiki, you can't get anywhere without stockings or thigh highs.`@` Also, your hairstyle is very plain. `@` Erika's popular twin-tail style is a huge improvement over that."`\
+`"Against her skirt, hairstyle, exposure, and perverted nature, you've got no chance.`@` She's better than you in every single aspect.`@` You have no place left in my story!"`\
 ;БГРнРl
 
 se1 61
@@ -8305,7 +8305,7 @@ next
 
 
 ;БuГKБAГKВЯБ[Б[Б[Б[Б[Б[ГУБIБIБIБIБv\
-`"√-гь€-а-а-а-а-а-а!!!"`\
+`"G-g-gyaaaaaaaaaah!!!"`\
 ;БГГGГФГ@
 
 csp -1
@@ -8317,7 +8317,7 @@ se1 61
 ;locate 4,2
 locate 1,3
 ;Б@ГСГКГJВ∆ГLГГГЙВ™ФнВЅВƒВйБB@
-`     ’арактер совпал с характером Ёрики`@
+`     Character overlaps with Erika's`@
 locate 4,4
 ;Б@Б@Б@Б@Б@Б@БЂ
 `               Џ08595`
@@ -8325,7 +8325,7 @@ se1 61
 ;locate 5,4
 locate 2,5
 ;Б@ВаВ§УсУxВ∆ПoФ‘В»ВµБI@
-`     Ѕольше не по€вилась в истории!`@
+`     Never makes an appearance again!`@
 locate 4,6
 ;Б@Б@Б@Б@Б@Б@БЂ
 `               Џ08595`
@@ -8333,14 +8333,14 @@ se1 61
 ;locate 4,6
 locate 6,7
 ;Б@Б@БwВ§ВЁВЋВ±БxВрГNГrБI@
-`   ”волили из Џ00171„аекЏ00187!`@
+`   Fired from "Umineko"!`@
 locate 4,8
 ;Б@Б@Б@Б@Б@Б@БЂ
 `               Џ08595`
 se1 61
 locate 6,9
 ;Б@Б@Б@ШHУ™В…ЦјВ§БB@
-`   Ѕросили на обочину`@
+`   Abandoned on a roadside.`@
 locate 4,10
 ;Б@Б@Б@Б@Б@Б@БЂ
 `               Џ08595`
@@ -8349,14 +8349,14 @@ se1 61
 locate 6,11
 
 ;Б@Б@Б@ЙhЧ{ОЄТ≤БB@/
-`   √олодовка. `@/
+`   Starvation.`@/
 
 se1 27
 bg white,28
 quakey 2,200
 bg black,22
 ;ОАБI\
-`—мерть!`\
+`Death!`\
 
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
@@ -8365,8 +8365,8 @@ se1 13
 quakey 2,300
 
 ;БuВїБAВїВсВ»ВћНҐВйВнВЯВ†В†В†ВЯВ†ВЯБIБIБI@Б@В®КиВҐБAВ®КиВҐВµВ№ВЈГDРнРlВ≥В№Г@БcБIБI@Б@ОДВ™ВсВќВиВ№ВЈВ©ВзБAПoФ‘ВрБcБI@Б@ПoФ‘ВрЙЇВ≥ВЯВ†В†ВҐВҐБIБI@Б@ГXГJБ[ГgВћПдВ™ЦвСиВ»ВзТЉВµВ№ВЈБI@Б@ФѓМ`В™ЦвСиВ»ВзТЉВµВ№ВЈБI@Б@ШIПoУxВаХѕС‘УxВаВ®Ц]ВЁВ≈ВµВљВзБAВ®МЊВҐХtВѓВћВ∆В®ВиВ…ВµВ№ВЈВ©ВзГbВ«В§В©ОДВ…ВаПoФ‘ВрЙЇВ≥ВҐРнРlВ≥В№ВЯВ†В†В†ВЯВ†В†БIБIБv\
-`"¬-вы не можете так со мной поступи-и-и-ить!`@` ѕрошу, ну пожалуйста, господин Ѕаттлер!..`@` я сделаю всЄ, что скажете! ”мол€ю, дайте мне роль!..`@` ѕожа-а-а-алуйста, дайте мне роль! ≈сли проблема в длине моей юбки - € укорочу еЄ!`@` ≈сли в причЄске - € изменю еЄ!"`\
-`"≈сли дело в извращЄнной сущности, € сделаю как скажете, так что умол€ю, дайте мне роль, господин Ѕаттле-е-е-ер!" `\
+`"You can't dooooooooooooooo this to meeeeeeeeeeee!`@` Please, please, Master Battler!`@` I'll do everything you tell me to, if only you'll give me a role!..`@` Pleaaaase give me a part! If my skirt is too long, I'll shorten it!`@` If my hairstyle is the problem, I'll change it!"`\
+`"If it's exposure and a perverted nature you want, I'll do as you say, so I beg you, please, give me a role, Master Battler!"`\
 ;БГГGГФГ@
 
 bg black,22
@@ -8379,7 +8379,7 @@ ld r,BUT_MajimeA1,22
 
 me1 5
 ;БuБcБcБcГXГJБ[ГgВћПдВрТЉВЈВЅВƒБB@БcБcЛпСћУIВ…ВЌВ«ВћВ≠ВзВҐВ…ТЉВЈВнВѓБHБv@
-`"...“ы сказала, что укоротишь юбку, но......`@`на сколько?"`\
+`"...So you're saying you'll shorten your skirt. But...`@` by how much?"`\
 ;БГРнРl
 
 ld l,EV2_KomaruA1,80
@@ -8389,10 +8389,10 @@ ld l,EV2_KomaruA1,80
 ;!d900БcБcБcВґВгБA/
 ;!d800БcБcВPВOВГВНБcБcБBБv/
 
-!s0`"Ќу, `/
-!d500`э-э, `/
-!d900`...на...`/
-!d800`дес€ть сантиметров..."`/
+!s0`"Well, `/
+!d500`let's say, `/
+!d900`ehhhhh......`/
+!d800`by four inches... (10cm)"`/
 !sd\
 ;БГГGГФГ@
 
@@ -8408,12 +8408,12 @@ ld l,EV2_OdorokiA1,22
 ld r,BUT_FutekiA2,80
 
 ;Б@РнРlВ™ОwВрТeВ≠В∆БAГGГФГ@ВћГXГJБ[ГgПдВ™ВPВOВГВНПkВёБB@ВµВ©ВµВїВкВ≈ВаП[Х™В»ГНГУГOВЊБB\
-` Ѕаттлер щЄлкнул пальцами, и юбка ≈вы укоротилась на дес€ть сантиметров,`@` но всЄ равно осталась довольно длинной. `\
+` Battler snapped his fingers and EVA's skirt shrank by four inches,`@` but it was still fairly long.`\
 
 ld l,EV2_OdorokiA2,80
 
 ;БuВаБAБcБcВаВ§ВPВOВГВНБcБcБBБv@
-`"≈-ещЄ дес€ть..."`\
+`"D...do it again..."`\
 ;БГГGГФГ@
 se1v 72,70
 mbg white,1
@@ -8423,7 +8423,7 @@ mcbg 22
 ld r,BUT_FutekiA1,80
 
 ;БuВїВлВїВлХGВ≠ВзВҐПoВƒВЂВљБH@Б@ВїВкВ≠ВзВҐВ≈ВҐВҐВћВ©В»Г@БcБHБv\
-`"¬скоре она достигнет колен.`@` “ы уверена, что хватит?.."`\
+`"It's barely reached your knees.`@` Do you really think that's good enough?.."`\
 ;БГРнРl
 
 ld l,EV2_FukigenA3,80
@@ -8432,9 +8432,9 @@ ld l,EV2_FukigenA3,80
 ;!d600БcБcВаВЅВ∆БcБcБA/
 ;!d600БcБcТZВ≠ВµВƒЙЇВ≥БcБcВ°В°БcБcБBБv/
 
-!s0`"...ѕо-`/
-!d600`...пожалуйста, `/
-!d600`...сделай короче..."`/
+!s0`"...P..`/
+!d600`...please, `/
+!d600`...make it shorter..."`/
 
 !sd\
 ;БГГGГФГ@
@@ -8448,13 +8448,13 @@ bg BLADE7_2G,10,500
 bg black,22
 
 ;Б@В«ВсВ«ВсГXГJБ[ГgВ™ТZВ≠В»ВЅВƒВҐВ≠БB@Н≈МгВ…ВЌБAЧЉОиВрСOВ≈СgВЁВ»В™ВзХKОАВ…РЮВрЙДВќВ≥В»ВҐВ∆БAГpГУГcВ™М©В¶ВƒВµВ№ВҐВїВ§В…В»ВйВ≠ВзВҐТZВ≠В»ВЅВƒВµВ№ВЅВљБB@Г~ГjГXГJБ[ГgВ…ВаТцВ™В†ВйБcБI\
-` ёбка становилась всЄ короче и короче.`@` ¬ итоге она стала такой короткой, что ≈ве пришлось отча€нно т€нуть обеими руками подол, чтобы скрыть трусики.`@` ќна была слишком короткой даже дл€ мини-юбки!.. `\
+` The skirt became shorter and shorter.`@` In the end, it was so short that EVA had to frantically pull down the hem with both hands to keep her panties from being seen.`@` It was too short even by miniskirt standards!`\
 
 bg Mlib_1cP,0
 ld c,BUT_WaraiA3,22
 
 ;БuВ№ВЯБAГXГJБ[ГgПдВЊВѓВ»ВзБAГСГКГJВ…СќНRВ≈ВЂВƒВЂВљВ©В»Г@БB@ФѓМ`ВЌГ@БHБv\
-`"„тобы ты могла конкурировать с Ёрикой, укоротить твою юбку мало.`@` „то насчЄт причЄски?"`\
+`"Well, I wonder if just fixing your skirt is enough to make you a competitor for Erika.`@` What about your hair, hm?"`\
 ;БГРнРl
 
 bg Mlib_1dP,0
@@ -8465,10 +8465,10 @@ ld r,EV2_OdorokiA2,24
 ;!d900ГcГCГУГeБ[ГЛВ…БcБc/
 ;!d900ВµВ№ВЈБcБcБBБv/
 
-`"ƒ-да...`@/
-!s0` я...€ надену парик...`/
-!d900`и сделаю...`/
-!d900`два хвостика..."`/
+`"Y-yeah...`@/
+!s0` I'll wear a wig...`/
+!d900`with...`/
+!d900`twintails..."`/
 
 !sd\
 ;БГГGГФГ@
@@ -8480,62 +8480,62 @@ mbg white,1
 mcbg 22
 
 ;БuШIПoУxВ∆ХѕС‘УxВЌГ@БH@Б@ВҐВЅВ–ВЅВ–ВЅВ–ВЅВ–Б`БIБIБv\
-`"ј извращЄнна€ сущность?`@` »хи-хи-хи-хи-и!" `\
+`"And how about the exposure and perverted nature?`@` Ihihihihi~!" `\
 ;БГРнРl
 
 bg black,22
 
 ;Б@ВжВ§ВвВ≠РнРlВЌБAО©Х™В™ТPВ»ВйГVГiГКГIГЙГCГ^Б[В≈ВЌВ»В≠БA@ГQБ[ГАГ}ГXГ^Б[В∆ВҐВ§ЦЉВћР_В≈В†ВйВ±В∆ВрОvВҐПoВЈБB\
-` Ѕаттлер наконец вспомнил, что он не просто автор сценари€,`@` а бог, называемый ¬ладельцем игры.`\
+` Battler finally remembered that he was not just a mere scenario writer,`@` but a god called the Game Master.`\
 ;Б@ВїВ§В≥БAВ±В±В≈ВЌЙіВ™Р_БIБI@Б@СSВƒВ™О©ЧRО©НЁВ»ВћВЊБB@РнРlВ…МЩВнВкВкВќИµВҐВЌВ®ВлВ©БAПoФ‘В≥В¶Ч^В¶ВзВкВ»ВҐБI@
-` ¬ерно!`@` «десь € бог! я могу делать что захочу.`@` ¬с€кому, кто выступит против, не видать роли!`\
+` That's right!`@` Here, I am a god! I'm free to do whatever I want.`@` Anyone who goes against me will get no role!`\
 
 ;Б@В±В§ВµВƒРнРlВаБAЦВПЧВљВњВ™ЧбКOВ»В≠ПhВЈГhГXНХВҐЧUШfВ…БAВ«ВЅВ’ВиВ∆ТЊВЁНЮВсВ≈ВҐВ≠ВћВЊВЅВљБcБcБB\
-` » так Ѕаттлер утонул в тЄмном искушении, которым страдали все ведьмы... `\
+` And thus, Battler sank into the dark temptation that plagued all witches...`\
 bg Different_spiral_1b,22
 
 ;Б@Н≈ПIУIВ…ГGГФГ@ВЌБAТіГ~ГjГXГJБ[ГgВ…ГhГМГXВрЙьСҐВµБAНХВћГjБ[Г\ГbГNГXВрТЕЧpБB@/
-` ѕлатье ≈вы наконец было переделано в сверхкороткую мини-юбку, и она надела подход€щие чЄрные гольфы.`\
+` EVA's dress had by now been remodeled into a super short miniskirt, and she was wearing black knee-socks to match.`\
 ;!s0ФѓМ`ВЌГcГCГУГeБ[ГЛВ…ТЉВµБAВ≥ВзВ…ВїВћПгБA/
-!s0` ≈Є волосы теперь были собраны в два хвостика, и более того, `/
+!s0` Her hairstyle had been changed into twintails, and on top of that, `/
 ;!d1000УoПкОЮВЌФLО®БA/
-!d1000`она даже согласилась по€витьс€ в истории с кошачьими ушами,`/
+!d1000`she had even agreed to show up on screen with cat ears,`/
 se1 48
 quakey 2,400
 
 ;ЧйХtВЂОсЧ÷В…/
-` воротником с колокольчиком,`/
+` a bell collar,`/
 se2 48
 quakey 2,400
 
 ;ГZБ[ГЙБ[ХЮВ…РKФцХtВЂГuГЛГ}В∆ВҐВ§БA/
-` в форме мор€чки `/
+` in a sailor uniform, `/
 se3v 57,60
 se2v 74,60
 
 ;!sd@Ф±ГQБ[ГАИяСХГXГyГVГГГЛВ≈УoПкВЈВйВ±В∆В№В≈ЦсС©В≥ВєВзВкВйБcБB\
-!sd@`и панталонах с хвостом, приложенных специально дл€ игры-наказани€...`\
+!sd@`and bloomers with a tail attached: the special penalty game outfit!`\
 bg Different_spiral_1a,22
 ;Б@ВµВ©ВаВїВ±В№В≈Й’ЧуВрЛ≠ВҐВƒВаБAПoФ‘ВрОЄВҐВљВ≠В»ВҐГGГФГ@ВЌБA@В†ВиВ™В∆В§В≤ВіВҐВ№ВЈРнРlВ≥В№ВЯВ†В†В†ВЯВ†ВЯВ∆БAОOВ¬ОwВрВ¬ВҐВƒВЎВ±ВЎВ±ВµВ»В™ВзШAМƒВЈВйБcБB\
-` Ќо даже несмотр€ на такие суровые услови€, ≈ва, не желающа€ тер€ть свою роль,`@` припала к полу и щедро поблагодарила Ѕаттлера...`\
+` But even with such harsh conditions thrust upon her, EVA, who didn't want to lose her role,`@` groveled on the floor and thanked Battler profusely...`\
 
 bg black,22
 ;Б@УЅХ В…ПoФ‘ВрЧ^В¶ВƒМ≠ВнВЈБAЧ«ВЂВ…МvВзВ¶В∆БAУaЧlВћВжВ§В…ВћВљВ№В§РнРlВЌВаВ§БA@НЁВиВµУъВћГxГAГgВаВ—ВЅВ≠ВиВћБAР^ВЅНХИЂСгКѓГQБ[ГАГ}ГXГ^Б[ВЊВЅВљБcБB\
-` Ѕаттлер, сказавший, словно феодал, что милостиво даст ей роль,`@` стал до того безнравственным ¬ладельцем игры, что даже Ѕеато удивилась бы...`\
+` Battler, who said with an attitude like that of a feudal lord that he would graciously grant her a role,`@` had become a wicked magistrate of a Game Master, to the point where even Beato would have been surprised...`\
 textoff
 
 bg Mlib_1eP,26
 se1 37
 ;БuВнВЅВЌВЅВЌВЅВЌБIБI@Б@ЙдВ±ВїВЌРVВµВЂГQБ[ГАГ}ГXГ^Б[РнРlВ≥В№ВЊВЇВ•В¶В¶БIБI@/
-`"¬а-ха-ха-ха!`@` я - новый ¬ладелец игры, господин Ѕаттлер! `@/
+`"Wahahaha!`@` I am Battler, the new Game Master! `@/
 se2 27
 ; ПoФ‘В™Ч~ВµВҐГДГcВЌКиВҐПoВжБI@Б@ЙіВћЛ@МЩВрСєВЋВйГДГcВЌПoФ‘В»ВµВЊБ`БAВ§ВЅВЌВЅВЌВЅВЌБ[БIБIБv\
-`¬се те, кто хочет роль, - приходите и получите!`@` ј те, кто мен€ разозлит, вообще не по€в€тс€ в истории, уха-ха-ха-ха!" `\
+`Anyone who wants to play a role must come forward and apply!`@` And anyone who opposes me won't appear in the story at all!~ Muhahahaha!" `\
 bg black,22
 bg M2F_P1c,10
 
 ;Б@Н°УxВЌБAЧѓХ§ХvВ∆ЦґН]В™ВвВЅВƒЧИВйБB\
-` Ќа сей раз по€вились –удольф и  ирие. `\
+` This time, Rudolf and Kyrie showed up.`\
 bg Mlib_1aP,23
 
 ld r,RUD_DefA1,0
@@ -8544,32 +8544,32 @@ ld l,KIR_DefA1,24
 ld r,RUD_AkuwaraiA1,80
 
 ;БuВҐВжВІБAРнРlВЯБ`БB@ЙіВљВњБAЙ∆С∞ВЊВаВсВ»БH@Б@ПoФ‘ВЌВ†ВйВжВ»БHБv@
-`"ѕривет, Ѕаттлер...`@` ћы ведь тво€ семь€.`@` ” нас, конечно же, будут роли?"`\
+`"Yo. Battler~`@` We're your family, right?`@` So we'll get roles, won't we?"`\
 ;БГЧѓХ§Хv
 
 ld l,KIR_WaraiA2,80
 
 ;БuХ®МкВаВҐВжВҐВжМгФЉБB@ГjГУГQГУВћФљМВВЊВаВћБB@ОДВљВњВаТ£ВиРЎВЅВƒВйВнБBБv\
-`"»стори€ наконец дошла до второй половины.`@` —тороне людей пора ответить.`@` Ќам и самим не терпитс€."`\
+`"The story has finally reached its second half.`@` It's time for the human side's counterattack.`@` We're quite enthusiastic about it ourselves."`\
 ;БГЦґН]
 
 bg Mlib_1dP,0
 ld r,BUT_WAraiA3,24
 
 ;БuЦґН]В≥ВсВЌВ∆ВаВ©В≠БAРeХГВЌВ«В§ВµВжВ§ВЅВ©В»ВЯБ`БHБv\
-`" ирие - одно дело, но насчЄт старика € не уверен..."`\
+`"Kyrie? Sure. But this old bastard?.."`\
 ;БГРнРl
 
 ld l,RUD_AkuwaraiA2,23
 
 ;БuВїБAВїВсВ»В±В∆МЊВ§В»ВжВІБcБI@Б@ВўВзБAВ®СOВћНDВЂВ»ГВГУВЌЙљВ≈ВаФГВЅВƒВвВйВ©ВзБI@Б@В±ВкВ©ВзВЌРSВрУьВкС÷В¶ВƒВҐВҐГpГpВ…В»ВйВ©ВзБI@Б@В»БH@Б@В»БHБI@Б@ЧКВёВ©ВзБAЦґН]ВЌЦЉТTТгВ≈СеКИЦфБB@ЙіВЌБAМ«НВВћГAГNГVГЗГУГqБ[ГНБ[ВЅВƒШHРьВ≈ИкВ¬ГbЧКВёВжВІБ`БIБIБv\
-`"Ќ-не говори так!..`@` я куплю тебе всЄ, что пожелаешь!`@` я изменюсь и стану замечательным папочкой!`@` Ћадно?`@` Ћадно?!`@` Ќу, давай, пусть  ирие будет детективом.`@` ј € мог бы играть роль отчуждЄнного геро€ действи€, ну-у-у же!"`\
+`"Don't call me that!..`@` I'll buy you whatever you want!`@` I'll have a change of heart and become a really good daddy after this!`@` Alright?`@` Alright?!`@` C'mon, Kyrie can steal scenes with her great detective work.`@` And I could be the aloof action hero, c'mooon~!"`\
 ;БГЧѓХ§Хv
 
 ld r,BUT_FutekiA1,80
 
 ;БuВµВЅВ©ВљВЋВ•В»ВЯБB@В±ВћК∞СеВ»РнРlВ≥В№В…КіО”ВµВвВ™ВкВƒВЅВƒВсВЊБB@/
-`"ѕохоже, у мен€ нет выбора.`@` Ѕлагодарите щедрого господина Ѕаттлера. `@/
+`"Seems I've got no choice.`@` Be grateful to the generous Master Battler. `@/
 textoff
 se1 20
 wait 300
@@ -8578,7 +8578,7 @@ wait 300
 se3 20
 
 ;!s0ВїВћКиВҐБAКРВ¶ВƒМ≠ВнВЈБIБv/
-!s0`я исполню ваше желание!"`/
+!s0`I shall grant that wish of yours!"`/
 se1v 57,70
 quakey 3,300
 
@@ -8594,26 +8594,26 @@ ld r,NAT_zutuuA1,0
 ld l,JES_TohohoA1,4
 
 ;Б@ОЯВЌС†ЙPБAЙƒФ№БAОйОuНБВћИкЙ∆БB\
-` ƒалее пришли  раусс, Ќацухи и ƒжессика.`\
+` Next were Krauss, Natsuhi and Jessica.`\
 
 mcl c,0
 bg black,22
 bg Mlib_1aP,0
 ld l,KLA_NayamuA2,23
 ;БuВвБAВвВЯБAРнРlВ≠ВсБcБB@ОДВ∆ЙƒФ№В∆ОйОuНБВаБAБcБcЙљВ∆В©ПoФ‘В∆М©ВєПкВрВ®КиВҐПoЧИВ»ВҐВ©ВЋБcБHБv\
-`"«-здравствуй, Ѕаттлер...`@` Ќацухи, ƒжессика и €... ћожно и нам попросить роли?.."`\
+`"H-hey, Battler...`@` Natsuhi, Jessica and I would like to request roles as well..."`\
 ;БГС†ЙP
 
 ld r,NAT_TukareA1,24
 
 ;БuБcВнБAОДВљВњВЌХ В…КИЦфВµВљВҐВ∆В©ВЌВҐВҐВ№ВєВсБB@БcБcТЗЦrВ№ВґВ≠Х`ВҐВƒВаВзВ¶ВйВЊВѓВ≈П[Х™В≈ВЈВћВ≈БcБcБBБv@
-`"...ћ-мы вовсе не хотим забирать центр внимани€.`@` ≈сли можно, просто изобрази нас как близкую семью..."`\
+`"...We don't mind not being the center of attention.`@` If you could just depict us as a close family, that would be enough..."`\
 ;БГЙƒФ№
 
 ld c,JES_WaraiA1,23
 
 ;БuОДВЌГoГgГЛВ≈ВаКИЦфВµВљВҐВЇГbБB@ИкППВ…СеЦ\ВкВµВƒБAЦВПЧВвИЂЦВВ«ВаВрПRОUВзВїВ§ВЇБIБv\
-`"я хочу участвовать в битвах.`@` ѕоднимем шум и вместе изобьЄм ведьм и демонов!"`\
+`"I wanna fight!.`@` Let's make some noise and beat up witches and demons!"`\
 ;БГОйОuНБ
 
 cl c,0
@@ -8622,13 +8622,13 @@ bg Mlib_1cp,0
 ld l,BUT_NayamuA3,24
 
 ;БuВ§Б`Б`ВсБAКРВ¶ВƒВаВҐВҐВсВЊВ™БAПрМПХtВѓВњВбВ®ВЅВ©В»ВЯБHБv\
-`"’м-м, ладно, но с одним условием."`\
+`"Hmmm~ I'll grant that, but only on one condition."`\
 ;БГРнРl
 
 ld r,KLA_KomaruA4,24
 
 ;БuВ»БAЙљВЊВЋБcБcБHБv\
-`" -каким?.."`\
+`"W-what?.."`\
 ;БГС†ЙP
 
 se1 47
@@ -8639,24 +8639,24 @@ ld l,BUT_NayamuA2,80
 ;!d800БcБcХGЦНВ∆В©ВµВƒВаВзВЅВњВбВ®В§ВЅВ©В»ВЯБcБB@ВїБAВїВкВ≈ВїВћБA/
 ;!d600БcБcГJГJБA/
 ;!d800БcБcГJГAГTГУВ∆В©МƒВсВґВбВЅВƒВҐВҐБcБHБv/
-!s0`"“Єт€ Ќацухи, `/
-!d800`э-э...`/
-!d800` я хочу, чтобы ваши колени стали моей подушкой...`/
-!d600` », `/
-!d800`э-э, можно мне называть вас... Џ00171мамойЏ00187?.."`/
+!s0`"Aunt Natsuhi, `/
+!d800`ehh...`/
+!d800` I want you to become my lap pillow...`/
+!d600` And also... um... `/
+!d800`could I call you 'M-m-mother'...?"`/
 !sd\
 
 se2 47
 ld l,BUT_KomaruA1,80
 
 ;БuВёБAЦ≥ЧЭВ…В∆ВЌМЊВнВ»ВҐВЇБcБH@Б@В№ВЯВїВћБAПoЧИВљВзРЕТЕОpВ≈ВµВƒВ≠ВкВйВ∆БcБB@В†БAРЕТЕВ…В¬ВҐВƒВЌУЦО–ЛKТиВћВаВћВрОxЛЛВµВ№ВЈБcБI@/
-`"’от€ € вас не заставл€ю.`@` ѕо возможности хотелось бы, чтобы вы надели купальник...`@` » € сам дам вам его!..  ак насчЄт школьного купальника?! `@/
+`"I-It's not like I'm gonna force you into it, though.`@` Also, if you could, I'd like you to wear a swimsuit... `@` Ah, and I'll give you the swimsuit myself!.. How about a school swimsuit?!`@/
 
 se1v 5,100
 ld l,BUT_WaraiA1,80
 
 ;Б@ВаВњВлВсЦ≥ЧЭВ…В∆ВЌМЊВҐВ№ВєВсВЇБAСжИкВћФ”В…ВUРlВаОEВ≥В»ВЂВбВ»ВсВ»ВҐВсВ≈БAНҐВЅВƒВйВсВ≈ВЈБAГqГbГqГbГqГbГqБ`БIБIБv\
-`—амо собой, вы не об€заны. Ќадо же мне откуда-то достать шесть человек, чтобы убить их на первые сумерки, ихи-хи-хи-хи-и!"`\
+`Of course, you don't have to do it.`@` After all, I've got to find the six people to kill off on the first twilight from somewhere, hihihihi~!"`\
 ;БГРнРl
 
 ld l,BUT_OdorokiA2,0
@@ -8666,13 +8666,13 @@ quakex 4,400
 ld c,JES_IkariA1,80
 
 ;БuВќБAРнРlГbБAВƒВяГbБAОДВћХкВ≥ВсВ…ЙљВƒВ±В∆МЊВҐВвВ™ВйБIБIБv@
-`"Ѕ-Ѕаттлер, скотина, ты что говоришь моей маме?!"`\
+`"B-Battler, you arsehole, what do you think you're saying to my mom?!"`\
 ;БГОйОuНБ
 
 ld l,BUT_FutekiA1,80
 
 ;БuЦ≥ЧЭВ…В∆ВЌМЊВнВЋВ•ВсВЊВЇБ`БH@Б@ЙљВµВлЙіВЌГQБ[ГАГ}ГXГ^Б[В≥В№В»ВсВЊВ©ВзВ»ВЯБ`БHБv\
-`"я вас не заставл€ю.`@` я же всЄ-таки великий ¬ладелец игры!"`\
+`"I'm not forcing you into anything!~`@` After all, I'm the great Game Master!~"`\
 ;БГРнРl
 
 bg Mlib_1bp,0
@@ -8680,7 +8680,7 @@ ld c,NAT_NayamuA3,24
 ld c,NAT_OdorokiA2,80
 
 ;БuВ£БcБcВ≠БcБcБA@БcБcВнБAБcБcВнВ©ВиВ№ВµВљБcБcБB@/
-`"...Kх...`@` ’-хорошо...`@/
+`"...Khh.`@` F-fine...`@/
 
 ld c,NAT_KomaruA1,80
 
