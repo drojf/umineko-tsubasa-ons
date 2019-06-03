@@ -7667,7 +7667,7 @@ bg sweet2,22
 
 
 ;Б@В≥ВЈВ™ВЌОgЧpРlСеРlР®БB@ОиСБВ≠БAКчВћПгВрХ–ХtВѓБAОOТiПdВЋВћПdФ†В©ВзБAРFВ∆ВиВ«ВиВћГfГUБ[ГgВрОжВиПoВµБA@В†ВЅВ∆ВҐВ§К‘В…РFЛCВћВ»ВҐПСН÷ВрБAГfГUБ[ГgГoГCГLГУГOВ…ХѕВ¶ВƒВµВ№В§БB\
-`  ак и ожидалось от взрослых слуг.`@` ќни проворно прибрали стол, достали из трЄх коробок различные красочные десерты,`@` и в мгновение ока тусклый кабинет оживил разложенный шведский стол десертов.`\
+` Just what you'd expect from the adult servants.`@` They tidied up the desk nimbly, took out various colorful desserts from the stack of three boxes,`@`  and in the blink of an eye, brightened up the dim study by laying out a smorgasbord of desserts.`\
 
 bg Mlib_1cP,0
 ld r,BUT_WaraiA1,0
@@ -7675,14 +7675,14 @@ ld c,KUM_DefA2,23
 ld c,KUM_WaraiA1,80
 
 ;БuВ≥ВЯВ≥ВЯБAПҐВµПгВ™ВкБB@В±ВћШVВҐВЏВкВ≈ВжВлВµВѓВкВќБAВ†Б`ВсБфВ≈ВаВҐВљВµВ№ВµВеВ§В©БH@Б@В®ВЅВўВЅВўВЅВўВЅВўБIБv@
-`"Ќу же, ешьте.`@` ≈сли вы согласитесь ради др€хлой старушки, € могла бы покормить вас с ложечки.`@` ќхо-хо-хо-хо!" `\
+`"Come, come, eat up.`@` If you can settle for this decrepit old lady, perhaps I could spoonfeed you as well?`@` Ohohohoho!" `\
 ;БГМFСт
 
 
 ld r,BUT_DefA1,80
 
 ;БuЙіВЊВѓВ≈РHВ„ВњВбР\ВµЦуВ»ВҐВЇБB@ВЁВсВ»В≈РHВ„ВжВ§БI@Б@В®БAНgТГВ№В≈ПoВƒВ≠ВйВћВ©ВжБcБI@Б@ЛCВ™ЧШВ≠В»ВЯБIБv\
-`"»звините, но, думаю, € сам себ€ накормлю.`@` ƒавайте налетать!`@` ќ, вы даже сделали чЄрный чай!..`@` ќчень внимательно с вашей стороны!" `\
+`"Sorry, but I'm just going to eat myself.`@` Let's eat!`@` Oh, you even made tea!..`@` How thoughtful of you!" `\
 ;БГРнРl
 
 bg black,24
@@ -7690,26 +7690,26 @@ bg Mlib_1dP,0
 ld r,GEN_DefA1,24
 
 ;БuБcБcБcВ«В§ВЉБAРнРlВ≥В№БB@БcБcОДВЌТЈВ≠БAВ®КўЧlВ∆ГxГAГgГКБ[Г`ГFВ≥В№В…В®ОdВ¶ВµВƒВ®ВиВ№ВµВљБB@БcВ≈ВЈВ©ВзБAГQБ[ГАФ’ВћХ®МкВрЦaВЃВћВ™В«ВкВўВ«СеХѕВ»ВаВћВ©БAВжВ≠СґВґПгВ∞ВƒВ®ВиВ№ВЈБBБv\
-`"...Ѕерите что пожелаете, господин Ѕаттлер.`@`  ...я долгое врем€ служил √осподину и госпоже Ѕеатриче.`@`  ...ћне известно, как трудно создать историю игровой доски."`\
+`"...Take whatever you like, Master Battler.`@` I have served my Lord and Lady Beatrice for a long time.`@` I know how difficult it is to create a story for a gameboard."`\
 ;БГМєОЯ
 
 
 ld l,NAN_fumuA1,23
 
 ;БuРнРlВ≥ВсВ™ГQБ[ГАГ}ГXГ^Б[В…ПAФCВ≥ВкВƒВ©ВзБAВ®ПjВҐВаВµВƒВ®ВиВ№ВєВсВ≈ВµВљВ©ВзВ»БB@ФNКсВиВљВњВћБAВ®ВвВ¬ОЭОQВћХ\МhЦKЦвВ∆В≈ВаОvВЅВƒЙЇВ≥ВҐБBБv\
-`"Ќикто ещЄ не поздравил вас с повышением до ¬ладельца игры, Ѕаттлер.`@` —читайте это подарком и визитом вежливости от нас, стариков."`\
+`"No one had yet congratulated you on your promotion to Game Master, Battler.`@` Please think of this as a gift and courtesy visit from us old people."`\
 ;БГУмЮК
 
 bg Mlib_1cP,0
 ld c,BUT_WaraiA2,22
 
 ;БuВїВсВ»БAФNКсВиВ»ВсВƒБcБI@Б@ЙіВЌРlРґВћРжФyХыВрХћВлВ…В»ВсВƒПoЧИВЋВ•ВЇБB@/
-`"ќ, не называйте себ€ стариками!..`@` я никогда не пренебрегаю старшими. `@/
+`"Oh, but don't go calling yourselves old!..`@` I'd never slight my seniors in life.`@/
 
 ld c,BUT_WaraiA1,80
 
 ;В≥В≥БAРHВ„ВжВ§РHВ„ВжВ§БB@ЛљУcВ≥ВсВаБAВїВсВ»ИЎВ№ВзВ»В≠ВƒВҐВҐВ©ВзБAИкППВ…РHВ„ВжВ§ВЇБIБv\
-`Ќу, давайте есть.`@` √оуда, не скромничайте, будем есть все вместе!" `\
+` Come on, let's eat.`@` Gohda, come join in too, let's all eat together!"`\
 ;БГРнРl
 
 cl c,0
@@ -7717,14 +7717,14 @@ bg Mlib_1bP,0
 ld r,GOH_DefA1,23
 
 ;БuВ†ВиВ™В∆В§В≤ВіВҐВ№ВЈБB@ВїВкВ≈ВЌОДВаОЄЧзВµВƒБcБcБBБv@
-`"Ѕлагодарю вас.`@` “огда с вашего позволени€..."`\
+`"Thank you very much.`@` Then, if you'll allow me..."`\
 ;БГЛљУc
 
 
 ld l,KUM_WaraiA2,23
 
 ;БuВўВЅВўВЅВўВЅВўБB@ЦрУЊЦрУЊБB@В†Б`БAГIГCГ`ГCБB@ВўВЅВЎВ™ЧОВњВњВбВҐВїВ§БcБфБv\
-`"’о-хо-хо-хо.`@`  акое счастье, какое счастье.`@` ј-а, как вкусно...Џ09834 " `\
+`"Hohohohoho.`@` Ahh, what a blessing, what a blessing.`@` It's delicious!~" `\
 ;БГМFСт
 
 
@@ -7733,10 +7733,10 @@ bg Mlib_1eP,26
 
 
 ;Б@ФёВзВћМЊВ§В∆В®ВиБAИкХЮВаВҐВҐВ©ВаВµВкВ»ВҐБB@
-`  ак они и сказали, возможно, мне нужен отдых. `\
+` Like they said, a rest might be exactly what I need.`\
 
 ;Б@В†ВкВЊВѓН™ЛlВяВƒГAГCГfГAВ™ПoВ»ВҐВћВЊВ©ВзБA@ПWТЖЧЌВ™В№ВЈВ№ВЈВ…ЧОВњВƒВйВћВ…БAКчВ…МьВ©ВЅВƒШrСgВЁВµВƒВаЦ≥С В»В±В∆БB\
-` я не придумываю новые идеи, и мо€ сосредоточенность только ухудшаетс€.`@` ¬р€д ли € продвинусь, если так и буду сидеть перед столом со сложенными руками. `\
+` I'm not coming up with any new ideas and my concentration is just getting worse.`@` It's not like I'll get anywhere just sitting in front of the desk with my arms folded.`\
 
 ;Б@РlРґВћРжФyВљВњВћЛCМ≠ВҐВ…КіО”ВµВ»В™ВзБAРнРlВЌВµВќВзВ≠ВћК‘БA@ГQБ[ГАГ}ГXГ^Б[ВћПdР”ВрЦYВкБAВћВсВ—ВиВ∆ОGТkВрКyВµВсВ≈ЛCХ™ВрРЎВиС÷В¶ВйВћВЊВЅВљБcБB\
 ` Ѕлагодар€ старших за заботу, Ѕаттлер ненадолго забыл о т€жЄлой ответственности ¬ладельца игры`@` и подн€л себе настроение, неторопливо беседу€ и получа€ удовольствие... `\
