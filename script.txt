@@ -9068,7 +9068,7 @@ se1 12
 quakey 2,300
 
 ;БuРSУЦВљВиВЌВ†ВйВ≈ВµВеГbБI@Б@СSХФБAГЛГVОoВћВєВҐВЊВнБIБIБv@
-`"¬се мы знаем ответ!`@` ¬сЄ из-за Ћюци!"`\
+`"We all know the answer!`@` It's all Lucy's fault!"`\
 ;БГГTГ^ГУ
 
 ld l,RG4_WaraiA1,0
@@ -9079,7 +9079,7 @@ print 99,800,"breakup.dll/llB"
 
 
 ;БuБuБuБuВЌБ[ВҐБAВ®ОoЧlБI@Б@ГЛГVОoВ™ИЂВҐВ≈Б[ВЈГbБIБIБvБvБvБv\
-`""""ƒа, сестра!`@` ¬о всЄм виновата Ћюци!""""`\
+`""""Yes, Big Sis!`@` All Lucy's fault!""""`\
 
 csp -1
 
@@ -9090,38 +9090,38 @@ se1 12
 quakex 2,400
 
 ;БuВ«БAВ«В§ВµВƒБAОДВ™ИЂВҐВћВжГbБB@В«В§ВµВƒОДВћВєВҐВ…В»ВйВћВжБcБIБv\
-`"ѕ-почему €?`@` „то € сделала?!.."`\
+`"Why me?`@` What did I ever do?!.."`\
 ;БГГЛГVГtГ@Б[
 
 ld r,RG6_AkuwaraiA1,24
 
 ;БuВЊВЅВƒВ•БB@ГЛГVГtГ@Б[В®ОoЧlВЅВƒВ•Б`БBБv@
-`"ѕотому-у что,`@` сестра Ћюци."`\
+`"Weeeelll,`@` Lucy."`\
 
 bg black,24
 bg G1F_S1bp,0
 ld c,RG7_AkuwaraiA1,24
 
 ;БuВdВoВRВ∆В©В≈БAОЈЭXВ…РнРlВ≠ВсВрВҐВґВяВƒВљВµБ`БBБv@
-`"“ы слишком много издевалась над Ѕаттлером в третьем эпизоде."`\
+`"In EP3, you bullied Battler-kun too much~"`\
 
 ld l,RG2_AkuwaraiA1,23
 
 ;БuОoЦЕВћСгХ\В‘ВЅВƒБAРнРlВ≠ВсВрУ∆ВиРиВяВµВƒГCГWГБВƒВљВаВсВЋВ•БcБH@Б@В†ВЯБAУiВ№ВµВҐВнХ†ЧІВљВµВҐБIБv\
-`" ак представитель сестЄр, ты мучила его больше всех.`@` ј-а, € так завидую, что не могу выдержать!"`\
+`"As a representative for all the sisters, you tortured him more than anyone else.`@` Agh, I'm so jelaous, I can't stand it!"`\
 ;БГГМГФГBГAГ^ГУ
 
 ld r,RG4_DefA1,24
 
 ;БuГЛГVОoВ™РнРlВ≥В№ВћЛ@МЩВрСєВЋВљВћВЌБAБcБcЛ^ВҐВжВ§ВаВ»ВҐВ»БBБv@
-`"Ќесомненно, это ты омрачила настроение господина Ѕаттлера."`\
+`"Without a doubt, you have ruined Master Battler's mood."`\
 ;БГГxГЛГtГFГSБ[ГЛ
 
 ld c,RG7_Waraia1,0
 ld l,RG2_WaraiA1,80
 
 ;БuБuБuЛ^ВҐВжВ§В™В»ВҐВ≈В≤ВіВйБ[БIБvБvБv\
-`""Ќесомненно!""`\
+`""There's no doubt about it!""`\
 
 csp -1
 
@@ -9133,21 +9133,21 @@ ld r,RG5_OdorokiA2,0
 print 99,1000,"breakup.dll/llb"
 
 ;БuВ«Б[ВЈВсВћГЛГVОoБcБI@Б@ОДБAЙПОхВ≥В№В∆В№ВљИкППВ…УoПкВµВжВ§ВЋВЅВƒЦсС©ВµВƒВсВ≈ВЈБI@Б@Г}ГWВ±ВкВ«Б[ВвВЅВƒР”ФCОжВсВћБ[ГbБHБIБv@
-`"„то будешь делать, Ћюци?!..`@` я обещала госпоже Ёнж снова по€витьс€ с ней в истории!`@` “ы собираешьс€ брать на себ€ ответственность?!"`\
+`"What are you gonna do, Lucy?!..`@` I promised to Ange that we'd meet each other in the story again!`@` Are you going to take some responsibility?!"`\
 ;БГГ}ГВГУ
 
 ld l,RG1_KomaruA3,80
 
 ;БuВнБAОДВ–В∆ВиВ™ИЂВҐВнВѓВ≈ВЌБcБcБIБIБv\
-`"Ќ-не только € виновата!.."`\
+`"I...`@` I'm not the only one at fault!.."`\
 ;БГГЛГVГtГ@Б[
 
 bg Different_space_P1b,25
 
 ;!s0БuБuБuВҐВҐВ¶Б[БI/
 ;!d1000Б@ГЛГVОoВћВєВҐВ≈Б[ВЈБIБvБvБv/
-!s0`"""Ќе-а!`/
-!d1000` ¬о всЄм виновата Ћюци!"""`/
+!s0`"""Nah!`/
+!d1000` Everything is Lucy's fault!"""`/
 
 se1 57
 se2 12
@@ -9161,13 +9161,13 @@ ld r,RG6_FumanA2,26
 ld r,RG6_AkuwaraiA1,80
 
 ;БuВ∆В…В©В≠В£БB@РнРlВ≠ВсВћВ∆В±В…О”ВиВ…НsВЂВ№ВµВеБ[ВжБ[БBБv@
-`"Ћадно,`@` пойдЄмте извинимс€ перед Ѕаттлером."`\
+`"Anyway,`@` let's all go apologize to Battler."`\
 ;БГГxГЛГ[ГuГu
 
 ld c,RG7_NakuA1,24
 
 ;БuВ±ВћВ№В№ВЄБ[ВЅВ∆ПoФ‘В™В»ВҐВ»ВсВƒМЩВЊВЯВ†В†В†БAВнВ†В†В†В†В†ВсБIБIБv\
-`"я не хочу остатьс€ без ро-о-о-оли, ува-а-а-а-а-а!" `\
+`"I don't want to end up without a role, waaaaaah!" `\
 ;БГГAГXГВГfГEГX
 
 textoff
@@ -9183,7 +9183,7 @@ se1 15
 bg portrait6,11
 
 ;Б@ВаВћВЈВ≤В≠ИћВїВ§В≈ИЂОпЦ°В»Л НјВ…БA@Г}ГУГgВрЙHРDВЅВљРнРlВ™БAГfБ[ГУВ∆ТЅНјВµВƒВҐВйБB@
-` Ќадев накидку,`@` Ѕаттлер с неверо€тно высокомерным видом восседал на нелепом троне.`\
+` Battler was now wearing a cape,`@` and sitting on a ridiculous throne, looking down arrogantly.`\
 
 ;Б@ОµОoЦЕВЌжмВЂБAВ«В§В…В©ПoФ‘ВрВаВзВ¶В»ВҐВ©В∆СiВ¶ВйБcБB\
 ` —емь сестЄр встали перед ним на колени, пыта€сь обратитьс€ к нему насчЄт роли...`\
