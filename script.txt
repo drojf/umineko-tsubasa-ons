@@ -9183,7 +9183,7 @@ se1 15
 bg portrait6,11
 
 ;Б@ВаВћВЈВ≤В≠ИћВїВ§В≈ИЂОпЦ°В»Л НјВ…БA@Г}ГУГgВрЙHРDВЅВљРнРlВ™БAГfБ[ГУВ∆ТЅНјВµВƒВҐВйБB@
-` Battler was now wearing a cape,`@` and sitting on a ridiculous throne, looking down arrogantly.`\
+` Battler was now wearing a cape he found somewhere,`@` and sitting on a ridiculous throne, looking down arrogantly.`\
 
 ;Б@ОµОoЦЕВЌжмВЂБAВ«В§В…В©ПoФ‘ВрВаВзВ¶В»ВҐВ©В∆СiВ¶ВйБcБB\
 ` —емь сестЄр встали перед ним на колени, пыта€сь обратитьс€ к нему насчЄт роли...`\
