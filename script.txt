@@ -10625,7 +10625,7 @@ ld r,ZEP_WaraiA6,0
 print 99,1000,"breakup.dll/ulP"
 
 ;БuЦlВљВњВЌК∞СеВЊВ©ВзВЋБIБv@
-`"ћы так снисходительны!" `\
+`"We are so lenient!" `\
 ;БГГ[ГpГЛ
 
 se2 52
@@ -10633,7 +10633,7 @@ ld l,FUR_WaraiA6,0
 print 99,1000,"breakup.dll/ulP"
 
 ;БuПҐКЂВћЦВЦ@РwВ™СљП≠БAИбВЅВƒВљВЅВƒБAВїВсВ»ВћВЌЛCВ…ВµВ»ВҐВнБIБv\
-`"’от€ призывной магический круг был так себе, мы не возражаем!" `\
+`"Even though the summoning circle was a bit off, we don't mind!" `\
 ;БГГtГЛГtГЛ
 
 se1v 2,100
@@ -10646,21 +10646,21 @@ ld l,ZEP_WaraiA3,0
 ld r,FUR_WaraiA3,80
 
 ;БuБuВЊВЅВƒБAИ§ВћЧЌВЌИћСеВЊВаВћБIБvБv\
-`""¬едь сила любви важна!"" `\
+`""For nothing surpasses the power of love!"" `\
 ;БГГ[ГpГЛБAГtГЛГtГЛ
 
 
 ld c,JES_AtyaA3,23
 
 ;БuВ§БAВ§ВнБcБBЦ{УЦВ…ПҐКЂВ≈ВЂВљВЇБcБB@СcХГВ≥В№ВћЦВУ±ПСВЅВƒБAГzГУГВГmВЊВЅВљВсВЊБcБBБv\
-`"ќ-ого...`@` я и впр€мь призвала вас...`@` √римуар деда неплоха€ штука..."`\
+`"W-woah...`@` I actually did summon someone...`@` Gramps' grimoire was the real thing..."`\
 ;БГОйОuНБ
 
 
 bg black,22
 
 ;Б@О©Х™В≈ПҐКЂВµВƒВ®ВЂВ»В™ВзБAЦ{УЦВ…В§В№В≠НsВ≠В∆ВЌОvВнВ»В≠ВƒБA@ОйОuНБВЌВµВќВµБAХрСRВ∆ВµВƒВµВ№ВҐВ№ВµВљБB\
-` ѕон€в, что она их призвала, хот€ особо не наде€лась на успех,`@` ƒжессика ненадолго застыла.`\
+` Realizing that she had summoned them herself, despite not thinking that she really could do it,`@` Jessica froze for a short while.`\
 
 cl c,42
 wait 500
@@ -10671,59 +10671,59 @@ se1 47
 ld l,ZEP_MajimeA3,23
 
 ;БuХкВћУъВћГvГМГ[ГУГgВрПoВµВƒВўВµВҐБHБv@
-`"∆елаешь подарок на ƒень матери?"`\
+`"You would like a gift for Mother's Day?"`\
 ;БГГ[ГpГЛ
 se1 48
 ld r,FUR_WaraiA8,24
 ;БuВ†ВЯБAХкВ÷ВћЛ≠ВҐИ§ВрКіВґВйВнБI@Б@ВЋВ•БAГ[ГpГЛБI@Б@В±ВћЙ¬И§ВҐВ®ПмВ≥ВсВћКиВҐВрКРВ¶ВƒВ†В∞ВљВҐВнБIБv\
-`"ј-а, какую сильную любовь к матери € чувствую.`@` Ёй, «епар!`@` я хочу исполнить желание очаровательной дочери!" `\
+`"Ah, what a strong love towards your mother I'm feeling.`@` Hey, Zepar!`@` I want to grant this adorable daughter's wish!" `\
 ;БГГtГЛГtГЛ
 ld l,ZEP_WaraiA8,80
 
 
 ;БuВїВ§ВЊВЋБAГtГЛГtГЛБI@Б@ФёПЧВЌУъН†В©ВзЧцИ§ВаКжТ£ВЅВƒВйВµВЋБIБv\
-`"¬ерно, ‘урфур!`@` «наешь, она ведь всегда так стараетс€ ради любви!" `\
+`"Same here, Furfur!`@` You know how she's always trying hard for love, don't you?" `\
 ;БГГ[ГpГЛ
 
 bg Glib_1a,23
 ld l,FUR_WaraiA7,23
 
 ;БuВ¶В•БAВїВ§ВжБB@ВЊВЅВƒБAОgЧpРlВ∆ВћЛ÷ВґВзВкВљЧцВћРђПAВЊВаВћБB@ХкВћУъВћГvГМГ[ГУГgВ≈БAХкРeВћРSВрГLГГГbГ`ВµВƒВ®В≠ВћВЊВЅВƒБAЧІФhВ»ЧцВћСеРнЧ™ВЊВнБIБv@
-`"ƒа, точно.`@`  ак-никак, она жаждет запретной любви со слугой.`@` «аранее покорить мать подарком на ƒень матери - великолепна€ любовна€ стратеги€!" `\
+`"Yup, that's right.`@` After all, she's looking to fulfill forbidden love with a servant.`@` Softening her mother's heart in advance with a mother's day present could be a splendid love strategy!" `\
 ;БГГtГЛГtГЛ
 
 ld c,JES_TohohoA2,24
 
 ;БuВҐБAВҐВвХ В…БAВїВсВ»Р[В≠НlВ¶ВљВ¬ВаВиВЌВїВћБcБcБBБv\
-`"Ќет-нет, € вовсе не задумывалась так глубоко..."`\
+`"No, no, I wasn't really thinking about it that deeply..."`\
 ;БГОйОuНБ
 
 bg black,22
 
 ;Б@В№В≥В©БAВ±ВсВ»УцВвВ©В»ИЂЦВВљВњВ™МїВкВйВ∆ВЌСzСЬВаВµВ№ВєВсВ≈ВµВљБB@
-` ќна и не представл€ла, что эти шумные демоны по€в€тс€. `\
+` Jessica never expected such noisy demons to show up. `\
 
 ;Б@ОйОuНБВЌБAХкВћУъВћГvГМГ[ГУГgВ…ФYВсВ≈ВҐВљВЊВѓВ»ВћВ≈ВЈБB\
-` ƒжессика всЄ думала, что бы подарить на ƒень матери. `\
+` She kept worrying about what to get as a present for the upcoming Mother's Day. `\
 
 bg Book1,22
 
 ;Б@ГAГCГfГAВрЛБВяБAПСМ…ВћЦ{ВрУKУЦВ…ЛЩВЅВƒВҐВљВзБA@ЛаС†ВћЦВУ±ПСВрМ©В¬ВѓБAЦ ФТВ™ВЅВƒУ«ВсВ≈ВйВ§ВњВ…БAИЂЦВВ…КиВҐВрКРВ¶ВƒВаВзВ§ХыЦ@БAВЁВљВҐВ»ВаВћВрМ©В¬ВѓВљВћВ≈ВЈБB\
-` ¬ поисках идей она искала в библиотеке подход€щую книгу.`@` ”видев гримуар  инзо, посчитав его забавным и прочитав, она нашла способ воззвать к демону.`\
+` Looking for ideas, she was fishing through the library for a suitable book.`@` She saw Kinzo's grimoire and, as a joke, attempted to summon a demon.`\
 
 ;Б@В®В”ВіВѓФЉХ™В≈ВвВЅВƒБAПҐКЂВ≈ВЂВƒВµВ№В§ВћВЊВ©ВзБA@ОйОuНБВ…ВаЛаС†ВћММВ™ВµВЅВ©ВиЧђВкВƒВҐВйВћВЌК‘ИбВҐВ»ВҐВ≈ВµВеВ§БcБB\
-` ќна вызвала демонов в шутку и без особого энтузиазма,`@` поэтому не было сомнений в том, что ƒжессика - истинный потомок  инзо...`\
+` She managed to summon demons despite doing it half-heartedly,`@` which left no doubt that Jessica was indeed Kinzo's child...`\
 
 bg Glib_1a,22
 ld l,FUR_MajimeA1,23
 
 ;БuВЋВ•БAГ[ГpГЛБB@ЙљВ©ХкВћУъВ…СКЙЮВµВҐБAЦВЦ@ВћГAГCГeГАВЌВ»ВҐВ©ВµВзБHБv@
-`"Ёй, «епар.`@` ≈сть ли магический предмет, подход€щий ко ƒню матери?" `\
+`"Hey, Zepar.`@` I wonder if there's a magic item appropriate for Mother's Day?" `\
 ;БГГtГЛГtГЛ
 ld r,ZEP_WaraiA2,24
 
 ;БuЦlВљВњВЌЧцИ§РкЦеБI@Б@РeОqВћЧцВЌП≠ВµРкЦеКOВЊВѓВкВ«ВЋБB@МƒВќВкВљИ»ПгБAЙљВаОцВѓВ»ВҐВнВѓВ…ВЌВҐВ©В»ВҐВЋБIБv\
-`"ћы специализируемс€ на романтической любви!`@` “ак что любовь между родителем и ребЄнком немного вне нашей компетенции.`@` Ќо, право, после такого призыва мы не можем уйти, ничего не дав!"`\
+`"We specialise in romantic love!`@` So the love between a parent and child is a bit out of our area of expertise.`@` But after being summoned like this, we can't just leave without giving you anything!"`\
 ;БГГ[ГpГЛ
 
 se1v 2,100
@@ -10736,39 +10736,39 @@ ld l,ZEP_WaraiA4,0
 ld r,FUR_WaraiA3,80
 
 ;БuВ¶В•БAВїВ§ВжБI@Б@Й√ЙєВ≠ВсВ∆ВћЧцВћИкФ‘ВћПбХ«ВрОжВиПЬВѓВйБAСfУGВ»ЦВЦ@ВћГAГCГeГАВрОцВѓВйВ„ВЂВЊВнБIБv\
-`"«наю!`@` ћы можем дать тебе фантастический магический предмет, который снимет с любви между тобой и  аноном даже самые сильные барьеры!"`\
+`"I know!`@` We could grant you a fantastic magical item that could remove even the strongest barriers from love with Kanon!"`\
 ;БГГtГЛГtГЛ
 
 bg Glib_1c,23
 
 ld c,JES_AisowaraiA1,23
 ;БuВ†БAВҐВвВїВћБAГSГБГУВЅБAХБТ ВћВ≈ВҐВҐВ≈ВЈБB@В®В©ВµВ»ЦВЦ@ВћГAГCГeГАВ∆В©ВҐВзВ»ВҐВсВ≈БcБBБv\
-`"ќ, нет, извините, но лучше что-нибудь обычное.`@` я не хочу странных магических предметов..."`\
+`"Ah, no, I'm sorry, but ordinary things are just fine.`@` I don't want weird magical items..."`\
 ;БГОйОuНБ
 
 se1 47
 ld l,ZEP_WaraiA7,26
 
 ;БuВїВ§ВЌНsВ©В»ВҐВЋБI@Б@ВЊВЅВƒЦlВљВњВЌВVВQТМВћСеИЂЦВБIБv@
-`"Ќе говори так!`@` ћы вдвоЄм, как-никак, одни из 72-х великих демонов!" `\
+`"Say no such thing!`@` After all, we're two of the 72 great demons!" `\
 ;БГГ[ГpГЛ
 
 se2 48
 ld r,FUR_WaraiA7,26
 
 ;БuМƒВќВкВƒБAВљВЊВћГJБ[ГlБ[ГVГЗГУВрГvГМГ[ГУГgБI@Б@ВЅВƒВнВѓВ…ВЌВҐВ©В»ВҐВаВћБBБv\
-`"ћы бы ни за что не сказали`@` Џ00171¬от тебе за то, что призвала нас, подарок - обычна€ гвоздикаЏ00187!"`\
+`"We would never tell you,`@` "here, have an oridnary carnation for summoning us successfully"!"`\
 ;БГГtГЛГtГЛ
 
 ld c,JES_TohohoA2,80
 
 ;БuВҐВвВҐВвБA@ВљВЊВћГJБ[ГlБ[ГVГЗГУВ≈ВҐВҐВ≈ВЈБAВҐВҐВ≈ВЈБcБBБv@
-`"Ќет-нет,`@` обычна€ гвоздика подойдЄт, да, вполне..."`\
+`"No, no,`@` a plain carnation would be just fine with me..."`\
 ;БГОйОuНБ
 
 
 ;Б@ШbВ™Ц≥С В…СеВЂВ≠В»ВиВїВ§В»ВћВ≈БA@ВєВЅВ©В≠СеИЂЦВВрПҐКЂВµВƒВ®ВЂВ»В™ВзБAОйОuНБВЌВљВЊВћГJБ[ГlБ[ГVГЗГУВ≈ВҐВҐВ∆ИЂЦВВљВњВрВ»ВЊВяВ№ВµВљБB\
-` ѕосле того как она призвала этих демонов, масштаб темы стал бессмысленно велик,`@` так что ƒжессика успокоила их, согласившись на обычную гвоздику.`\
+` The topic had grown pointlessly grand in scale after she summoned these troublesome demons,`@` so Jessica placated them with the proposition of 'just a plain carnation'.`\
 
 
 bg black,22
@@ -10776,55 +10776,55 @@ bg Glib_1a,22
 
 ld r,FUR_WaraiA1,24
 ;БuВґВбВ†БAСеЦВЦ@ВґВбВ»В≠ВƒБAПђЦВЦ@ВћГJБ[ГlБ[ГVГЗГУВ»ВзВ«В§В©ВµВзБBБv@
-`"„то ж, раз ты не хочешь большую магию, как насчЄт маленькой гвоздичной магии?"`\
+`"Well then, if you don't want big magic, then how about a small magic carnation?"`\
 ;БГГtГЛГtГЛ
 
 ld l,ZEP_MajimeA1,23
 ;БuВ†ВЯБAВїВ§МЊВ¶ВќБAВїВсВ»ЦВЦ@ВћГJБ[ГlБ[ГVГЗГУВ™В†ВЅВљВЋБI@Б@КmВ©БAИкУъМoВЅВљВзМЌВкВƒВµВ№В§ВѓВ«БAВїВћИкУъВћК‘БAС°ВЅВљСКОиВ…В≤ЧШЙvВрЧ^В¶ВйВ∆ВҐВ§БIБv\
-`"ќ-о, да, у нас есть така€ волшебна€ гвоздика!`@` ќна зав€нет спуст€ день, но зато в этот прекрасный день пошлЄт партнЄру великое счастье!"`\
+`"Ah, now that you say that, we do have a magical carnation like that, don't we!`@` It shall wither in but a day, but during that single day, it will send the recipient great blessings!"`\
 ;БГГ[ГpГЛ
 
 ld c,JES_WaraiA1,23
 
 ;БuВ†БAБcБcВїВкВ»ВзВҐВҐВ©В»БB@ИкУъТцУxВћЦВЦ@В»ВзСеСЫВђВ…ВЌВ»ВзВ»ВїВ§ВЊВµБAХ В…ОфВЅВљВиВ∆В©БAВїВ§ВҐВ§ВнВѓВґВбВ»ВҐВсВ≈ВµВеБcБHБv\
-`"ќ, ...тогда подойдЄт.`@` ¬едь один день еЄ магии не причинит много беспокойств и не вызовет никаких прокл€тий?.."`\
+`"Oh, if it's something like that, I should be fine.`@` A single day wouldn't cause much trouble or curse me or anything, would it?.."`\
 ;БГОйОuНБ
 
 ld r,FUR_DefA1,80
 
 ;БuКіО”ВћЦВЦ@ВЊВаВћБB@ОфВҐВ∆В©БAГlГKГeГBГuВ»ЧЌВ»ВсВƒВ»ВҐВнБBБv@
-`"Ёто маги€ благодарности.`@` Ќикаких прокл€тий и негативных сил."`\
+`"It's a magic of gratitude.`@` No curses involved."`\
 ;БГГtГЛГtГЛ
 ld l,ZEP_waraiA4,80
 
 ;БuВљВЊНҐВЅВљВ±В∆В…БAВ«ВсВ»В≤ЧШЙvВ™В†ВйВћВ©ЦYВкВƒВµВ№ВЅВљВсВЊБBБv\
-`"’от€ €, к сожалению, не помню, каким именно счастьем она одаривает."`\
+`"Unfortunately, however, I have forgotten what kind of blessings it gives."`\
 ;БГГ[ГpГЛ
 
 
 ld r,FUR_waraiA1,80
 
 ;БuВ≈ВаЦсС©ВЈВйВнБB@РвСќВ…БAС°ВзВкВƒЦјШfВЈВйВжВ§В»ЦВЦ@В≈ВЌВ»ВҐВнБBБv\
-`"Ќо мы обещаем.`@` ѕроблем у получател€ не возникнет."`\
+`"But we promise.`@` This magic sends no trouble to the receiver."`\
 ;БГГtГЛГtГЛ
 
 ld l,ZEP_WaraiA8,80
 
 ;БuС°ВзВкВљХкРeВЌБAИкУъВЊВѓП≠ВµБAЦВЦ@ВћЙЅМмВ™ОуВѓВзВкВйГJБ[ГlБ[ГVГЗГУВ≥БB@ВїВкВ»ВзБAЦlВљВњВаИЂЦВВзВµВҐЦВЧЌВ†ВйОцВѓХ®В™ПoЧИВƒЦЮСЂВЊВµБA@МNВЊВЅВƒБAВїВ§Х|В™ВзВЄВ…ОуВѓОжВкВйГAГCГeГАВЊВ∆ОvВ§ВѓВ«ВЋБIБv\
-`"“воей матери, получившей гвоздику, будет на один день дана маги€ защиты.`@` “воЄ желание исполн€ют демоны с потр€сающей силой,`@` так что ты тоже не бойс€ прин€ть еЄ."`\
+`"The mother of yours, after receiving this carnation, will be given magic protection for a single day.`@` Your wish is being granted by amazingly powerful demons,`@` so you should not fear accepting this item."`\
 ;БГГ[ГpГЛ
 cl c,0
 bg black,22
 
 ;Б@ЦВЦ@ВћГJБ[ГlБ[ГVГЗГУБcБcБB@
-` ћаги€ гвоздики...`\
+` Magic carnation...`\
 ;Б@ЙљВћМшЙ В©ВжВ≠ВнВ©ВзВ»ВҐВѓВкВ«БA@ЦВЦ@ВћЧЌВ≈БAЙЅМмВрЧ^В¶ВƒВ≠ВкВйБcБcБB\
-` Ќе совсем понимаю, как ты действуешь, но...`@`даруй силой магии защиту...`\
+` I don't really get what kind of effect you have, but please...`@`by the power of magic, bestow protection...`\
 wait 500
 bg M1F_P1c,22
 
 ;Б@ОйОuНБВЌБAВїВћГJБ[ГlБ[ГVГЗГУВрЙƒФ№В…С°ВйВ±В∆В…МИВяВ№ВµВљБB\
-` ƒжессика решила дать гвоздику Ќацухи.`\
+` Jessica decided to give the carnation to Natsuhi.`\
 
 bg black,22
 fede 0,2000
@@ -10837,42 +10837,42 @@ bg M1F_S1c,2
 ld r,JES_AisoWaraiA1,24
 
 ;БuХкВ≥ВсБAВ±ВкБcБcБB@ХкВћУъВћГvГМГ[ГУГgВ…БcБcБBБv\
-`"ћам, вот...`@` ѕодарок на ƒень матери."`\
+`"Mom, take this...`@` A present for Mother's Day."`\
 ;БГОйОuНБ
 
 ld l,NAT_WaraiA2,23
 ld l,NAT_WaraiA1,80
 ;БuВ®ВвБAГJБ[ГlБ[ГVГЗГУВ≈ВЈВ©БB@БcБcВ«В±В©ХsОvЛcВ»ГJБ[ГlБ[ГVГЗГУВ≈ВЈВЋБH@Б@В–ВеВЅВ∆ВµВƒТњВµВ©ВЅВљВиБAНВВ©ВЅВљВиВЈВйВћВ≈ВЌВ†ВиВ№ВєВсВ©БHБv\
-`"ќ, гвоздика.`@`  ...Ќеобычна€ гвоздика, нет?`@` ¬озможно, редка€ или дорога€?"`\
+`"Oh, a carnation.`@` ...It looks a bit strange, doesn't it?`@` Is it perhaps some rare, expensive kind?"`\
 ;БГЙƒФ№
 
 ld r,JES_TereruA2,80
 
 ;БuВҐБAВҐВвБAВ№ВЯВїВћБI@Б@ЙљВ©БAЙПЛNХ®ВзВµВ≠ВƒБAОЭВЅВƒВйВ∆ВїВћБAНKЙ^В™В†ВйВзВµВҐВЇБHБv@
-`"Ќ-нет, ну, не совсем!`@` ќна нечто вроде талисмана и приносит, э-э, удачу, если за ней ухаживать?" `\
+`"N..no, well, not really!`@` It's supposed to be some kind of lucky charm, and it gives you, uh, good fortune if you take care of it?" `\
 ;БГОйОuНБ
 
 
 ld l,NAT_TukareA2,80
 
 ;БuВїВ§В≈ВЈВ©БB@В†ВиВ™В∆В§БBСеРЎВ…ВµВ№ВЈБBБv\
-`"¬от как.`@` —пасибо. я позабочусь о ней."`\
+`"Is that so?.`@` Thank you. I'll take good care of it."`\
 ;БГЙƒФ№
 
 
 bg M1F_S1d,22
 
 ;Б@Г[ГpГЛВ∆ГtГЛГtГЛВћШbВ…ВжВйВ∆БA@ГvГМГ[ГУГgВµВљОЯВћУъБAТ©В©ВзФ”В№В≈МшЙ ВрФ≠КцВЈВйВ∆ВҐВ§В±В∆В≈ВµВљБB\
-` «епар и ‘урфур сказали, что эффект будет с утра до вечера на следующий день после того, как подарок был отдан.`\
+` Zepar and Furfur had told me that the effect would last from the morning to the evening of the day after the present was given.`\
 
 ;Б@В«ВсВ»ЦВЦ@ВћМшЙ В™В†ВйВћВвВзБB@
-` ƒжессика точно не знала, как подействует маги€. `\
+` Jessica wasn't sure what kind of effect the magic would have. `\
 ;Б@ВњВеВЅВ∆ЛCВ…В»ВиВ№ВµВљВ™БAЦЊУъВЌМОЧjУъБB@
-` ќна развернула мысли к тому, что завтра понедельник. `\
+` She stopped thinking about that and instead turned her thoughts to the fact that tomorrow was Monday. `\
 ;КwНZВћУъБB@
-` ”чебный день. `\
+` She had to go to school. `\
 ;Б@ЛAСоВµВљВзБAЙљВ©ВҐВҐВ±В∆В™В†ВЅВљВ©ХЈВҐВƒВЁВйВ±В∆В…ВµВ№ВµВљБB\
-` ѕо возвращении из школы она услышит, если случитс€ нечто хорошее. `\
+` And she will only know what happened, if anything, after she reutrns. `\
 
 bg black,2
 fede 0,2000
@@ -10883,37 +10883,37 @@ bgm1 3
 bg schR_P1b,2
 
 ;Б@ЧВУъБBРVУЗВћКwНZВ…ВƒБB@
-` Ќа следующий день в школе на Ќииджиме. `\
+` The next day, at the school in Niijima. `\
 
 ;БuГWГFГVБ[БAВ®ВЌВжБ[БI@Б@БcБcВ«ВµВљВћБHБv\
-`"ƒжесси-и-и! ƒоброе утро!`@` ...„то-то не так?"`\
+`"Jessieeeee! G'mornin!`@` ...Something wrong?"`\
 
 ld c,JES_tohohoA1,23
 ld c,JES_AisowaraiA1,80
 
 ;БuВ§В§В§В§В§БcБB@ГTГNВ©ВЯБAВ®ВЌВжВ§ВЊВЇБcБcБBТ©ВЅВѕВзВ©ВзУ™В™Т…В•ВсВЊВЇБcБBБv\
-`"”-у-у...`@` ƒоброе утро, —акука-а-а... ” мен€ с утра голова раскалываетс€..."`\
+`"Ooof...`@` Good morning, Sakuka... I have this huge headache ever since I woke up..."`\
 ;БГОйОuНБ
 
 bg schF_R1b,24
 ;БuВвВЅВЊБ[БAГWГFГVБAУсУъРМВҐВ°БHБIБ@@ГLГГГbГnГnГnГnБIБv\
-`"ќ, не-е-ет, ƒжесси, похмелье?!`@`  ь€-ха-ха-ха!"`\
+`"Oh no, Jessie, are you hungover?!`@` Kyahahaha!"`\
 
 ld c,JES_AtyaA2,23
 
 ;БuВ§В§В§В£БAЙ©РFВҐПќВҐВ™У™В…ЛњВ≠ВЇБcБcБBБv\
-`"”-у-у-у, голова болит от твоего визгливого смеха..."`\
+`"Ugghhh, your screechy laughter is hurting my head..."`\
 ;БГОйОuНБ
 
 ;БuГWГFГVВћВ®ХкВ≥ВсВЅВƒУ™Т…ОЭВњВ»ВсВ≈ВµВеБBИвУ`В©ВЋВ•БB@В®ХкВ≥ВсВ…У™Т…ЦтВ∆В©СКТkВµВƒВЁВљВзБHБv\
-`"“ы вроде говорила, что у твоей матери всегда головные боли. ћожет, это наследственное.`@` ¬друг ты разделила еЄ болезнь?"`\
+`"You told me before your mother constantly has headaches. Could it be hereditary?`@` Could it be that you have her sickness?"`\
 bg black,22
 
 ;Б@ВсБH@Б@ОйОuНБВЌВ”В∆БAН°Т©ВћТ©РHВћОЮВћВ±В∆ВрОvВҐПoВµВ№ВЈБB@
-` ’м?`@` ƒжессика вдруг вспомнила завтрак этим утром. `\
+` Hm?`@` Jessica suddenly remembered breakfast that morning. `\
 
 ;Б@Н°Т©БAЙƒФ№ВЌВ∆ВƒВаЦЊВйВҐПќКзВрВµВƒВҐВљВћВ≈ВЈБB\
-` “огда у Ќацухи была очень светла€ улыбка на лице.`\
+` That morning, Natsuhi had a very bright smile on her face.`\
 
 fede 0,1000
 E_A
@@ -10926,57 +10926,57 @@ ld l,KLA_DefA1,23
 ld l,KLA_AkuwaraiA1,80
 
 ;БuВ«В§ВµВљВЋБAЙƒФ№БB@Н°Т©ВЌВ∆ВƒВаВ≤Л@МЩВћВжВ§ВЊБBБv@
-`" стати, Ќацухи.`@` “ы, похоже, сегодн€ в хорошем настроении." `\
+`"By the way, Natsuhi.`@` You seem to be in good spirits today." `\
 ;БГС†ЙP
 
 ld r,NAT_TukareA2,24
 
 ;БuВ¶В•БBЛCМуВ™ЙЄВвВ©В…В»ВЅВƒВЂВљВєВҐВ≈ВµВеВ§В©БB@Н°Т©ВЌУ™Т…ВаЙЄВвВ©В≈БAВ∆ВƒВаЙхУKВ…ЦЏКoВяВљВаВћВ≈БBБv\
-`"ƒа. ƒолжно быть, из-за такой спокойной погоды.`@` √оловна€ боль успокоилась, и € проснулась в комфорте."`\
+`"Yes. It must be because of this beautiful weather.`@` My headache is gone, and I have awakened comfortably in the morning."`\
 ;БГЙƒФ№
 
 bg black,22
 bg M1F_P1b,22 
 
 ;Б@ВїВсВ»ЧЉРeВћВвВиВ∆ВиВрМ©ВƒБA@В†ВЯВЂВЅВ∆БAЦВЦ@ВћГJБ[ГlБ[ГVГЗГУВћВ≤ЧШЙvВЊВ»БAВ»ВсВƒОvВЅВљВиВµВљВћВ≈ВµВљБcБcБB\
-` —лыша разговор родителей, она подумала: Џ00171ќ, точно эффект гвоздичной магииЏ00187..."`\
+` Hearing this exchange between her parents, she was thinking that this is most definitely magic...`\
 
 bg black,2
 
 bg schR_P1b,22
 
 ;Б@ВїВ§В©БAВїВ§ВҐВ§В±В∆В©БcБcБB@ОйОuНБВЌБAЦВЦ@ВћГJБ[ГlБ[ГVГЗГУВћВ≤ЧШЙvВрЧЭЙрВµВ№ВЈБB\
-` ј, так вот оно что...`@` 
-` ƒжессика пон€ла, что дарует гвоздична€ маги€. `\
+` Oh, so this is how it is...`@` 
+` Jessica finally understood the blessings of the magic carnation. `\
 
 ;Б@КmВ©В…БAВ†ВћГJБ[ГlБ[ГVГЗГУВЌБAС°ВЅВљСКОиВ…ЙЅМмВрЧ^В¶ВйВ∆ЦсС©ВЌВµВƒВ≠ВкВ№ВµВљБB@
-` ƒа, гвоздика обещала защитить получател€. `\
+` It's true that the carnation protects its receiver. `\
 ;Б@В≈ВаБAБgС°ВиМ≥ВћРlБhВ…БAЙЅМмВвОфВҐВ™В†ВйВ∆ВаВ»ВҐВ∆ВаБAМЊВЅВƒВЌВҐВ№ВєВсБB\
-` Ќо не было сказано, какое счастье или прокл€тие будет дано отправителю.`\
+` But it was never confirmed whether the sender would be cursed or blessed in any way.`\
 
 bg rose_t1a,28
 
 ;Б@БcБcВ»ВйВўВ«В»БB@ИЂЦВВћГvГМГ[ГУГgВЊВаВсВ»БBГ^Г_В≈В§В№ВҐШbВ™В†ВйВнВѓВаВ»ВҐВвБB@
-` ...ѕон€тно.`@` Ёто же, как ни крути, подарок демонов. “о, что слишком хорошо дл€ правды.`\
+` ...I see.`@` This is, after all, a gift from demons. It was simply one of those things that was too good to be true.`\
 
 ;Б@В†ВћГJБ[ГlБ[ГVГЗГУВћЦВЦ@ВЌБAСљХ™БAРgСгВнВиВЁВљВҐВ»ВаВћВЊВлВ§БB\
-` ћаги€ гвоздики, очевидно, работает замещением.`\
+` The magic of that carnation probably worked by substitution.`\
 
 ;Б@ХкВ≥ВсВћУ™Т…В™ОжВиПЬВ©ВкВƒБAОДВ…ИЏВЅВƒВйБB@
-` ќна снимает головную боль с мамы и даЄт еЄ мне. `\
+` It removed my mom's headaches and transferred them onto me. `\
 
 ;Б@Н°УъБAХкВ≥ВсВЌУ™Т…В©ВзЙрХъВ≥ВкВйСгВнВиВ…БAОДВЌИкУъБAУ™Т…В…ФYВ№В≥ВкВйВ∆ВҐВ§ВнВѓВЊБcБcБB\
-` ¬ общем, мама на сегодн€ освобождаетс€ от головных болей, и вместо этого весь день страдать от них буду €...`\
+` In other words, mom is released from headaches today, and, instead, I get them for a day...`\
 
 bg schR_R1d,24
 
 ;Б@Н≈ПЙВЌБAЙљВƒЦјШfВ»ЦВЦ@ВЊВлВ§В∆ОvВҐВ№ВµВљБB@
-` —начала еЄ раздражала эта маги€. `\
+` At first, she was annoyed by this revelation. `\
 ;Б@В≈ВаБAУrТЖВ≈НlВ¶ВрЙьВяВ№ВµВљБB@
-` Ќо, задумавшись, она помен€ла мнение. `\
+` But after thinking it over, she changed her mind. `\
 
 ;Б@КmВ©В…О©Х™ВЌУ™Т…В≈РhВҐВ≈ВЈВ™БAВїВћВ®ЙAВ≈ЙƒФ№ВЌБAН°УъИкУъВрЙхУKВ…ЙяВ≤ВєВйВћВ≈ВЈБB\
-` ƒа, еЄ мучила головна€ боль, но благодар€ этому Ќацухи могла при€тно провести день.`\
+` Yes, she was suffering from the headaches, but thanks to that, Natsuhi could spend just this one day pleasantly.`\
 
 bg schF_R1a,24
 
@@ -10985,11 +10985,11 @@ ld c,JES_FutekiA2,80
 
 se1 4
 ;БuБcБcВ№БAГ^Г_В≈В§В№ВҐШbВ™В†ВйВнВѓВаВ»ВҐБB@В±ВћУ™Т…ВрБAХкВ≥ВсВ÷ВћРeНFНsВЊВЅВƒБAН°УъИкУъВ™ВсВќВлВ§БBБv@
-`"...—ловом, это было слишком хорошо дл€ правды.`@` √оловна€ боль возвращает мой долг перед мамой, так что переживу." `\
+`"...In other words, it was too good to be true.`@` This headache is paying my debt to Mom, so just for today I'll live it out." `\
 ;БГОйОuНБ
 
 ;Б@ОйОuНБВЌЙљВ∆В©ИкУъБAВ™ВсВќВлВ§В∆МИРSВµВ№ВµВљБB\
-` ƒжессика решила сегодн€ как-нибудь справитьс€.`\
+` Jessica decided to just deal with this for today.`\
 
 bg black,2
 
@@ -11003,74 +11003,74 @@ bgm1 3
 
 !s0 /
 ;БuЙљВ≈ВЈВЅВƒБ[БIБI/
-`"„то такое?! `/
+`"What the hell?! `/
 se1 10 
 quakey 2,300
 ;!d300Б@ГMГГБ[ГMГГБ[БIБIБv@/
-!d300`√ь€-гь€-а!"`@/
+!d300`Gyagyagyagya!"`@/
 !sd /
 !s0 /
 ;БuЙљМЊВЅВƒВсВЊВжБI/
-`"Ёй, ты что говоришь?! `/
+`"Hey, what the hell are you talking about?! `/
 se1 10 
 quakex 2,300
 ;!d300Б@ГMГГБ[ГMГГБ[БIБIБv@/
-!d300`√ь€-а-а!"`\
+!d300`Gyagyagya!"`\
 !sd
 
 ;БuГWГFБAГWГFГVБ[БIБ@МЦЙ№ВЊВжБ[БIБ@РґУkЙпТЈВ»ВсВЊВ©ВзТЗНўВµВƒБ`БIБv\
-`"ƒ-ƒжесси-и-и! “ам драка! ќстанови их, ты же председатель студсовета!"`\
+`"Je...Jessie! There's a fight over there! You gotta stop them, you're the student council president!"`\
 
 ;Б@КwНZВ≈ВЌОйОuНБВЌРlЛCО“БB@МЦЙ№В™В†ВйВ∆ТЗНўВрФCВ≥ВкВйВ±В∆ВаСљВҐВ≈ВЈБB\
-` ¬ школе ƒжессика была попул€рна.`@` √де бы ни произошла драка, еЄ часто звали разобратьс€.`\
+` Jessica was a popular student.`@` If there's a fight, she's often the one to tear it apart.`\
 
 bg schR_P1b,23
 
 ;Б@В≈ВаБAН°УъВЌВ«В§ВҐВ§ВнВѓВ©БAВ†ВњВ±ВњВ≈МЦЙ№В™СљФ≠ВµБAВїВћУxВ…ОйОuНБВЌМƒВќВкВƒСеЦZВµВ≈ВЈБB\
-` Ќо сегодн€ почему-то повсюду начинались драки, и каждый раз звали ƒжессику, не оставл€€ ей ни секунды свободного времени.`\
+` But today, for some reason, there were numerous fights all around, and every time someone called Jessica over, making her very busy.`\
 
 bg black,22
 
 ;Б@В∆В±ВлВ™БAОйОuНБВЌВїВкВ…ВаОvВҐУЦВљВйВ∆В±ВлВ™В†ВиВ№ВµВљБB@
-` Ќо ƒжессика вспомнила. `\
+` But then Jessica remembered something. `\
 
 ;Б@БcБcВїВ§МЊВ¶ВќХкВ≥ВсБAМЊВЅВƒВљВ»БB@
-` ...≈сли подумать, мама говорила мне. `\
+` ...Come to think of it, my mom told me that... `\
 
 ;Б@ОgЧpРlУѓОmВћК‘В…ВҐВіВ±ВіВ™В†ВЅВƒБAВжВ≠МЦЙ№В…В»ВЅВƒБAТЗНўВЈВйВЌВяВ…В»ВйВЅВƒБB\
-`  огда слуги препирались, она смотрела и судила, не перерастЄт ли спор в драку. `\
+` ...whenever servants argued, she'd watch and stop them if it was about to turn into a fight. `\
 
 ;Б@ВЂВЅВ∆ВїВкВаОДВ™М®СгВнВиВµВƒВйВсВЊВлВ§В»БcБB@
-` я обременена и этим?.. `\
+` So even that burden is mine now?.. `\
 ;Б@ВЂВЅВ∆Н°УъВћШZМђУЗВЌБAОgЧpРlВћВЁВсВ»ВаЙЄВвВ©В≈МЦЙ№В»ВсВ©В»ВҐВ…ИбВҐВ»ВҐБB\
-` —егодн€ на –оккенджиме слуги точно прекрасно лад€т и не спор€т.`\
+` Today on Rokkenjima, the servants were definitely getting along peacefully without fighting.`\
 
 bg Mdin_1b,22
 
 ;Б@ОйОuНБВћСzСЬВЌУЦВљВЅВƒВҐВ№ВµВљБB@
-` ” ƒжессики разыгралось воображение. `\
+` Jessica's imagination had been sparked. `\
 
 ;Б@ВїВћН†БAШZМђУЗВћЙƒФ№ВЌБAН°УъВЌЙљВћГgГЙГuГЛВаВ»ВҐВ∆БAВ…В±ВвВ©В…ВµВƒВҐВ№ВµВљБB\
-` Ќа –оккенджиме Ќацухи улыбаетс€, вид€, что сегодн€ нет никаких проблем. `\
+` Natsuhi had no trouble at all on Rokkenjima today, and spent her time smiling as a result of that. `\
 
 bg black,2
 bg schF_P2a,22
 
 !s0 /
 ;БuВЊВ©ВзЦмЛЕХФВќВ©ВиГYГЛГCВЅВƒМЊВЅВƒВсВ≈ВµВеБ[БI/
-`"ѕотому-то баскетбольный клуб и несправедлив! `/
+`"That's why the basketball club is so unfair, right?! `/
 se1 10 
 quakey 2,300
 ;!d600Б@ГMГГБ[ГMГГБ[БIБIБv@/
-!d600`√ь€-гь€!"`@/
+!d600`Gyagya!"`@/
 !sd /
 !s0 /
 ;БuВїВкВрМЊВЅВљВзБAГTГbГJБ[ХФВЊВЅВƒВ«В§В»ВсВЊВжБI/
-`"Ќу да, а футбольный клуб?! `/
+`"Even though you say that, what about the football club?! `/
 se1 10 
 quakex 2,300
 ;!d600Б@ГMГГБ[ГMГГБ[БIБIБv\/
-!d600`√ь€-гь€!"`\/
+!d600`Gyagya!"`\/
 !sd/
 
 bg schF_R1c,24
@@ -11078,11 +11078,11 @@ se2 20
 quakex 2,300
 
 ;БuВЊВ©ВзРґУkЙпФпВ™ГMГГБ[ГMГГБ[БIБIБv@/
-`"«аплати уже за студсовет! √ь€-гь€!" `@/
+`"So pay the student council fees! Gyagya!" `@/
 se1 10 
 quakey 2,300
 ;БuЙпМvВ™НЗВнВ»В≠ВƒГMГГБ[ГMГГБ[БIБIБv\
-`"—чета не совпадают! √ь€-гь€!"`\
+`"I'm being overcharged! Gyagya!"`\
 
 bg schF_P1a,23
 
@@ -11091,34 +11091,34 @@ quakex 2,300
 
 
 ;БuВ¶Б[БAЧИПTПoВƒВ≠ВкВйВЅВƒМЊВЅВљВґВбБ[ВсБIБIБv@/
-`"Ё-э? Ќо ты сказал, что пойдЄшь со мной на следующей неделе!" `@/
+`"Ehhh! But you said you'd go out with me next week!" `@/
 ;БuВ≤ВяВсБAВїВћУъБAГoГCГgВ≈В«В§ВµВƒВаГ_ГБВ≈БcБBБv\
-`"»звини, в тот день никак не смогу..." `\
+`"Sorry, but work absolutely won't budge on that day..." `\
 
 
 
 bg schF_R1a,24
 ;Б@Н°УъВ…МјВЅВƒГgГЙГuГЛВћВƒВсВ±РЈВиВ≈ВЈБB@
-` —егодн€ проблемам не было конца. `\
+` Today, the problems just never ended. `\
 ;Б@СќРlГgГЙГuГЛВ…БAВ®ЛаВћГgГЙГuГЛБB@В≥ВзВ…ВЌГVГtГgВћГgГЙГuГЛБB@
-` Ћичные проблемы, денежные вопросы,`@` даже проблемы смен.`\
+` Personal problems, financial problems,`@` even shift problems.`\
 
 ;Б@К‘ИбВҐВ†ВиВ№ВєВсБB@ХБТiВ©ВзЙƒФ№В™ХшВ¶ВƒВйФYВЁВ™СSВƒБAОйОuНБВ…Н~ВиВ©В©ВЅВƒВҐВйВћВ≈ВЈБB\
-` Ќикаких сомнений.`@` ¬се привычные беспокойства Ќацухи свалились на ƒжессику.`\
+` There's no doubt.`@` All of the usual worries that Natsuhi held had fallen onto Jessica.`\
 
 ;Б@В±В±В№В≈РFБXВ∆ЧІВƒС±ВѓВ…ЛNВ±ВйВ∆БAОйОuНБВЌБAХкРeВ™В«ВсВ»РѓВћЙЇВ…РґВ№ВкВљВћВ©БAЛCВћУ≈В…ОvВнВЄВ…ВЌВҐВзВкВ№ВєВсВ≈ВµВљБB@
-` ѕроблемы всЄ возникали и возникали, и ƒжессика невольно поинтересовалась, под какой счастливой звездой родилась еЄ мать.`\
+` As the various issues continued to occur, Jessica unintentionally found herself wondering just what sort of stars her mother had been born under.`\
 
 ;Б@В≈ВаБAВїВкВрМ®СгВнВиВЈВйВ±В∆В≈БA@Н°УъИкУъВЊВѓВЌБAЙƒФ№ВЌКyВ…ЙяВ≤ВєВйВћВ≈ВЈБB\
-` Ќо без этого долга на плечах`@` Ќацухи могла при€тно провести один день.`\
+` But since she had shouldered this respoonsibility,`@` Natsuhi could pass this single day in peace.`\
 
 bg schF_R1b,22
 
 ;Б@ВїВсВ»ХкВћУъВћГvГМГ[ГУГgВаБAИЂВ≠В»ВҐВ»БcБcБB@
-` Ќеплохой же подарок на ƒень матери, да?..`\
+` It's not a bad gift for Mother's Day, is it?..`\
 
 ;Б@ОйОuНБВЌВїВ§ОvВҐБAХкВ…Н~ВиВ©В©ВйВЌВЄВЊВЅВљГgГЙГuГЛВ…БAУ™Т…ВрКђВ¶В»В™ВзБAОЯБXБAТІВсВ≈ВҐВ≠ВћВ≈ВµВљБB\
-` ƒумала ƒжессика, с готовностью сталкива€сь с непри€тност€ми, которые должны были падать на еЄ мать, и терп€ головную боль.`\
+` Jessica thought this, and challenged all the trouble and the headache that should have befallen her mother head on.`\
 
 bg black,2
 fede 0,1000
@@ -11133,10 +11133,10 @@ bg Mdin_1bN,22
 bgm1 43
 
 ;Б@ШZМђУЗБAЙЃХ~БB@Ч[РHВћОЮБB@
-` √лавный дом на –оккенджиме.`@` ¬рем€ ужина. `\
+` Back in the Rokkenjima mansion, during dinner... `\
 
 ;Б@ЙƒФ№ВћКзВЌР∞ВкР∞ВкВ∆ВµВƒВҐВ№ВµВљБB\
-` Ћицо Ќацухи светилось бодростью.`\
+` Natsuhi's face was bright and cheerful.`\
 
 bg Mdin_1dN,0
 ld l,NAT_TukareA2,22
@@ -11144,12 +11144,12 @@ ld r,JES_aisowaraiA1,24
 
 
 ;БuВ«БAВ«В§БAХкВ≥ВсБB@Н°УъИкУъБAЙљВ©СfУGВ»В±В∆ВЌВ†ВЅВљБHБv\
-`"“-так что, мама,`@` день прошЄл хорошо?"`\
+`"W-well, mom,`@` how was your day?"`\
 ;БГОйОuНБ
 
 ld l,NAT_WaraiA1,80
 ;БuВ¶В•БB@Н°УъВЌВ«ВҐВ§ВнВѓВ©БAВ∆ВƒВаПДВиНЗВнВєВћЧ«ВҐУъВ≈БBВ∆ВƒВаР√В©В≈ЙЄВвВ©В»БAСfУGВ»ИкУъВ≈ВµВљВжБB@В±ВкВаОйОuНБВ™ГvГМГ[ГУГgВµВƒВ≠ВкВљБAНKЙ^ВћГJБ[ГlБ[ГVГЗГУВћВ®ЙAВ≈ВµВеВ§ВЋБB@Ц{УЦВ…В†ВиВ™В∆В§БBБv\
-`"ƒа.`@` —егодн€ в целом был хороший день - очень мирный и спокойный.`@` Ќаверное, благодар€ твоей гвоздике, принос€щей удачу.`@` —пасибо."`\
+`"Today was lovely. It was very peaceful and calm.`@` It must've been because of that good luck carnation you gave me as a present.`@` Thank you very much."`\
 ;БГЙƒФ№
 
 
@@ -11157,32 +11157,32 @@ ld l,NAT_WaraiA1,80
 bg black,22
 
 ;Б@Н°УъИкУъБAОйОuНБВЌУ•ВсВЊВиПRВЅВљВиВ≈ВµВљВ™БAХкРeВћВїВћПќКзВ≈БAСSВƒВЌХсВнВкВљЛCВ™ВµВ№ВµВљБB\
-` ’от€ сегодн€ у ƒжессики был Џ00171день, когда льЄт дождьЏ00187, вид€ улыбающеес€ лицо матери, она почувствовала, что всЄ вознаграждено.`\
+` Although today was terrible for Jessica, she felt rewarded just by seeing her mother's smiling face.`\
 
 ;Б@ВаВ§ВґВЂБAВQВSОЮБB@
-` —коро полночь. `\
+` It's almost midnight. `\
 
 ;Б@Г[ГpГЛВ∆ГtГЛГtГЛВћБAГJБ[ГlБ[ГVГЗГУВћЦВЦ@ВЌВ®ВµВ№ВҐВ≈ВЈБB\
-`  онец гвоздичной магии «епар и ‘урфур.`\
+` Zepar's and Furfur's magic will end.`\
 
 bg black,22
 bg MJES_1e,22
 
 ;Б@ВQВSОЮВ…В»ВйВ∆УѓОЮВ…БAОйОuНБВћУ™ВћУ™Т…В™БAВЈВ£ВЅВ∆ПЅВ¶В№ВµВљБB@
-` — наступлением полночи прошла и головна€ боль ƒжессики. `\
+` As soon as midnight arrived, Jessica's headache has completely vanished. `\
 ;Б@ГJБ[ГlБ[ГVГЗГУВћЦВЦ@В™РЎВкВљВћВ≈ВЈБB@
-` —рок гвоздичной магии истЄк. `\
+` The carnation magic expired. `\
 
 ;Б@ВжВ§ВвВ≠ЛCХ™В™ВЈВЅВЂВиВ∆ВµВ№ВµВљВ™БA@Н°Н†БAЙƒФ№ВЌБAВ№ВљВћУ™Т…В…ФYВ№В≥ВкВƒВҐВйВЌВЄВ≈БAВњВеВЅВ“ВиХ°ОGВ»ЛCХ™В≈ВµВљБB\
-` ” неЄ в голове наконец про€снилось,`@` но в то же врем€ Ќацухи оп€ть начала страдать от головной боли, так что возникло немного сложное чувство.`\
+` And even though her head was clear now,`@` Natsuhi began suffering again, so Jessica experienced a rather complicated emotion.`\
 
 bg MJES_1dN,22
 
 ;Б@БcБcХкВћУъВ…МјВзВЄБB@
-` ...¬сего раз, на ƒень матери.`\
+` ...Just once, on this Mother's Day.`\
 
 ;Б@В†ВћЦВЦ@ВћГJБ[ГlБ[ГVГЗГУВ≈БAВљВ№В…ВЌУ™Т…В∆В©РFБXВрБAМ®СгВнВиВµВƒВ†В∞ВйВћВ™РeНFНsВ©В»БcБB\
-` ќна смогла вынести брем€ головной боли и других мучений Ќацухи, тем самым про€вив уважение к матери...`\
+` She was able to carry Natsuhi's headache burden and her other torments. It was a way of showing respect to her mother, wasn't it?..`\
 
 bg black,22
 
@@ -11193,7 +11193,7 @@ ld l,ZEP_WaraiA6,0
 print 99,1000,"breakup.dll/ulP"
 
 ;БuВвВЯБAОйОuНББI@Б@В±ВкВ≈ГJБ[ГlБ[ГVГЗГУВћЦВЦ@ВЌВ®ВµВ№ВҐВЊВѓВ«БAЦЮСЂВµВƒВаВзВ¶ВљВ©ВҐБHБv@
-`"Ёй, ƒжессика!`@` —рок гвоздичной магии истЄк, но ты довольна?"`\
+`"Hey, Jessica!`@` The carnation magic is now expired. Are you satisfied with the result?"`\
 ;БГГ[ГpГЛ
 
 se1 52
@@ -11201,19 +11201,19 @@ ld r,FUR_WaraiA1,0
 print 99,1000,"breakup.dll/ulP"
 
 ;БuЙƒФ№ВЌН°УъИкУъБAЙЅМмВћЧЌВрУЊВзВкВљВЌВЄВЊВнБBБv\
-`"Ќацухи должна была на день обрести божественную защиту."`\
+`"Natsuhi had received divine protection for today."`\
 ;БГГtГЛГtГЛ
 
 ld l,ZEP_WaraiA2,80
 
 ;БuВїВ§ВїВ§БI@Б@ГJБ[ГlБ[ГVГЗГУВћЦВЦ@ВЊВѓВ«ВЋБAВњВбВсВ∆РаЦЊПСВрТ≤В„ВƒВЂВљВжБI@Б@В†ВћГJБ[ГlБ[ГVГЗГУВћЦВЦ@ВЌВЋБAБv\
-`"ƒа-да!`@` Ќо мы тут как следует изучили указани€ к этой волшебной гвоздике!`@` «наешь, еЄ маги€..."`\
+`"Yes, yes!`@` However, we have just now found this carnation's instruction manual!`@` You see, this magic..."`\
 ;БГГ[ГpГЛ
 
 ld c,JES_WaraiA2,23
 
 ;БuВаВ§ТmВЅВƒВйВЇБB@С°ВЅВљОДВ…БAХaЛCВ∆В©ГgГЙГuГЛВрРgСгВнВиВ…ВЈВйЦВЦ@ВЊВлБH@Б@В№ВЯБAВїВсВ»В§В№ВҐШbВ™В†ВйВнВѓВ»ВҐВµБAМЛЙ УIВ…ХкВ≥ВсВ…РeНFНsВ™ПoЧИВљВ©ВзБAКіО”ВЌВЈВйВЇБBБv\
-`"я уже пон€ла.`@` ¬замен на мен€, отправител€, сваливаютс€ все беды и непри€тности.`@` „то ж, такие штуки слишком хороши дл€ правды, но в результате € вернула долг перед мамой, так что спасибо."`\
+`"Yep, I got it already.`@` I, the sender, get all of the misfortune and trouble as a substitute, don't I?`@` Well, this kind of thing was too good to be true, but since I could pay back the debt to my mother, I am thankful anwyay."`\
 ;БГОйОuНБ
 
 textoff
@@ -11227,56 +11227,56 @@ ld l,ZEP_MajimeA3,80
 
 
 ;БuБuРgСгВнВиБHБvБv@
-`""¬замен?"" `\
+`""Substitute?"" `\
 ;БГГ[ГpГЛБAГtГЛГtГЛ
 
 
 bgm1 137
 
 ;Б@Г[ГpГЛВ∆ГtГЛГtГЛВЌБAВЂВеВ∆ВсВ∆ВµВƒКзВрМ©НЗВнВєВ№ВµВљБB\
-` «епар и ‘урфур недоуменно перегл€нулись. `\
+` Zepar and Furfur exchanged confused glances. `\
 
 bg black,22
 bg MJES_1aN,22
 ld r,ZEP_AkireA1,23
 
 ;БuВҐВҐВвБAИбВ§ВжБB@В†ВћГJБ[ГlБ[ГVГЗГУВћЦВЦ@ВЌБgЦВПЬВѓБhВ»ВсВЊВжБBБv@
-`"ƒа нет же.`@` ћаги€ гвоздики - *очарование*."`\
+`"No, there's nothing of the sort.`@` This magic is a charm."`\
 ;БГГ[ГpГЛ
 
 ld l,FUR_defA1,24
 
 ;БuЧмУIВ»ЦВЦ@УIВ»БAВ†ВзВдВйК±П¬В©ВзИкУъВЊВѓОзВЅВƒВ≠ВкВйВћБB@ОйОuНБВњВбВсВ…БAГgГЙГuГЛВрИЏВµХѕВ¶ВйВ»ВсВƒМшЙ ВЌБAВ»ВҐВЌВЄВ»ВсВЊВѓВ«БcБHБv\
-`"ƒуховна€ маги€ прорываетс€ сквозь все помехи, чтобы защитить на один день.`@` Ќе должно быть никаких эффектов, перекладывающих проблемы на ƒжессику..."`\
+`"Spiritual magic that cuts through all interference to protect for one day.`@` There should be no side effects that would transfer any of the trouble to Jessica..."`\
 ;БГГtГЛГtГЛ
 
 ld c,JES_TohohoA2,24
 
 ;БuВҐВвБAВїВсВ»В±В∆ВЌВ»ВҐВЇБH@Б@ХкВ≥ВсВћУ™Т…ВЌБAОДВ…ИЏВЅВƒВљВµБBБv\
-`"Ќет, не может быть.`@` √оловные боли мамы передались мне."`\
+`"That doesn't sound right.`@` My mother's headache got transferred to me."`\
 ;БГОйОuНБ
 
 cl c,0
 bg black,62
 
 ;Б@Г[ГpГЛВ∆ГtГЛГtГЛВЌВаВ§ИкУxКзВрМ©НЗВнВєВ№ВЈБB@
-` «епар и ‘урфур снова перегл€нулись. `\
+` Zepar and Furfur exchanged glances again. `\
 
 ;Б@ЙЉВ…ВаИЂЦВБB@ОцВѓВљЦВЦ@ВћВ±В∆В≈БAГjГУГQГУВ…ИбВ§В∆МЊВнВкВйВ∆БAВњВеВЅВ∆ГvГЙГCГhВ™ПЭВ¬ВЂВ№ВЈБB\
-` ѕусть даже маги€ демонов повли€ла на человека чуть-чуть иначе, чем было за€влено, их гордость пострадала. `\
+` The fact that the magic had a different effect from what they expected, even if just by a little, hurt their pride. `\
 
 bg MJES_1cN,24
 
 ld r,ZEP_AkireA1,24
 
 ;БuВ”Б[ВёБAЦlВљВњВЌЙљВЊВ©Ф[УЊВ™НsВ©В»ВҐВЋБIБv@
-`"’м, мы не согласны!"`\
+`"Hm, this isn't right!"`\
 ;БГГ[ГpГЛ
 
 ld l,FUR_majimeA1,23
 
 ;БuВ¶В•БAВ±ВкВ≈ВЌИЂЦВВћЦЉР№ВкВЊВнБB@ВњВеВЅВ∆ГJБ[ГlБ[ГVГЗГУВћЦВЦ@ВћВ±В∆БAВаВЅВ∆ВжВ≠Т≤В„ВƒВЁВ№ВµВеВ§ВжБIБv\
-`"ƒа, позор дл€ демонов!`@` Ќужно как следует изучить эту гвоздичную магию!"`\
+`"Yes, this is a disgrace to us!`@` We must go study the manual a bit more!"`\
 ;БГГtГЛГtГЛ
 
 se1v 2,100
@@ -11288,14 +11288,14 @@ mcbg 0
 ld r,FUR_WaraiA3,0
 ld l,ZEP_WaraiA3,22
 ;БuБuЦlВзВћЦЉВ…В©ВѓВƒБAРвСќВ…Р^СКВрЙрЦЊВЈВйВжБIБIБvБv\
-`""ћы кл€нЄмс€ своими именами, что абсолютно точно докопаемс€ до правды!!!""`\
+`""We swear on our names that we will definitely discover the truth!!!""`\
 ;БГГ[ГpГЛБAГtГЛГtГЛ
 
 bg MJES_1aN,24
 ld c,JES_AtyaA3,24
 
 ;БuВҐБAВҐВвВҐВҐВжБcБB@В®ЙAВ≈БAХкВћУъВћВњВеВЅВ∆ВµВљС°ВиХ®В…В»ВЅВљВµБBВ†ВиВ™В∆В§БAКіО”ВµВƒВйВжБcБBБv\
-`"ƒ-да ладно...`@` Ѕлагодар€ вам € смогла сделать маленький подарок на ƒень матери. ѕравда, спасибо, примите мою благодарность..."`\
+`"But, no, it's fine...`@` Thanks to you, I was able to give a little gift for mother's day. Thank you, really, you have my gratitude..."`\
 ;БГОйОuНБ
 
 se1v 2,100
@@ -11308,30 +11308,30 @@ ld r,FUR_WaraiA6,22
 
 
 ;БuБuВҐВҐВвБAГ_ГБВЊВЋБIБI@Б@ЦlВљВњВћГvГЙГCГhВ…В©ВѓВƒБAРвСќВ…Т≤В„ВйВ©ВзБIБvБv\
-`""Ќет, так не пойдЄт!`@` ћы вложили в это свою гордость и об€зательно всЄ вы€сним!""`\
+`""No, this won't do at all!`@` We put our pride into this, and we'll definitely figure this out!""`\
 ;БГГ[ГpГЛБAГtГЛГtГЛ
 bg MJES_1cN,24
 se1 52
 ;Б@Г[ГpГЛВ∆ГtГЛГtГЛВЌБAИкХыУIВ…ВїВ§МЊВЅВƒБAОpВрПЅВµВ№ВµВљБB@
-` ќдносторонне ответив, «епар и ‘урфур исчезли. `\
+` Zepar and Furfur, replying one-sidedly, erased their forms.. `\
 
 
 ;Б@ОйОuНБВЌВвВкВвВкВ∆М®ВрвРВяВ»В™ВзБAЦВЦ@РwВрПЅВµВ№ВµВљБB\
-` ƒжессика с облегчением вздохнула и, пожав плечами, стЄрла магический круг.`\
+` Jessica gave a sigh of relief and heaved her shoulders, then erased the magic circle.`\
 
 bg black,28
 bg MJES_1e,24
 
 ;Б@ВаВ§В†ВћУцВвВ©В»УсРlВ…ЙпВ§В±В∆ВЌВ»ВҐВ≈ВµВеВ§БB@
-` ¬р€д ли она ещЄ увидит этих оживлЄнных демонов. `\
+` She probably wouldn't see those two bustling demons again. `\
 ;Б@БcБcЧИФNВћТaРґУъВ…ВЌБAВњВбВсВ∆Р^РSВрНЮВяВƒО©Х™В≈ГvГМГ[ГУГgВрТTВЈВ±В∆В…ВµВ№ВµВеВ§БB\
-` ...ќна решила на следующий день рождени€ искренне выбрать подарок самой.`\
+` ...She resolved to pick the birthday gift to her mother herself next year.`\
 
 ;Б@ШOНјФМХкВ≥ВсВ™РiВяВƒВљБAУ™Т…В…ВжВ≠МшВ≠ГnБ[ГuВћНgТГВ»ВсВ©В«В§В©В»БcБcБB@
-`  ак насчЄт трав€ного ча€, который, по словам тЄти –озы, избавл€ет от головной боли?..`\
+` What about that herbal tea that Aunt Rosa had been recommending as a good headache treatment?..`\
 
 ;Б@В±В§ВµВƒБAОйОuНБВћХкВћУъВЌПIВнВйВћВ≈ВµВљБcБcБB\
-` » так ƒень матери дл€ ƒжессики закончилс€...`\
+` And so, the Mother's Day ended for Jessica...`\
 
 bg black,22
 fede 0,2000
@@ -11341,17 +11341,17 @@ bgm1 142
 bg zf_r1eP,26
 
 ;Б@ИкХыБAГ[ГpГЛВ∆ГtГЛГtГЛВЌБAВ«В§ВµВƒЙƒФ№ВрЙЅМмВЈВйВЊВѓВћЦВЦ@В»ВћВ…БA@ОйОuНБВ…ГgГЙГuГЛВрЙЯВµХtВѓВйВжВ§В»В±В∆В…В»ВЅВƒВµВ№ВЅВљВћВ©БAКжТ£ВЅВƒТ≤В„ВƒВҐВ№ВµВљБB\
-` ћежду тем «епар и ‘урфур всЄ вы€сн€ли, почему маги€, предназначенна€ лишь дл€ защиты Ќацухи,`@` принесла ƒжессике непри€тности.`\
+` In the meantime, Zepar and Furfur were trying their best to figure out why`@` the magic that was only meant to protect Natsuhi seemed to bring Jessica so much trouble.`\
 
 ;Б@ВїВћМЛЙ БA@БcБcБcВ®В©ВµВ»В±В∆В™ВнВ©ВиВ№ВµВљБB\
-` ¬ результате......`@`они обнаружили нечто странное.`\
+` As a result...`@` they discovered something strange.`\
 bg zf_r1bP,24
 se1 52
 ld l,ZEP_MajimeA1,0
 print 99,1000,"breakup.dll/ulP"
 
 ;БuЙEСгЛ{ЙƒФ№ВЌБAВ«В§ВвВзБAВЄВҐВ‘ВсРћВ…БAВ«В±В©ВћИЂЦВВ©РЄЧмВ∆М_ЦсВрВµВƒВљВЁВљВҐВЊВЋБBБv@
-`"ѕохоже, ”широми€ Ќацухи давным-давно заключила договор с каким-то демоном."`\
+`"It seems that Ushiromiya Natsuhi, very long ago, made a contract with some demon."`\
 ;БГГ[ГpГЛ
 
 se1 52
@@ -11359,36 +11359,36 @@ ld r,FUR_MajimeA3,0
 print 99,1000,"breakup.dll/ulP"
 
 ;БuВїВћМ_ЦсВ™БAГJБ[ГlБ[ГVГЗГУВћЦВЦ@В≈ИкУъВћК‘БAВ»ВҐВ±В∆В…В≥ВкВƒВљВћВЋБBБv\
-`"ƒоговор с однодневной гвоздичной магией был отложен."`\
+`"The magic of the carnation caused that contract to be set aside for a day."`\
 ;БГГtГЛГtГЛ
 
 cl l,0
 ld c,ZEP_WaraiA2,23
 
 ;БuЙƒФ№ВЌУ™Т…ОЭВњВЊВїВ§ВЊВ©ВзБAУ™Т…В∆ИшВЂКЈВ¶В…БAЙљВ©ВћВ®КиВҐОЦВрВµВљВсВґВбВ»ВҐВћВ©В»БBБv\
-`"Ќацухи страдает от головных болей, так что, может, она сделала нечто вроде за€вки на обмен?"`\
+`"Because Natsuhi seems to suffer from headaches, I wonder if she made some sort of exchange request in the past?"`\
 ;БГГ[ГpГЛ
 
 bg zf_r1aP,24
 ld l,FUR_AkireA1,23
 
 ;БuВ»ВзБAВїВкВЌЙƒФ№ИкРlВћЦвСиВ≈БAОйОuНБВ∆ВЌК÷МWВ»ВҐВЌВЄВЊВнБBБv@
-`"“огда замешана только Ќацухи, и ƒжессика здесь ни при чЄм." `\
+`"But if that's the case, it should be Natsuhi's problem alone, and it should have nothing to do with Jessica." `\
 ;БГГtГЛГtГЛ
 
 ld r,ZEP_waraiA8,24
 
 ;БuБcБcКmВ©В…БIБ@@В±В§В∆В»ВЅВљВзБAЙƒФ№ВћВ±В∆ВрУOТкУIВ…Т≤В„ВƒВЁВжВ§БI@Б@ИкСћБAЙƒФ№ВЌВ«ВсВ»РЄЧмВ∆БAЙљВрМ_ЦсВµВƒВҐВљВсВЊВлВ§БHБIБv\
-`"...ќднозначно!`@` –аз так, то давай как следует изучим Ќацухи!`@` „то она пожелала и у какого духа?"`\
+`"...Very well!`@` If that's the case, let's thoroughly investigate Natsuhi!`@` Just what did she wish for, and from what kind of a spirit?"`\
 ;БГГ[ГpГЛ
 
 bg black,28
 
 ;Б@КFВ≥ВсВЌБAВнВ©ВиВ№ВЈВ©БH@
-` ¬ы ведь понимаете? `\
+` Everyone, did you figure it out yet? `\
 
 ;Б@Г[ГpГЛВ∆ГtГЛГtГЛВ∆ИкППВ…БAВњВеВЅВ∆НlВ¶ВƒВЁВƒВ©ВзБAГyБ[ГWВрВяВ≠ВЅВƒВЁВƒЙЇВ≥ВҐБB\
-` ƒавайте пока прервЄмс€ и оторвЄм взгл€д от страниц с «епар и ‘урфур.`\
+` Let's take a short break and stop looking at Zepar and Furfur.`\
 
 textoff
 
@@ -11413,27 +11413,27 @@ bg M1F_S1b,24
 wait 1000
 
 ;Б@ВїВ±В…ВҐВйВћВЌБAРґВ№ВкВљВќВ©ВиВћОйОuНБВрХшВ≠ЙƒФ№ВћОpВ≈ВµВљБB@
-` Ќацухи обнимает новорождЄнную ƒжессику. `\
+` There was the figure of Natsuhi, embracing the newborn Jessica. `\
 
 ;Б@В±ВкВЌБAЙƒФ№В™М_ЦсВрВµВљОЮВћМхМiВ≈ВЈБB\
-` Ќа этом месте и был заключЄн договор. `\
+` This was when the contract was made. `\
 
 ld l,KLA_AkuwaraiA2,23
 ld l,KLA_AkuwaraiA1,80
 
 ;БuВвВЯБAЙ¬И§ВҐЦЇВЊБB@ВЂВЅВ∆МNВ…ОЧВƒБAФьВµВҐОqВ…ИзВ¬ВЉБIБv@
-`"ј-а, кака€ мила€.`@` ќна очень на теб€ похожа и будет красавицей!" `\
+`"Ah, what a darling daughter.`@` She definitely looks just like you, and she'll grow up to be a beautiful girl!" `\
 ;БГС†ЙP
 
 ld r,NAT_WaraiA1,24
 ld r,NAT_TukareA2,80
 
 ;БuВ«В§В≈ВµВеВ§БB@ОДВЌУ™Т…ОЭВњВЊВ©ВзБAВ±ВћОqВ…ВаВїВкВ™ОуВѓМpВ™ВкВ»ВҐВ©ХsИјВ≈БcБcБBБv\
-`"’орошо, если так.`@` Ќо из-за своих головных болей € волнуюсь, что она их унаследует..."`\
+`"Wouldn't that be nice?`@` But I'm so afraid that she might inherit my headaches..."`\
 
 ;БГЙƒФ№
 ;Б@С†ЙPВ∆ЙƒФ№В™БAР‘ОqВћОйОuНБВрВ†ВвВµВ»В™ВзМкВиВ©ВѓВƒВҐВ№ВЈБB\
-` ќбнима€ ƒжессику,  раусс и Ќацухи попросили. `\
+` While cuddling the baby Jessica, Krauss and Natsuhi pleaded. `\
 
 textoff
 
@@ -11445,23 +11445,23 @@ wait 1000
 ld r,NAT_ZutuuA1,22
 
 ;БuВ†ВЯБAВ«В§В©Р_ЧlБB@ВжВ§ВвВ≠ОцВѓВƒВҐВљВЊВҐВљЙдВ™ЦЇВрБAВ«В§В©В®ОзВиЙЇВ≥ВҐБB@ВЂВЅВ∆В±ВћОqВЌУ™Т…ОЭВњВ≈ВµВеВ§БB@ВҐВҐВ¶БAОДВ∆УѓВґВ≈БAЧvЧћВ™ИЂВ©ВЅВљВиБAВЈВЃГgГЙГuГЛВ…К™ВЂНЮВ№ВкВљВиВЈВйХsЙ^ВћРѓВ…И§В≥ВкВƒВҐВйВ≈ВµВеВ§БB@В«В§В©В±ВћОqВ…МТНNВ≈БAСfУGВ»Й^ЦљВрВ®ОцВѓЙЇВ≥ВҐБB@У™Т…ВаХsЙ^ВаБAОйОuНБВћХ™ВаСSВƒОДВ™ИшВЂОуВѓВ№ВЈВ©ВзБcБcБBБv\
-`"Ѕоже, пожалуйста.`@` ѕрошу, благослови нашу дочь, которую ты наконец подарил нам.`@` ќна тоже наверн€ка будет страдать от головных болей.`@` Ќа неЄ, как и на мен€, будут сыпатьс€ проблемы, и еЄ полюбит звезда несчасть€."`\
-`"ѕожалуйста, награди еЄ здоровой, прекрасной судьбой.`@` я возьму все головные боли и несчасть€ ƒжессики на себ€..."`\
+`"Please.`@` I ask of you, bless our daughter.`@` She might suffer from my headaches.`@` She might, just like me, get trouble after trouble every day, and she may have been born under the same unlucky star as I was."`\
+`"Please grant our child a healthy and beautiful fate.`@` I'll take all of Jessica's unhappiness and headaches..."`\
 ;БГЙƒФ№
 
 bg black,42
 
 ;Б@БcБcЙƒФ№ВћММВ…ВаБAРlВ»ВзВіВйНВЛMВ»О“В…Т ВґВйГВГmВ™В†ВЅВљВћВ©ВаВµВкВ№ВєВсБB@
-` Ѕыть может, Ќацухи даже кровно была св€зана с благородной личностью, превзошедшей человечество.`\
+` ...Perhaps, this could even be considered a blood pact.`\
 
 ;Б@ВїВћЙƒФ№ВћКиВҐВЌБAФёПЧВаТmВзВ»ВҐВ§ВњВ…БA@БcБcНВЛMВ»СґНЁВ∆ВћМ_ЦсВ…В»ВЅВƒВҐВљВжВ§В≈ВµВљБB\
-` Ќе успела она осознать,`@` ...как еЄ желание, суд€ по всему, св€залось с высшей силой.`\
+` Before she even understood it,`@` her desire seemed to reach a higher power.`\
 
 ;Б@ВЊВ©ВзВїВћУъВжВиБB@
-` ѕоэтому отныне...`\
+` So from that day onward...`\
 
 ;Б@ЙƒФ№ВћУ™Т…ВЌБA!d800УсРlХ™В…В»ВЅВљВћВ≈ВЈБB\
-` √оловна€ боль Ќацухи`!d800` стала головной болью двух человек.`\
+` Natsuhi began experiencing two people's`!d800` worth of headaches.`\
 
 textoff
 bg white,2
