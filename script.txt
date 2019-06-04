@@ -9470,42 +9470,42 @@ ld c,RG1_OdorokiA3,0
 ld r,BUT_FutekiA1,24
 
 ;БuВўВ§ВўВ§ВўВ§ВўВ§БAВїВњВЌФwТЖВ™ОгВҐВ∆Р\ВЈВ©БAВўВ§ВўВ§ВўВ§ВўВ§ВўВ§БIБv@
-`"’о-хо-хо, спина, говоришь... ’о-хо-хо-хо!"`\
+`"Hohoho, her back, you say? Hohoho!"`\
 ;БГРнРl
 
 
 ld c,RG1_OdorokiA1,80
 
 ;БuВвБAВвВяВ»В≥ВҐВжГbБIБI@Б@ВїВсВ»В±В∆ВµВƒБAОДВ™ЛьХЮВЈВйВ∆ОvВ§ГbБHБI@Б@В–Б[В–Б[ЛГВҐВƒЛЦВµВрМоВ§В»ВсВƒЦ{ЛCВ≈ОvВЅВƒВйГbБHБIБv\
-`"—-стой!`@` ƒумаешь, € сдамс€ из-за этого?!`@` “ы всерьЄз считаешь, что € заплачу и попрошу прощени€?!"`\
+`"W-wait!`@` Do you think I'll surrender if you do that?!`@` Do you really think I'll cry and beg for forgiveness?!"`\
 ;БГГЛГVГtГ@Б[
 
 
 ld r,BUT_WaraiA1,80
 
 ;БuВ¶Б[ВҐЦўВкЦўВкБ[БI@Б@В†ВћУъБAВ®СOВ…ВЃВиВЃВиВЃВиВЃВиЭPВиГCГrВзВкВљН¶ВЁБAОvВҐТmВкБ[БI@/
-`"ј-а, заткнись, заткнись!`@` ѕознай мою обиду с тех времЄн, когда ты снова и снова вонзалась в мен€! `@/
+`"Ah, shut up, shut up!!`@` Learn my pain from the time when you stabbed me over and over! `@/
 se2 47
 quakey 1,100
 ;Б@В±ВћХ”В©БH@/
-`—юда? `@/
+`Is it here? `@/
 se1 47
 quakex 1,100
 se2 47
 quakex 1,100
 ;Б@В±ВћХ”ВиВ©БH@/
-`»ли сюда? `@/
+`Or maybe here? `@/
 se3v 20,100
 
 ;Б@ВїВІВкБAГYГuГYГuГYГuБ[БIБIБv@
-`¬от тебе, и вот, и вот, и вот!"`\
+`Take that, and that, and this too!"`\
 ;БГРнРl
 
 
 ld c,RG1_NakuA1,80
 
 ;!s0БuВ†В–В°ВҐВҐВҐВҐВҐВ°ВҐВҐВҐБIБIБv/
-!s0`"јхи-и-и-и-и-и-и!"`/
+!s0`"Ahhiiiiiiiiiiiii!"`/
 
 se1 36
 quakex 2,400
@@ -9516,7 +9516,7 @@ quakex 2,400
 ld r,BUT_FutekiA2,80
 
 ;БuВїВкВ∆ВаВ±ВћХ”В©Б[БHБIБv\
-`"»ли, может, сюда?!"`\
+`"Or maybe it's this place?!"`\
 ;БГРнРl
 
 mcl a,0
@@ -9525,20 +9525,20 @@ se1 4
 quakey 2,300
 
 ;БuВ†ВЌВЯВ†В†В†В†ВЯВ†БIБI/
-`"јха-а-а-а!`/
+`"Ahaaaaaaa!`/
 
 se2 36
 quakex 2,200
 
 ;@Б@ВҐВвВЯВ†В†ВЯВ†ВЯВ†БA/
-@` Ќе-е-е-ет, `/
+@` Noooo, `/
 
 se3 48
 quakey 2,200
 se1 48
 quakey 2,200
 ;В®ЛЦВµЙЇВ≥ВҐРнРlВ≥В№ВЯВ†ВЯВ†БAВ†В§В£В†В†ВЯВ†В†В†В†ВЯВ†В†В†В†В†БIБIБv/
-`простите мен€, господин Ѕаттле-е-е-ер, а-а-а-а-а!"`/
+`forgive me, Master Battler, aaaaaaaa!"`/
 
 se3v 36,100
 se2 74
@@ -9553,41 +9553,41 @@ se2 13
 
 
 ;Б@БcБcЦ{Х“В≈ВЌВ№ВЄЛ@ЙпВ™В»ВҐВ≈В†ВлВ§ХЬПQВћЛ@ЙпВрГQГbГgВ≈ВЂВƒБB@РнРlВЌЦЮСЂВїВ§В…ГЛГVГtГ@Б[ВћФwТЖВрВЃВиВЃВиВЈВйВћВ≈В†ВЅВљБcБB\
-` ...ќн наконец получил шанс отомстить, которого у него не было в оригинальной истории.`@` Ѕаттлер самодовольно тыкал в спину Ћюцифер... `\
+` ...He finally got his chance at revenge that was never given to him before.`@` Battler was happily grinding against Lucifer's back... `\
 bg Mlib_1cP,0
 ld r,RG7_WaraiA2,24
 
 ;БuФ@ЙљВ≈ВЈВ©БAРнРlВ≥В№БB@ГXГbГLГКВ»В≥ВҐВ№ВµВљВ©ВЅБBБv@
-`"Ќу как, господин Ѕаттлер?`@` ¬ам лучше?"`\
+`"Well, Master Battler?`@` Are you feeling any better?"`\
 ld l,BUT_WaraiA1,23
 
 ;БuВ†ВЯБAВЈВЅВ∞В¶ГXГbГLГКВµВљБcБB@М©ВлБAРѕФNВћН¶ВЁВ™ВЈВЅВ©ВиВ»В≠В»ВЅВƒБAЙіВћВ®ФІВ™ФНВЂВљВƒВдВ≈ЧСВЁВљВҐВ…БAГcГЛГcГЛВћВ’ВиВ’ВиВЊБIБv\
-`"ƒа, всЄ прекрасно...`@` я избавилс€ от давней обиды и чувствую свежесть, будто наконец сбросил кожу!" `\
+`"Yep, I feel great...`@` My long-standing grudge has been totally cleared up, and I feel all fresh, like I've finally shed my skin!" `\
 ;БГРнРl
 
 ;Б@ГЛГVГtГ@Б[ВЌМ®В≈СІВрВµВ»В™ВзБAОЦМгВЅВџВҐКіВґВћЧРВкТЕИяВ≈У|ВкВƒВҐВйБB@БcБcВњВеВЅВ“ВиФЏаќВЊБB\
-` ѕлечи Ћюцифер т€жело поднимались и опускались. ќна рухнула, и вс€ еЄ одежда была пом€та, что очень сильно напоминало последстви€...`@` ¬ общем, выгл€дело непристойно. `\
+` Lucifer's shoulders heaved as she caught her breath. She had collapsed with her clothes in disarray, and it looked very much like the aftermath of...`@` well... `\
 ld r,RG7_WaraiA1,80
 
 ;БuВ±ВкВ≈В•БAОДВљВњВ…ВаПoФ‘ВрЧ^В¶ВƒЙЇВ≥ВҐВ№ВЈВ£БcБcБHБv@
-`"»-и, теперь вы дадите нам всем роли?.."`\
+`"So do we all get roles now?.."`\
 ld l,BUT_WaraiA2,80
 
 ;БuВ®В§БI@Б@В±ВкВ№В≈ВћН¶ВЁВЌГXГbГLГКЧђВµВљВЇБI@Б@ИјРSВµВлБAВ®СOВзВћПoФ‘ВаИјС„ВЊБ[БI@Б@В§ВЌВЌВЌВЌВЌВЌВЌБIБv\
-`" онечно!`@` я разве€л все обиды!`@` ћожете расслабитьс€, вы по€витесь в истории!`@` ”ха-ха-ха-ха-ха-ха!"`\
+`"Sure!`@` I've resolved all of my grudges!`@` Don't worry, your screentime is secure!`@` Uhahahahahahaha!"`\
 ;БГРнРl
 
 ld r,RG7_AkuwaraiA4,80
 
 ;БuВґВбБ[ОДГBБA@СfУGВ»Й§ОqЧlВ™М}В¶В…ЧИВƒВ≠ВкВйМ©ВєПкВ™Ч~ВµВҐВ≈Б[ВЈБIБv\
-`"“огда € хочу сцену, где встречаю прекрасного принца!"`\
+`"Then, I want a scene where I meet a handsome prince!"`\
 ;БГГAГXГВГfГEГX
 
 bg Mlib_1bP,0
 ld l,RG6_WaraiA1,23
 
 ;БuОДБAФьЦ°ВµВҐВаВћВ™ВҐВЅВѕВҐРHВ„ВзВкВйЦрБ[БIБIБv@
-`"’очу роль, в которой € ем много еды!"`\
+`"I want a role where I eat lots of food!"`\
 ;БГГxГЛГ[ГuГu
 
 
@@ -9595,20 +9595,20 @@ ld c,RG5_WaraiA1,23
 
 
 ;БuМ©ВєПкВ∆В©ВґВбВ»В≠ВƒВаВҐВҐВсВ≈БAН≈ТбВ≈ВаВVЙсВЌПoФ‘В™Ч~ВµВҐВ≈Б[ВЈБIБv\
-`"Ќе нужно никаких крупных сцен, но пусть € по€влюсь и в седьмой игре!"`\
+`"I don't need any big scenes, but make sure I'm in the 7th game, too!"`\
 ;БГГ}ГВГУ
 
 ld r,RG4_AkuwaraiA2,24
 
 ;БuЛ≠УGВ∆ВћРнВҐВ∆БAФьВµВҐОUВиНџВрЦ]ВсВ≈ВҐВ№ВЈВЅБBБv\
-`"я бы хотела сразитьс€ с грозным врагом и красиво пасть в битве."`\
+`"I would like to fight against a formidable enemy, and fall beautifully in battle."`\
 ;БГГxГЛГtГFГSБ[ГЛ
 
 bg Mlib_1dP,0
 ld c,RG3_OdorokiA1,24
 
 ;БuВўВзВўВзВ†ВсВљВљВњБI@Б@ВїВсВ»ВҐВЅВЎВсВ…МЊВЅВљВзРнРlВ≥В№В™НђЧРВ≥ВкВйВнВжБIБI@Б@ВњВбВсВ∆ОЖВ…В№В∆ВяВƒВ©ВзТсПoВ»В≥ВҐБIБIБv\
-`"Ёй, эй!`@` ≈сли будете просить все сразу, господин Ѕаттлер запутаетс€!`@` Ќапишите свои просьбы на бумаге!"`\
+`"Hey, hey!`@` If you ask for all that at once, Master Battler's going to get confused!`@` Write your requests on paper instead!"`\
 ;БГГTГ^ГУ
 
 ld r,RG1_KomaruA3,6
@@ -9620,18 +9620,18 @@ ld r,RG1_KomaruA2,80
 ;!d700БcБcПoФ‘ВрБcБA/
 ;!d800ВҐВљВЊВѓВйВ∆БcБcБBБv/
 
-!s0`"...ћ-`/
-!d600`мне...`/
-!d600`подойдЄт люба€ мелка€ роль...`@`  ...я больше не буду возражать вам, `/
-!d700`...так что можно...`/
-!d800`и мне роль..."`/
+!s0`"...I'm... `/
+!d600`fine... `/
+!d600`with even the smallest of roles...`@` ...I won't defy you again, `/
+!d700`so can I please `/
+!d800`have a role too?.."`/
 !sd\
 ;БГГЛГVГtГ@Б[
 
 ld l,RG2_OdorokiA2,23
 
 ;БuЙљВЊВ©В©ВсВЊМЊВЅВƒБAГЛГVОoВ™ИкФ‘ЦЏЧІВЅВƒВйВћВ™УiВ№ВµВҐБAВ†ВЯУiВ№ВµВҐГbБBБv\
-`"ќ чЄм ты говоришь? Ћюци, ты всегда выдел€ешьс€ больше всех! я завидую, а-а, завидую!"`\
+`"What are you on about? Sis Lucy, you always stand out the most! I'm so jelaous, argh!"`\
 ;БГГМГФГBГAГ^ГУ
 
 bg black,22
@@ -9639,15 +9639,15 @@ bg Mlib_1cP,0
 ld c,BUT_WaraiA1,22
 
 ;БuВнВЌВЌВЌВЌВЌВЌБI@Б@ЙљВµВлБAГQБ[ГАГ}ГXГ^Б[ВЌР_ВЊВ©ВзВ»ВЯБI@Б@ЙљВ≈ВаКРВ¶ВƒВвВйВЇБI@Б@СеСDВ…ПжВЅВљВ¬ВаВиВ≈ВҐВлБ[БI@/
-`"¬а-ха-ха-ха-ха!`@` ¬ладелец игры - бог! я выполню любые ваши просьбы!`@`  акие угодно! `@/
+`"Wahahaha!`@` The Game Master is a god! I'll grant any wish you may have!`@` Anything at all! `@/
 bg Mlib_1eP,26
 
 ;Б@В®БH@Б@В№ВљТNВ©ЧИВљВЉБB@Н°УxВЌГVГGГXГ^ОoЦЕВ©В»БH@Б@ВїВкВ∆ВаГhГЙГmБ[ГЛИкЙ∆В©В»БH@Б@ВїВ§ВҐВвЙПОхВяБAЙдВ™ЦЕВћВ≠ВєВ…В№ВЊИ•ОAВ…ЧИВ»ВҐВ∆ВЌВҐВѓНDВ©ВсГДГcБI@Б@ОµОoЦЕВ…ВЌСSРgГ}ГbГTБ[ГWВµВƒВаВзВЅВљВ©ВзВ»ВЯБB@ГVГGГXГ^ОoЦЕВ…ВЌБAВ®РKВћВµВЅВџВ≈КzВћКЊВ≈ВаР@ВЅВƒВаВзВ®В§В©В»ВЯБ`БH@Б@ГhГЙГmБ[ГЛВ…ВЌЙљВрВµВƒВаВзВ®В§БH@/
-`O?`@`  то-то ещЄ пришЄл.`@` Ќа этот раз —Єстры сиесты?`@` »ли, может, группа ƒланор?`@`  стати, Ёнж, ты мо€ младша€ сестра, но даже не зашла поздороватьс€!"`\
-`"—емь сестЄр уже сделали мне массаж.`@` ћожет, пусть —Єстры сиесты своими хвостиками вытрут пот с моего лба?`@` „то бы выжать из ƒланор? `@/
+`Oh?`@` Someone else came.`@` Could it be the Chiester sisters this time?`@` Or maybe Dlanor's group?`@` Come to think of it, Ange, you've got some nerve, not coming to congratulate me when you're my own little sister!"`\
+`"I've already received a full-body massage from the Seven Sisters.`@` Maybe I'll have the Chiester Sisters wipe the sweat off my brow with their tails~?`@` And just what should I get out of Dlanor? `@/
 se1 37
 ;В§ВЅВ–ВбВЅВ–ВбВЅВ–ВбВЅВЌВ†В†ВЯБIБIБv\
-`”хь€-хь€-хь€-ха-а-а!" `\
+`Uhyahyahyahaaaaa!"`\
 ;БГРнРl
 
 
@@ -9659,14 +9659,13 @@ me1 5
 
 
 ;Б@БcБcБcВїВсВ»КіВґВ≈БAГQБ[ГАГ}ГXГ^Б[РнРlВЌБA@Ц\ЛsВћМјВиВрРsВ≠ВµБAГnБ[ГМГАВрЦЮЛiВµВљВћВЊВЅВљБB\
-` ...» так`@` ¬ладелец игры Ѕаттлер исчерпал пределы тирании`@` и вдоволь наслаждалс€ гаремом. `\
+` ...And so,`@` Battler has exhausted the limits of tyranny as a Game Master,`@` enjoying his newfound harem to the fullest.`\
 ;Б@ВµВ©ВµБAРҐВћТЖБAЛ`Ц±В™В†ВйВ©ВзМ†ЧШВ™В†ВйБB@
 ;Б@ОЮВ…ВїВкВЌЛtВ…В»ВйВ™БAВїВкВЌХKВЄИкСќВ…В»ВЅВƒЦKВкВйБB@
-` ќднако в этом мире у людей есть привилегии потому, что они несут ответственность.`\
-` ќсобенно это видно когда забираешь назад своЄ за€вление.`\
+` However, in this world, people have responsibilities as well as rights.`\
 
 ;Б@РнРlВЌБAРжВ…М†ЧШВрЛЭОуВµВљВ©ВзБA@ГQБ[ГАГ}ГXГ^Б[В∆ВµВƒФёВзВћЧvЦ]В…ЙЮВ¶ВйВ∆ВҐВ§Л`Ц±ВрЙ ВљВ≥В»ВѓВкВќВ»ВзВ»ВҐБB\
-` –анее Ѕаттлер воспользовалс€ своей привилегией, и теперь он, как ¬ладелец игры, должен ответственно выполнить их просьбы.`\
+` Battler has made use of his rights as Game Master and now he had to fulfill the responsibility to grant their requests.`\
 
 textoff
 bg Mlib_1ep,22
@@ -9677,19 +9676,19 @@ ld l,WAL_DefA2,0
 print 99,2000,"breakup.dll/ulb"
 
 ;БuОЄЧзВµВ№ВЈБB@БcБcРнРlВ≠ВсВ™ИшВЂОуВѓВљЧvЦ]ВрБAОЖВ…В№В∆ВяВƒЧИВ№ВµВљВжБBБv\
-`"ћожно?`@` ...я записала все требовани€ на бумагу."`\
+`"Excuse me?`@` ...I wrote down all the requests on paper."`\
 ;БГГПГЛГMГКГA
 
 bg Mlib_1cP,0
 ld c,BUT_WaraiA3,24
 ;БuВ®В§БAГПГЛГMГКГAБAГTГУГLГЕБ[БI@Б@В«ВкВ«ВкБAВЅВ∆БB/
-`"ќ, спасибо, ¬ергили€!`@` ѕосмотрим, посмотрим.`/
+`"Ahh, thanks, Virgilia!`@` Let me see, let me see.`/
 
 se1 13
 quakey 1,200
 ld c,BUT_KomaruA1,24
 ;@БcБcВ§ВІБAВЄВҐВ‘ВсВ»РФВЊВ»ВЯБBБv\
-@`  ...”х, да их тут цела€ куча."`\
+@` ...Woah, that's a lot."`\
 ;БГРнРl
 
 se1 52
@@ -9697,13 +9696,13 @@ ld r,RON_WaraiA1,0
 print 99,1000,"breakup.dll/llb"
 
 ;БuВ’ВЅВ≠ВЅВ≠БI@Б@ЙљВµВлРнРlВ≥В№ВЌГQБ[ГАФ’ВћР_В≈ВҐВзВЅВµВбВҐВ№ВЈВ©ВзБB@КРВ¶ВзВкВ В±В∆ВЌЙљВаВ»ВҐБB@ЧvЦ]ВаБAВ¬ВҐж“СтВ…В»ВЅВƒВµВ№В§В∆ВҐВ§ВаВћВ≈ВЈБBБv\
-`"ѕу-ку-ку!`@` ¬ы ведь бог игровой доски, господин Ѕаттлер.`@` ¬ам под силу исполнить любое желание.`@` ѕотому и требовани€ весьма экстравагантные."`\
+`"Pukuku!`@` You are a god of the gameboard, Master Battler.`@` There is no wish you cannot grant.`@` And that is why these demands are somewhat extravagant."`\
 ;БГГНГmГEГF
 
 bg Mlib_1ap,0
 ld l,WAL_FumanA1,23
 ;БuБcБcВїВкВ…ВµВƒВаБAРнРlВ≠ВсБB@БcБcВ±ВћЧvЦ]СSВƒВрБAВ«В§ГVГiГКГIВ…В№В∆ВяВйВ¬ВаВиВ≈ВЈБcБH@Б@ВїВкВаВPЦ{В≈БcБBБv\
-`"...», Ѕаттлер?`@` ... акой сценарий ты напишешь под все эти требовани€?..`@` » всЄ только в одном эпизоде..." `\
+`"...Well then, Battler?`@` ...What kind of scenario can you make to fit in all of these requests?..`@` And all of it is just one episode..." `\
 ;БГГПГЛГMГКГA
 
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
@@ -9714,7 +9713,7 @@ se1 1010
 ;locate 4,4
 locate 1,4
 ;!s0БГВdВoВUБ@УoПкРlХ®ЧvЦ]ПСБД/
-!s0` [Ћист требований персонажей к Ёпизоду 6]`/
+!s0` [List of role requests for EP6]`/
 !sd\
 se1 1010
 
@@ -9725,32 +9724,32 @@ bg Glob_1aN,0
 ld r,GEN_MajimeA2,24
 locate 0,3
 ;Б°МєОЯ@
-` Џ09632 √енджи`@
+` Џ09632 Genji`@
 br
 ;Б@ВҐВ‘ВµЛвВћПaВҐШeЦрВ≈БB@ГQГXГgГnГEГXВћГЙГEГУГWВ≈ГJГNГeГЛВрНмВЅВƒБAРћМкВиВрВЈВйЦрБB@
-` —держанный персонаж поддержки.`@` ƒела€ коктейли в холле домика дл€ гостей, € буду говорить о прошлом.`@
+` The refined supporting character.`@` While making cocktails in the guesthouse lounge, I will talk about the past.`@
 br
 ;Б@РћВћХ–ЧЎВрТЖГ{ГXГLГГГЙВ…МкВзВєБAЙЭФNВћЛ≠В≥ВрКіВґВ≥ВєВйВ±В∆БB\
-` ¬раг расскажет кое-что о моЄм прошлом, и мы увидим, как силЄн € тогда был. `\
+` We hear a bit about my past from a mid-boss character, and we get a feel for how strong I was in the past.`\
 
 bg NAN_R1a,0
 se1 1010
 ld c,NAN_fumuA1,22
 locate 0,3
 ;Б°УмЮК@
-` Џ09632 Ќанджо`@
+` Џ09632 Nanjo`@
 br
 ;Б@ГXБ[ГpБ[КOЙ»ИгБB@ОиПpУєЛпВћВ»ВҐТЖБAРґКИЧpХiВрВ§В№В≠КИЧpВµВƒОиПpВ…РђМчБB@В≥ВзВ…ВїВћПгБAОиПpУєЛпВ≈ВћРнУђГVБ[ГУВаВ†ВиБB\
-` —упер-хирург. ƒаже если у мен€ не будет хирургических инструментов, € буду проводить успешные операции своими ежедневными запасами.`@` Ѕолее того, у мен€ будет сцена бо€, в которой € буду сражатьс€ хирургическими инструментами. `\
+` A super surgeon. Even when I have no surgical tools, I will use my daily supplies to perform a successful surgery.`@` On top of that, I will have a fight scene where I use surgical tools as weapons. `\
 bg Mlib_1bN,0
 se1 1010
 ld c,KUM_MajimeA2,22
 locate 0,3
 ;Б°МFСт@
-` Џ09632  умасава`@
+` Џ09632 Kumasawa`@
 br
 ;Б@ПdЧvВ»ГVБ[ГУВрВҐВ¬ВаЦЏМВВЈВйЦрБB@ЦLХxВ»РlРґМoМ±В≈МїПкВћИбШaКіВрО@ТmБI@/
-` ¬сегда становитс€ свидетелем ключевых сцен.`@` Ѕлагодар€ своему обильному жизненному опыту € замечаю, что на месте преступлени€ что-то не так! `@/
+` Always witnessing major scenes.`@` Because of my plentiful life experience, I sense that something seems out of place at the crime scene! `@/
 se1 46
 bg white,1
 bg black,22
@@ -9767,23 +9766,23 @@ quakey 2,200
 br
 br
 ;Б@ВµВ©ВµФ∆РlВ…ЛCОжВзВкОEВ≥ВкВƒВµВ№В§БB@ВїВћН≈КъВЌЧ№В»В≠ВµВƒВЌМ©ВзВкВ»ВҐБB@ВїВћГVБ[ГУВћЛ»ВЌВаВњВлВсВДВБВЙВ≥ВсФ≠ТНВћРVЛГВЂЛ»В≈БB\
-` Ќо преступник убьЄт мен€ до того, как € смогу рассказать.`@` ћо€ смерть должна быть поистине душещипательной.`@` –азумеетс€, что касаетс€ музыки к сцене, нова€ грустна€ мелоди€ должна быть заказана у да€. `\
+` But I'm killed by the culprit before I can do anything.`@` My death should be a real tearjerker.`@` Of course, for the music in that scene, a new sad song should be ordered from dai. `\
 
 bg Mkit_1a,0
 se1 1010
 ld c,GOH_DefA1,22
 locate 0,3
 ;Б°ЛљУc@
-` Џ09632 √оуда`@
+` Џ09632 Gohda`@
 br
 ;Б@В®ВҐВµВҐЧњЧЭНмВиВ≈СеКИЦфБI@Б@ГfГBГiБ[ГIБ[ГPГXГgГЙВћГEГУГ`ГNВЌН≈ТбВ≈ВаВTЦЬХґОЪКуЦ]БB@
-` я буду готовить много вкусной еды! ’отелось бы, чтобы в сцене о моЄм обеденном оркестре было не менее 50000 символов.`@
+` I'll cook lots of delicious food! I would like for the scene about my dinner orchestra to be at least 50,000 characters long.`@
 br
 ;Б@ВїВµВƒСfР∞ВзВµВЂЧњЧЭВ…ВЌФПОиКЕН—БI@/
-` » потом все зааплодируют моей замечательной готовке. `@/
+` And then everyone gives my wonderful cooking a standing ovation! `@/
 se2 54
 ;Б@ЙЬЧlВћВ®ЦJВяВћГ`ГЕБ[В№В≈ВаВзВ¶ВњВбВЅВљВиБI\
-`ћадам даже из восхищени€ чмокнет мен€ в щЄку!`\
+`I'll even receive a kiss on the cheek from Madam out of admiration!`\
 
 bg black,22
 bg white,28
@@ -9791,7 +9790,7 @@ bg Mkit_1b,0
 mld c,GOH_IkariA1,22
 ;Б@РнУђГVБ[ГУВЌВаВњВлВсР~Ц[В≈БB@Н≈ПЙВЌПeМВРнВЊВ™БAПeВрЧОВ∆ВµВƒВµВ№ВЅВƒВ©ВзВ™Ц{Ф‘БB@
 locate 0,3
-` –азумеетс€, мо€ сцена бо€ будет на кухне.`@` ќна предстанет перед зрител€ми как стрельба, но главное начнЄтс€ когда € брошу ружьЄ.`@
+` Of course, my action scene will take place in the kitchen.`@` The viewers will be lead to beleive that it is a gun fight, but the real fight will only begin once I lose my rifle.`@
 se1 57
 mbg white,1
 ld l,GOA_DefA1B,0
@@ -9839,12 +9838,12 @@ ld c,GOH_hohoemiA2,80
 
 br
 ;Б@НЗЛCУєВ≈ГeГНГКГXГgВрВќВЅВљВќВЅВљБI@
-` я сдую террористов своими техниками айкидо! `@
+` I will blow away the terrorists with my aikidio techniques! `@
 br
 ;!s0Б@МИВяСдОМВЌ/
 ;!d800БuСдПКВ≈В»ВзХЙВѓВ»ВҐВЇБIБv/
-!s0` ћо€ коронна€ фраза:`/
-!d800` Џ00171я не могу проиграть на кухне!Џ00187 `/
+!s0` My catchphrase is:`/
+!d800` "In the kitchen, I am immortal!" `/
 
 se1 74
 quakey 2,400
@@ -9859,10 +9858,10 @@ ld r,EV2_NiramuA3,0
 ld l,BUT_MajimeA3,22
 locate 0,3
 ;Б°ГGГФГ@@
-` Џ09632 ¬едьма ≈ва`@
+` Џ09632 EVA`@
 br
 ;Б@ГСГКГJВрПгЙсВйИЂЦрВ∆ВµВƒХЬКИБI@Б@ОcЛsВ»ОEРlВрНƒВ—ОЯБXВ∆МJВиНLВ∞ВйБB@
-` я возрожусь злодейкой, превосход€щей Ёрику!`@` ѕоследовательные жестокие убийства произойдут вновь. `@
+` I'll be revived as a villain who surpasses Erika!`@` The brutal serial murders will commence once more! `@
 br/
 
 se1 20
@@ -9928,14 +9927,14 @@ ld l,EV2_AkuwaraiA7,0
 ld r,BUT_FutekiA3,25
 
 ;Б@ГЙГXГgВ≈ВЌРнРlВ∆ФMВҐГoГgГЛВрУWКJБI@Б@ГeГLГXГgЧ ВЌВPВOЦЬОЪВрТіВ¶ВйВ±В∆БB\
-` ѕод конец € приму участие в ожесточЄнной битве с Ѕаттлером!`@` ƒлина - не менее 100000 текстовых символов.`\
+` Finally, I want to be involved in an intense battle with Battler!`@` The length of that scene should be at least 100,000 characters.`\
 ;Б@ГoГgГЛГVБ[ГУВЌБAГGГФГ@РкЧpГoГgГЛЛ»ВћРVЛ»ВрВTВ¬ВЌОgЧpВЈВйВ±В∆БB@
 
 locate 0,3
-` ¬ сцене битвы должно звучать п€ть новых мелодий, написанных специально дл€ ≈вы.`@
+` The battle scene should use five new fight songs made exclusively for EVA.`@
 br
 ;Б@В≥ВзВ…ГXГsГУГAГEГgВ∆ВµВƒСќРнКiУђГQБ[ГАЙїВµБAО©Х™ВЌЛ≠ГLГГГЙВ…ВЈВйВ±В∆БB@
-`  роме того, в дополнительном файтинге € должна быть одним из сильнейших персонажей.`@` ‘**нтер ¬оркс с одним из DVD выпустит подушку с моим изображением! `\
+` Furthermore, I must be one of the strongest characters in the fighting game spin-off!`@` And Frontier Works must release a body pillow of me along with one of their DVDs! `\
 se1 1010
 bg white,1
 se1 57
@@ -9944,14 +9943,14 @@ bg gold2,22
 
 locate 0,3
 
-` Џ09632  раусс`
+` Џ09632 Krauss`
 br
 ;Б@Й©ЛаВћЦВПЧВ∆ВћРнВҐВЌБAР^ВћРнВҐВ÷БB@Й©ЛаБAС¶ВњЛаЧZВћРнВҐВ÷В∆В§В∆В§ОКВйБI@Б@ХЪВµВƒУєЙїВрЙЙВґВƒВҐВљС†ЙPВ™БAВ¬ВҐВ…Р^ВћЙ©ЛаВћЦВПpОtВ∆ВµВƒКoРЅВЈВйБI\
-` Ѕорьба с «олотой ведьмой приведЄт к истинной борьбе.`@` ќна наконец развернЄтс€ в борьбу за золото - борьбу за финансы!`@`  раусс, всегда игравший роль ничтожного шута, наконец пробуждаетс€ «олотым волшебником!`\
+` The battle against the Golden Witch will head towards the true fight:`@` the fight for gold, for finances!`@` Krauss, who had always played the part of the lowly buffoon, finally awakens as the Golden Sorcerer!`\
 bg gold3,22
 locate 0,3
 ;Б@СКПкВћЛмВѓИшВЂБAР^ОјВ∆ЛХН\БB@Г}ГlБ[ГQБ[ГАВ…ЙQК™В≠ЙAЦdБI@Б@ГrГWГlГXЧpМкВ™ФтВ—МрВҐБAУ«ВсВ≈ВйВЊВѓВ≈Л∆КEТ В…В»ВкВљВ©ВћВжВ§В…НцКoВµВƒВµВ№В§В≠ВзВҐВћГeГLГXГgВ≈БI\
-` —делки по изменению рыночной цены, различение лжи и правды в денежном заговоре!`@` “ерминологи€ бизнеса взлетит к тому, что люди будут чувствовать себ€ экспертами в этом деле после одного прочтени€! `\
+` —Bargaining to change the market price, distinguishing between lies and truth in financial conspiracies!`@` Business terminology will fly about, to the point where people will feel like they've become business experts just by reading it!`\
 
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
@@ -9961,27 +9960,27 @@ bg Mlib_1b,25
 ld l,KUM_MajimeA2,23
 
 ;БuГTГuГvГЙГCГАГНБ[ГУФjТ]БI@Б@ГpГ^Б[ГУР¬БAГoГuГЛВ∆КmФFБIБIБv@
-`"Ќеудачный ипотечный кредит!`@` —иний образец, подтверждЄн как пузырь!"`\
+`"Subprime loan failure!`@` Pattern blue, confirmed as bubble!"`\
 
 ld c,KAN_odorokiA1,23
 
 ;БuГКБ[Г}ГУБAКИУЃМјКEВ№В≈В†В∆ВTХ™БcБIБI@Б@УКОСЙ∆В™ОЯБXРЎТfВ≥ВкВƒВҐВЂВ№ВЈБIБIБv\
-`"” –имана осталось п€ть минут!..`@` »нвесторов сливают одного за другим!"`\
+`"Riemann has five minutes of active time remaining!..`@` The investors are being cut off one by one!"`\
 ld r,GOH_IkariA2,24
 
 ;БuМцУIОСЛаТНУьРЎТfБAГБГКГЛГКГУГ`В÷ВћР≠Х{ОxЙЗВрЛ≠РІФrПoБIБv\
-`"ѕерекрыто введение государственных средств, принудить к правительственной поддержке ћеррилл Ћинч!"`\
+`"Injection of public funds severed, sending coercion for government backing for Merrill Lynch!"`\
 bg black,23
 bg Mlib_1a,0
 ld l,GEN_MajimeA1,23
 
 ;БuС ЦЏВ≈ВЈБAЛ≠РІФrПoВ≈ВЂВ№ВєВсБIБIБv@
-`"Ќе выходит, мы не можем отправить!"`\
+`"It's no good, we cannot send it!"`\
 
 ld r,NAT_IkariA1,64
 
 ;!s0БuГiГУГfГXГbГeБ[БIБIБv/
-!s0`"„то ты сказал?!!"`/
+!s0`"What did you say?!!"`/
 se1 12
 quakex 3,300
 
@@ -9991,25 +9990,25 @@ bg Mlib_1c,0
 ld r,SHA_fumanA1,24
 
 ;БuС†ЙPОiЧяБA@/
-`" омандир  раусс,`@/
+`"Commander Krauss,`@/
 ld r,SHA_OdorokiA2,80
 
 ;БcБcВ¶БAВeВqВaБAГOГКБ[ГУГXГpГУСOЛcТЈВжВиВ®УdШbВ≈ВЈБcБBБv\
-` ...м-мы получили звонок от бывшего директора ‘едеральной резервной системы, јлана √ринспена..."`\
+` ...w-we have received a call from the former chairman of the Federal Reserve, Alan Greenspan..."`\
 
 bg Mlib_1e,26
 
 ;БuБcБcХSФNВ‘ВиВ©ВЋБBБv\
-`"...Ћет сто прошло."`\
+`"...It's been a hundred years."`\
 bg Mlib_1c,0
 ld r,SHA_OdorokiA2,0
 ld c,KLA_DefA1,22
 
 ;БuВ†ВЯБAК‘ИбВҐВ»ВҐБB@/
-`"ƒа, никакой ошибки.`@/
+`"Yes, there is no mistake.`@/
 
 ;!s0БcБc(СжУсОЯРҐКEЛ∞НQ/ГКБ[Г}ГУГVГЗГbГN)ВЊБBБv/
-!s0`  ...Ќастал второй мировой финансовый кризис, банкротство –имана." `/
+!s0` this is the Second World Financial Crisis, the Riemann Bankruptcy." `/
 !sd\
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 se1 27
@@ -10025,12 +10024,12 @@ bg moon_1a,22
 locate 0,3
 mono 1
 ;Б°ЙƒФ№@
-` Џ09632 Ќацухи`@
+` Џ09632 Natsuhi`@
 br
 dllefe 3,3
 
 ;Б@Н°В№В≈В™Х®СЫВ»В®ШbВЊВЅВљВћВ≈БAН°ЙсВЌСеРlМьВѓВћВµВЅВ∆ВиВ∆ВµВљГЙГuГНГ}ГУГXВ™ВҐВҐВ≈ВЈБB\
-` ƒо сих пор истори€ была весьма бурной, поэтому в этот раз € бы хотела романтическую историю, нацеленную на взрослых.`\
+` The story has been quite turbulent until now, so this time I would like a calm romance story aimed towards adults.`\
 mono 0
 bg "bmp\background\garden\rose_3ab.bmp",0
 ld l,KLA_AkuwaraiA2,0
@@ -10039,7 +10038,7 @@ ld r,NAT_TukareA2,22
 
 locate 0,3
 ;Б@ХvВ™ОДВ…РбЛ ВрУКВ∞ВƒВ≠ВкВƒБAВїВкВрГLГГГbГ`ВµВƒБAКДВЅВƒТЖРgВрМ©ВйВ∆БA!d800БcБcВїВћБAН•ЦсОwЧ÷В™УьВЅВƒВйВ∆В©БB@ВЂВбБЩ\
-` ћой муж бросает в мен€ снежок, € его ловлю, он распадаетс€,`!d800` ...и € нахожу внутри обручальное кольцо.`@`  ь€Џ09734 `\
+` My husband throws a snowball at me, and when I catch it it splits apart,`!d800` ...and I find an engagement ring inside.`@` Kya~ `\
 mono 0
 dllefe_off
 textoff
@@ -10124,13 +10123,13 @@ quakey 1,100
 ;Б°ОйОuНБ@
 
 locate 0,3
-` Џ09632 ƒжессика`@
+` Џ09632 Jessica`@
 br
 ;Б@РДЧЭВаЧЭЛьВаК÷МWВ»ВµБI@Б@Р≥ТЉБAГ~ГXГeГКБ[В∆В©В«В§В≈ВаВҐВҐБB@Т…ЙхОйОuНБВ≥В№В™БAГБГКГPГУГTГbГNВ≈ЛРИЂВрВќВЅВљВќВЅВљВ∆С≈ВњВћВяВЈТ…ЙхГAГNГVГЗГУЛРХ“БI@
-`   чЄрту рассуждени€ и теории!`@` ћне наплевать на детектив.`@` Ќастало врем€ главы волнующих действий, в которой потр€сающа€ госпожа ƒжессика избивает мерзких злодеев своими кастетами!`@
+` To hell with theories and reasoning!`@` Honestly, I don't give a crap about the mystery.`@` Time for the exhilarating action chapter, with the thriller of Jessica beating up and knocking down the nasty villains with her brass knuckles!`@
 br
 ;Б@КƒУ¬ВЌГ`ГГГEБEГVГУГ`Б[ВрКуЦ]БB\
-` ’очу, чтобы режиссЄром был —тивен „оу —ин-„и.`\
+` I want the director to be Stephen Chow Sing-Chi.`\
 textoff
 se1 52
 ld l,GOA_DefA1b,0
@@ -10177,19 +10176,19 @@ ld l,JES_OdorokiA1,0
 mcbg 22
 locate 0,3
 ;Б@ГЙГXГgВ≈ГsГУГ`В…В»ВйВ™БAВїВ±В…Й√ЙєВ≠ВсВ™йDСuВ∆МїВкВƒПХВѓВƒВ≠ВкВйБI@
-` ѕод конец мен€ загон€т в угол, но  анон галантно примчитс€ спасти мен€!`@
+` I'll get cornered towards the end, but then Kanon will gallantly dash in to save me!`@
 br
 ;Б@ВїВћГVБ[ГУВћПЏВµВҐРаЦЊВЌБAХ УYОСЧњВVВRВTГyБ[ГWВрОQП∆БI\
-` Ѕолее подробное объ€снение этой сцены на 735-й странице приложени€! `\
+` For a more detailed explanation of that scene, see page 735 of the appendix!`\
 textoff
 se1 1010
 bg Hill_1a,22
 ;Б°ПGЛg@
 locate 0,3
-` Џ09632 ’идэЄши`@
+` Џ09632 Hideyoshi`@
 br
 ;Б@РнТnВ©ВзЛAВЅВƒВ≠ВйВ∆МћЛљВЌПƒВѓЦмМіБB@Й∆ВаЙ∆С∞ВаНаОYВаБB@СSВƒВрОЄВЅВљТjВ™БAЧЗИкК—В©ВзКOРHГ`ГFБ[ГУЙ§В…В»ВйВ№В≈ВрХ`В≠БAСuЙхОјШ^СНУVСRРFЙfЙжБcБI\
-` ¬ернулс€ с фронта, а родной город сожжЄн дотла.`@` Ќи дома, ни семьи, ни имущества.`@` ѕотер€л всЄ, но с нул€ стал владельцем сети ресторанов. ¬олнующий цветной фильм, основанный на реальных событи€х!..`\
+`Returning from the frontlines to find his hometown burnt to the ground.`@` No house, no family, no assets.`@` Documenting the man who had lost everything but became the owner of a restaurant chain from scratch, an exhilarating color film based on a true story!..`\
 bg white,28
 bg for_o1a,0
 ld c,HID_DefA1,22
@@ -10197,34 +10196,34 @@ ld c,HID_WaraiA1,80
 
 locate 0,3
 ;Б@ТУЧѓМRСqМ…В…ФEВ—НЮВсВ≈УЊВљРґКИХ®ОСВрИ≈ОsВ≈ФДВЅВƒУЊВљМїЛаВ≈БA@В№ВйВ≈ВнВзВµВ„ТЈО“ВћВжВ§В…М≠ВиМJВиВµБAОЯБXВ…ГTГNГZГXГXГgБ[ГКБ[ВрТzВЂПгВ∞ВйБI\
-` ќн завладел товарами, пробравшись на склад, и продал их на чЄрном рынке,`@` после чего начинают складыватьс€ истории об успехе!`\
+` After getting by through obtaining goods by sneaking into warehouses and selling them on the black market,`@` the success stories start building up from there!`\
 bg white,28
 bg black,22
 bg Book1,22
 locate 0,3
 ;Б@ПЏН„ВЌБAБuТ…ЙхБIБ@ТjИкХCГПГУГ}ГУХ±УђЛLБB@Б`КOРHГ`ГFБ[ГУЙ§БAРђМчВћЛOР’Б`БvОQП∆БB@ХЊО–Х®ФћХФЛyВ—КeГ`ГFБ[ГУУXВ…ВƒТиЙњВPВWВOВOЙ~В…ВƒФ≠ФДТЖБB@В»В®РVУьО–ИхВЌБAМ§ПCКъК‘ТЖВ…Ц{ПСВрХKУ«ВћВ±В∆БI\
-` ƒл€ получени€ дополнительной информации смотрите Џ00171Ќеверо€тно! ’роники борьбы одного примерного человека.`@` ~»стории успеха владельца сети ресторанов~Џ00187.`@` Ѕудет продано в отдел продаж компании, по 1800 иен за каждую цепочку.`@` Ќовые сотрудники во врем€ периода обучени€ должны прочитать сценарий! `\
+` For details, see "Excitement! The Chronicles of an Exemplary Man's One-man Struggles.`@` ~Stories of Success of a Restaurant Chain Owner~"`@` It'll be sold at the company's sales department and every chain establishment for 1800 yen.`@` New employees will be required to read the script during their training period! `\
 se1 1010
 
 bg sky_2a,22
 ;Б°КGЙH@
 locate 0,3
-` Џ09632 ≈ва`@
+` Џ09632 Eva`@
 br
 ;Б@ОќЧzВћЙEСгЛ{Й∆ВрЧJВ§КGЙHВЌБAЙEСгЛ{Й∆ХЬЛїВћВљВяХ±УђВЈВйБB\
-` ”дручЄнна€ неуклонным разорением семьи ”широми€, ≈ва изо всех сил стараетс€ возродить еЄ.`\
+` Dejected by the steady ruin of the Ushiromiya family, Eva attempts to revive it.`\
 bg KAW_R1cN,22
 locate 0,3
 ;!s0Б@ПЧВЌЙ∆ОЦВ∆ОqИзВƒБH/
-!s0` ∆енщина должна заниматьс€ работой по дому и воспитывать детей?`/
+!s0` Women should do housework and raise children?`/
 se1 8
 quakex 2,300
 ;@Б@ПЧВЌИшВЅНЮВсВ≈ВлБH/
-@` ∆енщина не должна мешатьс€?`/
+@` Women should stay out of the way?`/
 se1 11
 quakey 3,300
 ;@Б@ИшВЅНЮВсВ≈ВйВћВЌВ†ВсВљВ≈ВµВеВ§БAС†ЙPМZВ≥ВсБIБI@Б@М©ВƒВҐВ»В≥ВҐБAТjВћОЮСгВЌВ∆ВЅВ≠В…ПIВнВЅВƒВйВћВжБIБI/
-@` Ёто тебе,  раусс, лучше не мешатьс€!`@` ѕросто смотри, эпоха мужчин уже давно закончилась!`/
+@` Stay out of the way yourself, Krauss!`@` Just you watch, the era of men is long over!`/
 !sd\
 
 bg BUI_o1a,22
@@ -10233,7 +10232,7 @@ ld c,HID_WaraiA1,0
 ld l,EVA_DefA1,22
 locate 0,3
 ;Б@ТmУIВ≥В∆ЧЌЛ≠В≥БB@ВїВµВƒС@Н„В≥В∆ВвВ≥ВµВ≥ВрХєВєОЭВЅВљБAМїСгВћВЋВЋВ™БAХvВ…РsВ≠ВµВƒСеКИЦфБI@Б@ХvВћЙпО–ВћГsГУГ`ВрБAПЧВћЛ@У]В∆ТmМbВ≈ОЯБXЛ~ВҐБA@ВвВ™ВƒВЌЙEСгЛ{Й∆ХЬЛїВ…ХССдВрИЏВµСеКИЦфВЈВйВ±В∆В…В»ВйБB@Н≈МгВ…ВЌВїВкВрЛаС†В…ФFВяВзВкБAОЯКъУЦОеВ…ФFВяВзВкВйБB\
-` — интеллектом и силой,`@` а также с нежностью и добротой € сыграю огромную роль, помога€ своему мужу!`@`  огда компани€ моего мужа попадЄт в беду, € спасу еЄ благодар€ своей женской находчивости и мудрости,`@` и вскоре мо€ роль в истории возродит семью ”широми€.`@` ¬ итоге  инзо признает мои успехи и сделает мен€ следующей главой.`\
+` With intelligence and strength,`@` with gentleness and kindness, I'll play a huge role by helping my husband!`@` When my husband's company is in trouble, I'll use my womanly wit and wisdom to salvage it,`@` and before long my role in the story will become to revive the Ushiromiya family.`@` In the end, what I've done will be acknowledged by Kinzo, and he will accept me as the next head.`\
 
 textoff
 bg white,28
@@ -10308,7 +10307,7 @@ ld r,HID_WaraiA1,80
 
 ;Б@ГNГЙГCГ}ГbГNГXВ≈ВЌБAС†ЙPВ∆Ц\КњВљВњВ…ХvВ™ПPВнВкВƒГsГУГ`В…В»ВйВ™БAО©ЦЭВћСЂЛZВ≈В±ВкВрИкПRБI@Б@ОеЙЙВЌОДВ©БAВ≥ВаВ»В≠ВќЛ{Ц{РMОqБB@УЦСRБAКƒУ¬ВЌИ…ТOП\ОOБB\
 locate 0,3
-` ¬ кульминации на моего мужа нападут  раусс и прочие хулиганы, и когда он окажетс€ в беде, € разберусь с ними своей работой ног!`@` ¬едущей актрисой должна быть €. »ли же Ќобуко ћи€мото.`@` –ежиссЄром, естественно, должен быть ƒжузо »тами. `\
+` In the climax, Krauss and a bunch of other hoodlums will attack my husband, and when he's in trouble, I'll use my famous legs to kick them back!`@` The lead actress should be me. If that's not possible, then Nobuko Miyamoto.`@` Naturally, the director should be Juzo Itami. `\
 textoff
 fede 1,1000
 bgm1 8
@@ -10317,59 +10316,59 @@ bg black,22
 se1 1010
 ;Б°ПчО°\
 locate 0,3
-` Џ09632 ƒжордж`\
+` Џ09632 George`\
 bg beach_S1a,22
 locate 0,3
 ;Б@О—ЙєВ∆ВћУйВкПЙВяВ©ВзВрР√В©В…ТЪФJВ…Х`ВҐВƒВўВµВҐВ»БB@Ц{Х“В≈ВЌЦҐВЊВ…БAВїВкВрХ`ВҐВљГVБ[ГУВ™В»ВҐВ©ВзВЋБB\
-` я бы хотел мирное и полное любви описание начала моего романа с Ўанон.`@` ¬едь эту сцену так и не показали в оригинальной работе.`\
+` I'd like a peaceful and loving depiction of how the romance between me and Shannon started.`@` The scene still hasn't been shown in the original work, after all.`\
 
 bg beach_S1b,22
 locate 0,3
 ;Б@В†ВкВЌБAНPЧбВћРeС∞ЙпЛcВћУъВћВ±В∆ВЊВЅВљБB@ЙљФNСOВћВ±В∆В©В»БB@ВЌВЌБAОvВҐПoВЈВћВаЙљВЊВ©ТpВЄВ©ВµВҐВжБB\
-` Ёто случилось в день традиционного семейного собрани€.`@` —колько же лет назад...`@` ’а-ха, мне становитс€ неловко, когда € вспоминаю об этом.`\
+` It happened on the usual day of the family conference.`@` I wonder how many years ago?..`@` Haha, remembering it makes me feel a bit embarrassed.`\
 
 bg white,22
 bg sky_1a,9
 locate 0,3
 ;Б@В†ВћУъБAЦlВЌЦXОqВрФнВЅВƒВљВсВЊБB@ВїВкВ™БAЛ≠ВҐХЧВ≈ФтВќВ≥ВкВƒВЋБB@ХlХ”В…ФтВсВ≈НsВЅВљВсВЊБB\
-` ¬ тот день € был в шл€пке.`@` ≈Є сдуло сильным ветром`@` и отнесло на пл€ж.`\
+` That day, I had been wearing a hat.`@` It was blown away by a strong wind`@` and went flying away on the beach.`\
 
 bg white,26
 bg beach_2a,0
 ld l,SHA_WaraiA1,22
 locate 0,3
 ;Б@ВїВћОЮБAО—ЙєВ™ВҐВƒВ≠ВкВƒВЋБB@УсРlВ≈ИкППВ…ХlХ”В…ЦXОqВрТTВµВ…НsВЅВљВћВ≥БB@
-` » тогда по€вилась Ўанон.`@` ћы с ней пошли искать шл€пку. `@
+` At that moment, Shannon showed up.`@` We went to go search the beach together for the hat. `@
 br
 ;Б@В»В©В»В©М©В¬В©ВзВ»В≠ВƒВЋБB@УсРlВ≈ЙљУxВаХlХ”ВрЙЭХЬВµВ»В™ВзБAТTВµВљВћВ≥БB\
-` Ќо не могли найти,`@` сколько бы ни рыскали по пл€жу в поисках.`\
+` We just couldn't find it anywhere,`@` no matter how many times the two of us scoured the beach searching for it.`\
 bg white,24
 bg beach_2b,0
 ld r,SHA_WaraiA3,0
 ld l,GEO_HohoemiA1,24
 locate 0,3
 ;Б@ВїВкВ≈ВаМ©В¬В©ВзВ»ВҐБB@ВљВЊЦ≥МыВ…ТTВЈВћВаВ¬В№ВзВ»ВҐВсВ≈ВЋБB@МЁВҐВћРgВћПгШbВрВµВљВиВµВљВћВ≥БB\
-` ћы так и не нашли еЄ.`@` Ќо просто молча искать было скучно,`@` поэтому мы всЄ то врем€ разговаривали друг с другом.`\
+` We never found it, in the end.`@` But since it would've been boring to just search for it in silence,`@` we were talking to each other the whole time.`\
 
 bg white,24
 bg aqu_i1c,24
 locate 0,3
 ;Б@ВїВ±В≈БAБcБcФёПЧВ™РЕС∞КўВ…У≤ВкВƒВҐВйВ±В∆ВрХЈВҐВƒВЋБB@
-` “огда-то...€ и услышал, что она хочет в океанариум.`@
+` That was when I heard that she wanted to go see an aquarium.`@
 br
 ;Б@ВљВ№ВљВ№ЦlВћЧFРlВ…КwМ|ИхВћРlВ™ВҐВљВсВЊВжБB@ФёВћРЕС∞КўВћЛxКўУъВ…БAУЅХ В…УсРlВЂВиВ≈ЦKВкВйВ±В∆В™ПoЧИВйВжВ§В…ОиФzВµВƒВаВзВЅВљВсВЊБB\
-`  ак ни странно, у мен€ был друг-куратор.`@` я договорилс€, чтобы мы вдвоЄм посетили океанариум в день, когда он закрыт. `\
+` By coincidence, I had a friend who was a curator.`@` I arranged it so that just the two of us could specially visit the aquarium on one of the days it was closed.`\
 
 ld c,GEO_AkuwaraiA1,22
 locate 0,3
 ;Б@ЦlВЌВQВ¬ФёПЧВ…О”ВЅВљВжБB@
-` я извинилс€ перед ней за две вещи.`@
+` There, I apologised to her for two things.`@
 br
 ;Б@ВPВ¬ВЌБAРЕС∞КўВћРlВ≤ВЁВрМ©ВєВƒВ†В∞ВзВкВ»В©ВЅВљВ±В∆БB@
-` ¬о-первых, за то, что не смог показать ей толпы народу в океанариуме.`@
+` One was that I wouldn't get to show her the crowds of people at the aquarium.`@
 br
 ;Б@ВPВ¬ВЌБAБcБcЦ{УЦВЌЦXОqВ»ВсВƒБAН≈ПЙВ©ВзФнВЅВƒВ»В©ВЅВљВсВЊВЅВƒВ±В∆ВрВЋ/
-` ј во-вторых... Ќа самом-то деле у мен€ не было шл€пки.`/
+` And the other one was that... I never owned a hat.`/
 
 
 !d800 /
@@ -10378,7 +10377,7 @@ ld c,GEO_AkuwaraiA1k,80
 se1 4
 
 ;БiГLГЙБIБj\
-`(ЁхеЏ09734 )`\
+`(Hehe)`\
 
 textoff
 bg black,25
@@ -10394,8 +10393,8 @@ quakey 2,300
 bgm1 19
 ;!s0БuВ§БAВ§ВЇБ[БIБIБIБIБI/
 ;!sd@Б@ВсВ»ГbБAЙљВЊВжБAВ±ВкБcБcБB@В±ВћТ≤ОqВ≈БAВ«В±В№В≈С±В≠ВсВЊВжБI@Б@БcВ±ВсВ»ВћВ™БAВ№ВЊФЉХ™И»ПгВ†ВйВЅВƒВћВ©БcБHБIБv\
-!s0`"’-хватит уже!!!`/
-!sd@` „то за чЄрт...`@` —колько там ещЄ?!`@` ...ќсталось больше половины?!.."`\
+!s0`"Enough already!!!`/
+!sd@` What the hell...`@` How much more is left?!`@` ...Over a half?!.."`\
 
 ;БГРнРl
 
@@ -10403,53 +10402,53 @@ bg Mlib_1dP,0
 ld l,WAL_FumanA1,23
 ld l,WAL_WaraiA2,23
 ;БuБcБcРнРlВ≠ВсВћВнВ™В№В№ВЅВ’ВиВ…СќВЈВйБA@Р≥УЦВ»ЧvЛБВ©В∆ОvВҐВ№ВЈВжБcБBБv@
-`"...ѕо-моему, эти требовани€ как раз соответствуют твоим эгоистичным прихот€м, Ѕаттлер..."`\
+`"...I feel these are fitting demands to match your selfish whims, Battler..."`\
 ;БГГПГЛГMГКГA
 
 
 ld r,RON_MajimeA1,24
 
 ;БuВ≥ВƒБB@В±ВћЧvЦ]ВрСSВƒЦЮВљВЈГVГiГКГIВрПСВ©В»ВѓВкВќВ»ВзВ»ВҐВнВѓВ≈ВЈВ™БB@БcБcОјВЌГQБ[ГАГ}ГXГ^Б[В…ВЌБAГVГiГКГIВрПСВЂПгВ∞ВйРІМјОЮК‘В™В≤ВіВҐВ№ВµВƒБcБBБv\
-`"„то ж,`@` теперь вам нужно написать сценарий, объедин€ющий все эти требовани€.`@`  ...“олько у ¬ладельца игры есть временное ограничение на написание сценари€..." `\
+`"Well,`@` now you have to write a scenario that answers all of these requests.`@`  ...But Game Masters have a limit on the time they have to write..." `\
 ;БГГНГmГEГF
 
 bg Mlib_1cP,0
 ld c,BUT_OdorokiA2,24
 
 ;БuВєБAРІМјОЮК‘БHБI@Б@ВїВсВ»ВћВ™В†ВйВћВ©БHБI/
-`"≈сть ограничение по времени?!`/
+`"A time limit?!`/
 ;@Б@ВЃБAЛпСћУIВ…ВЌВҐВ¬В№В≈БIБv\
-@` —-сколько у мен€ осталось?!"`\
+@` How much do I have left?!"`\
 ;БГРнРl
 
 ld l,RON_DefA1,23
 
 ;БuВ№Б[БAВ‘ВЅВњВбВѓВйВ∆У~ГRГ~В№В≈В≈ВЈВ»БBБv\
-`"Ќу, если честно, у вас есть врем€ до зимнего комикета." `\
+`"Well, to put things bluntly, until Winter Comiket." `\
 ;БГГНГmГEГF
 
 ld r,WAL_DefA2,24
 
 ;БuГvГМГXНHПкВ≥ВсВћУsНЗВаВ†ВиВ№ВЈВ©ВзБAФ[КъВЌВаВЅВ∆СБВҐВ≈ВЈВжБcБB@Н°ФNВЌУ~В™К¶ВїВ§В≈ВЈБB@НHПкВЌОRВћТЖВ…В†ВйВ±В∆В™СљВҐВ≈ВЈВ©ВзВЋБcБB@РбВ…Х¬ВіВ≥ВкВйВ∆БAГ}ГXГ^Б[ГfГBГXГNВ™УЌВ©В»ВҐВ∆ВҐВ§В±В∆ВаВ†ВиВ№ВЈВжБBБv\
-`"” печатного завода свои обсто€тельства, так что фактический срок ещЄ раньше...`@` ѕохоже, зима в этом году будет холодной.`@` «аводы часто расположены в горах...`@` ќни могут закрытьс€ из-за снега, и мастер-диск может не дойти до нас воврем€."`\
+`"The people at the press factory have their own circumstances as well, so the actual deadline for delivery is even sooner...`@` It seems this year's winter will be quite cold.`@` It isn't unusual for the factories to be located in mountains...`@` It's possible the factory could be shut down because of snow, and the master disc won't reach us in time."`\
 ;БГГПГЛГMГКГA
 
 ld l,RON_WaraiA1,80
 
 ;БuВ≥ВЯВ≥ВЯРнРlВ≥В№БAОЈХMВрОnВяВжВ§В≈ВЌВ†ВиВ№ВєВсВ©БB@В±ВћЧvЦ]ВрСSВƒЦЮВљВЈРVГVГiГКГIВрБI@/
-`"Ќу же, господин Ѕаттлер, вам пора вз€тьс€ за написание нового сценари€, удовлетвор€ющего всем требовани€м!`@/
+`"Come now, Master Battler, you should begin writing the new scenario that meets all of these requests!`@/
 se1 5
 ld l,RON_AkuwaraiA1,80
 
 ;Б@БcБcВ†ВЯБAВаВµВаВ®ЛЦВµВҐВљВЊВѓВйВћВ≈ВµВљВзБA@ВЇВ–ОДВ…ВаБAГПГCГЛГhВ»КCСѓСDСDТЈВ…В»ВЅВƒБAРҐКEВћЙ ВƒВ№В≈СеНqКCВ»М©ВєПкВрВ®ЛЦВµВҐВљВЊВѓВйВ∆КрВµВҐВ≈ВЈВ»БBБv\
-` ...≈сли позволите и мне попросить,`@` € бы хотел стать капитаном пиратского корабл€ и отправитьс€ на край света."`\
+` ...Ah, and if you would allow it,`@` I would be most pleased if you were to write that I become the wild captain of a pirate ship and voyage to the ends of the earth."`\
 ;БГГНГmГEГF
 
 
 ld r,WAL_WaraiA1,80
 
 ;БuВ†БAВ≈БAБcБcПoЧИВљВзОДВаБA@ВPВVНќВ∆ВPВOВOВOНќЛLФOГЙГCГuВ∆В©ВЌВвВзВєВƒВаВзВ¶ВљВзКрВµВҐВ©ВаБcБB@/
-`"ј, ...т-тогда`@` буду рада, если ты позволишь мне провести 17-летний и 1000-летний праздничный концерт...`@/
+`"Ah, ...then`@` I would be happy if you allowed me to perform a 17-year and a 1000-year commemoration live concert...`@/
 
 se1 4
 mbg white,1
@@ -10457,12 +10456,12 @@ ld r,WAL_WaraiA2,0
 mcbg 22
 
 ;ВІВ°ВІВ°БH@Б@РЇВ™ПђВ≥ВҐГ]Б[БIБIБv\
-` „то-что?`@` я теб€ не слышу!"`\
+` What did you say?`@` I can't hear you!"`\
 ;БГГПГЛГMГКГA
 
 ld c,BUT_KomaruA1,23
 ;БuВ†БAВ†ВћБcБcБB@ЙEСгЛ{РнРlВ©ВзВаЧvЦ]ВжВлВµВҐВ≈ВµВеВ§В©БcБHБv@
-`"Ё-э...`@` ћожно ”широми€ Ѕаттлер тоже попросит?.."`\
+`"Eh...`@` Can Ushiromiya Battler ask for something too?.."`\
 ;БГРнРl
 
 ld r,WAL_DefA2,80
@@ -10474,14 +10473,14 @@ cl c,0
 ld c,BUT_AseruA1,80
 
 ;БuВ±ВкБAБcБcСSХФБA@Ц≤ГIГ`ВЅВƒВ±В∆В≈БAВ®КиВҐВµВƒВаВжВлВµВҐВ≈ВµВеВ§В©БcБHБv@
-`"ћожет...`@`забудем обо всЄм?.."`\
+`"Can we just...`@`forget any of this happened?.."`\
 ;БГРнРl
 
 ld r,WAL_IkariA1,0
 ld l,RON_MajimeA2,80
 
 ;!s0БuБuГ_ГБВ≈ВЈБBБvБv/
-!s0`""Ќет.""`/
+!s0`""Nope.""`/
 
 se1 12
 quakey 3,500
@@ -10495,26 +10494,26 @@ se1 13
 quakey 2,300
 
 ;БuР}В…ПжВЅВƒВ№ВµВљБAГ}ГWВ≈О”ВиВ№ВЈБB@ПХВѓВƒВ≠ВЊВ≥ВҐБAГПГЛГMГКГAВ≥В№БAГНГmГEГFВ≥В№БcБBБv\
-`"ћен€ занесло, мне искренне жаль!`@` ѕрошу, спасите мен€, госпожа ¬ергили€, господин –онове..."`\
+`"I got carried away, I sincerely apologize!`@` Please save me, Lady Virgilia, Lord Ronove..."`\
 ;БГРнРl
 
 ld r,WAL_FumanA1,80
 
 ;БuВсВаВ§БAОdХыВ†ВиВ№ВєВсВЋВ•БcБBБv@
-`"ќ боже, полагаю, у нас нет выбора..."`\
+`"Oh dear, I suppose we have no choice..."`\
 ;БГГПГЛГMГКГA
 
 
 ld l,RON_WaraiA1,80
 
 ;БuВ’ВЅВ≠ВЅВ≠БB@СгХMВрВ≤КуЦ]В≈ВµВљВзБAВаВњВлВсВ®ИшВЂОуВѓВҐВљВµВ№ВЈВжБH@Б@ВљВЊВµБAГVГiГКГIВ…ВЌБAОДВ«ВаВћЧvЦ]ВаЙЅВнВиВ№ВЈВ™БBБv\
-`"ѕу-ку-ку.`@` ≈сли вы просите нас вз€ть на себ€ руководство, разумеетс€, мы согласны.`@` “олько мы добавим в сценарий свои требовани€."`\
+`"Pukuku.`@` If you wish for us to lead the episode, of course we will undertake that task.`@` However, we will add our own demands to the scenario as well."`\
 ;БГГНГmГEГF
 
 bg Mlib_1eP,26
 
 ;БuВ±ВћНџБAЙљВЊВЅВƒН\ВнВсБcБI@Б@БcБcБcБcБHБHБH@Б@ЙљВ≈ВїВсВ»ФЦЛCЦ°ИЂВҐЦЏВ≈ЙіВрМ©ВйБHБv@
-`"я согласен на всЄ!..`@`  ......???`@` ѕочему вы смотрите на мен€ с такими жуткими лицами?"`\
+`"I'll accept anything!..`@` ...???`@` What's with the horrifying faces?"`\
 ;БГРнРl
 
 bg Mlib_1bP,0
@@ -10526,12 +10525,12 @@ cl l,0
 ld l,WAL_AkuwaraiA1,80
 
 ;!s0БuБcБcБcГЛГhГoГgБB/
-!s0`"...–удоЅато.`/
+!s0`"...RudoBat.`/
 
 se1 70
 
 ;@ГSБ[ГoГgБBБv/
-@` √оЅато."`/
+@` GoBat."`/
 se2 70
 
 !sd\
@@ -10541,7 +10540,7 @@ cl r,0
 ld r,RON_WaraiA1,80
 
 ;БuВ’ВЅВ≠ВЅВ≠БI@Б@ГНГmГoГgВаВЇВ–БBБv/
-`"ѕу-ку-ку!`@` » не забудьте –оноЅато."`/
+`"Pukuku!`@` Make sure to remember RonoBat as well!"`/
 se3 70
 \
 ;БГГНГmГEГF
@@ -10550,11 +10549,11 @@ se3 70
 ld c,BUT_KomaruA1,80
 
 ;БuБcБcВ»БAБcБcЙљВћШbВЊБcБH@Б@ВїВћМкФцВћГoГgВЅВƒВћВЌЙљВЊГoГgБcБH@/
-`"...¬-вы о чЄм?..`@` ѕочему вы заканчиваете слова этим Џ00171батоЏ00187... Ѕато? `@/
+`"...What on Earth are you on about?..`@` What's this about bats? `@/
 ld c,BUT_OdorokiA2,80
 
 ;Б@В†БAРVВµВҐМкФцВ©ГoГgБcБHБHБv\
-`Ёто что, новый вид словесных сокращений? Ѕато..."`\
+`Is this some kind of new varbal tic..?"`\
 ;БГРнРl
 
 mcl a,0
@@ -10569,7 +10568,7 @@ print 80
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 locate 0,7
 ;БuБuВ…ВвВЯВ†В†В†В†В†В†В†В†В†В†В†В†Б`БIБvБv\
-`""Ёхе-хе-хе-хе-хе-е-е!""`\
+`""Ehehehehehhee""`\
 
 
 ;БГГПГЛГMГКГA
