@@ -9950,7 +9950,7 @@ br
 bg gold3,22
 locate 0,3
 ;@‘Šê‚Ì‹ì‚¯ˆø‚«A^À‚Æ‹•\B@ƒ}ƒl[ƒQ[ƒ€‚É‰QŠª‚­‰A–dI@@ƒrƒWƒlƒX—pŒê‚ª”ò‚ÑŒğ‚¢A“Ç‚ñ‚Å‚é‚¾‚¯‚Å‹ÆŠE’Ê‚É‚È‚ê‚½‚©‚Ì‚æ‚¤‚ÉöŠo‚µ‚Ä‚µ‚Ü‚¤‚­‚ç‚¢‚ÌƒeƒLƒXƒg‚ÅI\
-` ÑBargaining to change the market price, distinguishing between lies and truth in financial conspiracies!`@` Business terminology will fly about, to the point where people will feel like they've become business experts just by reading it!`\
+` Bargaining to change the market price, distinguishing between lies and truth in financial conspiracies!`@` Business terminology will fly about, to the point where people will feel like they've become business experts just by reading it!`\
 
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
@@ -10430,7 +10430,7 @@ ld l,RON_DefA1,23
 ld r,WAL_DefA2,24
 
 ;uƒvƒŒƒXHê‚³‚ñ‚Ì“s‡‚à‚ ‚è‚Ü‚·‚©‚çA”[Šú‚Í‚à‚Á‚Æ‘‚¢‚Å‚·‚æcB@¡”N‚Í“~‚ªŠ¦‚»‚¤‚Å‚·B@Hê‚ÍR‚Ì’†‚É‚ ‚é‚±‚Æ‚ª‘½‚¢‚Å‚·‚©‚ç‚ËcB@á‚É•Â‚´‚³‚ê‚é‚ÆAƒ}ƒXƒ^[ƒfƒBƒXƒN‚ª“Í‚©‚È‚¢‚Æ‚¢‚¤‚±‚Æ‚à‚ ‚è‚Ü‚·‚æBv\
-`"The people at the press factory have their own circumstances as well, so the actual deadline for delivery is even sooner...`@` It seems this year's winter will be quite cold.`@` It isn't unusual for the factories to be located in mountains...`@` It's possible the factory could be shut down because of snow, and the master disc won't reach us in time."`\
+`"The people at the press factory have their own circumstances as well, so the actual deadline for delivery is even sooner...`@` It seems this year's winter will be quite cold.`@` It isn't unusual for the factories to be located in mountains...`\` It's possible the factory could be shut down because of snow, and the master disc won't reach us in time."`\
 ;ƒƒƒ‹ƒMƒŠƒA
 
 ld l,RON_WaraiA1,80
@@ -10466,7 +10466,7 @@ ld c,BUT_KomaruA1,23
 
 ld r,WAL_DefA2,80
 ;u‚¨‚âA‰½‚Å‚µ‚å‚¤Hv\
-`"Õì? ×òî?"`\
+`"Mm? What is it?"`\
 ;ƒƒƒ‹ƒMƒŠƒA
 
 cl c,0
@@ -10568,7 +10568,7 @@ print 80
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 locate 0,7
 ;uu‚É‚â‚Ÿ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ `Ivv\
-`""Ehehehehehhee""`\
+`""Ehehehehehhee!""`\
 
 
 ;ƒƒƒ‹ƒMƒŠƒA
