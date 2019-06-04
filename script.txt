@@ -10625,7 +10625,7 @@ ld r,ZEP_WaraiA6,0
 print 99,1000,"breakup.dll/ulP"
 
 ;「僕たちは寛大だからね！」@
-`"We are so lenient!" `\
+`"Our hearts are magnanimous!" `\
 ;＜ゼパル
 
 se2 52
