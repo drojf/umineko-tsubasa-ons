@@ -15,6 +15,17 @@ Current progress:
 |2|Yes|Yes|v0.2.0|
 |3|Yes|Yes|v0.3.0|
 |4|In progress|No|Not yet released|
+|5|No|No|Not yet released|
+|6|No|No|Not yet released|
+|7|No|No|Not yet released|
+|8|No|No|Not yet released|
+|9|No|No|Not yet released|
+|10|No|No|Not yet released|
+|11|No|No|Not yet released|
+|12|No|No|Not yet released|
+|13|No|No|Not yet released|
+|14|No|No|Not yet released|
+|15|No|No|Not yet released|
 
 Installation instructions:
 
