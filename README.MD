@@ -13,7 +13,7 @@ Current progress:
 |--|--|--|--|
 |1|Yes|Yes|v0.1.0|
 |2|Yes|Yes|v0.2.0|
-|3|In progress|No|Not released yet|
+|3|Yes|Yes|v0.3.0|
 
 Installation instructions:
 
