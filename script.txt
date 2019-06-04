@@ -13810,14 +13810,14 @@ ld r,ZEP_DefA1,0
 se1 52
 print 99,1000,"breakup.dll/ulb"
 
-`"ћы так снисходительны!" `\
+`"Our hearts are magnanimous!" `\
 ;БГГ[ГpГЛ
 ld l,FUR_WaraiA1,0
 se2 52
 print 99,1000,"breakup.dll/urb"
 
 ;БuПҐКЂВћЦВЦ@РwВ™В№ВљСљП≠БAИбВЅВƒВљВЅВƒБAВїВсВ»ВћВЌЛCВ…ВµВ»ВҐВнБIБv\
-`"’от€ призывной магический круг был так себе, мы не возражаем!"`\
+`"Even though the summoning circle was a bit off, we don't mind!"`\
 ;БГГtГЛГtГЛ
 
 se1v 2,100
@@ -13831,16 +13831,16 @@ ld r,FUR_WaraiA3,22
 
 
 ;БuБuВЊВЅВƒБAИ§ВћЧЌВЌИћСеВЊВаВћБIБvБv\
-`""¬едь сила любви неизмерима!""`\
+`""For nothing surpasses the power of love!""`\
 
 ld c,JES_AisowaraiA1,22
 
 ;БuВ§БAВ§БcБB@В№ВљВ®РҐШbВ…В»ВйВ∆ВЌОvВнВ»В©ВЅВљВЇБcБBБv@
-`"Ё-э...`@` Ќе думала, что ещЄ призову вас..."`\
+`"Eh...`@` Who would've thought I'd be bothering you two again..."`\
 ;БГОйОuНБ
 
 ;Б@В№ВљВµВƒВаОйОuНБВЌБAЛаС†ВћЦВУ±ПСВ≈БAВ†ВћВQРlВћИЂЦВВрМƒВ—ПoВµВƒВµВ№ВҐВ№ВµВљБB\
-` ƒжессика снова по гримуару  инзо вызвала двух демонов.`\
+` Jessica had once again used Kinzo's grimoire to summon those two demons.`\
 
 
 cl c,0
@@ -13851,13 +13851,13 @@ ld r,ZEP_MajimeA1,22
 ld r,ZEP_waraiA4,80
 
 ;БuГPГУГJВµВƒВµВ№ВЅВљЧFРlВ∆БAТЗТЉВиВрВЈВйЦВЦ@БHБv@
-`"ћаги€ помиритьс€ с другом?"`\
+`"Magic to make amends with a friend you've quarreled with?"`\
 ;БГГ[ГpГЛ
 
 ld l,FUR_WaraiA8,24
 
 ;БuВїВћЧFРlВЌТjВћОqБH@Б@ПЧВћОqБHБv\
-`"— парнем?`@` »ли с девушкой?"`\
+`"A boy?`@` Or perhaps a girl?"`\
 ;БГГtГЛГtГЛ
 
 
@@ -13865,7 +13865,7 @@ bg MJES_1aN,0
 ld c,JES_TohohoA2,23
 
 ;БuБcБcПЧВћОqВЊВѓВ«БHБv\
-`".....— девушкой. ј что?"`\
+`"...It's a girl. Why?"`\
 ;БГОйОuНБ
 
 se1v 2,100
@@ -13879,18 +13879,18 @@ ld r,FUR_WaraiA3,22
 
 
 ;БuБuВ†ВЯБAСfУGВЋБAСfУGВЊВнБI@Б@ПЧУѓОmВћЛ÷ВґВзВкВљЧцБIБIБvБv\
-`""ј-а, чудесно, просто чудесно!`@` «апретна€ любовь между двум€ девушками!""`\
+`""Ahh, splending, wonderful!`@` The love between two maidens!""`\
 
 ld l,ZEP_WaraiA8,80
 
 ;БuР≥ВµВҐЧцВћОpВ≈ВЌВ»ВҐВѓВкВ«БAБv@
-`"Ќе совсем правильна€ любовь, но-"`\
+`"Some might complain, but as long as the two of you believe... "`\
 ;БГГ[ГpГЛ
 
 ld r,FUR_WaraiA6,80
 
 ;БuИ§ВµНЗВ§УсРlВ™Р≥ВµВҐВ∆РMВґВйВ»ВзВќБIБv\
-`"≈сли двое люб€т друг друга, ничто иное не имеет значени€!.."`\
+`" Things such as sex and gender will be no obstacle to true love!.."`\
 ;БГГtГЛГtГЛ
 
 
@@ -13906,13 +13906,13 @@ ld l,FUR_WaraiA3,0
 ld r,ZEP_WaraiA3,22
 
 ;БuБuОДВљВњВЌЙЮЙЗВµВ»ВҐВнВѓВ…ВЌНsВ©В»ВҐВнБIБIБvБv\
-`""“ак что мы их только поддержим!!!""`\
+`""We will wholeheartedly support you!!!""`\
 
 cl c,0
 ld c,JES_AtyaA2,80
 
 ;БuВҐВвВҐВвВҐВвВҐВвБB@ВїВсВ»ВћВґВбВ»ВҐВ©ВзБAИбВ§В©ВзБcБIБv\
-`"Ќет-нет-нет.`@` ¬сЄ совсем не так!.."`\
+`"No-no-no.`@` You're misunderstanding!.."`\
 ;БГОйОuНБ
 
 mcl a,0
@@ -13920,78 +13920,78 @@ bg MJES_1cN,24
 ld r,FUR_DefA1,24
 
 ;БuВ†ВзБAВљВЊВћВ®ЧFТBВ»ВћБH@Б@ЧFПоВ»ВћБHБv@
-`"ј-а, подруга?`@` ¬сего лишь дружба?"`\
+`"Wait, seriously?`@` You're really just friends?"`\
 ;БГГtГЛГtГЛ
 
 ld L,ZEP_waraiA4,23
 
 ;БuВїВкВЌВ¬В№ВзВ»ВҐВЋБB@ВњВеВЅВ∆РкЦеКOВ©В»БHБv\
-`" акое разочарование.`@` Ёто не совсем в рамках нашей компетенции."`\
+`"What a disappointment.`@` It's a bit outside of our expertise, isn't it..."`\
 ;БГГ[ГpГЛ
 
 ld r,FUR_WaraiA1,80
 
 ;БuВ≈ВаБAФёПЧВћЧцВћРђПAВћВљВяВ…ВЌБAЦ°ХыВрВ–В∆ВиВ≈ВаСЭВвВЈВћВЌСеРЎВЊВнБIБv@
-`"ќднако ради любви важно увеличить число союзников, пусть даже всего на одного!"`\
+`"But, if we're making her love bear fruit, it's important to add someone to support her!"`\
 ;БГГtГЛГtГЛ
 
 ld L,ZEP_WaraiA8,80
 
 ;БuВїВкВаВїВ§ВЊВЋБI@Б@ФёПЧВћЧцВЌОgЧpРlБAЙ√ЙєВ≠ВсВ∆ВћЛ÷ВґВзВкВљЧцБI@Б@Ц°ХыВрВ–В∆ВиВ≈ВаСЭВвВЈВ±В∆ВЌБAСеВҐВ»ВйЧцВћСжИкХаБIБv\
-`"Ќесомненно!`@` ≈Є любовь к  анону - запретна€ любовь со слугой!`@` ”величение числа союзников - первый важный шаг на пути к любви!"`\
+`"Without a doubt!`@` Her love for the servant Kanon is the forbidden love with a servant!`@` Increasing the number of allies is the first step towards a great romance!"`\
 ;БГГ[ГpГЛ
 
 ld c,JES_aisowaraiA1,24
 
 ;БuБcБcВҐБAВҐВвБAГTГNВ∆Й√ЙєВ≠ВсВЌСSСRК÷МWВ»ВҐВсВЊВѓВ«БcБcБBБv\
-`"...Ќ-нет, —аку тут ни при чЄм..."`\
+`"...N-no, Saku and Kanon have nothing to do with each other at all..."`\
 ;БГОйОuНБ
 
 bg black,26
 ;Б@ВвВЅВѕВиБAВ†ВћЙцВµВ∞В»ИЂЦВВљВњВ…ВаВ§ИкУxЧКВйВћВЌВ№ВЄВ©ВЅВљВ©В»БB@
-` “ак и знала, зр€ € оп€ть доверилась этим причудливым демонам.`\
+` Asking those two suspicious demons for help again really wasn't a great idea, was it?`\
 
 ;Б@ОйОuНБВЌВџВиВџВиВ∆У™ВрС~ВЂВ№ВЈВ™БAИЂЦВВљВњВЌПЯОиВ…ПжВиЛCВ≈ВЈБB\
-` ƒжессика почесала голову, но, естественно, два демона уже заинтересовались.`\
+` Jessica could only scratch her head, but the two demons were already invested in this.`\
 
 
 
 ;Б@ОdХыВ™В»ВҐБB@
-` Ќичего не поделаешь.`\
+` Alright then.`\
 
 ;Б@ОйОuНБВЌКoМеВрМИВяВƒБAИЂЦВВљВњВ…СКТkВµВƒВЁВйВ±В∆В…ВµВ№ВµВљБB\
-` ќна приготовилась и решила попросить у них совета.`\
+` Jessica prepared herself and decided to ask the demons for advice.`\
 
 mono on
 bg schF_P2a,2
 
 ;Б@ОйОuНБВЌРжУъБAРVУЗВћКwНZВ≈БAН±Н„В»В±В∆В©ВзЧFРlВћГTГNВ∆МыМЦЙ№ВрВµВƒВµВ№ВҐВ№ВµВљБB\
-` Ќесколько дней назад в школе на Ќииджиме ƒжессика поссорилась с подругой из-за какой-то мелочи.`\
+` A few days ago, at her school in Nijima, Jessica had quarreled with her friend Sakuka over something trivial.`\
 
 ;Б@ВїВкВЌЦ{УЦВ…Ц{УЦВ…ЙЇВзВ»ВҐБAВ®МЁВҐВ™ВњВеВЅВ∆ПчВиНЗВ¶ВќПќВЅВƒНѕВ№ВєВзВкВљТцУxВћБAН±Н„В»ВЈВкИбВҐВ©ВзВћМыМЦЙ№БB@
-` ѕовод и вправду был нелепым - крошечное недопонимание, и, по идее, они обе должны были посме€тьс€ и забыть.`\
+` It was only a tiny difference in opinion, a truly meaningless fight. If both sides had only apologised, then everything could have been laughed off.`\
 
 ;Б@ВїВћПгБAО”ВйГ^ГCГ~ГУГOВрУ¶ВµВƒВµВ№ВҐБAЛCВ№ВЄВҐЛуЛCВћВ№В№БAИкПTК‘ВаМoВЅВƒВµВ№ВҐВ№ВµВљБB\
-` ќднако они упустили возможность извинитьс€ и даже целую неделю ходили мрачными.`\
+` But the chance to apologise had passed, and the awkward atmosphere between the two had already lasted a week.`\
 
 bg schF_P3a,22
 
 
 ;Б@ОйОuНБВаГTГNВаБAВ®МЁВҐБAО©Х™ВЌИЂВ≠В»ВҐВ∆ОvВЅВƒВҐВйВћВ≈БAО©Х™В©ВзВЌО”ВкВ№ВєВсБB@
-` —чита€, что они не сделали ничего плохого, и ƒжессика, и —аку отказывались извин€тьс€.`\
+` Jessica and Saku both believed they've done no wrong, and thus neither one apologised.`\
 
 ;Б@ВµВ©ВµБAСКОиВ™О”ВЅВƒВЂВљВзЛЦВµВƒВвВлВ§В∆В®МЁВҐВ™ОvВЅВƒВҐВ№ВЈБB@
-` ќднако они обе считали, что прост€т, если друга€ извинитс€.`\
+` But both of them thought they would forgive each other if the other one apologised.`\
 
 ;Б@В±ВкВ≈ВЌБAВҐВ¬В№В≈МoВЅВƒВаТЗТЉВиВ≈ВЂВйВнВѓВЌВ†ВиВ№ВєВсБB\
-` “ак они никогда не помир€тс€.`\ 
+` That's no way to make peace.`\ 
 
 bg black,22
 bg Glib_1b,22
 
 
 ;Б@ЙљВ∆В©ТЗТЉВиВћВЂВЅВ©ВѓВ™УЊВзВкВ»ВҐВ©В»В∆У™ВрФYВ№ВєВƒВҐВљВ∆В±ВлБAПСМ…В…В†ВЅВљБAЛаС†ВћХsЛCЦ°В»ЦВУ±ПСВћВ±В∆ВрОvВҐПoВµВљВћВ≈ВЈБB@
-` ¬сЄ размышл€€, как бы получить шанс заключить мир, она вдруг вспомнила про тревожный гримуар  инзо.`\
+` Just as she was agonizing over whether there was a chance to make up, she'd remembered the creepy grimoire Kinzo kept in his library.`\
 
 ;Б@В†ВћЦВУ±ПСВ≈МƒВ—ПoВєВљБAХsОvЛcВ»ИЂЦВВћУсРlСgВ»ВзБAЙљВ©Ч«ВҐЦВЦ@ВрОцВѓВƒВЌВ≠ВкВ»ВҐВ©В»БB@В†ВћБAХкВћУъВћГvГМГ[ГУГgВЁВљВҐВ…БB\
 ` ≈сли € попрошу двух странных демонов, вызванных с помощью этого гримуара, кто знает, хорошей магией они одар€т или нет.`@`  ак было с подарком на ƒень матери.`\
