@@ -13890,7 +13890,7 @@ ld l,ZEP_WaraiA8,80
 ld r,FUR_WaraiA6,80
 
 ;「愛し合う二人が正しいと信じるならば！」\
-`" Things such as sex and gender will be no obstacle to true love!.."`\
+`"Things such as sex and gender will be no obstacle to true love!.."`\
 ;＜フルフル
 
 
