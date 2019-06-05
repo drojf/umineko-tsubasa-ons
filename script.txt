@@ -27,7 +27,7 @@ killmenu 2
 
 ;caption "うみねこのなく頃に翼"
 ;versionstr "うみねこのなく頃に翼　ver1.000","制作　０７ｔｈ　Ｅｘｐａｎｓｉｏｎ"
-caption "Umineko no Naku Koro ni Tsubasa - PS3 patch"
+caption "[07th-Mod] Umineko no Naku Koro ni Tsubasa"
 versionstr "Umineko no Naku Koro ni ver1.000","created by 07th Expansion
 
 ;メニューの内容
@@ -10530,7 +10530,7 @@ ld l,WAL_AkuwaraiA1,80
 se1 70
 
 ;@ゴーバト。」/
-@` GoBat."`/
+@` GohBat."`/
 se2 70
 
 !sd\
