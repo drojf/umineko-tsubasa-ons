@@ -13879,7 +13879,7 @@ ld r,FUR_WaraiA3,22
 
 
 ;「「あぁ、素敵ね、素敵だわ！@　女同士の禁じられた恋！！」」\
-`""Ahh, splending, wonderful!`@` The love between two maidens!""`\
+`""Ahh, splendid, wonderful!`@` The love between two maidens!""`\
 
 ld l,ZEP_WaraiA8,80
 
