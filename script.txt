@@ -13994,7 +13994,7 @@ bg Glib_1b,22
 ` Just as she was agonizing over whether there was a chance to make up, she'd remembered the creepy grimoire Kinzo kept in his library.`\
 
 ;Ѓ@‚ ‚М–‚“±Џ‘‚ЕЊД‚СЏo‚№‚ЅЃA•sЋv‹c‚И€«–‚‚М“сђl‘g‚И‚зЃA‰Ѕ‚©—З‚ў–‚–@‚рЋц‚Ї‚Д‚Н‚­‚к‚И‚ў‚©‚ИЃB@‚ ‚МЃA•к‚М“ъ‚МѓvѓЊѓ[ѓ“ѓg‚Э‚Ѕ‚ў‚ЙЃB\
-` Если я попрошу двух странных демонов, вызванных с помощью этого гримуара, кто знает, хорошей магией они одарят или нет.`@` Как было с подарком на День матери.`\
+` If I ask these two weird demons summoned by the grimoire, I have no way of knowing whether their magic will do me any good.`@` It might end up being a repeat of Mother's Day.`\
 
 bg black,22
 mono off
@@ -14004,18 +14004,18 @@ se1 47
 ld l,FUR_WaraiA2,26
 
 ;Ѓu‚а‚ї‚л‚сЃA‚Ё€А‚ўЊд—p‚ѕ‚нЃB@‰Г‰№‚­‚с‚Ж‚М—ц‚рђ¬ЏA‚і‚№‚й‚Ѕ‚Я‚М‘ж€к•аЃIЃv\
-`"Всё ясно.`@` Это будет первый шаг на пути к любви с Каноном!"`\
+`"We understand.`@` This will be your first step in your love with Kanon!"`\
 ;Ѓѓѓtѓ‹ѓtѓ‹
 
 se1 48
 ld r,ZEP_WaraiA3,26
 
 ;Ѓu—ц‚М‘еђн—Є‚М‘ж€к•а‚Н‘@ЌЧ‚Й‚µ‚Д‘е’_‚ЙЃI@Ѓ@ѓTѓN‚Ж’‡’ј‚и‚Е‚«‚ЅЏг‚ЙЃAЊN‚М—ц‚р‘е‰ћ‰‡‚µ‚Д‚­‚к‚й—Љ‚а‚µ‚ў–Ў•ы‚Й‚И‚й‚ж‚¤‚ЙЃA‹†‹Й‚М’‡’ј‚и–‚–@‚р“`Ћц‚·‚й‚жЃIЃv\
-`"Первый шаг великой любовной стратегии - дело тонкое!`@` Ты помиришься с Саку, и она станет надёжным союзником, поддерживающим тебя в любви!"`\
+`"The first step in a great strategy of love must be bold, yet cautious!`@` You'll reconcile with Saku, who will then become a dependable companion, someone who will greatly support your love!"`\
 ;Ѓѓѓ[ѓpѓ‹
 
 ;Ѓ@“сђl‚М€«–‚‚НЏџЋи‚Йђ·‚иЏг‚Є‚и‚И‚Є‚зЃAЋџЃX‚Й–‚–@‚МЋlЋџЊіѓ|ѓPѓbѓg‚©‚зЃA@‰ц‚µ‚°‚ИЃAЊ©‚й‚ѕ‚Ї‚ЕЋф‚н‚к‚Д‚µ‚Ь‚ў‚»‚¤‚ИЃA•Ё‘›‚ИѓAѓCѓeѓЂ‚рЋџЃX‚ЙЋж‚иЏo‚µ‚Д•А‚Ч‚Д‚ў‚«‚Ь‚·ЃB\
-` Всё больше загораясь, два демона достали из четырёхмерного волшебного кармана подозрительные и опасные предметы, проклинающие с одного взгляда на них,`@` и разложили их в ряд.`\
+` Getting more and more into it, the two demons took a variety of suspicious, potentially-cursed props out of a 4D pocket,`@` and arranged them in a row in front of her.`\
 ;;;tasca quadridimesionale --> riferimento a Doraemon!
 
 bg MJES_1aN,0
@@ -14023,21 +14023,21 @@ ld l,JES_KomaruA1,23
 ld l,JES_tohohoA2,80
 
 ;Ѓu‚ў‚в‚»‚МЃI@Ѓ@‚»‚¤‚ў‚¤‚М‚¶‚б‚И‚­‚ДЃcЃB@‚Ж‚Й‚©‚­•Ѓ’К‚Й’‡’ј‚и‚Е‚«‚к‚О‚ў‚ў‚с‚Е‚·ЃB@‘еђн—Є‚Ж‚©ЃA‚ЗЃ[‚Е‚а‚ўЃ[‚©‚зЃIЃv\
-`"Нет!`@` Только не это...`@` Просто помирите нас.`@` Не надо никаких великих стратегий!"`\
+`"Um, no!`@` Please, I don't need any of this...`@` Just help me make up.`@` I don't need any grand strategies!"`\
 ;ЃѓЋйЋuЌЃ
 
 
 ld c,ZEP_WaraiA8,23
 
 ;Ѓu‚»‚¤‚НЌs‚©‚И‚ў‚ЛЃIЃI@Ѓ@‚ѕ‚Б‚Д–l‚Ѕ‚ї‚Н‚V‚Q’Њ‚М‘е€«–‚ЃIЃv@
-`"Так не пойдёт!`@` Мы же великие демоны 72-х столпов!"`\
+`"No, that just won't do at all!`@` We're two of the 72 great demons!"`\
 ;Ѓѓѓ[ѓpѓ‹
 
 
 ld r,FUR_WaraiA5,24
 
 ;ЃuЊД‚О‚к‚ДЃA‚Ѕ‚ѕ‚Ё—F’B‚Ж’‡’ј‚и‚Б‚Д‚ѕ‚Ї‚¶‚бЃA‚В‚Ь‚з‚И‚ў‚а‚МЃIЃIЃv\
-`"Какой смысл вызывать нас просто чтобы помириться с подругой?!"`\
+`"What's even the point of summoning us if the only thing you want is to just make up with a friend?!"`\
 
 ;Ѓѓѓtѓ‹ѓtѓ‹
 
