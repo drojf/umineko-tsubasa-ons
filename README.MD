@@ -15,7 +15,7 @@ Current progress:
 |2|Yes|Yes|v0.2.0|
 |3|Yes|Yes|v0.3.0|
 |4|Yes|Yes|v0.4.0|
-|5|In progress|No|Not yet released|
+|5|Yes|No|Not yet released|
 |6|No|No|Not yet released|
 |7|No|No|Not yet released|
 |8|No|No|Not yet released|

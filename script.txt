@@ -14045,7 +14045,7 @@ ld r,FUR_WaraiA5,24
 ld l,JES_AtyaA2,80
 
 ;БuБcБcВвВЅВѕБAИЂЦВВ…ЧКВлВ§В∆ВµВљОДВ™ФnО≠ВЊВЅВљВЇБB@В±ВћПҐКЂБAГiГVГiГVБB@БcБcУсРlВ∆ВаВ®ФжВкВ≥ВсБB@ОДВ™О©Х™В≈ЙрМИВЈВйВ©ВзБAВаВ§ЛAВЅВƒВҐВҐВЇБcБBБv\
-`"...“ак и знала, зр€ € доверилась вам.`@`  ак будто в этом был смысл.`@` ќтлична€ работа.`@` Ѕез вас справлюсь, можете уходить..."`\
+`"...I knew I shouldn't have relied on you.`@` There was no point in this.`@` Well done, you two.`@` You can go back now..."`\
 ;БГОйОuНБ
 
 cl l,24
@@ -14063,7 +14063,7 @@ ld l,FUR_WaraiA7,0
 ld r,ZEP_WaraiA3,22
 quakey 2,300
 ;БuБuВ¶В¶В¶В•Б[Б[Б[БIБI@Б@ВїВ§ВҐВ§ВнВѓВ…ВЌНsВ©В»ВҐВжБIБIБvБv\
-`""Ё-э-э-э?!`@`  ак так!""`\
+`""Ehhhh?!`@` No way!""`\
 
 
 
@@ -14071,19 +14071,19 @@ quakey 2,300
 
 ld r,ZEP_WaraiA4,80
 ;БuВ±ВћГ[ГpГЛВ∆ГtГЛГtГЛВ™МƒВ—ПoВ≥ВкВƒБIБv@
-`"Ќас уже призвали, и..."`\
+`"You have summoned us, so..."`\
 ;БГГ[ГpГЛ
 
 ld l,FUR_WaraiA8,80
 
 ;БuКиВҐВаКРВ¶ВзВкВЄВ…Т«ВҐХ‘В≥ВкВљВ≈ВЌБAНѕВ№В≥ВкВ»ВҐВнБIБv\
-`"ћы не можем уйти, даже не исполнив твоЄ желание!"`\
+`"We cannot leave without granting your wish!"`\
 ;БГГtГЛГtГЛ
 
 ld r,ZEP_WaraiA3,80
 
 ;БuЦlВљВњВрМƒВ—ПoВµВљИ»ПгБAРвСќВ…КиВҐВрКРВ¶В»В≠ВњВбБIБv\
-`"–аз уж нас призвали, мы должны исполнить просьбу!"`\
+`"Being dismissed otherwise would be inexcusable!"`\
 ;БГГ[ГpГЛ
 
 bg black,24
@@ -14091,71 +14091,71 @@ bg MJES_1bN,0
 ld r,JES_AtyaA3,24
 
 ;БuБcБcЛCОЭВњВЌКрВµВҐВѓВ«ВжБ[БB@Ч]МvБAШbВ™В®В©ВµВ≠В»ВЅВњВбВҐВїВ§ВЊВµБBБv\
-`"...Ќу, € рада.`@` Ќадеюсь, вы не усложните всЄ ещЄ больше."`\
+`"...I appreciate it.`@` I just hope you're not going to complicate things even further for me."`\
 ;БГОйОuНБ
 
 
 ld l,ZEP_MajimeA1,23
 
 ;БuВ«В§ВвВзБAЙдВзВ™ПҐКЂОеВЌБAЦ{УЦВ…В≥В≥ВвВ©В»ЦВЦ@В™В®Ц]ВЁВћВжВ§ВЊБBБv@
-`"ѕохоже, ты призвала нас ради скромной магии."`\
+`"It appears that you have summoned us for performing some simple magic."`\
 ;БГГ[ГpГЛ
 
 ld r,JES_AtyaA2,24
 
 ;БuОnВяВ©ВзВїВћВ¬ВаВиВЊВЇБcБcБB@В∆В…В©В≠БAВ≥В≥ВвВ©В≈ВҐВҐВсВЊБB@ЙљВ»ВзБAЦВЦ@ВћВ®В№ВґВ»ВҐВрЛ≥В¶ВƒВ≠ВкВйВЊВѓВ≈ВаВҐВҐВ©ВзБBБv\
-`"ƒа, в точку...`@` Ќечто скромное как раз подойдЄт.`@` ћожете научить мен€ какому-нибудь заклинанию, скажем."`\
+`"Yes, exactly!..`@` Something simple will do fine.`@` For example, you could teach me some kind of a spell."`\
 ;БГОйОuНБ
 
 
 ld c,FUR_WaraiA2,24
 
 ;БuОДВљВњВћЛ≠ЙяВђВйЦВЧЌВ≈ВЌБAВ≥В≥ВвВ©В∆ВЌВ»ВзВ»ВҐВнБBБv\
-`"— нашей магической силой мы не способны на нечто скромное."`\
+`"With our vast magical power, we can't do simple things."`\
 ;БГГtГЛГtГЛ
 
 ld l,ZEP_DefA1,80
 
 ;БuВ»ВзБAЦlВљВњВЌЛ≥В¶ВйВЊВѓВ…ВµВƒВ†В∞ВжВ§БB@БcБcВ®В№ВґВ»ВҐВћЦВУ±ПСВрСЁВµВƒВ†В∞ВйВ∆В©В«В§В©В»БHБv@
-`"“ак что мы просто научим теб€ кое-чему.`@`  ...ћожет, дать тебе книгу заклинаний?"`\
+`"So we'll just teach you to do it yourself.`@` Perhaps you would like us to lend you the grimoire?"`\
 ;БГГ[ГpГЛ
 
 ld r,JES_KomaruA3,80
 
 ;БuВ®В№ВґВ»ВҐВћЦВУ±ПСБcБHБv\
-`" нигу заклинаний?.."`\
+`"The grimoire?.."`\
 ;БГОйОuНБ
 
 bg black,22
 bg Book1,22
 
 ;БuЦВЦ@ПЙРSО“МьВѓВћБAК»ТPВ»ЦВЦ@В™РFБXНЏВЅВƒВйБAСfУGВ»ЦВУ±ПСВ≥БIБv@
-`"«амечательна€ книга с простыми заклинани€ми, направленна€ как на новичков, так и на магов!"`\
+`"This grimoire's really great! It's perfect for beginners, with all kinds of simple magic recorded inside."`\
 ;БГГ[ГpГЛ
 
 ;БuВ≥В≥ВвВ©В»МшЙ ВЊВѓВкВ«БAВїВћСгВнВиБAК»ТPВ…ТNВ≈ВаОgВ¶ВйВћБIБv\
-`"Ёффекты скромны, но зато никакой сложности!"`\
+`"Even though the effects of the magic are small, since it's simple, anyone can use it!"`\
 ;БГГtГЛГtГЛ
 
 ;БuВїВкВ…ВЌБAЧFТBВ∆ВћТЗТЉВиВћЦВЦ@ВаНЏВЅВƒВйБcБHБv@
-`"» есть даже маги€ помиритьс€ с подругой?.."`\
+`"Is there magic to make friends reconcile in here?.."`\
 ;БГОйОuНБ
 
 ;БuВаВњВлВсБI@Б@СЉВ…ВаБAЧFТBВћСЂВћПђОwВрГ^ГУГXВ…В‘В¬ВѓВйЦВЦ@В∆В©БAЧFТBВ™ЛПЦ∞ВиВрВµВљОЮБAРжРґВ…ХKВЄУ{ВзВкВйЦВЦ@В∆В©БAРFБXНЏВЅВƒВйВжБIБv\
-`"–азумеетс€!`@` “акже есть маги€ прищемить мизинец подруги дверцей шкафчика, маги€ сделать так, чтобы подруга заснула на уроке и учитель накричал на неЄ... » многое другое!"`\
+`"But of course!`@` There's also the magic to make your friend stub her toe on the locker door,`@` magic for making your friend for asleep so that the teacher would shout at her`@`... and so much more!"`\
 ;БГГ[ГpГЛ
 
 bg MJES_1cN,0
 ld l,JES_AisowaraiA1,23
 
 ;БuБcБcТЗТЉВиВћЦВЦ@ВЊВѓВ≈МЛН\В≈ВЈБBБv\
-`"...ћне хватит магии заключить перемирие."`\
+`"...Those are all the opposite of what I want."`\
 ;БГОйОuНБ
 
 ld r,FUR_WaraiA1,24
 
 ;БuЧFТBВ∆ВћТЗТЉВиВћЦВЦ@ВЌБAВ±ВћГyБ[ГWВЊВнБBБv@
-`"ћаги€ помиритьс€ с подругой вот на этой странице."`\
+`"The reconcillation magic is on this page."`\
 ;БГГtГЛГtГЛ
 
 se1 1010
@@ -14163,51 +14163,51 @@ se1 1010
 ld l,JES_AkuwaraiA1,80
 
 ;БuВ®БAБcБcКmВ©В…В±ВкВ»ВзОДВ…ВаПoЧИВїВ§БB@Ц{УЦВ…БAП≠ПЧОGОПВ…НЏВЅВƒВїВ§В»В®В№ВґВ»ВҐВЅВƒКіВґВЊВЇБBБv\
-`"ќ, ...думаю, € справлюсь.`@` ѕохоже на заклинани€ из журналов дл€ девочек."`\
+`"Oh... This looks simple enough that even I could do it.`@` It looks like one of the spells from girls' magazines."`\
 ;БГОйОuНБ
 
 ld c,ZEP_DefA1,24
 
 ;БuУЦСRВЊВжБB@ВЊВЅВƒБAП≠ПЧОGОПВћВ®В№ВґВ»ВҐВЌБAЦlВљВњИЂЦВВћЦВУ±ПСВрГpГNВЅВƒПСВҐВƒВ†ВйВсВЊВ©ВзВЋБBБv\
-`" онечно.`@` ‘ормулы в таких журналах копируютс€ из наших гримуаров."`\
+`"But of course.`@` That's because the formulas of those spells are copied from our grimoires."`\
 ;БГГ[ГpГЛ
 
 ld l,JES_AtyaA3,80
 
 ;БuВїБAВїВ§В»ВћВ©БAТmВзВ»В©ВЅВљБcБB@БcБcОGОПВћВ®В№ВґВ»ВҐВаФnО≠В…ПoЧИВ»ВҐВсВЊВ»БcБB@Н°УxВ©ВзР^Ц ЦЏВ…У«ВсВ≈ВЁВжВ§БcБB@В≈ВаБAЦВЦ@ВћРSУЊВ»ВсВ©В»ВҐОДВ…ВаБAВ®В№ВґВ»ВҐВЅВƒОgВ¶ВйВћВ©В»БBБv\
-`"ѕ-правда? я и не знала...`@` Ќе стоило высмеивать журнальные заклинани€...`@` “еперь буду относитьс€ к ним серьЄзнее...`@` Ќо кто знает, получитс€ ли у мен€, € ведь ничего не знаю о магии."`\
+`"R-really? I had no idea...`@` I shouldn't have laughed at those magazines...`@` I'll take them more seriously from now on...`@` Although, can someone without magic experience like me even use spells?"`\
 ;БГОйОuНБ
 
 ld r,FUR_WaraiA8,80
 
 ;БuЦвСиВ»ВҐВнБB@ЦВЦ@ВЌРMВґВйВ±В∆В™СеРЎВЊВ©ВзБIБv@
-`"Ќе проблема.`@` —ила магии исходит от веры!"`\
+`"No problem at all!`@` The most important part of magic is believing!"`\
 ;БГГtГЛГtГЛ
 
 ld c,ZEP_WaraiA6,80
 
 ;БuРMВґВйЧЌВ…ВЌЦВЧЌВ™ПhВйБB@В±ВћЦВУ±ПСВЌБAЦВЦ@ВћРҐКEВ÷СжИкХаВрУ•ВЁПoВЈПЙРSО“В÷ВћУьЦеПСВЊВ©ВзВЋБB@Р^Ц ЦЏВ…ВвВкВќБAТNВ≈ВаМшЙ В™ПoВйВжБIБv\
-`"¬ вере таитс€ магическа€ сила.`@` ј поскольку этот гримуар - пособие дл€ начинающих, делающих первый шаг в мир магии,`@` прочитав его со всей серьЄзностью, каждый сможет добитьс€ положительного результата!"`\
+`"Belief hides magic power within.`@` Since this grimoire is written for absolute beginners,`@` it can work for anybody as long as you believe!"`\
 ;БГГ[ГpГЛ
 
 cl l,0
 ld l,JES_TereruA1,80
 
 ;БuВ÷БAБcБcВ÷В•БcБcБB@БcБcВнБAВнВ©ВЅВљВжБB@ООВµВƒВЁВйВжБB@В†ВиВ™В∆В§БcБcБBБv\
-`"O-...о-о-о...`@` ¬-всЄ €сно.`@` я попробую.`@` —пасибо..."`\
+`"O-ooh...`@` I get it.`@` I'm going to try using it.`@` Thanks, you two..."`\
 ;БГОйОuНБ
 
 ld r,FUR_WaraiA1,80
 
 ;БuВґВбВ†ВЋБAКжТ£ВЅВƒВЋБIБv@
-`"”видимс€, удачи!"`\
+`"Farewell!"`\
 ;БГГtГЛГtГЛ
 
 
 ld c,ZEP_DefA1,80
 
 ;БuМ©ОЦБAТЗТЉВиВ™ПoЧИВйВ±В∆ВрЛFВЅВƒВҐВйВжБIБv\
-`"Ќадеюсь, вы помиритесь!"`\
+`"We hope the reconciliation with your friend goes smoothly!"`\
 ;БГГ[ГpГЛ
 
 
@@ -14223,16 +14223,16 @@ E_A
 me1v 11,90
 
 ;Б@ИЂЦВВљВњВЌОpВрПЅВµБAОиМ≥В…ВЌБAЦВУ±ПСВ™ИкНыБB@
-` ƒемоны исчезли, и в руках ƒжессики оказалась копи€ гримуара.`\
+` The demons disappeared, leaving a grimoire in Jessica's hands.`\
 
 ;Б@БcБcФыСЅВ≈ВЌВ†ВиВ№ВЈВ™БAООВЈЙњТlВЌВ†ВйВ©ВаВµВкВ№ВєВсБB\
-` ...—тоит попробовать, хот€ лучше соблюдать осторожность.`\
+` ...It's worth a shot, though I should be careful.`\
 
 cl l,0
 ld c,JES_tohohoA1,23
 
 ;БuВ¶ВЅВ∆БcБcБB@ЧFТBВћТЗТЉВиВ™ПoЧИВйЦВЦ@БcБcБB@ЙљБXБcБcБH@Б@МCЙЇВрБAБcБcВ¶БH@Б@ЙљВЊВ±ВиВбБBБv\
-`"“ак...`@` ћаги€ помиритьс€ с подругой....`@` „то?..`@` Ќадень носки, ...э?`@` „то за чЄрт..."`\
+`"Let's see...`@` A spell to reconcile with a friend...`@` What?..`@` Wear socks... ehhh?..`@` What the hell!?.."`\
 ;БГОйОuНБ
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 bg black,22
@@ -14241,21 +14241,21 @@ bg Book1,22
 se1 1010
 locate 0,6
 ;БГЧFТBВ∆ТЗТЉВиПoЧИВйЦВЦ@БД\
-` -ћаги€ помиритьс€ с подругой-`\
+` -Magic to reconcile with a friend-`\
 se1 1010
 locate 0,3
 ;Б@В№ВЄВЌБAТЗТЉВиВµВљВҐРlВћВ±В∆ВрЛ≠В≠ОvВҐХ`ВЂВ»В™ВзБAМCЙЇВрЧ†Х\БAЛtВ…ЧЪВҐВƒВЋБI@
-` ѕервым делом представь ту, с кем хочешь помиритьс€, и надень носки наизнанку!`@
+` Imagine the person you want to reconcile with, then wear your socks inside out!`@
 br
 ;Б@ВїВкВ©ВзБAТЗТЉВиВµВљВҐРlВ…БAО©Х™В™ВҐВ¬ВаРHВ„ВƒВҐВйГLГГГУГfГBБ[ВрВ±ВЅВїВиГvГМГ[ГУГgВЈВйВћБI\
-` ѕотом втайне дай ей конфету!`\
+` Then, secretly, give that person a piece of candy you often eat!`\
 locate 0,3
 se1 1010
 ;Б@В±ВкВЌТNВ…ВаТmВзВкВƒВЌГ_ГББI@Б@УсРlВЊВѓВћФйЦІВ…ВµВƒВЋБB@
-` Ќикто не должен знать!`@` Ёто должна быть тайна между вами двум€.`@
+` Nobody must find out about this!`@` This should be a secret between you two.`@
 br
 ;Б@ВЈВйВ∆ЦВЦ@ВћЧЌВ™БAУсРlВрНƒВ—ИшВЂХtВѓНЗВЅВƒБB@Т]ВсВЊУсРlВћТЖВрТЉВµВƒВ≠ВкВйВнБI\
-` “ак маги€ накопитс€`@` и исправит ваши отношени€!`\
+` In this way, the magic's power will attract the two people to each other again,`@` repairing their friendship that was growing distant!`\
 
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
@@ -14264,18 +14264,18 @@ bg black,22
 bg MJES_1e,22
 
 ;БuБcБcВвВиВбПoЧИВйВ™БAБcБcЙљВЊВ±ВиВбБBБv@
-`"...я могу так сделать, но...что за бред..."`\
+`"...Sure, I can do this, but... What nonsense..."`\
 ;БГОйОuНБ
 
 ;Б@ВµВ©ВµВ№ВЯБAВ®В№ВґВ»ВҐВ»ВсВƒВїВсВ»ВаВћБB@
-` Ќет, стоп, в заклинании нельз€ сомневатьс€.`\
+` No, wait, I mustn't doubt the power of spells.`\
 ;Б@М”ОUПLВҐВ∆ОvВЅВљВзВїВкВ№В≈БB@
-` ќно не сработает, если будешь думать, что ничего не выйдет.`\
+` They don't work if you don't believe they will.`\
 ;Б@РMВґВйЧЌВ™ЦВЧЌВ…В»ВйВ∆БAВ¬ВҐВ≥ВЅВЂБAИЂЦВВљВњВ…Л≥В¶ВзВкВљВќВ©ВиВ≈ВЈБB\
-` Ёти демоны сейчас сказали мне, что вера становитс€ магией.`\
+` Just now the demons told me that the power of my belief will turn into magic.`\
 
 ;БuВ±ВкВ≈ГTГNВ∆ТЗТЉВиВ≈ВЂВйВ»ВзБAКyВ»ВаВсВЊВЇБcБcБB@ЦЊУъБAВ≥ВЅВїВ≠ООВµВƒВЁВйВ©БcБBБv\
-`"ѕосмотрим, удастс€ ли мне помиритьс€ с —аку...`@` «автра € увижу..."`\
+`"Let's see if I can make up wtih Saku this way...`@` I'll find out tomorrow..."`\
 ;БГОйОuНБ
 
 bg black,2
@@ -14289,83 +14289,83 @@ bgm1 3
 bg schF_P1a,42
 
 ;Б@ЧВУъБB@КwНZВ…ВƒБB\
-` Ќа следующий день в школе...`\
+` The next day at school.`\
 
 ld r,JES_TohohoA2,24
 
 ;БuГTГNБ[БcБB@ВїВћБAВњВеВЅВ∆ВҐВҐВ©В»БBБv@
-`"—аку-у...`@` Ё-э, можно теб€ на секунду?"`\
+`"Sakuuu...`@` Ehh, could I see you for a sec?"`\
 ;БГОйОuНБ
 
 ;БuЙљБ[БHБv@
-`"„то-о?"`\
+`"What do you want?"`\
 
 ;Б@ГLГГГУГfГBБ[ВЌБAТNВ…ВаТmВзВкВ»ВҐВжВ§В…БAВ±ВЅВїВиУnВ≥В»ВѓВкВќВ»ВиВ№ВєВсБB@
-` ќна должна была дать конфету втайне, чтобы никто другой не узнал.`\
+` She had to give her the candy in secret, without anyone else finding out.`\
 ;Б@ШLЙЇВћЛчВ…МƒВ—ПoВµБAТNВ…ВаТmВзВкВ»ВҐВжВ§В…БAВ±ВЅВїВиВ∆БcБcБB\
-` ѕозвав еЄ в угол коридора и проследив за тем, чтобы никто не увидел...`\
+` She called Saku to the corner of the hallway and made sure nobody can see them...`\
 
 ;БuЙљВ±ВкБHБv@
-`"Ёто что?"`\
+`"What is this?"`\
 
 ld r,JES_TereruA2,80
 
 ;БuВсБAБcБcВ†БAБcБcИєВЊВжБB@В†В∞ВйВжБB@БcБcВ№ВЯВїВћБAР[В≠НlВ¶В»ВҐВ≈ОжВЅВ∆ВҐВƒБBБv@
-`"Ё-э, ...ко-...конфета.`@` ѕодарок.`@`  ...Ќе задумывайс€, просто возьми."`\
+`"Ehhh, it's... candy...`@` A gift for you.`@` Please don't think too much about it, just have it."`\
 ;БГОйОuНБ
 
 ;БuВїБAВїВ§БcБcБH@Б@В†ВиВ™В∆В§БBБv\
-`"ј...`@` —пасибо."`\
+`"Oh...`@` Thank you."`\
 
 bg schF_P3a,24
 
 ;Б@МCЙЇВаВњВбВсВ∆БAЧ†Х\ЛtВ…ЧЪВҐВƒВҐВ№ВЈБB@
-`  ак и требовалось, она надела носки наизнанку.`\
+` As it was required, she was wearing her socks inside out.`\
 
 ;Б@ГLГГГУГfГBБ[ВаВ±ВЅВїВиУnВµВ№ВµВљБB@
-` » втайне дала конфету.`\
+` And secretly gave a piece of candy.`\
 
 ;Б@В≥ВЯБAВ®В№ВґВ»ВҐВћМшВЂЦЏВЌБcБcБB\
-` “еперь заклинание должно сработать...`\
+` Now the spell had to work...`\
 
 bg schF_P1a,23
 
 ;БuВїБAВїВ§ВЊБAГWГFГVБ[БB@В±ВћСOВЌВ≤ВяВсВЋБB@ВњВеВЅВ∆МЊВҐЙяВђВљВжБcБBБv@
-`" -кстати, ƒжесси.`@` »звини мен€.`@` я перегнула палку..."`\
+`"B-by the way, Jessie.`@` I apologise for before.`@` I went too far..."`\
 
 ld c,JES_KomaruA3,22
 ld c,JES_aisowaraiA1,80
 
 ;БuГTБAГTГNБcБI@Б@ВїБAБcБcВїВсВ»В±В∆В»ВҐВЇБI@Б@ОДВ±ВїГPГУГJНШВ…В»ВЅВњВбВЅВƒВ≤ВяВсБcБIБv\
-`"—-—аку!..`@` “-ты ни в чЄм не виновата!`@` Ёто мне стоит извинитьс€ за своЄ поведение!.." `\
+`"Saku!..`@` That wasn't your fault!`@` I'm the one who should apologise!.." `\
 ;БГОйОuНБ
 
 bg black,22
 
 ;Б@ЙљВ∆ВҐВ§МшЙ жUЦ БcБI@
-`  ак быстро!.. `\
+` That was fast!.. `\
 ;Б@ГTГNВћХыВ©ВзТЗТЉВиВрР\ВµПoВƒВ≠ВкВљВћВ≈ВЈБB@
-` —аку предложила помиритьс€.`\
+` Saku suggested to make up all by herself.`\
 
 ;Б@В†В∆ВЌК»ТPБB@
-` ƒальше было просто.`\
+` The rest was easy.`\
 ;Б@ТЗТЉВиВ™ВµВљВҐВ∆ОvВЅВƒВҐВљУѓОmБB@ВЈВЃВ…ЧFПоВрОжВиЦяВЈВ±В∆В™ПoЧИВ№ВµВљБcБcБB\
-` ќни обе хотели одного.`@` «а короткое врем€ им удалось вернуть дружбу...`\
+` They both wanted to make up.`@` So their friendship returned to normal very quickly...`\
 
 bg schF_P1a,24
 
 ;БuГLГГГУГfГBБ[ВаВ†ВиВ™В∆В§БI@Б@В±ВкБAВ®ВҐВµВїВ§ВЊВЋБIБv@
-`"» спасибо за конфету!`@` ¬ыгл€дит вкусно!"`\
+`"Oh, and thanks for the candy!`@` It's delicious!"`\
 
 
 ld c,JES_WaraiA1,22
 
 ;БuВ§БAВ§ВсБI@Б@СтОRОЭВЅВƒВЂВљВ©ВзВнВѓВЅВ±ВµВжВ§ВЇБIБv\
-`"ƒ-да...`@` я принесла ещЄ много таких!"`\
+`"Y-yeah...`@` I brought a lot of these, so we can share!"`\
 ;БГОйОuНБ
 
 ;БuВвВЅВљВЋБ[БIБI@Б@БcВ†ВкВЅБH@Б@ВжВ≠М©ВљВзГWГFГVБ[МCЙЇБAЧ†Х‘ВµВґВбВ»ВҐБHБv@
-`"”ра!`@` ...Ё?`@` ƒжесси, почему у теб€ носки наизнанку?"`\
+`"Yay!~`@` ...Eh?`@` Jessie, why are your socks inside out?"`\
 
 cl c,0
 ld l,JES_TereruA1,24
@@ -14377,28 +14377,28 @@ ld c,JES_TereruA1,23
 se1 47
 quakey 2,300
 ;БuВ†ВЅБcВ†ВЌВЌБcБAНQВƒВƒПoВƒВЂВљВ©ВзБAЛCВ™ХtВ©В»В©ВЅВљВЇБcБBБv\
-`"A...аха-ха... я торопилась и не заметила..."`\
+`"Ahahahaha... I left in a hurry today and didn't notice..."`\
 ;БГОйОuНБ
 
 ;БuВвВЊГWГFГVБ[ВЅВљВзВЯБ`БI@Б@ГLГГГbГnГnГbБIБv\
-`"ќ боже, ƒжесси!`@`  ь€-ха-ха-ха!"`\
+`"Wow, Jessie, you're something else!~`@` Kyahahahaha!"`\
 
 bg white,26
 bg beach_L1a,22
 
 ;Б@ЙљВаВ©ВаВ™ГgГУГgГУФПОqБB@
-` ¬от и всЄ.`\
+` And that was that.`\
 
 ;Б@ВвВЌВиБAВ†ВћИЂЦВВ…ОЎВиВљЦВУ±ПСВЌЦ{Х®ВћВжВ§В≈ВЈБB\
-` √римуар демонов всЄ-таки оказалс€ полезен.`\
+` The demons' grimoire did turn out to be useful.`\
 
 ;Б@БcБcВїВ§ВҐВ¶ВќБAСЉВ…ВаВљВ≠В≥ВсБAВ®В№ВґВ»ВҐВ™НЏВЅВƒВљВ»БB@
-` ... стати, там было и много других заклинаний.`\
+` ...There were also a lot of other spells in it.`\
 
 ;Б@В«ВсВ»В®В№ВґВ»ВҐВ™В†ВйВсВЊВлВ§БB@
-`  то знает, каких.`\
+` Who knows what they do?`\
 ;Б@СЉВ…ВаООВµВƒВЁВљВ≠В»ВЅВњВбВЅВљВЇБcБcБB\
-` ’очу проверить и остальные...`\
+` I should check them out...`\
 
 
 bg beach_L2a,45
@@ -14412,68 +14412,69 @@ se1 1010
 `"ќ-о...`@/
 se1 1010
 ;ВҐВлВсВ»ЦВЦ@В™НЏВЅВƒВйВсВЊВ»Б[БcБBБv\
-` ”х ты, сколько всего..."`\
+` Wow, there's a lot here..."`\
 ;БГОйОuНБ
 
 ;Б@ЦйБB@ГxГbГhВ≈В§В¬ХЪВєВ…В»ВиВ»В™ВзБAЦВУ±ПСВрГpГЙГpГЙВяВ≠ВйВ∆БAЛїЦ°Р[ВҐВ®В№ВґВ»ВҐВ™ВҐВ≠В¬ВаМ©В¬В©ВиВ№ВЈБB@
-` “ой ночью,`@` лЄжа на кровати, она нашла много интересных заклинаний.`\
+` That night,`@` Jessica was sprawled on the bed, flipping through the pages of the grimoire, finding a number of spells that interested her.`\
 
 se1 1010
 ;Б@ВЈВйВ∆ВїВћТЖВ…БAОйОuНБВ™ОwВрО~ВяВƒВµВ№В§ГyБ[ГWВ™БcБcБB\
-` » на открытой странице...`\
+` And then on a certain page, Jessica's finger stopped...`\
 
 E_A
 se1 13
 quakey 2,300
 
 ;БuВсБcБcБH@Б@НDВЂВ»РlВћЦ≤ВрМ©ВйЦВЦ@БcБcБHБv\
-`"’м?..`@` «аклинание, €вл€ющее любимого к тебе во снах?.."`\
+`"Hm?..`@` The magic to make the person you love appear in your dreams?.."`\
 ;БГОйОuНБ
 
 bgm1 146
 
 ;Б@ВїВкВЌБAПЧВћОqВ»ВзТNВаВ™ЛCВ…В»ВйЦВЦ@В≈ВµВљБB@
-` Ќа такое заклинание обратила бы внимание люба€ девушка.`\
+` Any girl would be interested in a spell like that.`\
 
 ;Б@ОйОuНБВаФNН†ВћПЧВћОqБB@В±ВћЦВЦ@В…ЛїЦ°ВрО¶В≥В»ВҐВЌВЄВ™В†ВиВ№ВєВсБB@
-` ј ƒжессика - девушка.`@` Ќельз€ было не про€вить к нему интерес.`\
+` And Jessica was indeed a girl.`@` Therefore, she was interested.`\
 ;Б@О©Х™ВћМ©ВйЦ≤ВрО©ЧRВ…ПoЧИВљВзБAВ«ВкВЊВѓСfУGВ≈ВµВеВ§В©БB@
-` –азве не хорошо, когда есть возможность выбрать, что будет снитьс€?`\
+` How wonderful would it be if you could control your own dreams?`\
 ;Б@ВµВ©ВаВїВкВ™БAСеНDВЂВ»РlВћЦ≤В»ВзБAЦ{УЦВ…СfР∞ВзВµВҐВ±В∆В≈ВЈБB\
-` ј если это сны о любимом человеке, то вообще потр€сающе.`\
+` And if you can dream of the person you love, that's especially amazing.`\
 bg black,24
 bg MJES_1aN,0
 ld c,JES_futekiA2,24
 
 ;БuВ±БAВ±ВсВ»К»ТPВ»В®В№ВґВ»ВҐВ≈БAЦ≤В…Й√ЙєВ≠ВсВ™ПoВƒВ≠ВйВћВ©Б[БcБB@БcБcВ№БAВ№ВЯВҐВҐВвБB@ВЊБAйxВ≥ВкВљВ∆ОvВЅВƒБAВвВЅВƒВЁВйВ©В»Б[БI@Б@В¶ВЅВ∆БAЙљБXБcБHБv@
-`"ќдно простое заклинание, и  анон будет по€вл€тьс€ в моих снах?`@` „-что ж, отлично.`@` ѕопробуем!`@` Ё-э, так..."`\
+`"This kind of simple spell, can it really make Kanon-kun appear in my dreams?`@` That's just great.`@` Let's give it a try!`@` Let's see here..."`\
 ;БГОйОuНБ
 
 ;Б@еKеNВћЙ‘В—ВзВрРФЦЗБAВҐВ¬ВаОgВЅВƒВҐВйГnГУГJГ`В…ХпВЁБAМОВћМхВ…УЦВƒВƒВ©ВзЦНВћЙЇВ…ТuВЂБcБcБB\
-` «авернуть лепестки розы в платок, который обычно носишь с собой, и положить его под подушку напротив лунного света...`\
+` Take some rose petals and wrap them in a handkerchief you often use, let it absorb some moonlight, then put it under your pillow...`\
 
 ld c,JES_tereruA2,80
 
 ;БuВ†В∆ВЌБAВ±ВкВрЦНВћЙЇВ…УьВкВƒБAЙ√ЙєВ≠ВсВћОЦВрОvВҐВ»В™ВзГxГbГhВ…УьВйВћВ©БBБv@
-`"» затем, положив его под подушку, надо накрытьс€ оде€лом с мысл€ми о  аноне."`\
+`"And then, with it under your pillow, wrap yourself in blankets and think of Kanon."`\
 ;БГОйОuНБ
 
 ;Б@ИкМ©БAФnО≠ФnО≠ВµВҐВ∆ОvВ¶В№ВЈБB@
-` Ќа первый взгл€д выгл€дит нелепо. `\
+` At a glance, this looks ridiculous. `\
 ;Б@В≈ВаБAВїВћВ®В№ВґВ»ВҐВћВ®ЙAВ≈БAМ©ОЦВ…ГTГNВ∆ВаТЗТЉВиПoЧИВљВћВ≈ВЈБB\
-` Ќо благодар€ предыдущему заклинанию мне даже удалось помиритьс€ с —аку. `\
+` But thanks to the previous spell, I was able to make up with Saku. `\
 
 ;Б@ВаВµВ†ВкВ™ЛфСRВ≈В»В≠БAВ®В№ВґВ»ВҐВћЧЌВЊВ∆ВҐВ§В»ВзБAБcБcН°УxВЊВЅВƒВЂВЅВ∆БcБcБB@/
-` ≈сли это было не совпадение, а результат заклинани€, ...в этот раз тоже сработает...`@/
+` If that wasn't a coincidence, but rather the power of the spell...this time will definitely work too...`@/
 ld c,JES_FutekiA2,80
 
 ;Б@ЧЉОиВрВЃВЅВ∆ИђВиТчВяБAВҐВіБAЙ√ЙєВ≠ВсБIБ@Ц≤ВћТЖВ…ЧИВљВкБI@Б@В∆МИИ”ВрМыВ…ВµВƒВ©ВзПЅУФБB\
-` Џ00171Ќу же,  анон! ѕо€вись в моих снах!Џ00187`@` —жав кулаки, € выключила свет.`\
+` "Alright, Kanon. I'll be waiting for you in my dreams!"`\
+`After announcing her resolve, she turned off the lights and went straight to sleep.`\
 
 bg black,2
 
 ;Б@В≥ВƒБAОйОuНБВћЦ≤В…ВЌЙ√ЙєВЌУoПкВµВљВ≈ВµВеВ§В©БcБcБH\
-` », по€вилс€ ли  анон во сне ƒжессики?..`\
+` So, did Kanon show up in Jessica's dream?..`\
 ;;;S<? Oppure no!? Rispondi al sondaggio inviando un SMS al 3407151129! In regalo la risata delle streghe! *ahaha.wav* Servizio in abbonamento. Costo del servizio: una montagna di lingotti d'oro
 
 fede 0,2000
@@ -14487,20 +14488,20 @@ bgm1 3
 ;;;uh...
 
 ;Б@ВЈВЄВяВћВ≥В¶ВЄВиВ…БAОйОuНБВЌЦЏВрКoВ№ВµВ№ВЈБB\
-` ƒжессика проснулась под щебет воробьЄв.`\
+` Jessica woke up to chirping sparrows.`\
 se1 13
 quakey 2,300
 ld c,JES_TereruA1,26
 
 ;БuВ”В•БcБcБH@Б@ВдБAБcБcЦ≤БcБcБHБv@
-`"Ё?..`@` —-сон?.."`\
+`"Eh?..`@` It was a dream?.."`\
 ;БГОйОuНБ
 
 ;Б@ОйОuНБВЌЦНВрХшВЂТчВяВљВ№В№БAВµВќВзВ≠ВћК‘БAВ±ВкВ™МїОјВ≈В†ВйВ∆ФFОѓВ≈ВЂВ»ВҐВўВ«БAХрСRВ∆ВµВƒВµВ№ВµВљБB\
-` —жима€ подушку, она ненадолго застыла, не осознава€, что сон закончилс€.`\
+` Jessica hugged her pillow in a daze, momentarily unable to distinguish dreams and reality.`\
 
 ;БuВЈБAБcБcВЈВ≤ВҐВ®В№ВґВ»ВҐВЊВЅВљВЇБB@БcБcБcБcВ–ВбБ[Б[Б[Б[ВЅБIБIБv@
-`"‘-фантастическое заклинание.`@`  .........’ь€-а-а-а!"`\
+`"W-what an amazing spell...`@` Hyaaaa!"`\
 ;БГОйОuНБ
 
 
@@ -14511,24 +14512,24 @@ quakey 2,300
 
 
 ;Б@ОйОuНБВЌР^ВЅР‘В…В»ВЅВƒП∆ВкВ»В™ВзЦ—ХzВ…У™ВрУЋВЅНЮВЁВ№ВЈБB@
-` —мутившись, ƒжессика покраснела и сунула голову под оде€ло.`\
+` Jessica blushed and buried her face in the blankets.`\
 ;Б@ВїВкВ≠ВзВҐВ…БAНKВєВ»Ц≤В™М©ВзВкВљВћВ≈ВЈБB\
-` Ќастолько сон был счастливым.`\
+` That's just how amazing her dream was.`\
 
 ;Б@ВїВкВЌБAЦЏКoВяВљОЦВрМгЙчВЈВйВ≠ВзВҐВ…БAСfУGВ≈НKВєВ»Ц≤В≈ВµВљБB@
-` —он оказалс€ достаточно хорош дл€ счастливого пробуждени€.`\
+` It was wonderful enough that she didn't want to wake up.`\
 
 ;Б@О—ЙєВ™УьВкВƒВ≠ВкВљНgТГВ∆БAМFСтВ≥ВсВћПƒВҐВƒВ≠ВкВљГNГbГLБ[ВрБAЙ√ЙєВ≠ВсВ∆УсРlВ≈РHВ„В»В™ВзБAНDВЂВ»ЙєКyВвБAКwНZРґКИВћШbВрВЈВйБcБB\
-` ћы с  аноном ели печенье, сделанное  умасавой и Ўанон, и говорили о наших любимых песн€х и школьной жизни...`\
+` She and Kannon had shared tea that Shannon prepared and cookies that Kumasawa baked, and chatted about music they liked, as well as about life at school...`\
 
 bg MJES_1b,24
 ;Б@ВљВЅВљВїВкВЊВѓВћЦ≤ВЊВЅВљВѓВкВ«БAОйОuНБВ™ИкРґМЬЦљШbВЈОЦВ…БAЙ√ЙєВЌПќКзВ≈СКТ∆ВрС≈ВЅВƒВ≠ВкВƒВҐВљБB@
-` ѕускай это было только во сне, ƒжессика разговаривала с  аноном, и он улыбалс€, про€вл€€ интерес ко всему, о чЄм она говорила.`\
+` Even though it was just a dream, Jessica talked ot Kanon, and he smiled at her, showing interest in everything she talked about.`\
 
 ;Б@ВљВЊВїВкВЊВѓВћЦ≤В»ВћВ≈ВЈВ™БAБcБcЦ{УЦВ…Ц{УЦВ…НKВєВ≈БAКрВµВҐЦ≤ВЊВЅВљВћВ≈ВЈБB@
-` ¬сего лишь сон, но...очень счастливый и весЄлый.`\
+` It was just a dream, but it made her extremely happy.`\
 ;Б@ОйОuНБВЌВҐВ¬В№В≈ВаЦ—ХzВ…КзВрЦДВяВ»В™ВзБAНKВєВ»Ц≤ВрОvВҐПoВµБAГjГДГjГДВµВƒВҐВйВћВ≈ВµВљБB\
-` “ак и не высунув голову из-под оде€ла, ƒжессика улыбнулась, вспомина€ этот сон.`\
+` Head still buried under the blanket, Jessica recalled that happy dream and smiled bashfully.`\
 
 bg black,22
 bg MJES_1a,23
@@ -14536,7 +14537,7 @@ ld c,JES_DefA2,26
 ld c,JES_FutekiA2,80
 
 ;БuВїВкВ…ВµВƒВаВ†ВћЦВУ±ПСВћЧЌВЌВЈВ∞Б[ВЇБcБIБv\
-`"¬сЄ-таки потр€сающий гримуар!.."`\
+`"What an amazing grimoire!.."`\
 ;БГОйОuНБ
 
 
@@ -14547,7 +14548,7 @@ ld l,ZEP_DefA1,22
 ld l,ZEP_WaraiA8,80
 
 ;БuУЦВљВиСOВґВбВ»ВҐВ©БB@ЦlВљВњВ™УnВµВљЦВУ±ПСВЊВаВћБIБv@
-`"—амо собой.`@` ¬едь его дали тебе мы!"`\
+`"But of course.`@` After all, it's ours!"`\
 ;БГГ[ГpГЛ
 
 
@@ -14559,7 +14560,7 @@ ld r,FUR_WaraiA6,80
 
 
 ;БuЧцВЈВйРSВ…ВЌЦВЧЌВ™ПhВйБB@В†В»ВљВЌВаВ§БAЧІФhВ»ЧцВћЦВПЧВЊВнБBБv\
-`"Ћюб€щее сердце таит в себе магическую силу.`@` “еперь ты сама€ насто€ща€ ведьма любви."`\
+`"A heart in love has magical power.`@` You are now a remarkable Witch of Love."`\
 ;БГГtГЛГtГЛ
 
 
@@ -14568,50 +14569,50 @@ bg MJES_1e,26
 quakex 1,100
 
 ;БuВЅВƒБAВ§ВнВЯВ†БHБI@Б@ВҐВ¬ВћК‘В…БHБIБv@
-`"Ё, э-э-э?!`@`  огда?!.."`\
+`"Ee-eeeeeeeeh!?`@` When did you two get here?!.."`\
 ;БГОйОuНБ
 
 
 ;Б@У∆ВиМЊВрТЭВЅВƒВҐВљВЌВЄВћВ…БAЛCВ™ХtВѓВќВїВ±В…ВЌГ[ГpГЛВ∆ГtГЛГtГЛВ™ВҐВ№ВµВљБB\
-` ќна думала, что разговаривает сама с собой, но вдруг заметила р€дом «епар и ‘урфур.`\
+` She thought she was talking to herself, but she suddenly noticed Zepar and Furfur being there.`\
 
 bg black,25
 bg MJES_1c,0
 ld l,JES_TereruA1,23
 
 ;БuВҐБAВҐВвВїВћВ±ВкВЌБcБI@Б@В®БAЦ ФТВїВ§В»В®В№ВґВ»ВҐВ™В†ВЅВљВсВ≈БAБcБcВ¬БAВ¬ВҐБcБIБv\
-`"Ќ-нет, ну, вообще-то...`@` ћ-мен€ заинтересовало одно заклинание, и €...невольно..."`\
+`"No, well, um...`@` I was interested only in one spell, but I..."`\
 ;БГОйОuНБ
 
 ld c,ZEP_WaraiA6,24
 
 ;БuХ В…ЩйВяВйВ¬ВаВиВЌВ»ВҐВжБI@Б@ВЊВЅВƒБAЧцВЈВйП≠ПЧВ™СfУGВ»Ц≤ВрМ©ВзВкВљВсВЊВ©ВзВЋБIБv@
-`"Ќе вини себ€!`@` ¬люблЄнной девушке сн€тс€ чудесные сны!"`\
+`"We have no intention of blaming you!`@` Young girls in love deserve the most wonderful of dreams!"`\
 ;БГГ[ГpГЛ
 
 ld r,FUR_WaraiA8,24
 
 ;БuОДВљВњВЌЧцВрОiВйИЂЦВБI@Б@ЧFПоВћПCХЬВґВбСёЛьВЊВѓВкВ«БAЧцРlВћЦ≤ВрМ©ВљВҐВ»ВсВƒК√О_ВЅВѕВҐЦ]ВЁВ»ВзВќСеКљМ}ВЊВаВћБIБv\
-`"ћы - демоны, повелевающие любовью!`@` ∆елание помиритьс€ с подругой скучное, но горькую мечту увидеть сон о любимом мы только приветствуем!"`\
+`"We are the demons of love!`@` A wish to reconcile with a friend is very boring, but dreaming about a lover? That's the kind of bittersweet wish we welcome!"`\
 ;БГГtГЛГtГЛ
 
 
 ld l,JES_WaraiA1,80
 
 ;БuВїБAВїВиВбВ«В§ВаБcБcБAВЌВЌВЌБcБcБB@БcБcВ†ВиВ™В∆В§БAВ±ВћЦВУ±ПСБB@В®ЙAЧlВ≈ВЈВЅВ≤ВҐПХВ©ВЅВљВЇБB@ГTГNВ∆ВаТЗТЉВиПoЧИВљВµБAБcБcВ÷В÷БAН°Т©ВЌСfУGВ»Ц≤В™М©ВзВкВљВµБBБv\
-`"„-что ж, ...ха-ха-ха...`@`  ...—пасибо за гримуар.`@` ќн мне очень помог.`@` ћне удалось помиритьс€ с —аку, и...хе-хе, € увидела сегодн€ замечательный сон."`\ 
+`"W-well, haha...`@` ...Thanks for the grimoire.`@` It helped a lot.`@` I managed to make up with Saku and, hehe, see a wonderful dream."`\ 
 ;БГОйОuНБ
 
 ld c,ZEP_WaraiA3,80
 
 ;БuВ†ВкБAВаВ§ВҐВҐВћВ©ВҐБH@Б@ВаВ§В®В№ВґВ»ВҐВЌП[Х™В©ВҐБHБv@
-`"Ё? “ебе он больше не нужен?`@` Ётих заклинаний было дл€ теб€ достаточно?"`\
+`"Aw, you're saying you don't need it anymore?`@` Were those spells enough for you?"`\
 ;БГГ[ГpГЛ
 
 ld l,JES_TereruA2,80
 
 ;БuВсБAВсВсБcБcБB@ВїВкВрМЊВнВкВйВ∆БAБcБcВґБAОјВЌН≈МгВ…ВаВ§ИкУxВЊВѓОgВҐВљВҐВ©В»ВЅВƒБBБv\
-`"’м-м-м...`@` ≈сли честно, ...€ хотела спросить разрешени€ воспользоватьс€ им ещЄ раз - уже в последний."`\
+`"Hmm...`@` To be honest... I did want to use it once more. For the last time."`\
 ;БГОйОuНБ
 
 bg MJES_1d,0
@@ -14621,35 +14622,35 @@ mcbg 0
 ld l,FUR_WaraiA1,22
 
 ;БuВ≠ВЈВ≠ВЈБB@ВїВкВЌВ«ВсВ»В®В№ВґВ»ВҐБHБIБv@
-`"*хи-хи*хи-хи*.`@` » какое заклинание это будет?!"`\
+`"*giggle*.`@` What kind of a spell is that?!"`\
 ;БГГtГЛГtГЛ
 
 
 ld r,ZEP_WaraiA3,24
 
 ;БuСеНDВЂВ»Х–СzВҐВћТjВћОqВрО©Х™ВћЦ≤В…ПµС“ВµВљПЧВћОqВ™БAОЯВ…Ц]ВёВ±В∆ВЅВƒЙљВЊВлВ§ВЋБcБIБv\
-`"„то может пожелать девушка, пригласивша€ в свой сон того, с кем у неЄ неразделЄнна€ любовь?!.."`\
+`"A girl invites a boy she loves to her dreams. What will be her next wish!?.."`\
 ;БГГ[ГpГЛ
 
 ld l,FUR_WaraiA2,80
 
 ;БuВ§В”В”В”БAМИВ№ВЅВƒВйВнБI@Б@ВнВ©ВЅВƒВйВнВжБAОйОuНБВњВбВсБЩБv@
-`"Ёхе-хе-хе-хех, всЄ €сно!`@` ћы пон€ли, ƒжессикаЏ09734 "`\
+`"Eheheh, but of course!`@` We get it, Jessica!~"`\
 ;БГГtГЛГtГЛ
 
 ;Б@В«В§ВвВзБAИЂЦВВљВњВЌВЈВЅВ©ВиВ®М©Т ВµВћВжВ§В≈ВЈБB\
-` ѕохоже, демоны догадались.`\
+` It seemed the demons had long foreseen this development.`\
 
 ld r,ZEP_DefA1,80
 
 ;БuВаВ§ВµВќВзВ≠БAВїВћЦВУ±ПСВрМNВ…ЧaВѓВйВжБBБv@
-`"ќставь гримуар у себ€ ещЄ ненадолго."`\
+`"We'll let you keep the grimoire for a bit more, then."`\
 ;БГГ[ГpГЛ
 
 ld l,FUR_WaraiA6,80
 
 ;БuОДВљВњВаЦВУ±ПСВаБAЧцВЈВйПЧВћОqВ…ОgВЅВƒВаВзВ¶ВкВќБAВїВћХ™ВЊВѓЦВЧЌВ™СЭВЈВсВЊВаВћБBБv\
-`" огда наш гримуар использует влюблЄнна€ девушка, наша магическа€ сила увеличиваетс€."`\
+`"If our grimoire is used by a girl in love, our magic power will increase!"`\
 ;БГГtГЛГtГЛ
 
 bg MJES_1b,0
@@ -14666,20 +14667,20 @@ ld r,FUR_WaraiA1,22
 
 
 ;БuБuН°УxВЌОйОuНБВњВбВсВћСеНDВЂВ»РlВ…БAСfУGВ»Ц≤В™М©ВƒВаВзВ¶ВйВ∆ВҐВҐВЋБcБIБvБv\
-`""Ќа этот раз мы создадим чудесный сон дл€ того, кого любит ƒжессика!..""`\
+`""This time, we shall create a wonderful dream for the person who loves Jessica!..""`\
 ;БГГ[ГpГЛБEГtГЛГtГЛ
 
 ld c,JES_TereruA1,80
 
 ;БuВ†БAВ†ВЌВЌВЌВЌВЌВЌВЌБcБcБcБBБv@
-`"A...аха-ха-ха-ха-ха-ха......"`\
+`"Ah, ahahaha, ahahhahahahaha!"`\
 ;БГОйОuНБ
 
 ;Б@ВвВЅВѕВиБAВЈВЅВ©ВиВ®М©Т ВµВ≈ВµВљБB@
-` ќни и вправду пон€ли.`\
+` As expected, they saw through me completely.`\
 
 ;Б@ОйОuНБВ™М©В¬ВѓВљБAН≈МгВ…ООВµВљВ®В№ВґВ»ВҐБB@БcБcВїВкВЌБB\
-` ƒжессика нашла последнее заклинание.`@`  ...Ёто было...`\
+` Jessica found the last spell she was interested in.`@` It was...`\
 
 
 bg black,22
@@ -14688,26 +14689,26 @@ E_A
 bg MJES_1c,22
 bgm1 21
 ;БuВ†БAБcБcВ†ВЅВљВЇБcБcБB@БcБcВ±ВкВЊБB@СКОиВ…БAО©Х™ВћЦ≤ВрМ©ВєВйВ®В№ВґВ»ВҐБcБBБv\
-`"Ќа-...нашла, `@` ...вот оно.`@` ћаги€ по€витьс€ во сне другого человека..."`\
+`"I found it...`@` Here it is.`@` The magic to show up in the dreams of another person..."`\
 ;БГОйОuНБ
 
 bg black,22
 ;Б@ВїВ§БB@ВїВкВЌНрЦйВћВ®В№ВґВ»ВҐВ∆ВЌБAВ№ВЅВљВ≠Р≥ФљСќВћВ®В№ВґВ»ВҐБB@
 ;Б@О©Х™ВћЦ≤В…СКОиВрПoВЈВћВ≈ВЌВ»В≠БAСКОиВћЦ≤В…БAО©Х™ВрПoВЈВћВ≈ВЈБB\
-` «аклинание было полностью противоположно заклинанию с прошлой ночи.`@` Ќе человек по€вл€етс€ в твоЄм сне, а ты по€вл€ешьс€ во сне этого человека.`\
+` This spell was the complete opposite of the one from last night.`@` Instead of someone appearing in your dreams, you appear in theirs.`\
 
 ;БuВҐВ≠ВзЦpФOРmВћЙ√ЙєВ≠ВсВ≈ВаБAОДВћЦ≤ВрМ©ВњВбВЅВљВиВµВљВзБAИ”ОѓВµВ»ВҐВнВѓВ…ВЌВҐВ©В»ВҐВжВЋБcБB@БcБcВ–ВеВЅВ∆ВµВƒБAВ±ВкВЌЧцБHБIВЅВƒБcБcБB@В§В–Б[Б[Б[БcБcБIБv@
-`"≈сли  анону, такому тихому и необщительному, приснитс€ сон обо мне, он об€зательно запомнит...`@`и подумает: Џ00171ј вдруг это любовь?!Џ00187...`@` ”хи-хи-хи!.."`\
+`"If the quiet and unsocialbe Kanon dreams about me, he's sure to remember that...`@` And he might even say something like 'could this be love?!'...`@` Uuuuweeee!.."`\
 ;БГОйОuНБ
 se1 6
 quakey 1,100
 
 
 ;Б@В±В§ВҐВ§ОgВҐУєВ»ВзБAГ[ГpГЛВ∆ГtГЛГtГЛВаЦ{Ц]В≈ВµВеВ§БB\
-` “ак даже «епар и ‘урфур были довольны.`\
+` Zepar and Furfur were satisfied with this idea.`\
 
 ;Б@В≈ВЌВ≥ВЅВїВ≠ОјСHБI\
-` ѕрименим его на практике! `\
+` Let's start right away! `\
 
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 
@@ -14715,43 +14716,43 @@ se1 1010
 bg Book1,22
 locate 0,6
 ;БГСКОиВ…БAО©Х™ВћЦ≤ВрМ©ВєВйВ®В№ВґВ»ВҐБД\
-` -«аклинание приснитьс€ любимому человеку-`\
+` -A spell to make someone dream of you-`\
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 se1 1010
 ;БuЙљБXБcБcБH@Б@В¶Б[В∆БcБcБBБv\
-`"“ак...`@` ѕосмотрим..."`\
+`"Let's....`@` see..."`\
 
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 ;БГОйОuНБ
 locate 0,3
 se1 1010
 ;Б@КzВ…РЕВрВRУHВ¬ВѓВƒ"ОфХґ"ВрП•В¶ВљВзБAВїВћПкВ≈ВRЙсГWГГГУГvВЈВйБB@
-` ќставь на лице три капли воды, произнеси заклинание и три раза подпрыгни.`@ 
+` Put three drops of water on your face, chant the spell, then jump on the spot three times.`@ 
 br
 ;Б@ВЈВйВ∆ФёВЌВ†В»ВљВћЦ≤ВрМ©ВйВжВ§В…В»ВйВЌВЄВжБI@
-` “ак ему приснитс€ сон о тебе!`@
+` Then, the person will dream of you!`@
 br
 ;Б@Х–ОvВҐВћФёВаБAЛMХыВрИ”ОѓВЈВйВжВ§В…В»ВйВнБB\
-` ƒаже если ты не проверишь его чувства, он об€зательно будет помнить, что ты ему снилась.`\
+` Even if you never bring it up, they will definitely remember their dream!`\
 se1 1010
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 bg MJES_1aN,0
 ld c,JES_TohohoA1,24
 ;БuИ”КOВ…К»ТPВїВ§ВЊВЇБB@БcБcВ±ВкВ≈Й√ЙєВ≠ВсВЌОДВрЦ≤ВрБcБcБB@/
-`"Ќа удивление легко.`@` “ак € приснюсь  анону...`@/
+`"That's so simple.`@` It can make Kanon dream of me...`@/
 ld c,JES_TereruA1,80
 ;В”БAВ”В–В÷В÷В÷В÷Б`БBБv@
-` ‘у-хи-хе-хе-хе-хе."`\
+` Fuhihehehe."`\
 ;БГОйОuНБ
 
 ;Б@ОйОuНБВЌВЊВзВµВ»В≠ПќВ§ВћВ≈ВµВљБB\
-` ƒжессика нер€шливо засме€лась.`\
+` Jessica laughed clumsily.`\
 
 ;Б@ВЂВЅВ∆МшЙ В™В†ВйВ…ИбВҐВ†ВиВ№ВєВсБB@
-` ƒолжно подействовать.`\
+` This must work.`\
 
 ;Б@ЦЊУъВ≥ВЅВїВ≠БAЙ√ЙєВ…ШbВрХЈВҐВƒВЁВ№ВµВеВ§БcБcБB\
-` «автра поговорю с ним...`\
+` I'll talk to him tomorrow...`\
 
 bg black,2
 
@@ -14767,24 +14768,24 @@ bgm1 2
 ld l,JES_AisowaraiA1,23
 
 ;БuВ®БAВ®ВЌВжВ§БI@Б@Й√ЙєВ≠ВсБIБv@
-`"ƒ-доброе утро,`@`  анон!"`\
+`"G-good morning,`@` Kanon!"`\
 ;БГОйОuНБ
 
 ld r,KAN_NayamuA1,24
 
 
 ;БuВ®ВЌВжВ§В≤ВіВҐВ№ВЈБBВ®ПмЧlБB@Н°Т©ВЌВЄВҐВ‘ВсСБЛNВЂВ≈ВЈВЋБBБv\
-`"ƒоброе утро, миледи.`@` ¬ы сегодн€ так рано встали."`\
+`"Ah, Milady. Good morning.`@` You're up quite early today."`\
 ;БГЙ√Йє
 
 ld l,JES_TereruA1,80
 
 ;БuВ№БAВ№ВЯВЋБAВљВ№В…ВЌВЋБI@Б@В†ВЌВЌВЌВЌВЌБcБcБB@ВїБAВїВкВжВиВ≥БAЙ√ЙєВ≠ВсБB@БcБcВдБAНрЦйВЌБAВ«ВсВ»Ц≤ВрМ©ВљВћВ©В»БcБcБBБv@
-`"Ќ-ну, да, бывает!`@` јха-ха-ха-ха...`@`  -кстати,  анон...`@` „-что тебе снилось прошлой ночью?"`\
+`"Y-yeah, that happens!`@` Ahahahaha...`@` B-by the way, Kanon...`@` Last night, what did you dream of?"`\
 ;БГОйОuНБ
 
 ;Б@Й√ЙєВ≠ВсВћВ±В∆ВЊВ©ВзБAСfТЉВ…БAОДВћЦ≤ВрМ©В№ВµВљВ∆ВЌМЊВнВЋБ[ВЊВлВ§ВѓВ«БB\
-` –ечь идЄт о  аноне, так что вр€д ли он послушно скажет, что ему снилось, но...`\	
+` This is Kanon, so he might not answer honestly, but...`\	
 
 se1 1
 mbg white,48
@@ -14794,10 +14795,10 @@ ld c,KAN_MajimeA1,22
 
 
 ;Б@БcБcВњВеВЅВ∆Р‘Ц ВµВƒВ©ВзБAВїВЅВџВрМьВҐВƒБA@/
-` ≈сли он покраснеет и отвернЄтс€ со словами Џ00171Ќ-ничего особенногоЏ00187... `\
+` If he blushes, turns to the side, and says "N-nothing in particular..."...`\
 ld c,KAN_WaraiA4,80
 ;БuВ„БAХ В…БcБcБBБvВ∆В©МЊВЅВƒВ≠ВкВљВзБAКрВµВҐВ»ВЯБIБ@В¶В÷В÷БB\
-` я буду очень счастлива! Ёхе-хе.`\
+` I would be really happy with just that! Ehehe.`\
 
 mbg white,28
 mcbg 0
@@ -14808,7 +14809,7 @@ ld r,KAN_DefA1,22
 ld r,KAN_KomaruA1,80
 
 ;БuЦlВЌЦ≤ВЌУЅВ…М©В№ВєВсВћВ≈БBБv@
-`"ѕо правде сказать, ничего."`\
+`"Nothing in particular."`\
 ;БГЙ√Йє
 wait 500
 
@@ -14817,20 +14818,20 @@ ld c,JES_AtyaA3,23
 quakex 2,300
 
 ;БuВ¶БHБ@М©В»ВҐБH@Б@ВїВсВ»В±В∆ВЌВ»ВҐВжБB@ВЂВЅВ∆ЙљВ©М©ВљВЌВЄВЊВжБB@ВўВзБAОvВҐПoВµВƒОvВҐПoВµВƒБcБIБv\
-`"Ё? Ќичего?`@` Ќе может быть.`@` “ебе должно было что-то приснитьс€.`@` ¬спомни, вспомни!.."`\
+`"Wait, what? Nothing?`@` That can't be.`@` You must have seen at least something.`@` Please, please remember!.."`\
 ;БГОйОuНБ
 
 ld r,KAN_MajimeA1,80
 
 ;БuЛ≠ВҐВƒМЊВ¶ВќБAБcБcКDРFВ≈ВµВеВ§В©БB@ГeГМГrВћНїЧТВћВжВ§В»МхМiВ≈ВЈБB@БcБcВїВсВ»Ц≤ВµВ©М©В№ВєВсВ™БAБcБcЙљВ©БHБv\
-`"’от€ да, € видел нечто...серое.`@`  ак помехи по телевизору.`@` ћне сн€тс€ только такие сны, но...почему вы спрашиваете?"`\
+`"Well, I did see something... gray.`@` Like static on TV.`@` That's all I ever see in my dreams, but... why?"`\
 ;БГЙ√Йє
 
 cl c,0
 ld l,JES_TohohoA2,24
 
 ;БuВ†ВкВ•В¶В¶В•В•БcБHБI@Б@В®БAВ®В©ВµВҐВ»ВЯБcБcБBБv@
-`"Ё-э-э?!..`@` —-странно..."`\
+`"Eeehhhhh?!..`@` That's so strange..."`\
 ;БГОйОuНБ
 
 ld r,KAN_DefA2,80
@@ -14843,10 +14844,10 @@ bg black,22
 
 ;Б@В®В№ВґВ»ВҐВћОиПЗВрБAЛрТЉВ…ВµВЅВ©ВиОзВЅВљВЌВЄВ»ВћВ…БAБcБcВ«В§ВµВƒБH@
 ;Б@В±ВкВ№В≈ВћВ®В№ВґВ»ВҐВаСSВƒКРВЅВљВћВ…БAВ«В§ВµВƒВ±ВкВЊВѓБB@
-` я сделала всЄ как было написано, так...почему?..`@` ¬се остальные заклинани€ сработали, а это - нет?`\
+` I followed the spell's instructions to the letter, so... why?..`@` Why did every other spell work except this one?`\
 
 ;Б@В±В§ВҐВ§В®В№ВґВ»ВҐВ±ВїБAГrГVГbВ∆МшЙ ВрФ≠КцВµВƒВўВµВ©ВЅВљВЊВѓВ…БAВ∆ВƒВаОcФOВ≈ВЈБB\
-` ƒжессике было жаль, что столь удивительное заклинание не сработало.`\
+` Jessica despaired that such an amazing spell failed.`\
 
 bg garden_1a,0
 ld l,JES_TohohoA2,0
@@ -14854,30 +14855,30 @@ ld r,KAN_DefA2,22
 ld r,KAN_KomaruA1,80
 
 ;БuВ«В§В©В»В≥ВҐВ№ВµВљВ©БH@В®ПмЧlБBБv@
-`"„то-то не так,`@` миледи?"`\
+`"Milady,`@` is something wrong?"`\
 ;БГЙ√Йє
 
 ld l,JES_TereruA1,80
 ;БuВҐБAВҐВвВЅБI@В»БAВ»ВсВ≈ВаВ»ВҐВЇБI@Б@В†БAВ†ВЌВЌВЌВЌВЌБcБIБv\
-`"Ќ-нет!`@` —овсем ничего!`@` A...аха-ха-ха-ха!.."`\
+`"No!`@` Nothing!`@` A...ahaha...haha...ha!.."`\
 ;БГОйОuНБ
 se1 3
 bg white,23
 bg rose_1c,23
 
 ;Б@ОДВћРMВґВйРSВ™СЂВиВ»ВҐВЅВƒВћВ©Б[БHБI@
-` ћоей веры оказалось мало?!`\
+` Was it because I didn't believe strongly enough?`\
 
 ;Б@ВїВсВ»ВЌВЄВЌВ»ВҐВжБAОДВћРSВЌЙ√ЙєВ≠ВсВ≈ИкФtВЊВаВсБI\
-` Ќет, не может быть, ведь речь идЄт о  аноне!`\
+` No way, my heart is filled with nothing but Kanon!`\
 
 ;Б@РMВґВйЧЌВЌЦВЧЌВ…Т ВґВйВсВґВбВ»В©ВЅВљВЅВѓБcБH@
-` ќни говорили, что вера св€зана с магической силой?..`\
+` They said that belief transforms into magic power?..`\
 ;Б@В±В§ВҐВ§ЦВЦ@В™В§В№В≠НsВ©В»В≠ВƒБAЙљВ™ЧцВћЦВЦ@ВЊВжБB@
-` ≈сли это заклинание не сработало, маги€ любви бесполезна.`\
+` But if this spell didn't work, what good is this magic of love?`\
 
 ;Б@В≠ВЅВїБ[БAЙчВµВҐВЇБB@В†ВћИЂЦВВљВњВ…ХґЛеВрМЊВЅВƒВвВйБcБI\
-` Ѕлин, какое разочарование.`@` Ќу держитесь, черти!..`\
+` What a disappointment.`@` I'm going to give those demons a piece of my mind!..`\
 
 textoff
 
@@ -14894,7 +14895,7 @@ se1 52
 print 99,2000,"breakup.dll/ulb"
 
 ;БuВвВЯБAОйОuНББI@Б@В«В§ВЊВҐБAЙ√ЙєВ≠ВсВћЦ≤В…ВЌВ®О„ЦВВ≈ВЂВљВ©ВҐБHБv@
-`"ѕривет, ƒжессика!`@` Ќу что, удалось проникнуть в сны  анона?"`\
+`"Hey, Jessica!`@` How did it go, did you manage to invade Kanon's dream?"`\
 ;БГГ[ГpГЛ
 
 ld l,FUR_WaraiA1,0
@@ -14902,7 +14903,7 @@ se2 52
 print 99,2000,"breakup.dll/urb"
 
 ;БuВ†В»ВљВћЧцВћЧЌВЌВ∆ВƒВаЛ≠ВҐВаВћБB@ВЂВЅВ∆СfУGВ»Ц≤ВрЙ√ЙєВ≠ВсВ…УЌВѓВйВ±В∆В™ПoЧИВљВЌВЄВжБBБv\
-`"—ила твоей любви очень сильна.`@` “ы наверн€ка создала  анону чудесный сон."`\
+`"Your love is very powerful.`@` It's likely that Kanon's dream was wonderful."`\
 ;БГГtГЛГtГЛ
 
 bg black,23
@@ -14910,7 +14911,7 @@ bg MJES_1aN,0
 ld c,JES_KomaruA1,23
 
 ;БuВ∆В±ВлВ™ВжБ[БB@ВїБ[ВЌНsВ©В»В©ВЅВљВЁВƒБ[В»ВсВЊВжБ[БB@В±ВћЦВУ±ПСБAМЗК„ХiВґВбВЋБ[ВћБ[БH@Б@В§ВЇБ[ВЇБAВ‘Б[В‘Б[БBБv\
-`"Ќу да, как же.`@` Ќичего не вышло.`@` Ётот гримуар не работает.`@` ƒа ну вас, *ворчит*ворчит*."`\
+`"Yeah right.`@` It did nothing at all.`@` Your grimoire doesn't work.`@` Screw you two, *grumble, grumble*."`\
 ;;;pls qualcuno trovi un modo migliore per tradurre grumble grumble.
 ;БГОйОuНБ
 
@@ -14925,36 +14926,36 @@ ld r,FUR_MajimeA2,22
 
 
 ;БuБuМшЙ В™В»В©ВЅВљБHБ@ВїВсВ»ФnО≠В»БIБIБvБv@
-`""Ќикакого эффекта? Ѕыть не может!!!""`\
+`""It did nothing??? Impossible!!!""`\
 ;БГГ[ГpГЛБEГtГЛГtГЛ
 
 ;Б@УсРlВћИЂЦВВЌСеЛ¬В…ЛЅВЂВ№ВЈБB@
-` ƒва демона преувеличенно удивились. `\
+` The two demons were positively shocked. `\
 ;Б@ВїВ±В№В≈ЛЅВ©ВкВƒВЌБAОйОuНБВаЙљВЊВ©ЙчВµВҐВ≈ВЈБB\
-` ”видев такую реакцию, ƒжессика была разочарована. `\
+` Seeing this reaction made Jessica even sadder. `\
 
 ld c,JES_atyaA2,80
 
 ;БuВ†ВЯБAВїВ§ВЊВжБAМшЙ В™В»В©ВЅВљВжБB@Й√ЙєВ≠ВсВЌОДВћВ±В∆В»ВсВ©Ц≤В…М©В»ВҐВµБAГeГМГrВћНїЧТВЁВљВҐВ»ВћВµВ©М©В»В©ВЅВљВЅВƒМЊВЅВƒВљВЇБBБv\
-`"ƒа-да, именно, никакого эффекта.`@` я не приснилась  анону. ќн только сказал, что видел во сне нечто вроде серого экрана телевизора." `\
+`"Yep, nothing at all...`@` Kanon didn't dream of me. He told me he only saw something like TV static in his dream..." `\
 ;БГОйОuНБ
 
 ld l,ZEP_MajimeA3,80
 
 ;БuВїВсВ»В±В∆В™В†ВйВЊВлВ§В©БHБIБv@
-`"–азве такое возможно?!" `\
+`"Is that even a thing?!" `\
 ;БГГ[ГpГЛ
 
 ld r,FUR_WaraiA5,80
 
 ;БuВ†ВйВнВѓВ»ВҐВнБI@Б@В®В№ВґВ»ВҐВћОиПЗВрК‘ИбВ¶ВљВ∆ВµВ©ОvВ¶В»ВҐВаВћБBБv\
-`" онечно нет!`@` ƒумаю, ты что-то напутала с заклинанием."`\
+`"No, it isn't!`@` You must have messed up the spell."`\
 ;БГГtГЛГtГЛ
 
 ld c,JES_IkariA1,80
 
 ;БuК‘ИбВ¶ВйВнВѓВЋБ[ВЊВлБB@ВµВЅВ©ВиБAВ±В±В…Х`ВҐВƒВ†ВйБAГCГЙГXГgВћОиПЗТ ВиВ…В®В№ВґВ»ВҐВрВµВљВЇБB@КzВ…РЕВрВRУHВ¬ВѓВƒ"ОфХґ"ВрП•В¶ВљВзБAВїВћПкВ≈ВRЙсГWГГГУГvВЈВйБB@ВсВ≈БAОфХґВЌВ±В±В≈ГCГЙГXГgВћЦВПЧВ™П•В¶ВƒВйГДГcВЊВлБB@ГEГНГVГgБAГEГНГVГgВЅВƒБBБv\
-`"Ќе может быть.`@` я сделала в точности так, как было написано.`@` ќставила на лице три капли воды, произнесла заклинание и трижды подпрыгнула.`@` «аклинание - то, что произносит ведьма на картинке, так?`@` Џ00171ќришот, оришотЏ00187."`\
+`"How could I even mess this up?`@` I followed the instructions exactly.`@` I put three drops of water on my face, said the spell and jumped thrice.`@` The spell is the thing on the picture, right? "Orihsot, Orihsot"."`\
 ;БГОйОuНБ
 
 bgmvol 0
@@ -14969,7 +14970,7 @@ ld l,FUR_AkireA1,0
 ld r,ZEP_AkireA1,22
 
 ;БuБuГgГVГНГEВЅВƒБAТNБHБvБv\
-`""» кто такой “оширо?""`\
+`""So, um...`@` Who's Toshiro?""`\
 ;БГГ[ГpГЛБEГtГЛГtГЛ
 
 textoff
@@ -14980,35 +14981,35 @@ fedexx 70,0,0,0,0,0,1000
 ld c,JES_ikariA1,80
 
 ;БuВЌВЯБH@Б@УВУЋВ…ЙљВЊВжБAОДВ™ХЈВЂВљВҐВЇБB@ГgГVГНГEВЅВƒТNВЊБHБI@/
-`"Ё-э?`@` ¬ смысле? Ёто € должна спрашивать.`@`  то такой “оширо?!`@/
+`"Huh?`@` What? What are you asking me?`@` I don't know anybody called Toshiro!`@/
 
 ld c,JES_KomaruA1,80
 
 ;Б@БcБcБcВ§В£ВсБH@Б@В«В±В©В≈ХЈВҐВљВ±В∆В™В†ВйВжВ§В»БBБv\
-` ...’м-м?`@` я уже где-то слышала это им€."`\
+` ...Uhm, no, wait?`@` I actually have heard that name somewhere."`\
 ;БГОйОuНБ
 
 ld l,FUR_WaraiA2,80
 
 ;БuВ†ВЯБAК‘ИбВҐВћЧЭЧRВ™ВнВ©ВЅВљВнБcБIБv@
-`"ј, € знаю, в чЄм тво€ ошибка!.."`\
+`"Ah, I see your mistake now!.."`\
 ;БГГtГЛГtГЛ.
 
 ld r,ZEP_WaraiA5,80
 
 ;БuОйОuНББB@МNВЌВ†В№ВиРаЦЊПСВ∆В©ВрВњВбВсВ∆У«В№В»ВҐРЂХ™ВћВжВ§ВЊВЋБBБv\
-`"ƒжессика.`@` “ы из тех, кто не читает внимательно указани€?"`\
+`"Jessica.`@` Did you read the instructions carefully?"`\
 ;БГГ[ГpГЛ
 
 ld c,JES_AtyaA3,80
 ;БuОДВЌОЪВ∆В©У«ВёВћБAУЊИ”ВґВбВЋБ[В©ВзВ»ВЯБB@БcБcЙљБH@Б@ОДБAЙљВ©К‘ИбВ¶ВљБcБHБv@
-`"Ќу, € пробежалась взгл€дом.`@`  ...ј что?`@` я в чЄм-то ошиблась?.."`\
+`"I glanced over them.`@` Why? What was my mistake?.."`\
 ;БГОйОuНБ
 
 ld l,FUR_MajimeA1,80
 
 ;БuВ†ВћВЋБB@В±ВћГCГЙГXГgВћЦВПЧВ™П•В¶ВƒВйОфХґВЌБAИкЧбВжБHБv\
-`"¬идишь ли...`@` «аклинание ведьмы на картинке - просто пример."`\
+`"You see...`@` The picture here is just an example."`\
 ;БГГtГЛГtГЛ
 se1 1010
 mcl a,0
@@ -15016,7 +15017,7 @@ bg black,22
 bg Book1,22
 
 ;БuВ±В±В…ВњВбВсВ∆ПСВҐВƒВ†ВйВжБB@НDВЂВ»РlВћЦЉСOВрЛtВ≥В…П•В¶В№ВµВеВ§БAВЅВƒБIБv\
-`"¬от тут €сно написано.`@` Џ00171ѕроизнеси им€ любимого задом наперЄдЏ00187!"`\
+`"Here, it says clearly:`@` "Say the name of the person out loud, backwards"!"`\
 ;БГГ[ГpГЛ
 
 bg MJES_1aN,0
@@ -15024,21 +15025,21 @@ ld r,JES_KomaruA2,23
 ld r,JES_OdorokiA1,80
 
 ;БuВ¶БHБI@Б@НDВЂВ»РlВћЦЉСOВрЛtВ≥В…БHБI@Б@ГEГНГVГgБAГEГНГVГgВЅВƒП•В¶ВйВсВґВбВ»ВҐВћБHБIБv@
-`"Ё?!`@` ѕроизнести задом наперЄд им€ любимого?!`@` “о есть не Џ00171ќришот, оришотЏ00187?!"`\
+`"Eh?!`@` I was supposed to pronounce Kanon's name?!`@` Not "Orihsot"?!"`\
 ;БГОйОuНБ
 
 
 ld l,FUR_WaraiA2,23
 
 ;БuВЊВ©ВзБAГEГНГVГgВЌБAНDВЂВ»РlВ™ГgГVГНГEВ≥ВсВћПкНЗВћИкЧбВЊВЅВƒВќБBБv\
-`"Ёто просто пример, если тебе нравитс€ кто-то по имени “оширо."`\
+`"Well, that example works for those who like people named Toshiro."`\
 ;БГГtГЛГtГЛ
 
 
 ld c,ZEP_waraiA4,24
 
 ;БuОйОuНБВћПкНЗВЌБAГУГmГJБAГУГmГJБAВ©В»БH@Б@ВњВеВЅВ∆Ф≠ЙєВµУпВҐВѓВкВ«ВЋБBБv\
-`"¬ твоЄм случае надо было сказать Џ00171Ќонак, нонакЏ00187.`@` “рудновато произноситс€."`\
+`"In your case, you were supposed to say "Nonak, Nonak". Wow, that's hard to pronounce."`\
 ;;;in realt] ~ difficile da pronunciare solo nella versione giapponese (nnoka nnoka)...
 ;БГГ[ГpГЛ
 
@@ -15046,7 +15047,7 @@ ld r,JES_IkariA2,80
 se1 10 
 quakey 2,200
 ;БuВ†БAВ†Б[Б[Б[ГbБAВїВ§ВЊВЅВљВћВ©Б[БIБI@Б@йxВ≥ВкВљБ[БIБIБv/
-`"A, так вот оно что!`@` ћен€ одурачили!" `/
+`"Is that how it is?`@` Wow, I'm an idiot!" `/
 se1 10 
 quakex 2,200
 \
@@ -15056,40 +15057,40 @@ quakex 2,200
 ld l,FUR_WaraiA4,0
 ld c,ZEP_waraiA5,80
 ;БuБuйxВµВƒВ»ВҐйxВµВƒВ»ВҐБBБvБv\
-`""¬овсе нет, вовсе нет."" `\
+`""Not at all, not at all!"" `\
 ;БГГ[ГpГЛБEГtГЛГtГЛ
 
 bg black,24
 bg MJES_1e,22
 ;Б@ОйОuНБВЌВ™ВЅВ©ВиБB@
-` ƒжессика была разочарована. `\
+` Jessica was very disappointed.`\
 
 ;Б@ВаВ§ИкУxБAООВµВƒВЁВйБH@Б@В∆УсРlВ…ХЈВ©ВкВ№ВµВљВ™БAОсВрЙ°В…РUВиВ№ВµВљБB@
 ;Б@В®В№ВґВ»ВҐВ…ЧКВзВЄБAО©Х™ВћЧЌВ≈БAЙ√ЙєВ≠ВсВћЦ≤В…УoПкВµВƒВЁВєВйВ∆БB\
-` ƒва демона спросили, не хочет ли она попробовать ещЄ раз,`@` но ƒжессика покачала головой.`@` ќна решила больше не полагатьс€ на заклинани€ и попытатьс€ проникнуть в сны  анона своими силами.`\
+` The two demons told her she could just try again,`@` but Jessica just shook her head.`@` She decided not to rely on spells and invade Kanon's dreams using her own powers.`\
 
 bg black,24
 bg MJES_1bN,0
 ld c,JES_AisowaraiA1,24
 ;БuЦ≤В™ВЂВЅВ©ВѓВ≈ОДВрНDВЂВ…В»ВЅВƒВ≠ВкВйВжВиБB@ОДВрНDВЂВ…В»ВЅВƒВ≠ВкВƒБAЦ≤В…М©ВƒВ≠ВкВйВ±В∆ВћХыВ™КрВµВҐВаВсВ»БB@/
-`"¬место того чтобы он влюбилс€ в мен€ во сне,`@` € хочу снитьс€ ему благодар€ его любви ко мне.`@/
+`"Instead of him falling in love with me because of a dream,`@` I want him to dream of me because he loves me.`@/
 ld c,JES_waraiA1,24
 ;БcЧцВ…ГCГУГ`ГLВ»ВµВЊВЇБI@Б@В™ВсВќВйБIБv\
-` Ќе нужны мне вс€кие любовные уловки!`@` я и без них справлюсь!"`\
+` I don't need your tricks!`@` I'll do fine on my own!"`\
 ;БГОйОuНБ
 
 se1 48
 ld l,ZEP_DefA1,26
 
 ;БuВ≥ВзВиВ∆ЦlВљВњВћСґНЁИ”Л`ВрФџТиВµВƒВ≠ВкВљВѓВ«БAБv@
-`"“ы только что без вс€кого сомнени€ отвергла причину нашего существовани€, но..."`\
+`"You have just denied us our very reason for existing, but..."`\
 ;БГГ[ГpГЛ
 
 se1 47
 ld r,FUR_WaraiA1,26
 
 ;БuСfУGВ»И”ЛCНЮВЁВЊВнБB@ЙЮЙЗВµВƒВйВнВЋБAОйОuНББcБIБv\
-`"“вой энтузиазм впечатл€ет.`@` Ѕудем болеть за теб€, ƒжессика!.."`\
+`"Your enthusiasm is impressive.`@` We'll be cheering for you, Jessica!.."`\
 ;БГГtГЛГtГЛ
 
 textoff
@@ -15099,12 +15100,12 @@ cl r,0
 cl l,99,1000,"breakup.dll/lrB"
 
 ;Б@В±В§ВµВƒБAУсРlВћИЂЦВВЌЛОВЅВƒВҐВЂВ№ВµВљБB@
-` » так двое демонов исчезли. `\
+` The two demons disappeared. `\
 
 ;Б@В™ВсВќВкБAОйОuНББB@
-` ¬перЄд, ƒжессика. `\
+` Go, Jessica! `\
 ;Б@СБВ≠Й√ЙєВ≠ВсВћГnБ[ГgВрОЋО~ВяВƒБAФёВћЦ≤В…О©Х™В™ПoВйВжВ§В…В»ВйВ∆ВҐВҐВ≈ВЈВЋБcБI\
-` «авоюй сердце  анона и по€вишьс€ в его снах!.. `\
+` Conquer Kanon's heart and invade his dreams! `\
 
 bg black,2
 
@@ -15115,26 +15116,26 @@ bg Mkit_1aN,0
 ld c,GOH_MajimeA1,22
 
 ;Б@ВїВћН†БAР~Ц[В…ВƒБB@
-` “ем временем на кухне... `\
+` Meanwhile, in the kitchen... `\
 
 ;Б@ЛљУc"ГgГVГНГE"ВЌФYВсВ≈ВҐВ№ВµВљБcБcБB\
-` Џ00171“ошироЏ00187 √оуда был подавлен... `\
+` "Toshiro" Gohda was extremely confused... `\
 
 me1 5
 
 ld c,GOH_KomaruA1,80
 
 ;БuНрЦйВћЦ≤ВЌБAБcБcИкСћЙљВЊВЅВљВћВ≈ВµВеВ§В©БcБcБBБv@
-`"„то только мне приснилось прошлой ночью..." `\
+`"What in the hell did I dream about last night?.." `\
 ;БГЛљУc
 
 ;Б@В®ПмЧlВ™ОДВ…К√В¶ВƒВ≠ВйЦ≤ВрМ©ВйВ»ВсВƒБcБcБB\
-` ¬ том сне € флиртовал с миледи... `\
+` In that dream, I was flirting with Milady... `\
 
 ld c,GOH_KomaruA2,80
 
 ;Б@УсРlВ≈ГЙГФГЙГФВµВњВбВЅВƒБAУмВћУЗВ…УсРlВЂВиВ≈ГoГPБ[ГVГЗГУВ…НsВЅВњВбВ§Ц≤В»ВсВƒБcБI\
-` ћы уехали в отпуск на южный остров и делали столько всего сентиментального!.. `\
+` We went on a vacation to a southern island and did a lot of... romantic things!.. `\
 ;;;in costa smeralda probabilmente
 
 E_MA
@@ -15155,15 +15156,15 @@ ld c,JES_WaraiA2,23
 se1 47
 
 ;Б@ЛљУcВ≥ВсВћВ±В∆БcБcБAВ±ВкВ©ВзВЌБAГgГVГНГEВ≥ВсВЅВƒМƒВсВ≈ВаВҐВҐБcБcБH@
-` √оуда... Ќичего если € буду называть вас “оширо?.. `\
+` Gohda... do you mind if I call you Toshiro?.. `\
 
 
 ld r,GOH_OdorokiA1,80
 ;Б@ВїБAВїВсВ»БAВҐВѓВ№ВєВсБAВ®ПмЧlБcБI\
-` Ќ-нет, нет, не Џ00171ничегоЏ00187, миледи!.. `\
+` Yes, yes, I do mind, Milady!.. `\
 
 ;Б@ОДВЌОgЧpРlВћРgХ™БcБI@Б@ВїВсВ»К÷МWВЌВ†В№ВиВ…К√О_ВЅВѕВ≠ВƒВїВћВ†ВћБAВ†ВЯВЯШrВрОжВзВ»ВҐВ≈ЙЇВ≥ВҐБI@Б@В®ПмЧlВћВ”В≠ВжВ©В»В®ЛєВ™В№ВйВ≈Л…ПгГБГНГУВћВжВ§В…БAВ†БAВ†В–В°ВҐВҐВҐВҐВҐВҐВҐБIБIБI\
-` я слуга!..`@` “акие отношени€ слишком неформальные и, э-э... ј-а-а, мо€ рука!`@` ≈Є круглые груди как дыни высшего сорта, а...ахи-и-и-и-и-и!!! `\
+` I'm a servant!..`@` This kind of relationship is far too informal for me, and, um, ah, my haaaaaaand!`@` Her breasts are like exquisite cantaloupes, ahhhiiiii!!! `\
 
 textoff
 bg white,26
@@ -15192,22 +15193,22 @@ bg black,2
 bg Mkit_1cN,25
 
 ;Б@ЛљУcВаУ∆ВиО“БB@
-` ƒаже √оуда не был женат. `\
+` Gohda was still single. `\
 
 ;Б@МѓВµВҐЧњЧЭВћУєВ…РgВрХщВ∞ВƒВҐВйВ∆ВЌМЊВ¶БAРFНБВ…ЦјВ§УъВаВ†ВйВ©ВаБcБcБB@
-` ’от€ кухн€ и есть его любовь... `\
+` He was in love with the kitchen... `\
 
 ;Б@Й∆РlВ∆ОgЧpРlВћЛ÷ВґВзВкВљЧцВ…ЦгРвВµВ»В™ВзВаБAФёВЌН°УъВаЧњЧЭВћУєВ…з∞РiВЈВйВћВ≈ВµВљБcБB\
-` —трада€ от мысли о запретной любви между членом семьи и слугой, в тот день он упорно работал... `\
+` Suffering from the thoughts of forbidden love between master and servant, he worked harder than usual that day... `\
 
 bg black,22
 bg Mdin_1eN,42
 
 ;Б@ВїВћФ”БAГfГUБ[ГgВ™ГБГНГУВ…В»ВиБAОйОuНБВЌКмВ—В№ВµВљБB@
-` ¬ тот вечер на десерт подали дыню, и ƒжессика была рада. `\
+` He served a cantaloupe as a desert that night, and Jessica quite enjoyed it. `\
 
 ;Б@В≈ВаВ№В≥В©ВїВкВ™БAФёПЧВћВ®В№ВґВ»ВҐВћМшЙ ВЊВ∆ВЌБAСzСЬВаВ¬В©В»ВҐВ≈ВµВеВ§ВЋБcБB\
-` Ќеужто эффект заклинани€?.. `\
+` But she had no idea it was related to the spell in any way... `\
 
 ;БГВ®ВµВ№ВҐБД\
 
