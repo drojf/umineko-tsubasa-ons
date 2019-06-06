@@ -15249,7 +15249,7 @@ mov %r_hyouji_cha_ma,ma5_lam
 bgm1 115
 locate 0,3
 ;Ѓ@Ѓ\Ѓ\ђж“ъ‚МЋиЋ†‚М‚Ё—з‚ЙЃA‰Ѕ‚©“K“–‚ИѓJѓPѓ‰‚Е‚аЃB\
-` Ъ08213Ъ08213 В благодарность за письмо на днях. Прилагаю подходящие Осколки. `\
+` -- In gratitude for the letter from the other day. Relevant Fragments included. `\
 textoff
 se1 1010
 bg "bmp\background\sbook\title_34.bmp",22
@@ -15261,46 +15261,46 @@ se1 1010
 bg Different_space_1a,64
 locate 0,3
 ;Ѓ@‘Ю‹ь‚НЋ„‚Ѕ‚ї‚Й‚Н“Е‚ѕ‚©‚зЃB@
-` Скука - яд для нас.`@
+` Boredom is poison for us.`@
 br
 
 ;Ѓ@Ћ„‚Н‹C‚Ь‚®‚к‚Йѓjѓ“ѓQѓ“‚Ѕ‚ї‚М–]‚Э‚рЉђ‚¦‚й‚±‚Ж‚Є‚ ‚й‚нЃB\
-` И так уж вышло, что я исполняю желания людей.`\
+` So, to relieve it somewhat, I grant the desires of humans sometimes.`\
 locate 0,3
 ;Ѓg‚Р‚Ж‚В‚ѕ‚ЇЉи‚ў‚рЉђ‚¦‚Д‚ ‚°‚йЃh\
-` Ъ00171Я исполню одно твоё желаниеЪ00187.`\
+` "I will grant you one wish".`\
 bg Different_space_1c,26
 locate 0,3
 ;Ѓ@‚ ‚џЃA–{“–‚ЙЉГЋ_‚Б‚П‚ў‹ї‚«‚ж‚ЛЃB@‚±‚МЊѕ—t‚ѕ‚Ї‚ЕЃAЋ„‚И‚зЋµ”N‚МЉФЃAЌg’ѓ‚Й‚ЁЌ»“њ‚р“ь‚к‚И‚ў‚Е‚аЉГ‚­ЉГ‚­‚ў‚Ѕ‚ѕ‚Ї‚й‚Й€б‚ў‚И‚ў‚нЃB@
-` А-а, звучит и сладко, и горько.`@` Одними этими словами я бы смогла лет семь заменять сахар для чая.`@
+` Ahh, that sounds so bitersweet.`@` These words alone could replace sugar for tea for seven years.`@
 br
 
 ;Ѓ@Ћ„‚©‚з‚»‚МЊѕ—t‚р—^‚¦‚з‚к‚Ѕѓjѓ“ѓQѓ“‚аЃA‚»‚к‚ѕ‚Ї‚МЉГЋ_‚Б‚П‚і‚рЉy‚µ‚с‚Е‚­‚к‚Д‚й‚Ж‚ў‚ў‚с‚ѕ‚Ї‚к‚З‚аЃB\
-` Хотя даже те, кто слышит от меня эти слова, наслаждаются сладостью и горькостью.`\
+` Those who hear those words from me enjoy the bitersweetness as well.`\
 locate 0,3
 ;Ѓ@‚а‚ї‚л‚сЃAЋ„‚аЉy‚µ‚ў‚нЃB@”Ю‚з‚Є‚З‚с‚ИЉи‚ў‚р•·‚©‚№‚Д‚­‚к‚й‚М‚©ЃB\
-` Мне, само собой, тоже нравится.`@` Выслушивать их желания.`\
+` Of course, I also enjoy it.`@` Hearing the kinds of wishes they come up with.`\
 bg black,22
 locate 0,3
 ;Ѓ@Ћ„‚М‘z’и‚µ‚И‚ўЃAЋv‚ў‚а‚µ‚И‚ўЃA@‚»‚µ‚ДЋ„‚Ѕ‚ї‚Є–ў‚ѕЏo‰п‚¦‚И‚©‚Б‚ЅђV‚µ‚«“Ї–E‚ЙЏo‰п‚¦‚йѓ`ѓѓѓ“ѓX‚©‚а‚µ‚к‚И‚ў‚М‚ѕ‚©‚зЃB@
-` Ведь может так выйти, что я встречу нового друга, с которым мы ещё не пересекались.`@
+` After all, it could happen that I'll end up meeting a new friend.`@
 br
 ;Ѓ@‚а‚Б‚Ж‚аЃAЋc”O‚И‚±‚Ж‚ЙЋ„‚МЉъ‘Т‚НЏн‚Й— ђШ‚з‚к‚й‚МЃB\
-` Естественно, в конечном итоге мои ожидания, к сожалению, всегда рушатся.`\
+` Unfortunately, my expectations always end up being betrayed.`\
 
 bg Different_spiral_1b,28
 locate 0,3
 ;Ѓ@Љъ‘Т‚Н’ѓ—t‚Ж“Ї‚¶‚ж‚¤‚И‚а‚М‚ѕ‚Ж‚ ‚МЋq‚НЊѕ‚Б‚Ѕ‚нЃB\
-` Она сказала, что ожидания как чайные листья.`\
+` That girl told me that expectations are similar to tea leaves.`\
 ;Ѓ@‚И‚Ї‚к‚ОЌg’ѓ‚Й‚і‚¦‚И‚з‚И‚ўЃB@‚Ѕ‚ѕ‚М‚Ё“’‚ЛЃB@
 locate 0,3
-` Без них не сделаешь чай.`@` Будет просто горячая вода.`@
+` You can't make tea without them.`@` It's just hot water.`@
 br
 ;Ѓ@‚ѕ‚©‚з‚З‚с‚ИђўЉE‚Й‚аЃA“K—К‚ИЉъ‘Т‚вЉу–]ЃA–І‚Н•K—v‚ѕ‚Б‚Д‚±‚ЖЃB@ЃcЃc‚ ‚МЋq‚з‚µ‚ў—б‚¦‚ѕ‚±‚ЖЃB\
-` Поэтому в любом мире должно быть надлежащее число ожиданий, надежд и мечтаний.`@` Подходящий для неё пример.`\
+` That's why any world must have an appropriate amount of expectations, hopes, and dreams.`@` This was a fitting example for her.`\
 locate 0,3
 ;Ѓ@‚»‚µ‚ДЃA’ѓ—t‚Є‘Ѕ‚·‚¬‚к‚О‚Ж‚Д‚а€щ‚Я‚Ѕ‚а‚М‚Е‚Н‚И‚­‚И‚йЃB@‚»‚к‚Н‘Ѕ•ЄЃA’ѓ—t‚М€к‚В‚Ь‚Э‚а“ь‚к‚И‚ўЃA‚Ѕ‚ѕ‚М‚Ё“’‚ж‚и‚а€щ‚Я‚Ѕ‚а‚М‚Е‚Н‚И‚ўЃB\
-` Если чайных листьев слишком много, чай и вовсе нельзя будет пить, как и горячую воду без чайных листьев.`\
+` If there's too many tea leaves, the tea is just as undrinkable as raw hot water.`\
 locate 0,3
 ;Ѓ@‚ѕ‚©‚зЋ„‚НЃA‚ ‚МЋq‚Й‹і‚¦‚з‚к‚Ѕ’ц“x‚Й“K—К‚ЙЃA/
 ` Так что я буду добавлять столько, сколько она мне говорила,`/
