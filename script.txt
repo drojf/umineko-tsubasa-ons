@@ -15979,7 +15979,7 @@ se2v 37,100
 se3 1010
 ;!s0　Λ　Δ
 ;（＞ｗ＜）ノ/
-!s0` ﾚ00923  ﾚ00923`
+!s0` ^  ^`
 ` (>w<) `@
 ` (Ryukishi's note: that is Lambdadelta's signature)`/
 !sd\
