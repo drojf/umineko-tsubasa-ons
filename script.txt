@@ -16028,8 +16028,8 @@ wait 1500
 locate 0,3
 ;Б@Б\Б\ЦYВкВйИ„В…БAВ±В±В…ЛLВЈБB@
 ;Б@КиВнВ≠ВќБAО©Х™ВаТNВаВ±ВкВрУ«В№В»ВҐВ±В∆ВрЦ]ВёБB\
-` Џ08213Џ08213 я пишу дл€ того, чтобы забыть. `@
-` ѕусть об этом знаю только €.`\
+` I am writing things down so that I can forget them. `@
+` I hope that only I have to know about any of this.`\
 
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
@@ -16044,21 +16044,21 @@ bgm1 12
 bg white,22
 bg sea_1b,2
 ;Б@И…У§ОµУЗВЅВƒВ≠ВзВҐВЊВ©ВзБAИ…У§ПФУЗВ…ВЌВVВ¬И»КOВћУЗВЌВ»ВҐВ∆ОvВЅВƒВҐВљБB\
-` “ак как их называют семью островами »зу, раньше € думал, что архипелаг »зу состоит из семи островов и не более.`\
+` Since they're known as the Seven Izu Islands, I originally believed that the Izu archipelago actually does consist of seven islands -- and nothing more than that.`\
 
 ;Б@ШZМђУЗВЌБAУЦПЙВЌСКУЦВћПђВ≥В»УЗВЊВ∆ХЈВ©В≥ВкВƒВҐВљБB@
-` —начала мне сказали, что –оккенджима - существенно небольшой остров. `\
+` At first, I was told that Rokkenjima was a rather small island. `\
 
 ;Б@ВЊВ™БAХnНҐВ»СzСЬЧЌВ≈ОvВҐХ`В≠В∆В±ВлВћБAЮљОqВћЦЎВ™ИкЦ{ВЊВѓРґВ¶ВƒВҐВйГNГWГЙВћФwТЖВћВжВ§В»БAПфИкЦЗХ™ВµВ©В»ВҐВжВ§В»УЗБA@В∆ВҐВ§ГCГББ[ГWВ…ФдВ„ВљВзБAШZМђУЗВЌП[Х™В»НLВ≥ВрОЭВЅВƒВҐВйВжВ§В…ОvВ¶ВљБB\
-` ќднако, по сравнению с нарисованной моим больным воображением картиной крошечного островка с одной пальмой, –оккенджима оказалс€ довольно обширен. `\
+` However, my poor imagination drew me a picture of a tiny island with a single palm tree on it when I heard that. Compared to that, Rokkenjima was actually quite vast. `\
  
 bg black,22
 bg airp_w1k,22
 ;Б@УЗВћКCКЁРьВЌВPВOВЛВНВњВеВЅВ∆БB@СSТЈВЌВRВЛВНВ†ВйВ©В«В§В©БB@
-` Ѕерегова€ лини€ острова составл€ет чуть более 10 км.`@` ќбща€ длина - около 3 км. `\
+` The coastline of the island was a little over 6 miles (10km).`@` The overall length of the island would be almost 2 miles (3km). `\
 
 ;Б@ВїВкВЌТnР}ПгВ≈ВЌКmВ©В…ПђВ≥В»ВаВћВЊВ™БAВїВћУЗВ…ЙEСгЛ{Й∆ВћУ@СоВ™ИкМђВ†ВйВЊВѓВћБAМ¬РlПКЧLВћУЗВЊВ∆НlВ¶ВљПкНЗБA@ВїВћНLВ≥ВЌСzСЬВрРвВЈВйВаВћВ∆В»ВйВЊВлВ§БB\
-` Ќа карте он выгл€дит маленьким, но если учесть, что это частный остров с одним лишь особн€ком семьи ”широми€,`@` его обширность поражает.`\
+` On a map, it'll certainly look small, but when you take into account that it's a private island, with only the mansion of the Ushiromiya family built there,`@` its vastness becomes something unimaginable.`\
 
 textoff
 bg black,22
