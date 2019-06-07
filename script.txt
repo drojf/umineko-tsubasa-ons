@@ -15460,7 +15460,7 @@ locate 0,3
 bg black,22
 locate 0,3
 ;@‚ ‚ŸA‚¾‚©‚ç‚±‚»ƒjƒ“ƒQƒ“‚È‚Ì‚©B@–‚—‚Å‚Í‚È‚¢‚í‚¯‚©B@
-` À-à, ïîòîìó îíè è ëşäè.`@` Íå âåäüìû.`@
+` Ahh, this is why they are humans, `@` and not witches.`@
 br
 ; @‚»‚ñ‚È‘Ş‹ü‚Èƒjƒ“ƒQƒ“‚½‚¿‚Ì’†‚ÅA@­‚µ‚Íœ‚ª‚ ‚é‚Æv‚¤­—‚É‚ ‚Á‚½‚±‚Æ‚ª‚ ‚éB\
 ` Among all these boring people I met a girl who seemed to have potential.`\
@@ -15529,7 +15529,7 @@ bg black,22
 ;@â‘ÎŠ‚¤Šè‚¢‚ğŒû‚É‚·‚é‚±‚Æ‚ÍŒˆˆÓ‚ÆŒÄ‚Î‚È‚¢B@
 ` Wishes that definitely come true are not really defined by "determination".`\
 ;@‚»‚ê‚Í‚à‚Í‚âAg–ñ‘©‚³‚ê‚½‰^–½h‚ÆŒÄ‚ÔB\
-` This is perhaps better called "predetermination".`\
+` This is perhaps better called "predestination".`\
 bg Different_spiral_1a,22
 
 ;@‰^–½‚ğ¶‚İo‚·‚Ì‚Íƒjƒ“ƒQƒ“‚Ì”Íáe‚Å‚Í‚È‚¢B@
@@ -15541,7 +15541,7 @@ bg Different_spiral_1a,22
 ;@cc­—‚ª–]‚ñ‚¾Šè‚¢‚Í‚P‚ÂB@
 ` ...She wanted just a single thing.`\
 ;@”Ş—‚ª•K‚¸Š‚¦‚éŠè‚¢A–ñ‘©‚³‚ê‚½‰^–½B@
-` A wish that she would certainly be able to grant herself, predetermination.`\
+` A wish that she would certainly be able to grant herself, predestination.`\
 
 ;@ccg‚»‚ê‚ğM‚¶‚³‚¹‚Ä—~‚µ‚¢h\
 ` ..."Make me believe in my own power". `\
@@ -15733,7 +15733,7 @@ bg Different_spiral_1a,22
 ` This person will grant, `@` create, `@` accomplish everything on their own.`@` Their strong eyes had predestination in them.`\
 
 ;@‚»‚µ‚Ä‚ ‚Ì­—‚Å‚³‚¦A“’B“_‚¾‚ÆŒ¾‚í‚µ‚ß‚½ƒ‚ƒm‚ğA‚±‚Ìq‚Í‚·‚Å‚ÉŠ‚Á‚Ä‚¢‚é‚ÆŒ¾‚Á‚Ä‚Ì‚¯‚½‚Ì‚¾B@
-` But even that little girl has stated that she's moving towards to her goal, whereas this person boldly proclaimed that she had already reached it.`\
+` But even that little girl has stated that she's moving towards to her goal, whereas this person boldly proclaimed that they have already reached it.`\
 
 ;@„‚Í‚±‚Ìq‚É‘å‚¢‚È‚éŠÖS‚ğ‚Á‚½B\
 ` They caught my interest.`\
@@ -15829,7 +15829,7 @@ bg Different_spiral_1b,28
 ` And, above everything, this witch has managed to create a compendium of magic in the human world.`\
 
 ;@–‚—‚Í©—R‚Æ—Í‚ğ‹‚ß‚ê‚Î‹‚ß‚é‚Ù‚Ç‚ÉA‚ ‚ç‚ä‚é§–ñ‚©‚ç”ä—á“I‚É‰ğ•ú‚³‚ê‚Ä‚¢‚­B\
-` The more a witch seeks freedom and power, the more she is freed from any restrictions.`@` What I mean by that is, of course, the restrictions imposed by the material world.`\
+` The more a witch seeks freedom and power, the more they are freed from any restrictions.`@` What I mean by that is, of course, the restrictions imposed by the material world.`\
 ;@§–ñ‚Æ‚Í‘¦‚¿A•¨¿“I‚È¢ŠE‚Ì‚±‚ÆB@
 ;@‚Â‚Ü‚èA„‚â“¯Ši‚Ì–‚—‚½‚¿‚ª‚»‚¤‚Å‚ ‚é‚æ‚¤‚ÉAlŠÔŠEE•¨¿ŠE‚©‚ç‚Ç‚ñ‚Ç‚ñ‰“‚­‚Ö•Y—¬‚µ‚Ä‚¢‚­‚æ‚¤‚É‚È‚éB\
 ` In other words, they will be steadily moving away from the world of humans, like me and other witches of my rank did.`\
