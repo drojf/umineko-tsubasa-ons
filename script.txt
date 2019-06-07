@@ -15303,137 +15303,137 @@ locate 0,3
 ` If there's too many tea leaves, the tea is just as undrinkable as raw hot water.`\
 locate 0,3
 ;Б@ВЊВ©ВзОДВЌБAВ†ВћОqВ…Л≥В¶ВзВкВљТцУxВ…УKЧ В…БA/
-` “ак что € буду добавл€ть столько, сколько она мне говорила,`/
+` That's why I'll use a proper quantity, the amount she taught me,`/
 ;!d800БcВ№ВЯБAВїВ±ВїВ±П≠В»ВяВ…ВЋБB@ОДБAВ†В№ВиЛкВҐНgТГВЌИщВяВ»ВҐВћБB@БcП≠ВµВЊВѓБAТГЧtВрНђВЇВƒВЁВйБB\
-!d800` ...ну или чуть меньше.`@` я не могу пить слишком горький чай...и добавл€ю совсем немного чайных листьев.`\
+!d800` ...or maybe just a bit less.`@` I can't drink tea that is too bitter, so I don't add a lot of tea leaves.`\
 bg Different_space_1b,22
 locate 0,3
 ;Б@Ц{УЦВ…В«ВсВ»КиВҐВ≈ВаВҐВҐВћВ©В∆В©БA@ЙљВ©Ч†В™В†ВйВћВ≈ВЌВ»ВҐВ©В∆В©БAСёЛьВ»Л^ВиВЌЦOВЂЦOВЂВµВƒВйВћБB\
-` Џ00171я правда могу пожелать что захочу?Џ00187,@` Џ00171¬ чЄм подвох?Џ00187 - мне надоели такие скучные сомнени€.`\
+` "Can I really wish for anything?",@` "What's the catch?" -- I'm sick and tired of such boring doubts.`\
 
 locate 0,3
 ;Б@ВЊВ©ВзВ±ВЅВїВиНїОЮМvВрИшВЅМJВиХ‘ВµВƒВйВнБB@
-` ѕоэтому € втайне переворачиваю песочные часы.`@
+` So, in secret, I turn an hourglass upside down.`@
 ;Б@ВTХ™К|ВѓВƒВаКиВҐОЦВ–В∆В¬ОvВҐВ¬ВѓВ»ВҐВ¬В№ВзВ»ВҐГjГУГQГУВ©ВзВЌБAВ«В§ВєСеВµВљНgТГВ»ВсВ©ПoЧИВвВµВ»ВҐБB@
-` ≈сли глупый человек не сможет за п€ть минут придумать желание, € ни за что не смогу сделать из него приличный чай.`@
+` If the stupid human can't come up with even a single wish in five minutes, they're not good enough to turn into tea.`@
 br
 ;Б@ВЊВ©ВзБAНїОЮМvВ™РsВЂВљВзОЮК‘РЎВкВ≈В≥ВжВ§В»ВзБB\
-` » когда весь песок в песочных часах просачиваетс€ вниз - врем€ вышло, прощай.`\
+` So, if the hourglass runs out, it's time-out, goodbye.`\
 bg black,22
 locate 0,3
 ;Б@ВїВµВƒФYВЁВ…ФYВсВ≈ПoВƒВЂВљКиВҐОЦВ≈ИкФ‘СљВҐВћВ™ГRГМБB@
-` ¬от самые частые из всех их раздражающих желаний.`@
+` Here's one of the most annoying wishes that I encounter often: `@
 br
 ;БgКРВ¶ВйКиВҐОЦВрСЭВвВµВƒЧ~ВµВҐБh@
-` Џ00171”величь количество желаний, которые исполнишьЏ00187.`@
+`"I want you to increase the number of wishes you can grant".`@
 br
 ;Б@ВPВ¬ВЊВѓВ∆ВҐВ§ЧLМјВрБAЦ≥МјВ…СЭВвВЈВ∆ВҐВ§СnСҐРЂБB@БcРуВЌВ©В»ГjГУГQГУВљВњВЌБAВїВ±В…СҐХ®ОеУIВ»Р[ЙУВрКіВґБAЧDЙzКіВ≈ВаКіВґВйВ∆ВҐВ§ВћВЊВлВ§В©БcБH\
-` ќни мастера увеличивать конечность одного до бесконечности.`@`  ...Ќеужто легкомысленные люди вид€т в этом чувство превосходства и ощущают себ€ подобно “ворцам?..`\
+` They try to increase the finity of 1 to infinity this way.`@` Could it be that these stupid people somehow feel a sense of superiority in that, as if they approach Creators?..`\
 bg Different_spiral_1a,22
 locate 0,3
 ;Б@В≈ВаБAОДВћИуПџВЌВ№ВЅВљВ≠ЛtБB@
-` ќднако у мен€ складываетс€ противоположное впечатление.`@
+` However, I get the exact opposite impression from this.`@
 br
 ;БgЙљВ≈ВаКРВ§КиВҐБhВЌБA@ВїВкВPВ¬В≈В¬В№ВиВЌЙFТИВрВаИ’БXВ∆СnСҐВ≈ВЂВйВўВ«ВћКпР’БB\
-` Џ00171∆елание исполнить что угодноЏ00187 - `@`лишь одно это означает чудо, позвол€ющее с лЄгкостью создать вселенную.`\
+` "I will grant you one wish", `@`and one wish alone is enough to create an entire universe.`\
 locate 0,3
 ;Б@ВЌВЅВЂВиМЊВҐРЎВлВ§БB@
-` я про€сню.`@
+` Allow me to explain.`@
 br
 ;Б@БgЙљВ≈ВаКРВ§КиВҐБhВ∆ВЌБA@ВPВ¬ВQВ¬В∆РФВ¶ВзВкВйВаВћВ≈В†ВйХKЧvВ™В»ВҐВћВЊБB\
-` Џ00171∆елание исполнить что угодноЏ00187 не об€зательно исчисл€етс€ в одном или двух.`\
+` "One wish" does not necessarily mean you have to wish for something countable.`\
 bg black,22
 locate 0,3
 ;Б@ВЊВ©ВзБAВїВкВрМ¬РФВ≈РФВ¶ВљОЮУ_В≈БA@ВїВћГjГУГQГУВ™ОvВҐХ`В≠КпР’ВЌБAВїВћТцУxВћЛKЦЌВћВаВћВ≈ВµВ©В»ВҐБB\
-` ѕоэтому, когда они измер€ют в цифрах,`@` в том, что дл€ них Џ00171чудоЏ00187, не может быть ничего сто€щего.`\
+` So when they start counting things,`@` it becomes obvious that the "miracles" they are thinking of are worthless.`\
 locate 0,3
 ;Б@ВїВсВ»ЙЇВзВ»ВҐГjГУГQГУВ™БAЙЉВ…ВPВOВOВ…СЭВвВµВљКиВҐОЦВ≈В«ВсВ»ГcГ}ГЙГiГCВ±В∆ВрКиВЅВƒВҐВ≠ВћВ©БA@КѕО@ВЈВйВ…ВаТlВµВ»ВҐВЊВлВ§БB\
-` „то они пожелают, если число их желаний увеличитс€ до ста?`@` “акие никчЄмные люди не заслуживают моего внимани€.`\
+` What kind of boring things will a person like that wish for, even if they had a hundred wishes?`@` People like that are worthless.`\
 bg Different_spiral_1b,22
 locate 0,3
 ;Б@В±ВкВаНgТГВ∆УѓВґБB@УѓВґЛ}Р{В≈ВPВOВOФtВаНgТГВрНмВЅВљВзБAВ«ВсВ«ВсФЦВ≠ХsЦ°В≠В»ВЅВƒВҐВ≠ВћВЌУЦВљВиСOБB@
-` ¬сЄ так же, как с чаем.`@` ≈сли сделать сто чашек ча€ из одного и того же маленького чайника, очевидно, что он будет становитьс€ всЄ более разбавленным и невкусным.`@
+` It's the same thing as with tea.`@` If you reuse the same tea leaves a hundred times over, it's obvious that the tea will become ever more diluted and unappetising.`@
 br
 
 ;Б@ВЊВ©ВзВїВсВ»СёЛьВ»КиВҐВрМыВ…ВµВљВ»ВзВќОДВЌБA@БuВ¶В•БAКРВ¶ВƒВ†В∞ВйБB@ВґВбВЋБBБv/
-` “ак что, если они загадывают такие скучные желани€,`@` € просто за€вл€ю: Џ00171ƒа, € исполню твоЄ желание.`@` ”видимс€.Џ00187`/
+` So if someone makes this kind of a boring wish,`@` I simply tell them: "Yes, alright, I'll grant your wish.`@` See you later."`/
 se1 22
 bg white,22
 se2 52
 bg black,99,2000,"breakup.dll/llb"
 
 ;@В∆МЊВҐХъВЅВƒОpВрПЅВµВƒВµВ№В§ВЊВѓВћШbБB\
-@` » исчезаю.`\
+@` Then, I disappear.`\
 locate 0,3
 ;Б@ФёВзВЌОcВиВћРlРґВрБAО©Х™В≈ВаРФВ¶РЎВкВ»ВҐВ≠ВзВҐВљВ≠В≥ВсВћКиВҐОЦВрНlВ¶С±ВѓБA@ВїВћВ–В∆В¬ВаКРВ¶ВйВ±В∆В»В≠ОАВсВ≈ВҐВѓВќВҐВҐБB@БcБcВ†ВЯБAГ}ГkГPБI\
-` ј они продолжают всю оставшуюс€ жизнь думать о бесчисленных желани€х и умирают, так и не дождавшись исполнени€ хот€ бы одного из них.`@`  ...ј-а, идиоты!`\
+` And they just keep waiting for me to come back, thinking of various different wishes, and then they die without even one of them being granted.`@` Aahh, idiots!`\
 locate 0,3
 ;Б@ВїВкВ©ВзОЯВ…УTМ^УIВ»ВћВ™БA@
-` ƒалее следующее типичное желание - `@
+` After, that, the next typical wish is`@
 br
 
 ;БgВљВ≠В≥ВсВћВ®ЛаВ™Ч~ВµВҐБh\
-` Џ00171’очу много денегЏ00187.`\
+` "I want a lot of money".`\
 locate 0,3
 ;Б@МЊВ§В…ЛyВќВЄБAВ±ВкВаВ∆ВƒВаСёЛьВ»УЪВ¶БB@
-` —амо собой, это тоже скучный ответ.`@
+` Obviously, this answer is also boring.`@
 br
 ;Б@В®ЛаВЅВƒВїВсВ»В…СfУGВ»ВаВћВ»ВћБH\
-` ƒеньги и вправду так замечательны?`\
+` What's so great about money?`\
 bg Different_spiral_1a,22
 locate 0,3
 ;Б@ЛQВ¶В∆К£ВЂВ…Й’В№ВкВљНїФЩВћЧЈРlВ™БAОDС©ВћОRВ…ЦфВиПгВ™ВйВ∆В≈ВаБH@Б@В®ОDВ»ВсВƒРHВ¶ВаИщВяВаВµВ»ВҐВћВ…БB\
-` ѕо их мнению, путешественник в пустыне, муча€сь от голода и жажды, запрыгал бы от радости, увидев кучу банкнот,`@` когда он даже не может выпить или съесть эти банкноты?`\
+` Do they think that a traveller in the desert, suffering from hunger and thirst, would jump in happiness seeing a wad of bills,`@` that they couldn't even eat or drink?`\
 locate 0,3
 ;Б@ЙЁХЉРІУxВ∆ВҐВ§ГЛБ[ГЛВћФЌИЌУаВ≈ВµВ©УЊВзВкВ»ВҐЛЈВҐО©ЧRБB@
-` Ёту узкую свободу можно обрести только в пределах правил, названных валютной системой.`@
+` This kind of a narrow freedom is only useful within the framework known as "the currency system".`@
 br
 ;!s0Б@ВїВсВ»ГВГmВрЧ~ВЈВйОЛЦмВћЛЈВ≥В…ВаБA/
-!s0` » ограниченность подобными желани€ми...`/
+!s0` The narrow-mindedness of such desires...`/
 ;!d1200В†ВЯВ™ВЅВ©ВиБB/
-!d1200` ј-а, она мен€ разочаровывает.`/
+!d1200` ahh, it's truly disappointing.`/
 !sd\
 
 locate 0,3
 ;Б@УъЦ{ВћО©УЃФћФДЛ@В…ВQВTБСЛ В™УьВйВћБH@Б@ГAГtГКГJВћШIУXВ≈ХSЙ~Л В™ОgВ¶ВйВћБH@Б@И§ВЈВйРlВрОEВ≥ВкТQВЂФяВµВёЛMХыВЌБAВҐВ≠ВзВћВ®ЛаВрВаВзВ¶ВќВїВкВрГPГНГКВ∆ЦYВкВƒВ≠ВкВйВћБH\
-` ћонета в 25 центов сгодитс€ дл€ торгового автомата в японии?`@` ћонету в 100 иен можно потратить в уличном киоске јфрики?`@` —корб€ по любимому человеку, которого убили, можно ли с деньгами полностью забыть о нЄм?`\
+` Would a 25 cent coin be useful for a Japanese vending machine?`@` Could you spend 100 yen at a street stall in Africa?`@` When grieving for a loved one, would money help you fully forget them?`\
 
 bg black,22
 locate 0,3
 ;БgИ§В™Ч~ВµВҐБh@
 ;БgНKВєВ™Ч~ВµВҐБh\
-` Џ00171я хочу любвиЏ00187.`@
-` Џ00171я хочу счасть€Џ00187.`\
+` "I want love".`@
+` "I want happiness".`\
 locate 0,3
 ;Б@В±ВкВаОДВрОЄЦ]В≥ВєВйКиВҐВЋБB@
-` Ёти желани€ разочаровывают мен€.`@
+` Desires like these disappoint me, too.`@
 br
 
 ;Б@ВЊВЅВƒБAОДВ™ИкМЊБA@БuИјРSВµВƒБB@ЛMХыБAНKВєВжБB@И§В≥ВкВƒВйВнБBБv@ВЅВƒМЊВЅВƒВ†В∞ВкВќБAВїВкВ≈КРВЅВњВбВ§ВсВЊВаВсВЋБB@В†ВЯБAЙЇВзВ»ВҐБB\
-` ¬едь если € просто скажу им:`@` Џ00171Ќе беспокойс€,`@` ты счастлив,`@` ты любимЏ00187 -`@` это исполнитс€.`@` ј-а, глупо.`\
+` I could just say:`@` "Don't worry,`@` you already have happiness and love",`@` and that would make their wish come true.`@` Ahhh, so stupid.`\
 
 bg Different_space_1c,26
 locate 0,3
 ;Б@И§ВаНKВєВаБAВ«ВњВзВаЛуЛCВ∆УѓВґВжВ§В»ВаВћБB@
-` » любовь, и счастье такие же, как воздух.`@
+` Love and happiness are similar to air.`@
 ;Б@ВїВкВЌРҐКEВрЦЮВљВµВƒВҐВйВѓВкВ«БAЧЭЙрВµВ»ВѓВкВќВ»ВҐВаУѓВґБB@
-` ’от€ он наполн€ет мир, ты не замечаешь, будто его и нет.`@
+` They fill the world, but you don't notice them at all, as if they're not even there.`@
 br
 ;Б@ВЊВ©ВзБA@ВїВсВ»УЦВљВиСOВ»ВаВћВрЧ~ВµВ™ВйТцУxВћРlК‘В…ВаВвВЅВѕВиВ™ВЅВ©ВиБB\
-` ѕоэтому люди, желающие очевидное, тоже разочаровывают мен€.`\
+` People wishing for such obvious things disappoint me.`\
 locate 0,3
 ;Б@ВїВµВƒВЋБAВ≥ВзВ…МЊВнВєВƒВаВзВ¶ВќБAИ§ВаНKВєВаБAВїВћГJГ^Г`ВЌРlВћРФВЊВѓРзНЈЦЬХ БB@ВїВкВзХsУЅТиСљРФВ»ВаВћВћСНПћВ™БuИ§БvВвБuНKВєБvВ»ВћБB\
-` » если позволите сказать больше... Ћюбовь и счастье так же разнообразны, как и люди.`@` ќбщий термин дл€ бесчисленного множества всего - Џ00171любовьЏ00187 и Џ00171счастьеЏ00187.`\
+` And, can I say something else? "Love" and "happiness" are as varied as people themselves.`@` "Love" and "happiness" are just generic terms for an incredibly wide variety of different things.`\
 ;Б@ВїВсВ»ТКПџУIВ»ТPМкВрОgВнВ»ВҐВ∆БAО©Х™ВћИ§ВвНKВєВрРаЦЊВ≈ВЂВ»ВҐВжВ§В»БAВ¬В№ВзВ»ВҐГjГУГQГУВ»ВсВƒБA@В«В§ВєЙљП\ФNРґВЂВљВЅВƒБAЦ{УЦВћИ§ВаНKВєВаМ©В¬ВѓВзВкВйВнВѓВ™В»ВҐБB@В†ВЯБAГ}ГkГPГ}ГkГPБI\
 locate 0,3
-` “акие скучные люди, которые не в состо€нии объ€снить любовь и счастье без подобных абстрактных слов,`@` сколько бы дес€тилетий ни прожили, никогда не смогут обрести истинную любовь и истинное счастье.`@` ј-а, идиоты!`\
+` These boring people are unable to explain their version of love and happiness without resorting to such abstract terms,`@` so no matter how many decades they live, they won't ever actually get to feel neither love nor happiness.`@` Ahh, idiots!`\
 bg black,22
 locate 0,3
 ;БgТNВ…ВаХЙВѓВ»ВҐЧЌВ™Ч~ВµВҐБh@
-` Џ00171я хочу никому не уступатьЏ00187.`@
+` "I want to never lose to anyone".`@
 br
 ;Б@ВњВеВЅВ∆Ц ФТВҐКиВҐВ©В»В∆ВЌОvВЅВљВѓВкВ«БAСOТuОМВћБgТNВ…ВаБhВ™ВњВеВЅВ∆Ч]МvБB\
-` я посчитала такое желание слегка интересным, но Џ00171никомуЏ00187 - это уже слишком.`\
+` At first, that wish interested me slightly, but then I decided that "to anyone" is too much to ask for.`\
 
 textoff
 bg Armor3,2
@@ -15449,13 +15449,13 @@ wait 400
 se3 39
 locate 0,3
 ;Б@ТNВ©В…ПЯВњВљВҐЛCОЭВњВЌБAВ¬В№ВйВ∆В±ВлБAСКОиВљВйТNВ©ВћСґНЁВ™В»ВҐВ∆О©Х™ВрКmЧІВ≈ВЂВ»ВҐВ∆ВҐВ§В±В∆БB@
-` —тремление одолеть кого-то без противника надолго не удерживаетс€.`@
+` You can't "win" if there's nobody to fight against.`@
 br
 ;Б@ВїВсВ»ТцУxВћГjГУГQГУВґВбБAВїВћТNВ©ВрХЙВ©ВµВљОЮУ_В≈БAРґВЂВƒВҐВ≠ЛCЧЌВрОЄВЅВƒВµВ№В§БB\
-` ѕодобные люди в итоге лишаютс€ силы воли жить, как только разберутс€ с ним.`\
+` So as soon as such people would defeat their enemies, they'd lose their will to live.`\
 ;Б@ЙFТИВрВаСnСҐВµБAВ†ВйВҐВЌЙFТИВрВаЦ≥В…ЛAВєВйВўВ«ВћКиВҐВрЧ^В¶ВзВкВ»В™ВзБA@В»ВЇВ…ГjГУГQГУО–ЙпВ∆ВҐВ§ЛЈВҐШgВћТЖВ©ВзФ≠СzВ™ФтЦфВ≈ВЂВ»ВҐВћВ©БB\
 locate 0,3
-` ≈сли € могу исполнить желание создать вселенную или даже обратить еЄ в ничто,`@` почему их идеи не выход€т из узких пределов, называемых человеческим обществом?`\
+` Even though I could create and destroy entire universes for them,`@` why do people's wishes never cross the limits imposed by human society?`\
 
 bg black,22
 locate 0,3
@@ -15463,7 +15463,7 @@ locate 0,3
 ` ј-а, потому они и люди.`@` Ќе ведьмы.`@
 br
 ; Б@ВїВсВ»СёЛьВ»ГjГУГQГУВљВњВћТЖВ≈БA@П≠ВµВЌНЬВ™В†ВйВ∆ОvВ§П≠ПЧВ…В†ВЅВљВ±В∆В™В†ВйБB\
-` —реди таких вот скучных людей € встретила девочку, у которой, как мне показалось, был небольшой потенциал.`\
+` Among all these boring people I met a girl who seemed to have potential.`\
 
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
@@ -15478,35 +15478,35 @@ mono 0
 print 42
 
 ;Б@ФёПЧВЌВґВЅВ∆ФYВсВЊЛУЛеБAОДВ…В±В§МЊВЅВљВнБB\
-` ¬ыйд€ из оцепенени€, она сказала мне:`\
+` After spending some time frozen from shock, she told me this:`\
 
 ;БuОДВћУwЧЌВ™БAРвСќВ…КРВ§В∆ВҐВ§ХџПЎВрЙЇВ≥ВҐБBБv\
-`"ƒай мне гарантию того, что мои усили€ не будут напрасны."`\
+`"Please, guarantee that my efforts will certainly not be in vain."`\
 se1 57
 mbg white,1
 ld r,LAM_AkuwaraiA1,0
 mcbg 22
 
 ;БuБcБcВЌВЯБH@Б@ЙљВїВкВ•БH@Б@В±ВћОДВ™КиВҐОЦВрКРВ¶ВƒВ†В∞ВйВ∆ВҐВ§ВћВ…БAО©Х™В≈ВїВкВрКРВ¶ВйВ∆ВҐВ§ВћБH@Б@ВїВћИ„ВћХџПЎБH@Б@ВнВѓВнВ©ВсВ»ВҐБBБv\
-`"...’а-а?`@` „то?`@` я говорю тебе, что исполню твоЄ желание, а ты хочешь исполнить его сама?`@` √аранти€ этого?`@` Ќе вижу смысла."`\
+`"...Huuhh?`@` What?`@` I'm telling you that I can grant you any wish, but you want to do it yourself?`@` You want me to guarantee that you'll succeed?`@` What's the point?"`\
 ;Б@ВљВ№В…БAУNКwУIВ∆ПћВµВƒБAО©Х™В≈ВаИ”Ц°В™ВнВ©ВЅВƒВ»ВҐВ…ИбВҐВ»ВҐВ®В©ВµВ»В±В∆ВрМЊВҐПoВЈГjГУГQГУВЌВҐВйБB@
-` ѕорой люди, стро€ из себ€ философов, говор€т нечто странное, даже не понима€ смысла.`\
+` Sometimes people pretend to be philosophers and wish for things they themselves do not understand.`\
 
 ;Б@В±ВћП≠ПЧВаВЂВЅВ∆БAВїВ§ВҐВ§ЧёВћОqВЊВлВ§В∆ОvВЅВљВнБB\
-` Џ00171ќна €вно из такихЏ00187, - подумала €.`\
+` She must be one of those types, I thought.`\
 ;Б@БgОДВћУwЧЌБhВЌМ¬РФВрМјТиВµВ»ВҐБB@ХЈВЂХыВ…ВжВЅВƒВЌБAКРВ¶ВйКиВҐВћРФВрЦ≥МјВ…СЭВвВµВƒЙЇВ≥ВҐВ∆МЊВЅВƒВҐВйВћВ∆ВжВ≠ОЧВƒВҐВйБB\
-` Џ00171ћои усили€Џ00187 не ограничиваютс€ числом.`@` ќна попросила мен€ так, будто говорила увеличить до бесконечности число исполн€емых желаний.`\
+` "Her efforts" are not limited by numbers.`@` She was asking for something similar to those who want infinite wishes.`\
 
 ;Б@В≈ВаБAФёПЧВћУµВћР[ВЁВ™БAВїВкВрМыВ…ВµВƒВЂВљГjГУГQГУВљВњВћВїВкВ∆П≠ВµВЊВѓИбВ§ВжВ§В…М©В¶ВљВ©ВзБB@ОДВЌНїОЮМvВ™РsВЂВљВѓВкВ«БA@ВаВ§П≠ВµШbВрХЈВҐВƒВЁВйВ±В∆В…ВµВљБB\
-` Ќо в глубине еЄ глаз было нечто другое, чем у остальных людей с таким желанием.`@` ’от€ весь песок в песочных часах уже просочилс€ вниз,`@` € решила послушать еЄ историю подольше.`\
+` But deep inside her eyes, I saw something different from what I see in other people with this kind of a wish.`@` Even though the sand in the hourglass ran out,`@` I decided to listen to her story a bit longer.`\
 ld r,LAM_AkuwaraiA3,80
 
 ;БuОДВ…КиВ¶ВќБAУwЧЌВ»В«В»В≠БAЙљВ≈ВаН°ВЈВЃКРВ¶ВƒВ†В∞ВйВ∆МЊВЅВƒВйВћБB@В№ВЯБAВPВ¬ВЊВѓВЊВѓВ«ВЋБHБv\
-`"√оворю же, если попросишь, € сразу исполню дл€ теб€ что угодно, и тебе не придЄтс€ прилагать усили€.`@` ’от€ только одно."`\
+`"I'm telling you, you can wish for anything and I will grant it instantly. You don't have to put forward any effort at all.`@` Any wish at all is fine. But you do only get one."`\
 bg schr_R1bN,24
 
 ;БuБcБcОДВћКиВҐОЦВЌБAВPВ¬В∆В©ВQВ¬В∆В©БA@ВїВ§ВҐВ§ВаВћВґВбВ»ВҐВ©ВзВ≈ВЈБBБv\
-`"...я же сказала,`@` моЄ желание не исчисл€етс€ в одном или двух."`\
+`"...I told you,`@` my wishes can't be counted."`\
 
 se1 57
 mbg white,1
@@ -15514,140 +15514,140 @@ ld l,LAM_AkuwaraiA4,0
 mcbg 22
 
 ;БuКРВ¶ВљВҐЦ≤ВћРФВ™БAВҐВ≠В¬ВаВҐВ≠В¬ВаВ†ВйВ∆ВҐВ§В±В∆БH@Б@Ч~Т£ВиВ»ОqВЋВ•БBБv@
-`"»меешь в виду, что хочешь исполнить очень-очень много желаний?`@`  ака€ жадина."`\
+`"You mean, you want me to grant a large number of wishes?`@` How greedy of you."`\
 ;БuИбВҐВ№ВЈБB@ОДВћОКВйВ„ВЂУЮТBУ_ВЌВљВЅВљВPВ¬В≈ВЈБB@В≈ВаБAВїВ±В÷ОКВйУєВЌХ°ОGВ≈БAВҐВ≠В¬ВаВћУїВрМoВйВ≈ВµВеВ§БB@ВЂВЅВ∆БAРФВ¶РЎВкВ»ВҐВ≠ВзВҐВљВ≠В≥ВсБB@В≈ВаБAОДВЌВљВЅВљВPВ¬ВћУЮТBУ_ВрМлВйВ±В∆В»В≠ЦЏОwВµБAХKВЄХKВЄТHВиТЕВҐВƒВЁВєВйВ≈ВµВеВ§БBБv\
-`"Ќет.`@` я должна достичь всего одной цели.`@` Ќо путь к ней наверн€ка будет сложен, и возникнет много трудностей.`@` Ѕесконечно много.`@` ¬прочем, € думаю, что смогу проложить путь к своей единственной цели, не совершив ошибок, и об€зательно достигну еЄ."`\
+`"No.`@` I have a single goal.`@` But the path to it is complicated and many difficulties will arise on my way.`@` Infinitely many.`@` However, I believe that I can forge my path to my single goal, without making any mistakes, and that I will certainly reach it."`\
 
 bg black,22
 
 ;Б@ХKВЄБAТHВиТЕВ≠БB@
-` ќб€зательно достигну.`\
+` Certainly reach the goal.`\
 
 ;Б@ВїВкВЌВаВЌВвКиВҐВ≈В»ВҐБB@ГjГУГQГУВћМЊЧtВ≈МЊВ§В»ВзБuМИИ”БvБB@ЦВПЧВћМЊЧtВ≈МЊВ§В»ВзБAБcБcБuЙ^ЦљБvБB\
-` Ёто уже не желание, а решимость, если говорить словами людей.`@` ј если словами ведьмы, то...судьба. `\
+` That's not a wish anymore. In human words, this is "determination", and in witch words, this is...`@` Fate.`\
 
 ;Б@РвСќКРВ§КиВҐВрМыВ…ВЈВйВ±В∆ВЌМИИ”В∆МƒВќВ»ВҐБB@
-`  огда говоришь о желании, которое непременно исполнитс€, это не решимость.`\
+` Wishes that definitely come true are not really defined by "determination".`\
 ;Б@ВїВкВЌВаВЌВвБAБgЦсС©В≥ВкВљЙ^ЦљБhВ∆МƒВ‘БB\
-` “акое называетс€ предопределЄнностью.`\
+` This is perhaps better called "predetermination".`\
 bg Different_spiral_1a,22
 
 ;Б@Й^ЦљВрРґВЁПoВЈВћВЌГjГУГQГУВћФЌбeВ≈ВЌВ»ВҐБB@
-` Ќе люд€м €сно указывать на судьбу.`\
+` But that's not something humans are capable of creating.`\
 
 ;Б@ОДВЌВїВћОЮБAП≠ПЧВћУµВћЙЬВ…БAХіВкВаВ»ВҐОДВћУѓЦEВћЛPВЂВрМ©ВљВнБB\
-` “огда в глазах этой девочки € безошибочно разгл€дела си€ние своей родственной души.`\
+` I saw the radiance of a soul close to mine at that time.`\
 
 ;Б@БcБcП≠ПЧВ™Ц]ВсВЊКиВҐВЌВPВ¬БB@
-` ...ќна пожелала лишь одно.`\
+` ...She wanted just a single thing.`\
 ;Б@ФёПЧВ™ХKВЄКРВ¶ВйКиВҐБAЦсС©В≥ВкВљЙ^ЦљБB@
-` ∆елание, которое она об€зательно исполнит, называлось предопределЄнностью.`\
+` A wish that she would certainly be able to grant herself, predetermination.`\
 
 ;Б@БcБcБgВїВкВрРMВґВ≥ВєВƒЧ~ВµВҐБh\
-` ......Џ00171«аставь мен€ поверить в то, что € справлюсьЏ00187. `\
+` ..."Make me believe in my own power". `\
 
 ;Б@Ц ФТВҐВ∆ОvВЅВљБB@
-` Џ00171»нтересноЏ00187, - подумала €.`\
+` I thought this was interesting.`\
 ;Б@КРВ¶ВƒВвВЅВƒВаВҐВҐВ©В»В∆ОvВЅВљБB@
-` я посчитала, что еЄ желание можно исполнить.`\
+` I decided I could grant this wish.`\
 
 ;Б@В≈ВаБAВїВћСOВ…ВаВ§В–В∆В¬ВЊВѓКmФFВЈВйВ±В∆В…ВµВљБB\
-` Ќо перед этим € решила ещЄ раз убедитьс€.`\
+` But before I did that, I thought I would double-check, just in case.`\
 
 ;Б@ФёПЧВ™БAО©ВзРвСќВ…КРВ¶ВйВ∆НЛМкВЈВй@БgЦсС©В≥ВкВљЙ^ЦљБhВћПIТЕУ_ВрТmВиВљВ©ВЅВљВћВЊБB@
-` я хотела узнать о конечной цели еЄ Џ00171предопределЄнностиЏ00187,`@` которой она, как утверждает, непременно достигнет.`\
+` I wanted to know the actual goal of her predestination,`@` that she would "certainly reach", as she claims.`\
 
 ;Б@МЛЛ«ВЌГjГУГQГУВћИжВрПoВ»ВҐБAВ¬В№ВзВ»ВҐВаВћВ©ВаВµВкВ»ВҐБB\
-` ћожет, она не вышла за пределы человеческого существовани€. ћожет, она скучна€.`\
+` Perhaps, she hasn't surpassed the human level just yet. Perhaps, she is just another boring person.`\
 bg black,22
 bg schr_R1cN,0
 ld c,LAM_FutekiA3,26
 
 ;Б@БcБcВµВ©ВµБAОДВЌБgТГЧtБhВрРѕВсВЊБB\
-` Ќо € собрала чайные листь€.`\
+` But I have already gathered the tea leaves.`\
 
 ;Б@ФёПЧВЌКъС“В…ЙЮВ¶ВйВ∆БAБgВ±ВћОДВ™БyРвСќБzВ…КmРMБhВµВљБB\
-` я Џ00171абсолютно точноЏ00187 была убеждена в том, что она оправдает мои ожидани€.`\
+` I was "certain" that she would live up to my expectations.`\
 
 ld c,LAM_WaraiA1,80
 
 ;БuЛ≥В¶В»В≥ВҐВжБB@ЛMПЧВћЦ{УЦВћКиВҐВЌЙљБH@Б@ЛMПЧВ™РвСќВ…КРВ¶ВйВ∆ВҐВ§БAЦсС©В≥ВкВљЙ^ЦљВ∆ВЌЙљБcБHБv\
-`"—кажи мне.`@`  акое твоЄ насто€щее желание?`@`  акова, по-твоему, тво€ судьба?.."`\
+`"Tell me.`@` What do you truly wish for?`@` What do you want your fate to be?.."`\
 bg black,1
 
 ;!s0БuОДВЌБA/
-!s0` я`/
+!s0` I will become`/
 ;!d900Р_В…В»ВиВ№ВЈБBБv/
-!d900` стану богом.`/
+!d900` a god.`/
 !sd\
 
 
 ;Б@ВїВћИкМЊВ≈БB@ОДВћРSВЌМИВ№ВЅВљВнБB@
-` ќдна эта фраза -`@` и € успокоилась.`\
+` That phrase alone`@` made me certain.`\
 
 ;Б@ОДВЌФёПЧВћКиВҐВрКРВ¶ВљБB@
-` я исполнила еЄ желание.`\
+` I granted her wish.`\
 ;Б@ФёПЧВћУwЧЌВ™РвСќВ…КРВ§В∆ВҐВ§ХџПЎВрЧ^В¶ВљБB\
-` я гарантировала ей то, что еЄ усили€ абсолютно точно не окажутс€ напрасны.`\
+` I guaranteed that her efforts would not be in vain.`\
 
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 
 bg Different_spiral_1a,22
 locate 0,3
 ;Б@БcБcФёПЧВћМкВЅВљМИИ”ВЌБAОДВ…В∆ВЅВƒВЌВаВЌВвБuЙ^ЦљБvБB@
-` –ешимость, о которой она говорила, дл€ мен€ уже была судьбой.`@
+` Her determination, to me, was already as good as "fate".`@
 br
 ;Б@БcБcВїВµВƒОДВ™Ч^В¶ВљХџПЎВЌБAФёПЧВ…В∆ВЅВƒВаБuЙ^ЦљБvБB@
-` » мо€ гаранти€ дл€ неЄ тоже была судьбой.`@
+` And to her, my guarantee has become "fate" as well.`@
 br
 ;Б@БcБcВЊВ©ВзФёПЧВ™Х`В≠В±ВкВ©ВзВћХ®МкВЌВЈВ„ВƒБuЙ^ЦљБvБB\
-` ...ѕоэтому все еЄ истории отныне будут судьбой.`\
+` ...That's why everything she experiences from now on will be "fate".`\
 bg Different_spiral_1b,22
 locate 0,3
 ;Б@В№ВЯБAФёПЧВћЙ^ЦљВ…ВаОгУ_ВЌВ†ВйБB@
-` ’от€ и у еЄ судьбы есть слабое место.`@
+` But her fate actually has a weak point.`@
 br
 ;Б@О©РgВћУwЧЌВ™Н™ТкВ…В†ВйИ»ПгБAВїВкВ™ЧhВзВ∞ВќЙ^ЦљВаЧhВзВЃБB\
-` ≈Є решимость - корень всего, и если она дрогнет, то всему придЄт конец.`\
+` Her determination is the root of her wish, so if she loses that, everything will end.`\
 locate 0,3
 ;Б@ВїВкВ…БAУwЧЌВ™ХKВЄКРВ§В∆ВЌХџПЎВµВљВѓВ«БAВ«В±В№В≈УwЧЌВЈВкВќКРВ§ВћВ©ВЌХџПЎВµВƒВ»ВҐБB@
-`  роме того, € гарантировала, что еЄ усили€ об€зательно принесут плоды, но не сказала, сколько именно усилий ей нужно приложить.`@
+` Besides, I did guarantee that her efforts won't be in vain, but I never specified just how much effort she would have to put forth.`@
 br
 ;Б@ВЊВ©ВзП≠ПЧВ…ЙiЙУВ™РґВЁПoВєВљВнВѓВ≈ВЌВ»ВҐВЊВлВ§БB@
-` Ќа это может уйти вечность.`@
+` So it could take her an eternity.`@
 ;Б@ФёПЧВ™НЅВѓВ»ВҐМјВиЙiЙУВ…БAВ∆ВҐВ§ВћВ™Р≥ВµВҐВћВ©ВµВзБB\
-` ѕока она не сдаЄтс€, конечно же.`\
+` Unless she gives up, of course.`\
 bg black,22
 locate 0,3
 ;Б@В№ВЯБAВ≈ВаБB@
-` Ќу, так или иначе...`@
+` Well, anyway...`@
 br
 ;БuОДВрР_В…ВµВƒЙЇВ≥ВҐБBБv@В∆БAСfТЉВ…В®КиВҐПoЧИВљВ»ВзБAОДУIВ…ВЌХSУ_ЦЮУ_ВЊВЅВљВћВЊВѓВкВ«ВЋБB@
-` ≈сли бы она честно попросила превратить еЄ в бога,`@` € бы дала ей высший балл.`@
+` If she could just honestly wish for becoming a god,`@` she'd have gotten a perfect score from me.`@
 br
 ;Б@БcВ№ВЯБAГjГУГQГУВрЛ}В…Р_В…ВµВƒВаБAРЄР_В™ЦґОUВµВњВбВ§ВЊВѓВЊВµБB\
-` ...’от€, даже преврати € человека в бога, ум бога расходитс€ с человеческим умом.`\
+` ...On the other hand, turning a human into a god is impossible as gods think differently from humans.`\
 bg Different_spiral_1a,22
 
 ;Б@УwЧЌВ∆ВҐВ§ГXГeГbГvВрКmОјВ…У•ВЁВ»В™ВзБAПЩБXВ…СSФ\В»ВйРҐКEВ÷ВћЛCИ≥В…СћВрКµВзВµВƒВҐВ≠ВћВаХKЧvВ©ВаВµВкВ»ВҐБB\
 locate 0,3
-` Ћюд€м нужно постепенно привыкать к атмосферному давлению всемогущего мира, наступа€ на шаги под названием Џ00171усили€Џ00187.`\
+` A human would need to gradually get used to the pressure of being almighty, making short steps with their "efforts".`\
 locate 0,3
 ;Б@ОДВљВњВћРҐКEВЌБAТкЦ≥ВЂР[ЙУВ÷С±В≠Ц≥МјВћТтОqВрН~ВиВйВћВ…ОЧВƒВҐВйВ©ВаВµВкВ»ВҐБB@
-` Ѕыть может, наш мир как бесконечна€ лестница, ведуща€ в бездонные глубины.`@` ћожно спуститьс€ бо€зно и трусливо, а можно в спешке, нервно интересу€сь, где же кончаютс€ глубины.`\
+` Perhaps, our world is like an endless stepladder going down into a bottomless pit.`@` You could go down slowly and cowardly, or you could hurry down wondering where the end is..`\
 bg black,28
 locate 0,3
 ;Б@ВµВ©ВµУ•ВЁКOВєВќБB@БcБcТкЦ≥ВЂУёЧОВ÷ВћЙiЙУВћТƒЧОБB\
-` Ќо если оступишьс€ -`@` будешь вечно падать в бездонный ад.`\
+` But if you make a misstep, `@` you will forever fall into the bottomless hell below.`\
 locate 0,3
 ;Б@ФёПЧВЌВїВћИ”Ц°В…В®ВҐВƒБAВЂВЅВ∆РTПdВЊВЅВљВ…ИбВҐВ»ВҐБB@
-` ¬ некотором смысле она была осторожна.`@
+` In a way, she was taking the careful route.`@
 br
 ;Б@ВљВЊБAВ№ВЯБB@БcБcРTПdЙяВђВ≈П≠ВµВ™ВЅВ©ВиВµВљВћВЌФџТиВµВ»ВҐВћБB\
-` Ћадно.`@` Ќе буду отрицать, что она мен€ немного разочаровала своей излишней осмотрительностью.`\
+` Oh well.`@` I won't deny that she disappointed me somewhat with how careful she was.`\
 locate 0,3
 ;Б@Б\Б\СБВ≠БAОДВћВҐВйР[ВЁВ№В≈БAН~ВиВƒВЂВƒЧ~ВµВ©ВЅВљВ©ВзБB\
-` Џ08213Џ08213 ѕотому что € хочу, чтобы она поскорее спустилась в те глубины, в которых была €.`\
+` Since I wanted her to hurry down to the depths I found myself in.`\
 bg Different_space_1b,2
 locate 0,3
 ;Б@ВїВћП≠ПЧВЌБAВжВ≠КжТ£ВЅВљВ∆ОvВ§ВнБB@
@@ -52883,7 +52883,7 @@ setwindow 31,16,22,16,26,26,0,2,20,1,1,#ffffff,0,0,639,479
 
 ;ФwМiВћХ\О¶
 lsph t_hane_lsp,":a;bmp\title\hana.bmp",299,10,150
-lsph t_logo_lsp,":a;bmp\title\logo.bmp",152,1
+lsph t_logo_lsp,":a;bmp\title\logo.png",200,1
 ;lsph t_logo_lsp,":a;bmp\title\logo.bmp",272,23
 
 
