@@ -15651,15 +15651,15 @@ locate 0,3
 bg Different_space_1b,2
 locate 0,3
 ;Б@ВїВћП≠ПЧВЌБAВжВ≠КжТ£ВЅВљВ∆ОvВ§ВнБB@
-` ƒевочка очень старалась.`@
+` That girl worked very hard.`@
 br
 ;Б@ВљВЊБAОДВаП≠ВµФГВҐВ©В‘ВЅВƒВҐВљВ∆В±ВлВ™В†ВЅВљВ©ВаВµВкВ»ВҐБB@ОcФOВ»В™ВзБAОДВћКъС“ВµВљРҐКEВ÷ВЌЧyВ©В…ЛyВќВ»В©ВЅВљБB\
-` Ќо, может, € кое в чЄм переоценила еЄ.`@`   сожалению, она была далека от достижени€ мира, на который € наде€лась.`\
+` But I think I overestimated her, after all.`@` Unfortunately, she was far from reaching the world I hoped for.`\
 locate 0,3
 ;Б@В≈ВаБAВїВкВ≈ВаВҐВҐВћБB@
-` Ќо всЄ хорошо.`@
+` But that's okay.`@
 ;Б@ВЊВЅВƒФёПЧВ™РVВљВ»ЦВПЧВрРґВЁПoВµБAОДВћВаВ∆В…СЧВиУЌВѓВƒВ≠ВкВљВћВЊВ©ВзБB\
-` ¬едь она создала новую ведьму и отправила еЄ  ко мне.`\
+` Since she created a new witch, and sent her to me.`\
 textoff
 bg black,22
 wait 1000
@@ -15675,16 +15675,16 @@ se1 52
 bg Different_space_2b,99,1000,"breakup.dll/lrb"
 locate 0,3
 ;Б@ВїВµВƒТЈВҐУъБXБAЦ≥РФВћРҐКEВрХYВЅВљБB@
-` ѕотом € долгое врем€ парила по бесчисленным мирам.`@
+` After that, I drifted through countless worlds for quite some time.`@
 br
 ;Б@ОЮР№БAЦ ФТВїВ§В»ГjГУГQГУВрМ©В¬ВѓВƒВЌУѓВґЦвВҐВрУКВ∞В©ВѓВљВнБB@
-` »ногда, найд€ вроде бы интересного человека, € задавала ему всЄ тот же вопрос.`@` Ќо € так и не встретила того, кто мог бы попросить исполнить желание, превосход€щее желание той девочки.`\
+` Sometimes I found humans that seemed interesting, and so I asked them the same question.`@` But I haven't met anyone who would ask for a wish that would surpass that of that girl.`\
 se1 52
 bg white,28
 bg black,22
 locate 0,3
 ;Б@ВїВ§БB@В†ВћОqВ…ПoЙпВ§В№В≈ВЌВЋБB\
-` ƒа.`@` ѕока не встретила Џ00171еЄЏ00187.`\
+` That is,`@` until I met that child.`\
 fede 0,1500
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 bg dor_R1bR,22
@@ -15692,13 +15692,15 @@ bg dor_R1bR,22
 bgm1 163
 
 ;БuО©Х™ВрЦВПЧВ…БAВµВƒЙЇВ≥ВҐБBБv@
-`"ѕревратите мен€ в ведьму."`\
+`"Please, turn me into a <witch>."`@
+
+` (Ryukishi's note: this person uses the English word "<witch>" in their speech, which is not gender-specific.)`\
 
 ;Б@ВїВкВЌВ†В№ВиВ…ТЉЛЕВ»БAБcБcВїВ§БB@БcОДВ™С“ВњП≈В™ВкВƒВҐВљМЊЧtБB@
-` ’м, как пр€мо сказала... ƒа.`@`  ...я жаждала этих слов.`\
+` Wow, how direct. Yes...`@` Those were the words I always wanted to hear.`\
 
 ;Б@В≈ВаБAОДВЌП≈ВзВЄВ…РжВрС£ВЈВ±В∆В…ВµВљВћБB\
-` Ќо € решила убедитьс€, не тороп€сь.`\
+` But again, I decided to double-check.`\
 bg black,23
 bg dor_R1cR,23
 se1 57
@@ -15707,100 +15709,100 @@ ld l,LAM_AkuwaraiA4,0
 mcbg 22
 
 ;БuБcБcЦВПЧВ…БB@В÷В•БB@БcвіВ…М„ВЅВƒЛуВрФтВ—ВљВҐВћБH@/
-`"...¬ ведьму.`@` ќ-о.`@`  ...’очешь летать в небе верхом на метле?`@/
+`"...A witch.`@` Hooh.`@` ...Do you want to fly through the skies on a broom?`@/
 ld l,LAM_AkuwaraiA1,80
 
 ;Б@ВїВкВ∆ВаГ|ГPГbГgВ…УьВкВљГrГXГPГbГgВрВQВ¬В…СЭВвВµВƒВЁВљВҐВћВ©ВµВзБHБv\
-` »ли, может, умножить на два печенье в кармане?"`\
+` Or, perhaps, duplicate biscuits inside of your pocket?"`\
 bg dor_R1aR,24
 
 ;БuЦВПЧВЌВїВсВ»В±В∆В™ПoЧИВƒУЦВљВиСOВ≈ВЈБB@БcБcО©Х™ВЌЦВПЧВ…В»ВЅВƒБAСSВƒВрОvВ§В™В№В№В…РґВЁПoВµВ№ВЈБB@РlВаБAРSВаБAЙљВаВ©ВаБB@ВїВµВƒН°ВвБAО©Х™В…ПoЧИВ»ВҐВ±В∆ВЌВ†ВиВ№ВєВсБB@БcО©Х™ВЌВаВ§БAЦВПЧВЊВ©ВзВ≈ВЈБBБv\
 
-`"ясно, что ведьма способна на такое.`@`  ...—тав ведьмой, € дам начало всему, чему только пожелаю.`@` Ћюд€м, сердцам, всему.`@` » сейчас дл€ мен€ нет ничего невозможного.`@` ѕотому что € уже ведьма."`\
+`"Of course, I would be capable of that.`@` Once I become a <witch>, I'll be able to do anything I want to.`@` And now, there's nothing that I cannot do.`@` Because I am already a <witch>."`\
 ;Б@ВїВћОqВћУµВ…ВЌБAВ†ВћЙщВ©ВµВҐП≠ПЧВ™ХВВ©В„ВƒВҐВљВћВ∆УѓВґЛPВЂВ™В†ВЅВљВћВрБAОДВЌКoВ¶ВƒВйБB@
-` я помню, как си€ние в еЄ глазах напомнило мне си€ние той девочки, по которой € скучала.`\
+` I remember, that their eyes had the radiance of the eyes of that little girl I missed so much.`\
 
 ;Б@ГXГpГCГXВћМшВҐВљБAВїВµВƒРзФNВ…ЙљУxВаПoЙпВ¶В»ВҐЦFВµВҐТГЧtВћНБВиВрКіВґВљВнБB\
-` я почувствовала аромат сладких чайных листьев, который за это тыс€челетие почти ни разу не встречала.`\
+` I felt the aroma of sweet tea leaves that I haven't felt for almost a thousand years now.`\
 
 bg Different_spiral_1a,22
 
 ;Б@ВїВ§БB@В†ВћП≠ПЧВ∆В№ВЅВљВ≠УѓВґБB\
-` ƒа,`@` всЄ так же, как с той девочкой.`\
+` That's right,`@` she's the same as that girl.`\
 ;Б@О©ВзВ™СSВƒВрКРВ¶ВйБB@РґВЁПoВЈБB@РђВµРЛВ∞ВйБB@ЦсС©В≥ВкВљЙ^ЦљВрОЭВ¬Л≠ВҐУµВЊВЅВљБB@
-` ќна исполнит всЄ сама.`@` —оздаст.`@` ƒостигнет.`@` ¬ еЄ глазах видна предопределЄнность.`\
+` This person will grant, `@` create, `@` accomplish everything on their own.`@` Their strong eyes had predestination in them.`\
 
 ;Б@ВїВµВƒВ†ВћП≠ПЧВ≈В≥В¶БAУЮТBУ_ВЊВ∆МЊВнВµВяВљГВГmВрБAВ±ВћОqВЌВЈВ≈В…ОКВЅВƒВҐВйВ∆МЊВЅВƒВћВѓВљВћВЊБB@
-` ƒаже та девочка сказала, что только идЄт к цели, а она смело за€вила, что уже достигла еЄ.`\
+` But even that little girl has stated that she's moving towards to her goal, whereas this person boldly proclaimed that she had already reached it.`\
 
 ;Б@ОДВЌВ±ВћОqВ…СеВҐВ»ВйК÷РSВрОЭВЅВљБB\
-` ќна мен€ заинтересовала.`\
+` They caught my interest.`\
 bg black,22
 bg dor_R1cR,0
 ld c,LAM_AkuwaraiA2,22
 ld c,LAM_FutekiA1,80
 
 ;БuВўВіВҐВљВнВЋБB@В†В»ВљВ™ВаВЌВвЦВПЧВ≈ВЈВЅВƒБcБH@Б@В±ВћРвСќВћЦВПЧВ≈В†ВиБAЛ®ВћПћНЖВрОЭВ¬ОДВ…БAХјВ—ЧІВƒВйСґНЁВЊВ∆В†В»ВљВЌМЊВҐРЎВкВйВћБH@Б@РgВћТцВрТmВиВ»В≥ВҐВ»БAбвПђВ»ВйГjГУГQГУХЧПоВ™БcБIБv\
-`"ѕогоди-ка.`@` √оворишь, ты уже ведьма?..`@` ’очешь сказать, ты на одном уровне со мной, ведьмой абсолюта, обладающей званием леди?`@` «най своЄ место, человечишка!.."`\
+`"Wait a moment.`@` You're saying you're already a witch?..`@` Are you implying that you have reached the same level as me, the Witch of Certainty who bears the title of Lady?`@` Know your place, you puny human!.."`\
 bg dor_R1aR,24
 
 ;БuВЌВҐБAО©Х™ВЌВаВ§БAЦВПЧВ≈ВЈБB@О©Х™В™ЛБВяВйВаВћВЌВљВЅВљВ–В∆В¬БB@О©Х™В∆ИўВ»ВйЦВПЧВ…ВжВйБAО©Х™ВрЦВПЧВЊВ∆ФFВяВйВ∆ВћРДСEВЊВѓВ≈ВЈБBБv\
-`"ƒа, € уже ведьма.`@` ћне нужно только одно -`@` чтобы мен€ признала така€ же ведьма."`\
+`"Yes, I am already a <witch>.`@` I need but one thing:`@` to be acknowledged and recognised as such by another <witch>."`\
 
 ;Б@ВїВкВЌВ№В≥В…БAВ†ВћП≠ПЧВ∆УѓВґКиВҐБB\
-` “очно такое же желание, как у той девочки.`\
+` This wish is pretty much the same as that of that little girl.`\
 se1 57
 mbg white,1
 ld r,LAM_FutekiA3,0
 mcbg 22
 
 ;БuБcБcОјВ…ВљВ≠В№ВµВҐЦВПЧВЊВ±В∆БB@В»ВйВўВ«ВЋБAВ†В»ВљВ™ВїВ§ВЊВ∆О©ПћВЈВйМјВиБAТNВ…ВаВ†В»ВљВ™ЦВПЧВ≈В»ВҐВ∆ФџТиВЈВйВ±В∆ВЌПoЧИВ»ВҐВ≈ВµВеВ§ВЋБB@/
-`"... ака€ стойка€ ведьма.`@` ѕон€тно, пока у теб€ есть титул ведьмы, никто не сможет это опровергнуть."`\
+`"...How brave.`@` I see, if you are given the title of a witch, nobody can deny that, huh."`\
 ld r,LAM_FutekiA2,80
 
 ;БcБcВ≈ВаХЈВ©ВєВƒЧ~ВµВҐВћБB@Р_ВаСҐХ®ОеВаБAТNВ…ФFВяВзВкВЄВ∆ВаР_В≈В†ВиСҐХ®ОеВжБH@Б@ВїВµВƒВїВкВЌЦВПЧВаУѓВґВЌВЄБB@БcТNВ™ФFВяВЄВ∆ВаВ†В»ВљВ™ЦВПЧВ≈В†ВйВ»ВзВќБAОДВ™ФFВяВЄВ∆ВаВ†В»ВљВЌЦВПЧВ≈В†ВйВЌВЄБB@ВїВ§В≈ВµВеВ§БHБv\
-`"...Ќо скажи мне.`@` Ѕог и “ворец по-прежнему Ѕог и “ворец, даже если их не признают.`@` “о же самое относитс€ и к ведьмам.`@`  ...ѕризнают теб€ или нет, если ты ведьма, то ты будешь ведьмой даже без моего признани€.`@` “ак ведь?"`\
+`"...But tell me this.`@` Creators remain Creators even if they aren't acknowledged or recognised by anyone.`@` Witches are the same.`@` Whether or not I recognise you, you should remain a witch anyway.`@` Right?"`\
 
 ;БuВЌВҐБB@О©Х™В™ГjГУГQГУВћЧћИжВрТіВ¶В©ВѓВƒВҐВйВ±В∆ВЌЧЭЙрВ≈ВЂВƒВҐВ№ВЈБB@О©Х™В©ВзКѕС™ВµВƒБAСSВƒВћГjГУГQГУВљВњВћН≈ПгИ В…ВҐВйВ∆ТfМЊВ≈ВЂВйВ©ВзВ≈ВЈБB@ВµВ©ВµБAО©Х™ВћН°ВҐВйИ ТuВ™БAГjГУГQГУВћИжВрТіВ¶ВƒВҐВйВ±В∆ВрКѕС™ВЈВйВ…ВЌБAОДВжВиВаПгИ В…ВҐВйСґНЁВћКѕС™В™ХKЧvВ≈ВЈБBБv\
-`"ƒа.`@` я начала превосходить человеческие пределы.`@` ƒумаю, можно сказать, что € выше остальных людей.`@` Ќо мне нужно, чтобы моЄ превосходство признал кто-то ещЄ выше мен€."`\
+`"Yes.`@` I have already started to surpass human limits.`@` You could say that I am already a higher being than any human.`@` But I need my superiority to be accepted by someone who is of an even higher rank than I am."`\
 ld r,LAM_MajimeA3,80
 
 ;БuБcБcБcГjГУГQГУВћИжВрТіВ¶ВљВ±В∆ВЌГjГУГQГУВ…ФFТиВ≈ВЂВйВѓВкВ«БA@ЦВПЧВћИжВ…В№В≈ОКВЅВљВ©В«В§В©ВЌБAЦВПЧВ…ВµВ©ФFТиВ≈ВЂВ»ВҐВ∆ВҐВ§В±В∆БHБv\
-`"......„еловек может признать того, кто превзошЄл человеческий уровень,`@` но только ведьма способна признать, достигла ли ты уровн€ ведьмы, да?"`\
+`"...A human could tell you that you surpassed their levels,`@` but only a witch could tell you if you reached hers... Is that what you mean?"`\
 bg Different_spiral_1a,28
 
 ;БuВЌВҐБB@ОДВЌГjГУГQГУВћРҐКEВрТіВ¶БAЦВПЧВћРҐКEВ…ОКВЅВљВ∆О©КoВµВƒВҐВ№ВЈБB@ВїВкВрЦВПЧВћЧІПкВ©ВзВаОКВЅВƒВҐВйВ∆ФFВяВƒЧ~ВµВҐВћВ≈ВЈБBБv\
-`"ƒа.`@` я знаю, что превзошла человеческий мир и достигла мира ведьм.`@` я хочу, чтобы вы, как ведьма, признали это."`\
+`"Indeed.`@` I am aware that I have transcended the human world and have entered a world above that as a <witch>.`@` I would like you, as another <witch>, to acknowledge that."`\
 
 ;БuБcБcЦВПЧВЌБAЦВПЧВ…В»ВйВћВ…ВаЦВПЧВћРДСEВ™ВҐВйВ∆БH@Б@Ц ФТВҐВѓВ«БAВґВбВ†БAРҐКEВ≈Н≈ПЙВћЦВПЧВЌТNВ™ФFВяВƒРђВЅВљВ∆ВҐВ§ВћВ©ВµВзБHБv@
-`"...»меешь в виду, что ведьме дл€ становлени€ ведьмой нужна рекомендаци€ ведьмы?`@` «анимательно, но тогда кто же признал самую первую ведьму в мире?"`\
+`"...You mean, to become a witch you need the recommendation of another one?`@` That's very interesting, but then, who would acknowledge the very first witch?"`\
 ;БuГjГУГQГУВљВњВ™БAО©Х™ВљВњВћИжВрТіВ¶ВљСґНЁВрБAЦВПЧВЊВ∆МƒВсВ≈ПћВ¶ВљВћВ≈ВµВеВ§БBБv\
-`"¬еро€тно, люди назвали ведьмой создание, превосход€щее их, и дали ему этот титул."`\
+`"Perhaps, humans themselves granted the title of a <witch> to some being that surpassed them."`\
 bg black,22
 bg dor_R1bR,0
 ld l,LAM_MajimeA1,26
 ld l,LAM_AkuwaraiA1,80
 
 ;БuВ»ВзБAОДВ™ФFВяВ»В≠ВƒВаБAВ†В»ВљВЌВЈВ≈В…ЦВПЧВЊВ∆ВҐВ§В±В∆В…В»ВйВнВЋБBБv@
-`"“огда получаетс€, что ты уже ведьма, признаю € теб€ или нет."`\
+`"So, then, even if I don't recognise you, you are already a witch."`\
 ;БuВЌВҐБB@ВЊВ©ВзОДВЌВаВ§БAЦВПЧВ≈ВЈБB@БcБcВЊВ©ВзВ±ВїБB@ОДВ™КиВ§ВаВћВЌВїВкБB@ОДВ™ЦВПЧВ≈В†ВйВ∆БAОДВжВиПгИ ВћСґНЁВ©ВзФFВяВзВкВљВҐВћВ≈ВЈБBБv\
-`"ƒа.`@` ѕоэтому € уже ведьма.`@`  ...» потому мне нужно, чтобы мен€ признал ведьмой кто-то ещЄ выше мен€."`\
+`"Yes.`@` I am already a <witch>.`@` And so, I need acknowledgement of a <witch> on a higher level than me."`\
 ld l,LAM_AkuwaraiA3,80
 
 ;БuБcБcПђУпВµВҐЫЫЧЭЛьВ≈МлЦВЙїВ≥ВкВƒВйЛCВ™ВЈВйВнВЯБB@МЩВЊВ∆МЊВЅВљВзБHБv@
-`"...ѕо-моему, мен€ дур€т уклончивым софизмом.`@` „то если € откажусь?"`\
+`"...I feel like I'm being deceived with tortuous sophisms.`@` What if I refuse?"`\
 ;БuЦ≥ЧЭВ…ФFВяВƒВ≠ВкВ»В≠ВƒВаВҐВҐВ≈ВЈБB@В»ВзВќБAВ†В»ВљВ…ВаФFВяВ≥ВєВйВЊВѓВ≈ВЈВ©ВзБB@БcБcВ†В»ВљВ…ВЊВЅВƒБAОДВ™ЦВПЧВ≈В†ВйВ±В∆ВрФџТиВ»В«БAПoЧИВ»ВҐВћВЊВ©ВзБBБv\
-`"“огда € заставлю вас признать мен€.`@`  ...ƒаже вы не сможете поспорить с тем, что € ведьма."`\
+`"Then I will force you to acknowledge me.`@` Not even you will be able to deny that I am a <witch>."`\
 bg dor_R1dR,25
 
 ;БuБcБcВ≠ВЅВ≠ВЅВ≠ВЅВ≠БAВ§ВЅВ”ВЅВ”ВЅВЌВЅВЌВЅВЌВЅВЌБcБI@Б@ГjГУГQГУХЧПоВ™В«ВћВжВ§В»ЦВЦ@СеМnВрРґВЁПoВєВљВ∆ВҐВ§ВћБH@Б@БcБcВїВкВрОДВ…ООВ≥ВєВйВ∆БH@Б@БcБcБcБcВ≠ВЅВ≠ВЅВ≠ВЅВ≠БIБv\
-`"...’е-хе-хе-хех, у-уха-ха-ха-ха-ха-ха-ха!..`@` » какой, интересно, магический компендиум может создать ничтожный человек?`@` ѕозволишь мне взгл€нуть?`@` .........’е-хе-хе-хех!"`\
+`"...Hehehehhehe, haahahahhahaha!..`@` I wonder what kind of a compendium a human could create?`@` Could I take a look?`@` ...Hehehheheheh!"`\
 
 ;Б@В†ВћП≠ПЧВрЧyВ©В…ТіВ¶ВйБAПtВћУъВћПђТєВћЪУВиВ…ВаОЧВљЦFВµВЂНgТГВћНБВиБB@
-` јромат сладкого ча€, окружающий еЄ, пр€мо как щебет птички в весенний день.`\
+` The aroma of sweet tea that surrounded this person reminded me of chirping of birds in spring.`\
 
 ;Б@ОДВЌБAТЈВҐТЈВҐЧЈВрМoВƒБAЛvВµВ‘ВиВ…ЛCНЬВћВ†ВйЦВПЧВ…ПoЙпВ¶ВљВ±В∆ВрТmВЅВљВнБB\
-` ѕосле долгого-предолгого путешестви€ € пон€ла, что встретила стойкую ведьму, какую не видела долгое врем€.`\
+` After an extremely long jorney, I realised that I had met a resilient witch, the kind that I haven't seen for a long time.`\
 se1 52
 bg black,28
 se2 22
@@ -15808,120 +15810,120 @@ bg white,99,2000,"breakup.dll/urb"
 bg Different_space_2c,2
 
 ;Б@ВїВµВƒБAВїВћЦВЦ@СеМnВћСgРђОЃВ…ФтВ—НЮВЁБA@БcБcБcФёПЧВ»ВзВ≈ВЌВћУ∆О©ВћЙрОяВ…ВжВиБAВїВкВ№В≈ВћОДВ™ТmВиУЊВ»В©ВЅВљБAНLСеВ»ЦВЦ@РҐКEВ™РґВЁПoВ≥ВкВƒВҐВљВ±В∆ВрТmВйБB\
-` «атем € погрузилась в изучение составной формулы еЄ магического компендиума...`@`и благодар€ своеобразным объ€снени€м, которые могла дать только она, € пон€ла, что был создан огромный магический компендиум, который € ранее не могла постичь.`\
+` Then, I plunged myself into studying the formulas of their magic compendium...`@` and thanks to bizarre explanations that only they themselves could give me, I understood that this person's magic was on a level far surpassing my own.`\
 se1 52
 bg Different_space_2d,22
 
 ;Б@КmВ©В…В№ВЊВ±ВћОqВЌРўВҐБB@ЦВЦ@РҐКEВЌВ№ВЊВ№ВЊРґРђВ≥ВкВƒВҐВйУrПгВ…В†ВйБB@
-` –азумеетс€, она по-прежнему неуклюжа.`@` ≈Є магический мир ещЄ не завершЄн.`\
+` Certainly, they're still a bit clumsy.`@` Their magical world is still incomplete.`\
 
 ;Б@ВµВ©ВµБAВїВћРґРђВ…ОКВйСgРђОЃВЌБAКЃашВ©В¬Ц≥МјВћЙ¬Ф\РЂВрФхВ¶ВƒВҐВйБB\
-` Ќо составна€ формула дл€ его создани€ обладает безупречными и бесконечными возможност€ми.`\
+` However, the formula for its creation is flawless and posesses endless possibilities.`\
 
 ;Б@ВїВћЦ≥МјВрОgВҐВ±В»ВЈВ…ВЌБAВ№ВЊВ№ВЊТЈВҐОЮК‘ВрК|ВѓВйВЊВлВ§В™БA@ВЈВ≈В…ВїВћФаВрКJВЂБAВїВћМьВ±В§В…ОКВЅВƒВҐВйВ±В∆В…Л^ВҐВћЧ]ТnВЌВ»В©ВЅВљБB\
-` Ќаверное, ей потребуетс€ много времени, чтобы справитьс€ с этой бесконечностью,`@` но, несомненно, она уже открыла эту дверь и попала на другую сторону.`\
+` It will probably take them a long time to learn to deal with this infinity, but,`@` without any doubt, the door for them was already open.`\
 se1 52
 bg Different_spiral_1b,28
 
 ;Б@ВїВµВƒЙљВжВиВаВ±ВћБgЦВПЧБhВћМ¬РЂУIВ»У_ВЌБAВїВћЦВЦ@СеМnВрРlК‘КEВ…ВƒСgРђВЈВйВ±В∆В…РђМчВµВƒВҐВљВ±В∆ВЊБB\
-` », что самое главное, особенности этой Џ00171ведьмыЏ00187 сумели составить магический компендиум в человеческом мире.`\
+` And, above everything, this witch has managed to create a compendium of magic in the human world.`\
 
 ;Б@ЦВПЧВЌО©ЧRВ∆ЧЌВрЛБВяВкВќЛБВяВйВўВ«В…БAВ†ВзВдВйРІЦсВ©ВзФдЧбУIВ…ЙрХъВ≥ВкВƒВҐВ≠БB\
-` „ем больше ведьма ищет свободу и власть, тем больше она освобождаетс€ от всех ограничений.`@` ѕод ограничени€ми имеетс€ в виду материальный мир.`\
+` The more a witch seeks freedom and power, the more she is freed from any restrictions.`@` What I mean by that is, of course, the restrictions imposed by the material world.`\
 ;Б@РІЦсВ∆ВЌС¶ВњБAХ®ОњУIВ»РҐКEВћВ±В∆БB@
 ;Б@В¬В№ВиБAОДВвУѓКiВћЦВПЧВљВњВ™ВїВ§В≈В†ВйВжВ§В…БAРlК‘КEБEХ®ОњКEВ©ВзВ«ВсВ«ВсЙУВ≠В÷ХYЧђВµВƒВҐВ≠ВжВ§В…В»ВйБB\
-` »наче говор€, она неуклонно движетс€ к далЄкому от мира людей - материального мира - месту, как € и другие ведьмы того же ранга.`\
+` In other words, they will be steadily moving away from the world of humans, like me and other witches of my rank did.`\
 bg black,22
 bg dor_R1aR,0
 ld r,LAM_MajimeA3,26
 
 ;Б@ВµВ©ВµВ±ВћЦВПЧВЌБAВїВкВрРlК‘КEВ≈РђВµРЛВ∞ВљВћВЊБB@
-` ќднако эта ведьма добилась этого в человеческом мире.`\
+` However, this witch has managed to do that while in the world of humans.`\
 
 ;С¶ВњБAГjГУГQГУВћРgВ≈В†ВиВ»В™ВзБAОДВљВњВ∆УѓВґРҐКEВ…СЂВрУ•ВЁУьВкВƒВҐВйБcБI\
-` “о есть смогла ступить в наш мир в человеческом облике!`\
+` That is, they could step into our world in their human form!`\
 
 ld r,LAM_WaraiA1,80
 
 ;Б@ВҐВвБAБcБcВїВкВ«В±ВлВ©БAФёПЧВћСgРђОЃВЌВ†В№ВиВ…Р[ВҐБB@
-` ’от€ нет, ...отдельно от этого...еЄ составна€ формула слишком глубока.`\
+` And, besides... their composition formula is extremely deep.`\
 
 ;Б@ОДВ™Р[ЙУВћИдМЋВћТтОqВрБAИкТiИкТiБAРзФNК|ВѓВƒН~ВиВƒВЂВљР[ВЁВрБA@В№ВйВ≈ГpГЙГ\ГЛВрКJВҐВƒЧОЙЇОPВћВжВ§В…ВµВƒХСВҐН~ВиВƒВ≠ВйВжВ§В…БAБcВ†ВЅВ≥ВиВ∆БcБI@
-` ќна будто бы летит к глубинам с открытым зонтиком, который служит парашютом.`@`   глубинам, в которые € спускалась по лестнице в колодце более тыс€чи лет, шаг за шагом...и быстро!..`\
+` It's as if they're flying down into the bottomless depths while holding an umbrella that doubles as a parachute.`@` Those same depths that I had to descend to using a stepladder for a thousand years, taking one step after another...And they're flying fast!..`\
 
 ;Б@БcБcВаВњВлВсБAВїВћГpГЙГ\ГЛВ™ФjВкВƒБAВїВћВ№В№УёЧОВ…ТƒЧОВµВƒВҐВ≠В©ВаВµВкВ»ВҐКлВ§В≥ВаОЭВЅВƒВҐВйБB\
-` ... онечно же, существует опасность, что зонт сломаетс€ и она упадЄт в ад.`\
+` ...Of course, there's the danger of the umbrella breaking, in which case they will fall into hell just like that.`\
 ;Б@ВїВћЦљТmВзВЄВ≥В…БAБcОДВЌОбВ≥ВдВ¶ВћЦ≥ЦdВ∆БAГjГУГQГУВћВ≠ВєВ…В∆ВҐВ§ХћВЁБA@БcБcВїВµВƒБAВ±ВћЦВПЧВ™В«В±В№В≈ОКВйВћВ©В∆ВҐВ§К÷РSВ∆БA@ОДВ™ЦҐВЊТmВзВ»ВҐРҐКEВрП∆ВзВµПoВµБAВ№ВЅВљВ≠Ц°ВнВЅВљВ±В∆ВћВ»ВҐНgТГВрНБВзВєВƒВ≠ВкВљВ±В∆В÷ВћМhИ”ВрКіВґВљВћВЊБB\
-` Ѕлагодар€ такому безрассудству... ѕрезира€ подобных людей и интересу€сь, как далеко зайдЄт эта ведьма,`@` € начала проливать свет на ещЄ неведомый мне мир и была польщена тем, что пью неизвестный чЄрный чай со сладким ароматом.`\
+` Because of their recklessness... Because of my dislike for this type of humans combined with my interest for this new witch,`@` I started to shed light on a world yet unknown to even me, and felt honoured to taste tea that was this sweet.`\
 bg Different_spiral_1a,28
 
 
 ;Б@В±ВкВЌОДВћОЭШ_ВЊВ™БB@
-` ћне нравитс€ так думать.`\
+` However, that's just my own theory.`\
 
 ;Б@СSВƒВћСґНЁВЌБAЙ^ЦљВ…Ц|ШMВ≥ВкВйС§В∆Й^ЦљВрРґВЁПoВЈС§ВћУсЛ…ВћК‘ВћВ«В±В©В…И ТuВµВƒВҐВйВ∆РаЦЊВ≈ВЂВйБB\
-` “ак можно объ€снить, что все создани€ размещены между двум€ крайност€ми - стороной, котора€ мечетс€ по воле судьбы, и стороной, создающей судьбу.`\
+` It explains that all beings are placed somewhere between two extremes: the side that creates fate, and the side that follows it.`\
 bg cit_2b,26
 
 ;Б@Й^ЦљВ…Ц|ШMВ≥ВкВйВћВ™ГjГУГQГУБB@ЛрВ©В≈И£ВкВ≈БAЙљВаРґВЁПoВєВ»ВҐБB@
-` ѕо воле судьбы мечутс€ люди.`@` √лупые, беспомощные, не способные ничего создать.`\
+` Humans are the ones that follow.`@` They're stupid, helpless, unable to create anything worthwhile.`\
 
 ;Б@БcБcВµВ©ВµБAСЂВћЙЇВ…ВЌУ•ВЁВµВяВйСеТnВ™В†ВйБB@ВїВµВƒВїВћСеТnВЌМИВµВƒЧ†РЎВзВЄБAРґКUБAУёЧОВ÷ВћТƒЧОВћЛ∞Х|В…ЛѓВ¶ВйВ±В∆В»В≠ХйВзВЈВ±В∆В™ПoЧИВйБB\
-` ...ќднако у них есть твЄрда€ почва под ногами.`@` » эта почва никогда не предаст их, поэтому они могут жить, не страшась ужаса падени€ в ад. `\
+` ...However, they have solid ground to stand on.`@` This ground doesn't betray them, so they can live without fear of falling into hell. `\
 bg black,22
 bg Different_space_2a,22
 
 ;Б@Й^ЦљВрРґВЁПoВЈВћВ™БAР_БXБB@ВїВµВƒСҐХ®ОеБB@СSТmВ≈СSФ\В≈БAСSВƒВрРґВЁПoВЈБB@
-` —удьбу твор€т боги.`@` » “ворец.`@` ¬севид€щий, всемогущий, создающий всЄ.`\
+` The side that creates fate is the Creators. The omniscient and almighty.`\
 
 ;Б@БcБcВµВ©ВµБAСSВƒВрРґВЁПoВµБAСSВƒВћРІЦсВ©ВзЙрХъВ≥ВкВƒВҐВйВ∆ВҐВ§В±В∆ВЌБA@СЂМ≥В…СеТnВ∆ВҐВ§РІЦсВЈВзВ»ВҐВ±В∆ВрИ”Ц°ВЈВйБB\
-` ...Ќо то, что они создают всЄ и свободны от всех ограничений,`@` означает, что у них даже нет такого ограничени€, как земл€ под ногами.`\
+` ...But the fact that they can create anything and have no restrictions placed upon them means that`@` they also don't have the restriction of the ground under their feet.`\
 bg Different_spiral_1a,22
 
 ;Б@СSВƒВћРІЦсВрКЃСSВ…ОЄВЅВљСґНЁВЌБAБcБcСSВƒВрОиВ…ВЈВйСгВнВиВ…БAВїВкВзВћБgИ”Ц°БhВ∆ВҐВ§РІЦсВЈВзОЄВ§БB@БcБcРґОАВћКTФOВЈВзВ»В≠В»ВиБAСґНЁВћИ”Ц°В≥В¶ВаВ»В≠В»ВиБAБcБcГ[ГНВћИжВ…ТBВЈВйБB@/
-` —оздани€, потер€вшие все ограничени€, ...в обмен на обладание всем тер€ют само ограничение собственной важности.`\
-` ...»счезают даже пон€ти€ жизни и смерти, как и смысл существовани€, ...и они достигают пределов нул€.`@/
+` Beings that have no restrictions imposed upon them lose even the restriction of "meaning".`\
+` ...The very concept of life and death disappears for them, and they reach the limit of zero.`@/
 bg black,28
 
 ;В†ВйВҐВЌБAУ]ЧОВЈВйБB@ТƒЧОВЈВйБB@ХцЙуВЈВйБB@Й_ОUЦґПЅВЈВйБB\
-` »ли падают.`@` Ћомаютс€.`@` »счезают как туман.`\
+` Or else, they fall,`@` crumble,`@` and vanish like mist.`\
 bg Different_space_2d,22
 
 ;Б@ВїВћТЖК‘В…И ТuВЈВйВћВ™БAОДВљВњЦВПЧВ»ВћВ≈ВЌВ»ВҐВ©В∆ОvВ§БB@
-` ƒумаю, в середине находимс€ мы, ведьмы.`\
+` I think that witches belong somewhere in the middle.`\
 ;Б@ОДВљВњВЌЙ^ЦљВрРґВЁПoВµБAШMВ‘БB@ВїВћЛЈК‘ВрЙсЧVВЈВйБB\
-` ћы творим судьбу и играем с ней.`@` «абавл€емс€ с этой свободой.`\
+` We create fate and play around with it.`@` We have fun with that freedom.`\
 ;Б@ВµВ©ВµБAВ†ВйИкТиВћРІМјВ∆МјКEВ…К√ВсВґБAО©Х™В™У]ЧОВµВ»ВҐТцУxВћСЂПкВрОcВЈБB\
-` Ќо нам приходитс€ прин€ть определЄнные ограничени€ и пределы и оставить некую основу, чтобы не упасть. `\
+` But we still accept certain limits and restrictions, giving us some footing so that we wouldn't fall down. `\
 bg Different_spiral_1b,22
 
 ;Б@В±ВћХ|ВҐВаВћТmВзВЄВћЦВПЧВЌБAОДВжВиВаЧyВ©В…ЧyВ©В…БAБcВїВћРІМјВ™В»ВҐВћВЊБB\
-` ” ведьм, не страшащихс€ этого, гораздо меньшие ограничени€, чем у мен€.`\
+` Those witches that aren't afraid of falling are much more powerful than I am.`\
 ;Б@ФёПЧВЌОДВћБAРзФNВћЧЈШHВћСёЛьВрВ–В∆ОЮХіВзВнВєВƒВ≠ВкВйВЊВѓВћИкФtВћНgТГВ»ВћВ©БB\
-` Ѕудет ли она той чашкой ча€, котора€ на мгновение отвлечЄт мен€ от скуки в тыс€челетнем путешествии?`\
+` Will this person become a teacup, that relieves just a moment of the endless boredom on my thousand-year journey?`\
 ;Б@ВїВкВ∆ВаБAЙ∞ХaВ»ОДФ@ВЂВ≈ВЌЙiЙУВ…ОКВкВ»ВҐВ©ВаВµВкВ»ВҐР[ЙУВрП∆ВзВµПoВµБA@ОДВ…ЦҐТmВћРҐКEВрМ©ВєХtВѓВƒВ≠ВкВйБAОДВжВиЧyВ©В…ПгИ ВћЦВПЧВљВиВ¶ВйВћВ©БcБI\
-` »ли же она окажетс€ ведьмой, много превосход€щей мен€, и прольЄт свет на глубины, которые трусихам вроде мен€ не достичь,`@` и покажет мне неведомый мир?`\
+` Or will they become a witch that far surpasses who I am, and show me an unknown new world?`\
 bg black,22
 
 ;Б@В«ВњВзВ≈ВаВҐВҐБB\
-` Ћюбое сойдЄт.`\
+` Well, I don't really care.`\
 ;Б@ОДВ™УёЧОВрЦЏОwВЈЧЈРlВ≈В»В≠БAСеКCМіВ…УКВ∞ПoВ≥ВкУMВкВ№ВҐВ∆ВаВ™В≠СШУпО“В»ВћВЊВ∆ВµВљВзБB@
-` ≈сли предположить, что € не путешественница, стрем€ща€с€ к аду, а жертва катастрофы, брошенна€ в океан и изо всех сил старающа€с€ не утонуть...`\
+` If we were to assume that I am not a traveller headed toward hell, but instead a disaster victim trying her hardest not to drown...`\
 
 ;Б@ОДВ…В∆ВЅВƒВ±ВћОqВЌБAВµВ™ВЁХtВ≠В…ТlВЈВйЧІФhВ»ЦЎХ–ВЊБB\
-` ƒл€ мен€ она великолепный дерев€нный брусок, за который можно зацепитьс€.`\
+` Then, for me, this person is a splendid piece of wood to hold on to.`\
 
 ;Б@ОДВрЦҐТmВ»ВйРҐКEВ÷У±В≠Л~ВҐВћСDВ∆В»ВйВћВ©БB@
-` ќн станет моим спасением и проведЄт мен€ в неизвестный мир?`\
+` Will they become my saviour and take me into an unknown world?`\
 
 ;Б@ВїВкВ∆ВаБAОДВћМяМгВрВнВЄВ©ВћОЮК‘ВЊВѓЧDЙлВ…ВЈВйИкФtВћНgТГО~В№ВиВ»ВћВ©БB\
-` »ли же она не более чем чашка ча€, котора€ ненадолго сделает день элегантнее?`\
+` Or are they just another cup of tea to make my day more elegant?`\
 bg dor_R1cR,0
 ld c,LAM_MajimeA1,26
 ld c,LAM_AkuwaraiA4,80
 
 ;БuЛCВ…УьВЅВљВнБB@БcБcБcВҐВҐВ≈ВµВеВ§БB@/
-`"’орошо.`@`  ......Ќе возражаю.`@/
+`"Very well.`@` ...I have no complaints.`@/
 se1v 57,70
 mbg white,1
 bg Different_space_1a,0
@@ -15933,15 +15935,15 @@ se3v 76,70
 se1v 54,70
 
 ;ОДВћЦЉВ…В®ВҐВƒБAВ†В»ВљВрЦВПЧВЊВ∆ФFВяВƒВ†В∞ВйБB@ЙдВ™ЦЉБAРвСќВћЦВПЧГЙГАГ_ГfГЛГ^ВћЦЉВ…В®ВҐВƒБI/
-` »менем Ћ€мбдадельты, ведьмы абсолюта, € признаю теб€ ведьмой!`/
+` Upon the name of Lambdadelta, the Witch of Certainty, I recognise you as a witch!`/
 se2 57
 mbg white,1
 mcbg 2
 
 ;@Б@В†В»ВљВћБgРвСќВ»ВйЦВЦ@РҐКEБhВ™БyРвСќБzВ≈В†ВиС±ВѓВйМјВиБI/
-@` ѕока твой Џ00171абсолютный магический мирЏ00187 абсолютен,`/
+@` As long as your magical world remains "certainly" magical,`/
 ;@Б@ОДВЌЙiЙУВ…В†В»ВљВћМгМ©РlВ≈В†ВиС±ВѓВйВнБcБIБIБv\
-@` ...€ вечно буду присматривать за тобой!.."`\
+@` ...I will continue being your guardian!.."`\
 se1v 76,100
 se2v 54,100
 bg white,2
@@ -15951,14 +15953,14 @@ bg Different_space_1b,24
 ld r,LAM_FutekiA3,4
 
 ;Б@БcБcВ±ВћСfУGВ»НgТГВрБAОДВ–В∆ВиВ≈Ц°ВнВ§ВћВЌЦ{УЦВ…Ц{УЦВ…ВаВЅВљВҐВ»ВҐБB\
-` ......Ќельз€ наслаждатьс€ столь замечательным чаем в одиночку. `\
+` ...I can't drink tea this delicious on my own. `\
 ld r,LAM_AkuwaraiA1,80
 
 ;Б@В®ЧFТBВаВЇВ–МƒВсВ≈В†В∞В»В≠ВњВбВЋБH@
-` Ќужно позвать и мою подругу. `\
+` I have to call my friend. `\
 
 ;Б@СfУGВ»В®ТГЙпВ…ВµВƒЛЅВ©ВєВƒВ†В∞В»В≠ВњВбБB@
-` ”дивлю еЄ чудесным чаепитием.`\
+` I should surprise her with a wonderful tea party.`\
 textoff
 se1v 57,100
 mbg white,1
@@ -15968,7 +15970,7 @@ wait 1000
 bg Different_space_1c,25
 
 ;Б@В≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈБAВ†ВЅВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌБcБcБcБcБcБI/
-` *хи-хи*хи-хи*, аха-ха-ха-ха-ха-ха!..`\
+` *giggle, giggle*, ahahahahahaha!..`\
 
 se1v 37,100
 se2v 37,100
@@ -15978,7 +15980,8 @@ se3 1010
 ;!s0Б@Г©Б@ГҐ
 ;БiБДВЧБГБjГm/
 !s0` Џ00923  Џ00923`
-` (>w<)Џ12494 `/
+` (>w<) `@
+` (Ryukishi's note: that is Lambdadelta's signature)`/
 !sd\
 
 
