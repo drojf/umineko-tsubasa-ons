@@ -26,6 +26,7 @@ Current progress:
 |13|No|No|Not yet released|
 |14|No|No|Not yet released|
 |15|No|No|Not yet released|
+|Postscript|No|No|Not yet released|
 
 Installation instructions:
 
