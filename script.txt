@@ -16077,9 +16077,9 @@ bg black,22
 bg M_o1a,26
 
 ;Б@М©ОЦВ»еKеNТлЙАВћМьВ±В§В…БAУ∞БXВ∆ВµВљЙЃХ~ВрН\В¶ВљК—Ш\ВЌБAПЙВяВƒЦKВкВљО©Х™ВрСеВҐВ…ЛЅВ©ВєВљВ±В∆ВрВжВ≠КoВ¶ВƒВҐВйБB\
-` я часто вспоминаю, как внушительный особн€к по другую сторону прекрасного розари€ очень удивил мен€, когда € впервые приехал сюда. `\
+` I often remember how the presence of the imposing mansion on the other side of the beautiful rose garden greatly surprised me when I first arrived here. `\
 ;Б@О©Х™ВћБAЧњЧЭРlВ∆ВµВƒВћРlРґВ™БA@В№ВйВ≈ЦЯЙжВ©В®В∆ВђШbВћТЖВ…ПoВƒВ≠ВйВжВ§В»БAСеХxНЛВ…РкСЃЧњЧЭРlВ∆ВµВƒПҐВµПгВ∞ВзВкВйВ±В∆В…В¬В»В™ВйВ»ВсВƒБA@Ц≤В…ВаОvВнВ»В©ВЅВљБcБB\
-` ƒаже в самых смелых мечтах € не мог представить, что жизнь повара приведЄт мен€ к тому, что € стану особым поваром миллиардеров.`@`  ак в манге или сказке... `\
+` Not even in my wildest dreams could I imagine that my life as a cook will lead me to a mansion of billionaires.`@` That was like a manga or a fairy tale... `\
 bg black,2
 fede 0,3000
 
@@ -16090,62 +16090,62 @@ bgm1 82
 
 
 ;Б@ВїВаВїВаБAЙ^В™В»В©ВЅВљБB@
-` ƒл€ начала, мне не повезло.`\
+` It all started with me getting extremely unlucky.`\
 bg res_i4a,22
 ;Б@НВЛЙГzГeГЛВћШVХ№ГМГXГgГЙГУВЌБAКmВ©В…СfР∞ВзВµВҐЛZПpВрОЭВЅВљЧњЧЭРlВљВњВ™ШrВрЛ£ВҐНЗВ§БAЛўТ£КіИмВкМ÷ВиВрОЭВƒВйСfР∞ВзВµВҐРEПкВЊВЅВљБB\
-` ”сто€вшийс€ ресторан первоклассного отел€ был замечательным рабочим местом, известным своей гордостью и полнотой напр€жЄнности; местом, где талантливые повара соревновались в своих навыках. `\
+` I worked at a restaurant in a well-known hotel, and it was a wonderful job full of both pride and tension. It was a place where wonderfully talented cooks competed with their skills. `\
 
 ;Б@ВЊВ™БAВїВкИ»ПгВ…ГvГЙГCГhВвВµВЂВљВиБAВµВ™ВзВЁВ»В«В™Л≠В©ВЅВљВ±В∆ВаОЦОјВЊБB@
-` —в€зи между ними были даже сильнее гордости и традиций. `\
+` The bonds between us were even stronger than our pride or any tradition. `\
 
 ;Б@ВїВкВЌБAЛ≠ЧЌВ»ГJГКГXГ}В≈ЧњЧЭРlВљВњВрВ№В∆ВяВƒВЂВљСНЧњЧЭТЈВ™БAУЋСRБAСћТ≤ВрХцВµИшСёВЈВйВ±В∆В…В»ВЅВљОЮБAИкЛCВ…ХђПoВµВљБB\
-` ќднако всЄ рухнуло, когда шеф-повар, объедин€вший поваров своей сильной харизмой, ни с того ни с сего решил уйти в отставку по болезни. `\
+` But everything collapsed when the head chef, who united everyone with his strong charisma, suddenly retired due to illness. `\
 
 bg black,22
 
 ;Б@ШrВаГvГЙГCГhВаРlИкФ{ВћЧњЧЭРlВ…В∆ВЅВƒБAСЄМhВ≈ВЂВйВћВЌО©Х™ВжВиЧDВкВљЧњЧЭРlВЊВѓВЊБB@ВЊВ©ВзБAВ«ВсВ»РќУ™ВаРґИ”ЛCВаОбСҐВаБAСНЧњЧЭТЈВ™б…ВЁВрЧШВ©ВєВƒВҐВйМјВиБAИкКџВ∆В»ВЅВƒОdОЦВрВµВљБB@
-` ƒл€ поваров навыки и гордость превыше всего, и они уважают лишь повара, превосход€щего их самих.`@` ¬от почему, пока шеф-повар всем управл€л, все мы выполн€ли работу как один, сколь бы ни были дерзкими. `\
+` For us cooks, our skills and pride mean everything, and the only people we can respect are cooks that surpass us.`@` That's why, under this head chef's control, we all performed our work as one, no matter how impatient, inflexible or young we were. `\
 
 ;Б@ВЊВ©ВзБAВїВћСНЧњЧЭТЈВ™УЋСRИшСёВЈВкВќБAВ±ВкВЌХKСRВћМЛЙ ВЊВЅВљВћВ©ВаВµВкВ»ВҐБB\
-` ѕоэтому, может, это было неизбежно с тех пор, как шеф-повар неожиданно решил уйти в отставку.`\
+` So, perhaps, this was an inevitable consequence of the head chef suddenly retiring.`\
 
 bg different_spiral_1a,22
 ;Б@ВїВ±В≈ВҐВ≠В¬В©ВћФhФіВ…Х™В©ВкВљБB@
-` ћы разделились на несколько фракций. `\
+` We have split into several factions. `\
 
 ;Б@Р~Ц[УаВ≈ВаВЅВ∆ВаРlЦ]ВћВ†ВйРlХ®В™БAСНЧњЧЭТЈВ…В»ВйВ„ВЂВЊВ∆КъС“В≥ВкВƒВҐВљБB@ВїВћРlХ®ВЌБAСЄМhВ≈ВЂВйОјР—В∆ЛZПpБAВїВµВƒФMРSВ»МгФyОwУ±В»В«В™НВВ≠Х]ЙњВ≥ВкВƒВҐВљБB\
-` Ўеф-поваром должен был стать самый попул€рный на кухне.`@` Ётого человека высоко оценили за его респектабельные достижени€, навыки и руководство полными энтузиазма подчинЄнными.`\
+` We expected the most popular person in the kitchen to become head chef.`@` He was highly valued for his achievements, skills, and leadership over the enthusiastic juniors.`\
 
 bg different_spiral_1b,22
 ;Б@ВµВ©ВµБAГAГNВ™Л≠ВҐРlХ®В≈В†ВЅВљВ±В∆ВаОЦОјВ≈БA@УЅВ…ГzГeГЛС§В∆В§В№В≠ВвВкВƒВҐВљВ∆ВЌМЊВҐУпВҐБB\
-` ќднако также он обладал сильной волей.`@` “рудно сказать, что он хорошо ладил со стороной отел€. `\
+` However, he was also strong willed.`@` He didn't get along very well with the hotel management. `\
 ;Б@ГzГeГЛС§В…В∆ВЅВƒХKЧvВ»ВћВЌБAСRВйВ„ВЂФ[КъВ≈СRВйВ„ВЂЧ\ОZВ≈БAП[Х™В»МЛЙ ВрПoВєВйЧњЧЭРlВ≈В†ВиБAП[Х™В»МЛЙ ВћВљВяВ…БAФ[КъВвЧ\ОZВ≈СќЧІВЈВйЧњЧЭРlВ≈ВЌВ»ВҐБB@БcБcВїВћБAЧњЧЭРlВ∆ВµВƒВћЧDРжПЗИ ВћИбВҐВ™БAГgГЙГuГЛВ∆В»ВЅВљБB\
-` —тороне отел€ нужен был повар, способный показать удовлетворительные результаты с соответствующими затратами и сроками, а не такой повар, который будет идти против сроков и затрат, чтобы показать хорошие результаты.`\
-` ...Ќесоответствие приоритетов стало проблемой.`\
+` The management needed a cook who would show satisfactory results within suitable budgets and deadlines, not a cook who would ignore those, but produce an amazing result.`\
+` ...This clash of priorities became a problem.`\
 bg black,22
 bg BUI_o1a,22
 ;Б@ГzГeГЛС§В™РДСEВµВљМуХвО“ВЌБAУTМ^УIВ»УъШaМ©ОеЛ`О“ВЊВЅВљБB@ЧњЧЭВћШrВжВиВаБAМ†ЧЌО“В…ЫZВ—В÷В¬ВзВЅВƒВҐВйВжВ§В»ИуПџВ™Л≠ВҐБB@ФёВЌБAЧњЧЭВћЛZПpВрЦБВ≠В±В∆ВжВиВаБAОЯКъСНЧњЧЭТЈВћНјВрС_В§ВљВяВЊВѓВ…Н°УъВ№В≈ВрЙяВ≤ВµВƒВЂВљВжВ§В…В≥В¶М©В¶ВљБB\
-`  андидат, рекомендованный стороной отел€, был типичным человеком, занимающим выжидательную позицию.`@`  азалось, он был больше заинтересован в подхалимстве перед важными шишками, нежели в оттачивании кулинарных навыков.`\
-` ¬место совершенствовани€ навыков приготовлени€ пищи он тратил врем€ лишь на стремление к положению следующего шеф-повара. `\
+` The candidate that the management ended up choosing was an indecisive man.`@` He was more interested in showing his subservience to the management than actually making food.`\
+` Instead of improving his cooking skill, he was only spending time on figuring out how to get a promotion. `\
 bg black,22
 
 ;Б@МЛШ_В©ВзМЊВ§В∆БAВїВћТjВ™СНЧњЧЭТЈВ…ПAФCВЈВйВ±В∆В…В»ВЅВљБB@ЙдБXВ™Ф[УЊВЈВйРlХ®ВЌБAВїВћХвН≤В∆ВҐВ§В±В∆В…В»ВЅВљБB@ЙдБXВЌВїВћМЛЙ В…Ф[УЊВµВ©ВЋВљВ™БAВµВќВзВ≠ВЌЧlОqВрМ©ВжВ§В∆ВїВћСћРІВ≈Р~Ц[ВрЙсВµОnВяВљБB\
-` ¬ конце концов его всЄ-таки сделали шеф-поваром.`@` “от, кого мы хотели поставить на это место, стал его помощником.`@` ћы не могли согласитьс€ с таким результатом, но до поры до времени работали на кухне и так, чтобы посмотреть, как всЄ сложитс€. `\
+` In the end, this man became the head chef.`@` The person all of us wanted to see in that position instead ended up as his assistant.`@` We couldn't accept this result, but we decided to keep working under these conditions for a while to see how things turn out. `\
 wait 400
 bg Mkit_1a,22
 
 ;Б@ВµВ©ВµБAРжСгВ∆ВћНЈВЌВЈВЃВ…М∞ТШВ…МїВкБAЧњЧЭРlВљВњВћХsЦЮВЌФЪФ≠ВµВљБB@
-` ќднако тут же стали заметны очевидные различи€ с предшественником, и повара разразились недовольством. `\
+` However, the difference between him and his predecessor was immediately obvious, which caused the cooks to explode in their dissatisfaction. `\
 
 ;Б@ЧњЧЭРlВ∆ВµВƒВћМ÷ВиВрЦ≥ОЛВµВљВвВиХыВ…О^УѓВ≈ВЂВ»ВҐЧњЧЭРlВљВњВЌСљВ≠БAВаВњВлВсБAЙіВаВїВћТЖВћВ–В∆ВиВЊВЅВљБB\
-` ћногие из них не могли одобрить его методы, игнорирующие их поварскую гордость, и, разумеетс€, € в том числе. `\
+` Many did not approve of his method that ignored their pride as cooks, and of course, that included me. `\
 bg black,22
 
 ;Б@ВвВ™ВƒБAХвН≤В∆ВїВћУѓТ≤О“ВљВњСSИхВ≈ОЂХ\ВрТ@ВЂХtВѓВйВ±В∆В≈БAГzГeГЛС§ВрЦ≥ЧЭВвВиМрП¬ВћГeБ[ГuГЛВ…ХtВ©ВєВжВ§В∆ВҐВ§ШbВ…В»ВЅВљБB@
-` ¬скоре мы, включа€ помощников и симпатизирующих, решили принудить сторону отел€ к переговорам, послав им за€влени€ об отставке. `\
+` Before long, assistants and sympathisers both decided to force the management to negotiate, by slapping them with our resignation letters. `\
 
 ;Б@ВаВ§ВїВкИ»КOВ…ХыЦ@ВЌВ»ВҐВ∆ВҐВ§ВжВ§В»ЛуЛCКіВЊВЅВљБB\
-` ¬ такой обстановке казалось, что больше нет иного выхода.`\
+` At this point, it didn't seem like we had any other choice.`\
 
 
 bg black,2
@@ -16154,26 +16154,26 @@ bg res_i4a,0
 ld c,GOH_hohoemiA2,2
 
 ;Б@ЙіВЌУЦОЮБAШrВаГvГЙГCГhВаТNВ…ВаХЙВѓВ»ВҐБAОбОиВћХMУ™КiВЊВЅВљБB@БcБcН°В…ВµВƒОvВ¶ВќБAЧњЧЭРlВ≈В†ВйВ∆УѓОЮВ…БAГzГeГЛВћП]Л∆ИхВ≈ВаВ†ВйВ∆ВҐВ§О©КoВ…ВЌБAМЗВѓВƒВҐВљВ©ВаВµВкВ»ВҐБB\
-` “огда € был самым молодым, но никому бы не проиграл в навыках и гордости.`@`  ...≈сли задуматьс€, быть может, € не понимал, что был не только поваром, но ещЄ и сотрудником отел€. `\
+` Back there, I was the youngest, but I still wouldn't lose to anyone, neither in skill, nor in pride.`@` Thinking back on it, I think I didn't quite grasp the fact that I was not only a cook, but also an employee of the hotel. `\
 ;Б@ХвН≤ВЌМ≥БXБAВїВћЧРЦ\В»ВвВиХыВ…БAПЙВяВ©ВзПжВиЛCВ≈ВЌВ»В©ВЅВљВзВµВҐБB@ВаВЅВ∆ВаВїВкВЌМгВ…В»ВЅВƒВнВ©ВйВ±В∆ВЊВ™БB@УЦОЮВћОбОиВћЙіВљВњВЌБAВҐВжВҐВжХвН≤ВаФљКшВрЦ|ВµБAВ†ВћГNГ\ГАГJВ¬В≠УсСгЦЏВ…ИкЦAРБВ©ВєВƒВвВкВйВ∆И”ЛCНЮВсВЊВаВћВЊБB\
-` ѕомощников изначально не интересовали столь безрассудные методы.`@` ѕозже € пон€л.`@` ћы, молодЄжь, восторгались подн€тием м€тежа и осыпали прокл€ти€ми раздражающего нового шеф-повара. `\
+` At first, the assistants weren't interested in such careless methods.`@` Later, I understood.`@` The young people like me were very enthusiastic about this chance at a revolt against the new head chef. `\
 bg black,22
 mono 0
 bg cit_1a,6
 ; Б@МЛЙ БAН≈МгВ…С“ВЅВƒВҐВљВћВЌВ∆ВсВ≈ВаВ»ВҐВ«ВсВ≈ВсХ‘ВµВЊВЅВљБB\
-` Ќо нас ждал неожиданный поворот. `\
+` But the end result was unexpected. `\
 ;Б@ХвН≤ВЌН≈МгВћН≈МгВ…И‘ЧѓВ≥ВкБAГNБ[ГfГ^Б[В…ЙЅВнВзВ»В©ВЅВљВћВЊБB@БcБcОјВЌГzГeГЛС§ВЌБAФhФіНRСИВ™МГЙїВµВљР~Ц[ВћФ^ПoВµВрВЈВйВҐВҐЛ@ЙпВЊВ∆НlВ¶ВƒВҐВљВзВµВ≠БA@О©Х™ВљВњВ…ЧLЧpВ»РlНёВ…ВЌЧ\ВяИ‘ЧѓВрК|ВѓВƒВ®ВЂБAВїВћПгВ≈ГNБ[ГfГ^Б[ВћФ≠РґВрВнВіВ∆М©ЙяВ≤ВµВљВћВЊБB\
-` ѕомощников в итоге отговорили от увольнени€, и они не присоединились к перевороту.`@`  ...ѕо правде сказать, сторона отел€ посчитала этот случай хорошим шансом очистить кухню, где обострилась фракционна€ борьба.`\
-` Ѕолее того, они отговорили от отставки тех, у кого имелись полезные таланты, и намеренно закрыли глаза на начало переворота.`\
+` The management talked some of the assistants out of quitting, and they didn't join in on our revolt.`@` ...After that, the hotel decided to clear the kitchen of the remaining dissidents.`\
+` They talked the most useful and skillful people out of resigning, and purposedly overlooked the attempt at a revolt.`\
 ;Б@ЙіВ…ВЌВїВћИ‘ЧѓВЌВ»В©ВЅВљБB@БcБcБcВ¬В№ВиБAГzГeГЛС§В…В∆ВЅВƒВЌБAВњВеВ§В«ВҐВҐВ®Х•ВҐФ†ВЊВЅВљВнВѓВЊБB\
-` я не сразу пон€л.`@`  ......” стороны отел€ по€вилась хороша€ возможность уволить мен€. `\
+` I didn't get it right away.`@` ...But the hotel could easily fire me now.`\
 bg black,22
 ;Б@УЦОЮВћЙіВљВњОбОиПOВЌБAХвН≤В∆ГNБ[ГfГ^Б[В…ОQЙЅВµВ»В©ВЅВљТЗК‘ВрБAЧ†РЎВиО“ВЊВ∆ФlВиБA@ШJУ≠СИЛcВћВжВ§В»Н\В¶ВрМ©ВєВЌВµВљВћВЊВ™БcБcБB\
-` ћы - молодые в то врем€ - оскорбили коллег, не прин€вших участие, назвали помощников предател€ми и спланировали контратаку, но... `\
+` We, the young ones, have been insulting our colleagues who decided not to participate. We called the assistants "traitors" and started planning a counter-attack against them, but... `\
 mono 0
 bg Mkit_1a,22
 ;Б@ЧњЧЭРlВЌЧњЧЭВрНмВЅВƒВ±ВїЧњЧЭРlВЊБB@ВїВµВƒБAЧњЧЭВрНмВзВ»ВѓВкВќБAО©Х™ВаГБГVВ™РHВ¶В»ВҐБB\
-` ѕовар есть повар потому, что готовит.`@` »наче ему не заработать себе на жизнь. `\
+` A cook is a cook because he cooks.`@` Otherwise, he cannot make a living. `\
 bg Mkit_1c,22
 
 ;Б@ЧвР√В…В»ВЅВљО“В©ВзПЗВ…БAВїВћСЫВђВ©ВзВ–ВЅВїВиВ∆РgВрИшВЂБAНƒПAРEВрВµВƒПЅВ¶ВƒВҐВЅВљБB@БcБcВїВћТiКKВ…ОКВЅВƒПЙВяВƒБAЙіВЌВжВ§ВвВ≠О©Х™ВћР¬ПLВ≥В…ЛCХtВ≠ВћВЊВЅВљБB\
