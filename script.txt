@@ -16185,46 +16185,46 @@ bg white,2
 bg cit_1a,6
 
 ;Б@ШVХ№ГМГXГgГЙГУВћМ≥ЧњЧЭРlВ∆ВҐВ§М®ПСВЂВЌБAХРКнВ…ВаВ»ВйВ™БAПdРќВ…ВаВ»ВйБB@НƒПAРEРжВрМ©В¬ВѓВйВћВЌЧeИ’В≈ВЌВ»ВҐБB@
-` “итул бывшего повара усто€вшегос€ ресторана может быть как оружием, так и бременем.`@` Ќайти другую работу непросто. `\
+` The title of a former cook in a prestigious restaurant can be both a weapon and a burden.`@` Finding a new job wasn't easy. `\
 
 ;Б@УѓКiВћГМГXГgГЙГУВвГzГeГЛВ÷ВћПAРEВрЛБВяВљВ™БAЙ°ВћВ¬В»В™ВиВ™Л≠ВҐВ±ВћЛ∆КEВ≈ВЌБAГgГЙГuГЛВћМoИ№В™ВЈВ≈В…ТmВкУnВЅВƒВҐВƒБA@ГgГЙГuГЛУЦОЦО“ВљВњВрМўВЅВљВзН°МгВћК÷МWВрМ©ТЉВ≥ВєВƒВҐВљВЊВ≠В∆В≈ВаМЊВ§ВжВ§В»БAЙсПуВ№В≈В™ЙсВ≥ВкВƒВҐВљВ∆ХЈВ≠БB\
-` я искал работу в ресторанах и отел€х того же уровн€, но у всех участников этой отрасли имелись сильные св€зи.`\
-` ѕодробности непри€тностей уже были хорошо известны, и € слышал, что даже разослали письма, глас€щие, что если они наймут людей, участвовавших в беспор€дках, то им придЄтс€ пересмотреть отношени€. `\
+` I tried to find employment at restaurants and hotels of the same level, but, all participants of this industry have strong horizontal bonds.`\
+` Details of all the trouble were already well-known, and I heard there were even some circulating letters that stated that if they hired anyone who was involved, their relations whould have to be reconsidered... `\
 ;Б@ВаВЌВвБAЙіВ™ЧњЧЭРlВ∆НƒВ—ЦЉПжВкВйЛ@ЙпВЌБAЛаЧ÷НџБAЦKВкВїВ§В…В»В©ВЅВљБcБcБB\
-` Ќичто не указывало на то, что € ещЄ смогу назвать себ€ поваром... `\
+` There was nothing indicating that I could call myself a cook ever again... `\
 bg black,0
 print 10,3000
 fede 0,3000
 
 ;Б@ВїВсВ»В†ВйУъБB@
-` » вот, однажды. `\
+` One day, suddenly. `\
 
 ;Б@ЙіВ…УѓТ≤ВµВƒИкППВ…ОЂВяВљМгФyВ©ВзШAЧНВрОуВѓВљБB\
-` ћне позвонил молодой человек, который симпатизировал нам и уволилс€ вместе со мной. `\
+` I got a call from a young man who sympathised with me and resigned at the same time I did. `\
 ;Б@В†ВйСеХxНЛВ™БAПZВЁНЮВЁВћЧњЧЭРlВрТTВµВƒВҐВйБAВ∆ВҐВ§ВћВЊБB@
-` ќн сказал, что один миллиардер ищет повара. `\
+` He told me that a certain multi-millionaire was looking for a live-in cook. `\
 
 bgm1 7
 bg BUI_R1d,22
 
 ;Б@ШbВрХЈВ≠В∆БAЛЛЛаВЌИЂВ≠В»ВҐВ™БAШJУ≠ПрМПВЌВ©В»ВиГLГcВїВ§В»ГCГББ[ГWВЊВЅВљБB@
-` «арплата была неплохой, но у мен€ сложилось впечатление, что услови€ будут весьма серьЄзными. `\
+` The pay wasn't bad at all, but I got the impressions that the working conditions would be rather severe. `\
 ;Б@ВїВћМгФyВ™БAВ©В¬ВƒРҐШbВ…В»ВЅВљЙґХ‘ВµВ…В∆БAЙіВ…В±ВћШbВрРUВЅВƒВ≠ВкВљВћВЊБB\
-` Ётот юноша рассказал мне об этом дл€ того, чтобы вернуть прошлый долг. `\
+` The young man told me this to return a past favor. `\
 ;Б@ЙљВ≈ВаБAСеХxНЛИкЙ∆В™БAРкСЃВћЧњЧЭРlВрТTВµВƒВҐВƒБA@В©В»ВиШrСOВ…ТНХґВрВ¬ВѓВƒВЂВƒВҐВйВ∆ВҐВ§БB\
-` »з того, что € услышал, миллиардер искал эксклюзивного повара.`@` »м требовалс€ кто-то очень умелый. `\
+` From what I understood, they were looking for an exclusive`@` and very skillful cook. `\
 bg res_i1b,22
 ;Б@ВµВ©ВµБAВ©В»ВиВћШrВрОЭВ¬ЧњЧЭРlВЌБAХБТ БAВ«В±В©В…ПКСЃВµВƒВҐВƒБAГtГКБ[В∆ВҐВ§В±В∆ВЌВ†ВиВ¶В»ВҐБB@ВїВкВ…РҐШbВ…В»ВЅВљВµВ™ВзВЁВаВ†ВиБAНВЛЛВрО¶В≥ВкВљВ©ВзВ∆ВҐВЅВƒБAВўВҐВўВҐВ∆ОЂВяВзВкВйВнВѓВаВ»ВҐБB\
-` Ќо очень умелые повара обычно приставлены к определЄнному месту и никак не свободны.`@` “акже их св€зывают с этим местом узы благодарности, поэтому они бы ни за что не ушли в отставку лишь потому, что им предложили высокую зарплату. `\
+` However, very skillful cooks would usually already have a job that wouldn't leave them any free time.`@` They would also have bonds of gratitude with their workplace, which means they'd never thoughtlessly resign just because pay somewhere else was better. `\
 ;Б@В¬В№ВиБAЙіВћВжВ§В»РlК‘В…ВЌВ“ВЅВљВиВћЛБРlВЊВЅВљВ∆ВҐВ§ВнВѓВЊБB\
-` »ными словами, идеальное предложение дл€ такого, как €.`\
+` In other words, it was a perfect job offer for someone like myself.`\
 bg black,22
 
 ;Б@М«УЗВћВ®ЙЃХ~В≈БAРкСЃВћЧњЧЭРlВ∆ВµВƒОdВ¶ВйБcБcБB@ИЂВ≠В»ВҐГVГ`ГЕГGБ[ГVГЗГУВЊВЅВљБB@
-` –аботать эксклюзивным поваром на уединЄнном острове...`@` Ќеплохо. `\
+` Working as an exclusive cook on a remote island...`@` didn't sound bad. `\
 
 ;Б@ВїВкВ…БAВаВЌВвСIВиНDВЁВ≈ВЂВйВўВ«ВћМoНѕУIЧ]ЧTВЌВ»ВҐБB@ВїВµВƒБAЙіВћОбБXВµВҐГvГЙГCГhВаЦЮСЂВ≈ВЂВйВЊВѓВћКiВаВ†ВйБB\
-` ƒа и моЄ финансовое положение уже не позвол€ло мне придиратьс€.`@` » к тому же, такой статус мог бы удовлетворить моЄ самолюбие.`\
+` Besides, my financial situation didn't allow me to be picky anymore.`@` Furthermore, such a high status would satisfy my youthful pride.`\
 bg black,2
 bg sky_1a,26
 wait 1000
@@ -16240,7 +16240,7 @@ bg black,26
 bg M_o1a,22
 
 ;Б@ВїВµВƒБAЙEСгЛ{Й∆ВћЧњЧЭРlСIНlВ…ОQЙЅВµВљВћВЊБB\
-` » так € прин€л участие в выборе повара семьи ”широми€. `\
+` Thus, I applied as a cook to the Ushiromiya family. `\
 bg black,22
 
 seplay 9,17
@@ -16252,48 +16252,48 @@ bg M1F_S1d,26
 
 
 ;Б@ЙіВћСЉВ…ВаБAВPВOРlИ»ПгВћОбОиЧњЧЭРlВ™ПWВяВзВкВƒВҐВљБB@
-` ѕомимо мен€ собралось более 10-ти поваров. `\
+` Ten more were gathered there besides me. `\
 ;Б@Р≥ТЉВ»В∆В±ВлБAЙіВ™Н≈НВЧоВЊВЅВљВ©ВаВµВкВ»ВҐБB@БcБcЦ{УЦВћИ”Ц°В≈ОбВҐШAТЖВћТЖВ…ВҐВйВ∆БAО©Х™ВћВ±В∆ВрВ№ВЊОбВҐВ∆ОvВЅВƒВҐВйО©Х™В™БAО©И”ОѓЙяПиВ»ВЊВѓВ»ВћВ≈ВЌВ»ВҐВ©В∆ОvВЅВƒВµВ№В§БB\
-` ≈сли честно, € был там самым старшим.`@`  ...я думал, что всЄ ещЄ молод, однако среди молодЄжи мне стало неловко. `\
+` If I recall correctly, I was the oldest person there.`@` ...I thought I was still young, and being among a bunch of people younger than myself was awkward. `\
 ;Б@ВљВЊБAОбВҐЧњЧЭРlВљВњВаБAЧ«ВҐГCГУГXГsГМБ[ГVГЗГУВрОЭВЅВƒВҐВљБB@В≥ВзВ…МoМ±ВрРѕВяВќБAВ≥ВзВ…СfР∞ВзВµВҐЧњЧЭРlВ…В»ВйВЊВлВ§БB@
-` Ќо молодые повара тоже были вдохновлены.`@` Ѕудь у них больше опыта, они бы стали замечательными поварами. `\
+` But the young ones had a lot of inspiration.`@` If they had more experience, they would probably become wonderful cooks. `\
 ;Б@ВЊВ™БAРѕВЁПdВЋВ∆ВҐВ§У_В≈БAВвВЌВиЙіВ…В©В»ВиВћЧLЧШВ™В†ВЅВљБB\
-` ¬ опыте € превосходил их. `\
+` In terms of experience, I really had the upper hand here. `\
 
 bg black,22
 bg Mdin_1e,0
 ld c,GOH_omakaseA3,22
 
 ;Б@В№ВљБAРжСгСНЧњЧЭТЈВћОdНЮВЁВ≈В†ВйБAРЏЛqЛZПpВаСеВҐВ…Х]ЙњВ≥ВкВљБB@Р~Ц[В©ВзПoВ»ВҐЧњЧЭРlВ∆БAВuВhВoСКОиВ…О©ВзЧњЧЭВрЙ^В—БAКљТkВЈВйВ±В∆В≥В¶В†ВйГzГeГЛЧњЧЭРlВћНЈВ™ЧрСRВ∆ПoВйБB@
-`  роме того, мен€ высоко оценили за мои навыки при обслуживании клиентов, которым € научилс€ с предыдущим шеф-поваром.`\
-` ќчевидна разница между поваром, не покидающим кухню, и поваром отел€, который сам относит еду важным клиентам и даже ведЄт при€тный разговор.`\
+` Also, I was highly valued for my skills when serving the customers, which I learned with the previous head chef.`\
+` The difference between a cook that never leaves the kitchen and a cook that brings food out to customers and talks to them is obvious.`\
 
 ;Б@ВЊВ©ВзБAВ№ВЄЙіВ™НћЧpВ≥ВкВйВЊВлВ§В∆ВҐВ§ОиЙЮВ¶ВЌКіВґВƒВҐВљБB\
-` ѕоэтому € чувствовал, что эта работа достанетс€ мне. `\
+` That's why I felt that I would get this job. `\
 bg black,22
 ;Б@БcБcВµВ©ВµВїВкВ≈ВаБAБgСЉВћРEПкВћГNГZВ™В©В¶ВЅВƒО„ЦВВ…В»ВйБhВ∆ВҐВ§ВжВ§В»ЧЭЧRВ≈БA@ОбОиВрЧDРжВµВƒНћЧpВЈВйЙ¬Ф\РЂВаВ†ВйБB@
-` ...Ќо всЄ равно они могли бы нан€ть кого-нибудь помоложе,`@` объ€снив это тем, что Џ00171привычки с других рабочих мест привод€т к проблемамЏ00187. `\
+` ...There was still the chance that they would pick someone young because`@` 'habits from other workplaces will cause trouble', or something like that. `\
 ;Б@МЛЛ«ВћВ∆В±ВлБAР_ЧКВЁВЊВЅВљБB\
-` ¬прочем, всЄ было в руках Ѕожьих. `\
+` In the end, it was really up to luck. `\
 bg Mdin_1f,0
 ld c,NAT_DefA1,24
 
 ;Б@ВЊВ©ВзМгВ…БAЙƒФ№ЙЬЧlВћТяВћИкРЇВ≈ЙіВ…НћЧpВ™МИВ№ВЅВљВ∆ТmВЅВљОЮБA@МгМхВ™НЈВµВƒМ©В¶ВљВаВћВЊБB\
-` » потом, когда мне сказали, что ћадам Ќацухи решила отдать место повара мне,`@` € увидел вокруг неЄ си€ющий ореол. `\
+` Later, Madam Natsuhi told me she gave the final word that I'll get the job,`@` and I could see a smile on her face. `\
 bg black,22
 bg white,2
 bg sky_1a,22
 
 ;Б@В±В§ВµВƒЙіВЌБAЙEСгЛ{Й∆В…ОdВ¶ВйРкСЃЧњЧЭРlВ…МИВ№ВЅВљБB@
-` “ак € стал особым поваром, служащим семье ”широми€. `\
+` And thus, I became the exclusive cook who would serve the Ushiomiya family. `\
 ;Б@М_ЦсКъК‘ТЖВЌБAК÷МWО“И»КOВћРlК‘В…ИкРЎЧњЧЭВрРUХСВЅВƒВЌВ»ВзВ»ВҐВ∆ВЈВйМ_ЦсВаБAФсПнВ…ГGГOГ[ГNГeГBГuВ…КіВґВзВкБAЙіВћГvГЙГCГhВрВ±ВћПгВ»В≠ОhМГВµВљБB\
-` ¬о врем€ действи€ контракта € могу готовить только этой семье. `\
+` For the duration of the contract, I could not offer my food to anyone except this family. `\
 bg black,22
 ;Б@ЙіВћЧњЧЭВЌЙEСгЛ{ИкС∞И»КOВ…ВЌТсЛЯВ≥ВкВ»ВҐБcБI@
-` ћою готовку не увидит никто, кроме родственников семьи ”широми€!.. `\
+` Nobody will see my cooking except the Ushiromiya family!.. `\
 
 ;Б@ИЂВ≠В»ВҐБB@В±В§ВµВƒЙіВћСжУсВћРlРґВ™БAШZМђУЗВћЙЃХ~В≈ОnВ№ВйВ±В∆В∆В»ВЅВљВћВ≈В†ВйБcБcБB\
-` Ќеплохо.`@` » так в особн€ке –оккенджимы началась мо€ втора€ жизнь... `\
+` Not bad.`@` And thus started my second life at the Rokkenjima mansion... `\
 fede 0,2000
 
 se1 1010
@@ -16301,30 +16301,30 @@ bg note1,24
 me1v 11,90
 
 ;Б@ЙіВћЧњЧЭРlВ∆ВµВƒВвБAОgЧpРlВ∆ВµВƒВћЛкШJШbВЌБAВЃВЊВЃВЊПСВҐВƒВаЦ ФТВ≠В»ВҐВЊВлВ§БB@ЙіВаПСВҐВƒЦ ФТВ≠В»ВҐБB@ВЊВ©ВзБAШZМђУЗВ…ЛќВяВйРlК‘В∆ВµВƒБAЦ ФТВҐВ±В∆ВрПСВ≠В±В∆В…ВЈВйБB\
-` ќ моих прошлых непри€тност€х повара и слуги писать было бы утомительно и неинтересно.`@` —лишком неинтересно.`@` ѕоэтому € решил написать об интересном в работе на –оккенджиме. `\
+` My past troubles as a cook and as a servant would be very tedious and uninteresting to write about.`@` It would be too boring.`@` That's why I decided to write down interesting things about my working life in Rokkenjima. `\
 
 se1 1010
 bg black,24
 
 ;Б@ВїВћН≈ВљВйВаВћВ™БAЙ©ЛаВћЦВПЧБAГxГAГgГКБ[Г`ГFВћУ`РаВЊВлВ§БB\
-` » самое интересное - легенда о Ѕеатриче, «олотой ведьме. `\
+` And the most interesting thing is, no doubt, the legend of Beatrice, the Golden Witch. `\
 E_A
 bgm1 17
 
 ;Б@УъЦ{СSНСБAВ«В±В…ВҐВЅВƒВавMВиВвВзОфВҐВвВзВћШbВЌВ†ВйВаВћВЊБB@ВаВњВлВсБAЙіВ™ЛќВяВƒВҐВљГzГeГЛВ≈ВаБAВїВ§ВҐВ§ШbВЌВҐВ≠ВзВ≈ВаВ†ВЅВљБB@
-` ¬о всей японии есть истории о прокл€ти€х и тому подобном.`@` –азумеетс€, в отеле, где € раньше работал, тоже было много таких историй. `\
+` All over Japan, wherever you are, there are stories about curses and such.`@` Of course, the hotel I used to work at also had plenty of these. `\
 
 bg Mhal_2c,22
 ;Б@ВЊВ©ВзРVВµВҐРEПкВ≈ВїВ§ВҐВ§ШbВрХЈВҐВљОЮБA@В†ВЯБAВ±В±В…ВаВїВ§ВҐВ§ШbВ™В†ВйВћВ©В∆ЛкПќВҐВµВљВ±В∆ВрОvВҐПoВЈБB\
-` ѕомню, услышав такую историю на новой работе, € горько улыбнулс€ и подумал:`@` Џ00171ј-а, такие истории есть и здесь?Џ00187.`\
+` So, the first time I heard this story at my new job, I smiled bitterly and thought,`@` 'Oh, not this again...'.`\
 bg black,22
 ;Б@ВїВкВ…ВµВƒВаХѕВнВЅВƒВҐВйБB@
-` Ќо эта истори€ друга€. `\
+` But this story was different from others. `\
 ;Б@УъЦ{ВћЙцТkВЌБAСеТпБAЧHЧмВ∆В©УъЦ{УIВ»ЧdЙцВЊБB@ВїВкВ™БAЙ©ЛаВћЦВПЧБAГxГAГgГКБ[Г`ГFВ≥В№В∆ЧИВйВћВЊВ©ВзБAБcБcЙљВ∆ВаИбШaКіВрКіВґВљВаВћВЊБB\
-` “емы большинства €понских историй - призраки или Єкаи.`@` ќднако эта - о Ѕеатриче, «олотой ведьме, поэтому...мне стало не по себе. `\
+` Most other stories in Japan focus on ghosts or yokai.`@` This legend of Beatrice, the Golden Witch, was different enough from that to make me uncomfortbale. `\
 bg M_o1b,26
 ;Б@ВµВ©ВµБAВ±ВћОЮСгНцМлВ≥В¶КіВґВ≥ВєВйЙEСгЛ{Й∆ВћВ®ЙЃХ~В…В®ВҐВƒВЌБAОOКpЛ–ВрУ™В…К™ВҐВљВ®КвВ≥ВсВЁВљВҐВ»ЧHЧмВ™ПoВƒВЂВƒВаБAВёВµВлОЄПќВµВƒВµВ№В§ВЊВѓВЊВЅВљВлВ§БB@В±ВћВ®ЙЃХ~В…СКЙЮВµВҐЙцТkВЊВЅВљВћВ©ВаВµВкВ»ВҐБB\
-` Ќо от особн€ка семьи ”широми€ так и веет анахронизмом, и даже если по€витс€ призрак вроде ойвы с еЄ треугольной пов€зкой на голове, он вызовет разве что смех.`@` ¬сЄ-таки этому особн€ку подход€т призрачные истории.`\
+` However, this mansion of the Rokkenjima family gives you a sensation of anachronism, so even if a ghost like Oiwa-san with her head wrapped in a triangular bandage were to come out, you'd probably only snicker at her instead.`@` Perhaps ghost stories do suit a mansion like this one.`\
 
 bg M_o1bN,0
 print 10,3000
@@ -16334,18 +16334,18 @@ mono 0
 bg portrait2,26
 
 ;Б@СеНLК‘В…У∞БXВ∆МfВ∞ВзВкВƒВҐВйП—СЬЙжВћВ≤ХwРlВ™БAЦйВ»ЦйВ»ЙЃХ~ВрЬpЬjВµВƒВҐВйВ∆ВҐВ§ВћВЊБB@
-` √овор€т, что леди с портрета, который открыто висит в зале дл€ приЄмов, каждую ночь блуждает по особн€ку. `\
+` They say that the lady from the portrait in the reception hall wanders about the mansion every night. `\
 ;Б@ВїВµВƒБAВїВћВ≤ХwРlВ±ВїВ™БAВ±ВћЙЃХ~ВћЦйВћОxФzО“В≈В†ВиБAМhВҐВћЛCОЭВњВрМЗВ©ВЈВ∆В–В«ВҐЦЏВ…СШВнВ≥ВкВйВ∆В©ЙљВ∆В©БB\
-` „то эта сама€ леди - ночна€ правительница особн€ка и что, не уважа€ еЄ, встретишь жестокий конец, и так далее. `\
+` They say that this lady rules this mansion at night, that if you don't respect her, you'll meet a cruel fate, and so on. `\
 ;Б@ХЈВ≠ШbВ≈ВЌБAГxГAГgГКБ[Г`ГFВ≥В№ВћВ±В∆ВрФnО≠В…ВЈВйФ≠МЊВрВµВљОgЧpРlВ™БAСеЙцЙдВрВµВƒОЂВяВљВЁВљВҐВ»ШbВаВ†ВйВзВµВҐБB@
-` —огласно тому, что € слышал, слуге, котора€ плохо отзывалась о госпоже Ѕеатриче, пришлось уволитьс€ из-за серьЄзной травмы. `\
+` I've heard that a servant once spoke ill of Lady Beatrice, and that this very same servant ended up retiring soon after with a serious injury. `\
 
 ;Б@БcБcВ№ВЯБAВїВ§ВҐВ§ВаВсВЊБB@ЙљВ©ХsНKВ™В†ВкВќБAВїВкВЌСSВƒБAГxГAГgГКБ[Г`ГFВ≥В№ВћвMВиВ∆ВҐВ§В±В∆В…В»ВйВнВѓВЊБB\
-` ...¬ общем, если происходит несчастье, то говор€т, что всему виной прокл€тие госпожи Ѕеатриче. `\
+` ...In other words, anything bad that happens to this island may get attributed to the curse of Lady Beatrice. `\
 ;Б@В∆ВҐВ§В±В∆ВЌХsНKВ™ЛNВ±ВЅВљОЮБAМhВҐВрО¶ВµВƒВҐВ»В©ВЅВљРlХ®В…Р”ФCВрУ]Й≈ВЈВйХµИЌЛCВ…В»ВиВ©ВЋВ»ВҐБB@ЙіВЌВЈВЃВ…ВїВкВрЧЭЙрВµБAГxГAГgГКБ[Г`ГFВ≥В№ВрИЎХ|ВµВƒВҐВйГWГFГXГ`ГГБ[ВрРSК|ВѓВйВжВ§В…ВµВљБB@
-` ј значит, когда случаетс€ беда, вин€т того, кто не про€вил уважение.`@` я сразу же пон€л и всегда страшилс€ госпожи Ѕеатриче. `\
+` Further expanding on that, it means that whenever something bad happens, the one who gets the blame is the person who doesn't repsect her.`@` I quickly figured that out and made sure to act like I respected Beatrice deeply. `\
 ;Б@ВµВ©ВµУаРSВ≈ВЌБAВїВсВ»ФnО≠В»В±В∆В™В†ВйВаВћВ©В∆Ъ}ПќВЅВƒВҐВљБcБcБB\
-` Ќо в душе € насмехалс€ над ней, ведь такой абсурд невозможен...`\
+` But in my heart, I sneered at her, since there was no way something so absurd existed...`\
 bg black,22
 wait 2000
 fede 0,1000
@@ -16361,7 +16361,7 @@ bg black,24
 bgm1 1
 
 ;Б@В±ВћБAГxГAГgГКБ[Г`ГFВћЙцТkВЌБAМ√ОQВћОgЧpРlВљВњВ…ВжВЅВƒЦѕРMВ≥ВкВƒВҐВљБB@
-` —таршие служащие слепо прин€ли историю о призраке Ѕеатриче. `\
+` This ghost story of Beatrice was blindly accepted by the senior servants. `\
 
 ;Б@МhВнВ»ВҐВ∆вMВиВ™В†ВйБAВ∆ВҐВ§ВжВиВЌБAВ№ВйВ≈БAОјНЁВµВљРlХ®В™ФсЛ∆ВћОАВрРЛВ∞БAН°В»В®МhВнВкВƒВҐВйБcБAВ∆ВҐВ§ВжВ§В»ЛуЛCКіВ…ОЧВƒВҐВљБB\
 ` Џ00171”важай, не то будешь прокл€тЏ00187 - из-за такого кажетс€, что реальный человек умер неестественной смертью...и призрак стал уважаемым. `\
