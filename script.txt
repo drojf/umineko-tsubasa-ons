@@ -16177,7 +16177,7 @@ bg Mkit_1a,22
 bg Mkit_1c,22
 
 ;Б@ЧвР√В…В»ВЅВљО“В©ВзПЗВ…БAВїВћСЫВђВ©ВзВ–ВЅВїВиВ∆РgВрИшВЂБAНƒПAРEВрВµВƒПЅВ¶ВƒВҐВЅВљБB@БcБcВїВћТiКKВ…ОКВЅВƒПЙВяВƒБAЙіВЌВжВ§ВвВ≠О©Х™ВћР¬ПLВ≥В…ЛCХtВ≠ВћВЊВЅВљБB\
-` ќдин за другим, начина€ со спокойных, они молча вышли из скандала и исчезли, получив другую работу.`@`  ...“олько тут € наконец пон€л, до чего же был неопытен. `\
+` Starting with the calmer ones, one by one, they quietly backed out from that uproar and disappeared after getting another job.`@` ...Only then did I realise just how inexperienced I was. `\
 bg black,22
 bg BUI_o1a,2
 wait 1000
@@ -16364,84 +16364,84 @@ bgm1 1
 ` This ghost story of Beatrice was blindly accepted by the senior servants. `\
 
 ;Б@МhВнВ»ВҐВ∆вMВиВ™В†ВйБAВ∆ВҐВ§ВжВиВЌБAВ№ВйВ≈БAОјНЁВµВљРlХ®В™ФсЛ∆ВћОАВрРЛВ∞БAН°В»В®МhВнВкВƒВҐВйБcБAВ∆ВҐВ§ВжВ§В»ЛуЛCКіВ…ОЧВƒВҐВљБB\
-` Џ00171”важай, не то будешь прокл€тЏ00187 - из-за такого кажетс€, что реальный человек умер неестественной смертью...и призрак стал уважаемым. `\
+` 'Respect her or you'll be cursed' -- thanks to phrases like that, it felt like a person might die an unnatural death if they don't respect the witch. `\
 bg Mkit_1a,0
 ld l,KAN_DefA1,0
 ld c,KUM_DefA1,0
 ld r,GEN_DefA1,22
 ;Б@П≠В»В≠В∆ВаБAГxГAГgГКБ[Г`ГFВрФnО≠В…ВЈВйВжВ§В»Ф≠МЊВрВЈВйВ±В∆ВЌБAМїВ…РTВёВ„ВЂВ≈В†ВйВ∆ВҐВ§Л≠ВҐЛуЛCВ™В†ВиБA@ВљВ∆В¶ТГИщВЁШbВ≈В†ВЅВљВ∆ВµВƒВаБAМyБXВµВҐВ±В∆ВЌМыВ…ПoЧИВ»В©ВЅВљБB\
-` —ильна€ аура предупреждает нас не отзыватьс€ плохо о госпоже Ѕеатриче и не относитьс€ к ней легкомысленно.`@` —ловно о ней нельз€ беспечно трепатьс€ даже за чашкой ча€. `\
+` There's a strong aura warning us not to speak ill of Lady Beatrice and not to take her lightly.`@` Even chatting about her over tea wasn't something we ever did. `\
 bg black,22
 
 ;Б@РlК‘БAЦ ФТВҐВаВћВ≈БAВїВ§ВҐВ§ТЖВ…ВЄВЅВ∆РgВрВ®ВҐВƒВҐВйВ∆БAЦ{УЦВ…ВїВ§ВҐВ§ЛCОЭВњВ…В»ВЅВƒВ≠ВйБB@
-`  ак ни странно, когда долго живЄшь среди таких людей - начинаешь думать так же, как они. `\
+` As strange as it may be, if you live among people like this for a long time, you start to think like them. `\
 
 bg portrait2,26
 ;Б@ВҐВ¬ВћН†В©ВзЙіВаБAР[ЦйВћМ©ЙсВиВ≈ЛРСеП—СЬЙжВћСOВрТ ВиВ©В©ВйВ∆БAВїВћЦЏВ™ВђВеВлВиВ∆ЙіВрб…ВсВ≈ВҐВ»ВҐВ©В∆ЛѓВ¶ВйВжВ§В…В»ВиОnВяВƒВҐВљБB\
-` я начал бо€тьс€, что в один прекрасный день, когда буду проходить мимо огромного портрета во врем€ обхода поздней ночью, еЄ глаза сосредоточатс€ на мне. `\
+` I was starting to become afraid that, one day, during my usual night patrol, I might pass by in front of that huge portrait and her eyes would glare at me. `\
 ;Б@ВїВкВ≈ВаБAЙіВ…ВЌЙцТkИ»ПгВћВаВћВ…ВЌВ»ВзВ»В©ВЅВљБB@БcБcП≠В»В≠В∆ВаБAН≈ПЙВћВ§ВњВЌБB\
-` Ќо всЄ равно € был выше простых страшилок.`@`  ...ѕо крайней мере, так € говорил поначалу.`\
+` Even so, I was above these simple horror stories.`@` ...Or so I thought.`\
 bg black,2
 bg M1F_P1dN,4
 
 ;Б@ЦйВћМ©ЙсВиВЌБAНLСеВ»ЙЃХ~УаВћМЋТчВиВрСSВƒКmФFВµВ»В≠ВƒВЌВ»ВзВ»ВҐВљВяБAНЬВ™Р№ВкВйБB@ВµВ©ВµБAЙ∆РlВљВњВЌВаВ§РQР√В№ВЅВƒВҐВйВљВяБAОgЧpРlВ∆ВµВƒВЌМ®ВћЧЌВ™Ф≤ВѓВйБB\
-` Ќочные обходы сложны, ведь мы должны проверить, все ли двери и окна заперты в этом огромном особн€ке.`@` ќднако семь€ уже спала, и, как слуга, € мог немного расслабитьс€.`\
+` The night rounds are difficult since we have to check if all the doors and windows are closed inside of this huge mansion.`@` On the other hand, the family was already asleep, and I could relax somewhat as a servant.`\
 bg black,22
 bg white,23
 bg Mhal_2bN,23
 se1 22
 
 ;Б@ВїВсВ»В†ВйФ”БB@
-` ќднажды ночью. `\
+` One night. `\
 ;Б@СеНLК‘В…Т ВиВ©В©ВЅВљОЮБAСеКKТiВћПгВ÷БAРlЙeВ™ПЅВ¶ВƒВҐВ≠ВћВрМ©ВљБB@СЂЙєВаХЈВҐВљБB@
-` ѕроход€ мимо зала, € увидел силуэт, мелькающий у главной лестницы.`@` “акже € услышал шаги. `\
+` When I was passing by the reception hall, I saw a silhouette disappearing towards the grand stairscase.`@` I heard footsteps too. `\
 
 ;Б@ВаВ§ТUУяЧlВаЙЬЧlВаВ®ЛxВЁВ…В»ВзВкВƒВҐВйВЊВлВ§В∆ОvВҐБAП≠ВµГ_ГМВƒВҐВљВћВ≈БAЙіВЌСеНQВƒВ≈ЛўТ£КіВрОжВиЦяВµВљБB\ 
-` ѕоскольку € расслабилс€, дума€, что господин и мадам уже сп€т, мен€ одолели напр€жение и волнение. `\
+` Since I had thought that Master and Madam were already sleeping and I was kind of slacking around, I got greatly flustered and tense. `\
 bg white,23
 bg M1F_P1dN,22
 
 ;Б@ВїВкВЌБAВ”ВнВЅВ∆ВµВљЙeВЊВЅВљВћВ≈БAЙљВ∆В»В≠ПЧРЂУIВ»ГCГББ[ГWВрОуВѓВљБB@
-` ѕар€ща€ тень, которую € увидел, напоминала женскую фигуру. `\
+` That floating shadow left the impression of a female figure. `\
 
 ;Б@ОgЧpРlВ…БAВ†ВсВ»ГVГЛГGГbГgВћРlК‘ВЌВҐВ»ВҐВ©ВзБAО©УЃУIВ…БAЙЬЧlВ©В®ПмЧlВЊВлВ§В∆ОvВЅВљБB@ГlГOГКГWГFВ∆В©ВћГVГЛГGГbГgВћВжВ§В…БAЙљВ∆В»В≠ОvВ¶ВљВћВЊБB\
-` —реди слуг нет никого с таким силуэтом, поэтому € автоматически подумал, что это мадам или миледи.`@`  азалось, силуэт был в пеньюаре. `\
+` Among the servants, there's no one with a silhouette like that, so I automaticaly thought it was Madam or Milady.`@` It seemed like the silhouette was wearing a negligee. `\
 bg black,22
 
 ;Б@ВµВ©ВµБAВжВ≠ВжВ≠НlВ¶ВƒВЁВкВќБAВ®В©ВµВ»ШbВЊВЅВљБB@
-` Ќо, если задуматьс€, довольно странна€ истори€. `\
+` However, when I think carefully, that was quite a strange story. `\
 ;Б@ЙЬЧlВЌФсПнВ…МµВµВҐХыВ≈БAЙЃХ~УаВћШLЙЇВЌМцУєВ∆УѓВґВ≈В†ВйВ∆ПнБXМЊВнВкВƒВҐВљБB@
-` ћадам - очень серьЄзный человек, и она всегда говорила, что коридоры в особн€ке как общественные дороги. `\
+` Madam is an extremely serious person and always said that the corridors inside the mansion were the same as public roads. `\
 ;Б@В¬В№ВиБAРQК™ВЂОpВ»В«ВћВЁВЅВ∆ВаВ»ВҐОpВ≈ШLЙЇВрХаВҐВƒВЌВ»ВзВ»ВҐБAВ∆ВҐВ§В±В∆ВЊБB\
-` “о есть она имела в виду, что люди не должны ходить по коридорам в неподобающей одежде вроде пижамы. `\
+` In other words, she meant that people shouldn't walk around the corridors in informal clothing, such as pajamas.`\
 bg Mdin_1eN,0
 ld c,KLA_DefA1,22
 
 ;Б@ОјНџБAЙEСгЛ{Й∆ВћРlК‘ВЌБAО©СоВ≈В†ВйВ…ВаВ©В©ВнВзВЄБAВҐВ¬ВаЧ]ПКНsВЂУѓСRВћХЮСХВрВµВƒВҐВљБB@О©СоВ»ВсВЊВ©ВзБAВаВЅВ∆КyВ»КiНDВ≈В≠В¬ВлВ∞ВќВҐВҐВћВ…БAВ∆ВҐВ§Ш_Ц@ВЌБAЙEСгЛ{Й∆В≈ВЌТ ЧpВµВ»ВҐБB\
-` ƒаже дома члены семьи ”широми€ всегда были в формальной одежде.`@` ƒома люд€м следует носить более удобную одежду, но на эту семью така€ логика не распростран€етс€. `\
+` Actually, even when the people of the Ushiromiya family were at home, they were always using formal garments.`@` At home, one should relax and wear more comfortable clothes, but such logic didn't apply to this family. `\
 bg black,22
 bg M2F_P1aN,0
 ld l,Jes_KomaruA2,0
 ld r,Nat_ZutuuA1,24
 
 ;БјНџБAВ®ПмЧlВ™ТЕХцВµВƒВҐВйВћВрЙЬЧlВ…ЩйВяВзВкБA@ОґР”ВрОуВѓВƒВҐВйВ∆В±ВлВаМ©ВљВ±В∆В™В†ВйБB\
-` я видел один раз, как мадам упрекнула миледи за то, что та ходила в неформальном нар€де. `\
+` I actually have seen Madam chewing Milady out for having her clothes out of shape. `\
 bg black,22
 ;Б@ВЊВ©ВзБAВжВ≠ВжВ≠НlВ¶ВƒВЁВкВќБAВїВсВ»ГVГЛГGГbГgВћРlЙeВ™БAЙЃХ~ВћТЖВ≈М©ВзВкВљВЌВЄВЌВ»ВҐВћВЊБB@РlЙeВрОvВҐПoВєВќОvВҐПoВЈВўВ«БAВ†ВкВ™БAВ±ВћЙЃХ~ВћТNВ©В≈В†ВйВ∆ВЌНlВ¶ВзВкВ»В≠В»ВЅВљБcБB\
-` ѕоэтому, если хорошенько подумать, в особн€ке не должно было быть такого силуэта.`@` „ем больше € о нЄм вспоминаю, тем более неверо€тной кажетс€ мысль, что это был кто-то из особн€ка... `\
+` So, after thinking carefully, I concluded that no such silhouettes were supposed to exist in this mansion.`@` The more I think about it, the less likely it seems that it was a person from the mansion... `\
 me1 5
 bg black,22
 ;Б@ИкСћБAЙіВЌБAБcБcТNВрМ©ВљВћВЊВлВ§БB@
-`  ого же...€ увидел? `\
+` Then, who on Earth... did I see? `\
 bg portrait2,6
 
 
 ;Б@В№В≥В©Ц{УЦВ…БAБcБcБcГxГAГgГКБ[Г`ГFВ≥В№БcБcБcБH@
-` Ќеужели и вправду......госпожу Ѕеатриче?.. `\
+` Was it really... Lady Beatrice?.. `\
 ;Б@В†ВћРlЙeВрМ©ВљВћВЌБAСеНLК‘БB@БcБcВ¬В№ВиБAГxГAГgГКБ[Г`ГFВ≥В№ВћП—СЬЙжВћСOБB\
-` я увидел силуэт в зале.`@`  ......»ными словами, перед еЄ портретом. `\
+` I saw the silhouette in the reception hall.`@` ...In other words, in front of her portrait. `\
 ;Б@РlЙeВрМ©ВљВїВћОЮВжВиВаВёВµВлБAОЮК‘В™МoВЅВƒВ©ВзВћХыВ™ФЦЛCЦ°ИЂВ©ВЅВљБB\
-` —пуст€ некоторое врем€ стало ещЄ страшнее, чем в тот момент, когда € увидел силуэт. `\
+` After some time passed, I felt even more scared than the moment I saw the silhouette. `\
 bg black,22
 
 fede 0,3000
@@ -16459,102 +16459,102 @@ ld r,GOH_WaraiA1,24
 bgm1 1
 
 ;БuЙ√ЙєВ≥ВсБB@Н°ВЌВ®Й…В≈ВЈВ©БHБv@
-`" анон.`@` ” вас найдЄтс€ минута?" `\
+`"Kanon.`@` Do you have a minute?" `\
 
 ld l,KAN_FumanA2,80
 
 ;БuБcБcБcУєЛпВрРфВЅВƒХ–ХtВѓВљВзБAСеКKТiВћС|ПЬВрВЈВйВ¬ВаВиВ≈ВЈВ™БB@БcБcЙљВ©БHБv\
-`"......¬ымыв и убрав принадлежности, € планирую вычистить главную лестницу.`@`  ...¬ чЄм дело?" `\
+`"...I'm washing and tidying up the tools, after which I planned to clean the grand staircase.`@` ...Why?" `\
 bg rose_G1c,22
 ;Б@Й√ЙєВ∆ВҐВ§ЙЉВћЦЉВрОЭВ¬БAХ–ЧГВћШhВрЛЦВ≥ВкВљП≠ФNВћОgЧpРlБB@
-` ќн - слуга, использующий псевдоним Џ00171 анонЏ00187, и ему позволено носить однокрылого орла. `\
+` He is a servant who uses the alias of "Kanon", and who is allowed to wear the One-Winged Eagle. `\
 ;Б@ФёВ∆ВЌБAПЙВяВ©ВзТЗЧ«В≠В»ВкВ»ВҐВ∆ОvВЅВƒВҐВљВµБAВ±ВкВ©ВзВаВїВћВ¬ВаВиВЌВ»ВҐБB@
-` ¬начале € думал, что не смогу с ним поладить, но сейчас уже и не собираюсь. `\
+` From the very start, I thought I wouldn't be able to get along well with him, and now I didn't even want to try anymore. `\
 ;Б@БcБcВµВ©ВµБAВїВћОЮВЌТњВµВ≠БAФёВ∆ШbВ™ВµВљВҐВ∆ОvВЅВљБB\
-` ...ќднако тот момент был настолько необычен, что мне захотелось обсудить его с ним. `\
+` ...However, that moment was so unusual, that I wanted to discuss it with him. `\
 
 ;БЙіВжВиВаЛќС±ФNРФВ™ТЈВ≠БAБcБcГxГAГgГКБ[Г`ГFВ≥В№ВћЙцТkВ…ПЏВµВ≠ВƒБB@БcБcВїВкВ≈ВҐВƒБAВњВеВЅВ∆ВЊВѓЙіЧDИ В≈ШbВµВ©ВѓВзВкВйСКОиБB@
-` ќн служил дольше мен€...и знает подробности истории о призраке госпожи Ѕеатриче.`@`  ...Ќо всЄ равно € говорю с ним так, словно выше его. `\
+` He's been serving the Ushiromiya family longer than I have, and he knows the details about the horror story of Beatrice.`@` ...Even so, I can't help talking to him as if I'm his superior. `\
 
 
 ;Б@ВїВкВ≠ВзВҐВћЛCХ™В≈БAФёВ…ШbВµВ©ВѓВљВћВЊБB@
-` — таким вот чувством € говорил с ним. `\
+` That's how I felt when talking to him. `\
 ;Б@ЙіВЌБAО©РgВћСћМ±ВрТNВ©В…ШbВµВљВ©ВЅВљБB\
-` я хотел кому-нибудь рассказать о том случае. `\
+` But for now, I just wanted to talk to someone about my experience. `\
 bg rose_G1d,22
 ;Б@ШbВµВƒВ«В§В»ВйВ∆ВҐВ§ВаВћВ≈ВаВ»ВҐВћВЊВ™БAТNВ©В…ШbВ≥В»ВѓВкВќЧОВњТЕВ©В»В©ВЅВљВћВЊБB@
-` ћне всЄ равно, что он скажет.`@` я не успокоюсь, пока не обсужу это. `\
+` I don't care what he says to me.`@` I won't be able to calm down until I talk to someone. `\
 ;Б@В»ВйВўВ«БAЙ§ЧlВћО®ВЌГНГoВћО®В∆БAЛ©ВќВЄВ…ВЌВҐВзВкВ»В©ВЅВљП∞ЙЃВћЛCОЭВњВ™ВжВ≠ВнВ©ВйБcБB\
-` ¬от как, теперь € хорошо понимаю парикмахера, который не мог не прокричать Џ00171” корол€ ослиные ушиЏ00187... `\
+` I see, now I understand the feelings of the barber who couldn't help but scream 'The King Has Donkey Ears'... `\
 bg black,22
 bg rose_G1b,0
 ld r,GOH_IiwakeA1,0
 ld l,KAN_FumanA1,24
 
 ;БuБcБcБcВ†ВкВЌГxГAГgГКБ[Г`ГFВ≥В№ВЊВЅВљВсВ≈ВµВеВ§В©ВЋБB@БcБcЙ√ЙєВ≥ВсВ…ВЌОЧВљВжВ§В»МoМ±ВЌБHБv@
-`"... ажетс€, € видел той ночью госпожу Ѕеатриче.`@`  ...¬ы сталкивались с таким,  анон?"`\
+`"...I think I saw Lady Beatrice tonight.`@` ...Has that ever happened to you, Kanon?"`\
 ld l,KAN_DefA1,24
 
 ;БuБcБcБcБcБcБcБcБcБcБcБcБBБv\
 `"........................"`\
 ;Б@ВґВЅВ∆ТЊЦўВµВƒБAТlУ•ВЁВЈВйВжВ§В»ЦЏВ≈Л√ОЛВЈВйБB@
-` ќн молчал, неподвижно таращась на мен€, будто оценива€. `\
+` He remained silent and stared at me motionlessly, as if evaluating me. `\
 ;Б@БcБcВ№ВйВ≈БAЧѓВ№ВйВ„ВЂВ©У¶В∞ВйВ„ВЂВ©ВрОvИƒВЈВйФLВћВжВ§ВЊВЅВљБB@
-` ...—ловно был котом, раздумывающим, остатьс€ или сбежать. `\
+` ...It was as though he was a cat pondering about whether to stay or to run away. `\
 ;Б@В†В©ВзВ≥В№В…Ц≥ОЛВ≥ВкВљВћВЊВлВ§В©В∆ОvВҐВ©ВѓВљН†БAЙ√ЙєВ≥ВсВЌХ‘ОЦВрВµВƒВ≠ВкВљБB\
-`  огда € подумал, что он мен€ открыто игнорирует,  анон ответил. `\
+` When I started to think he was just ignoring me, Kanon answered. `\
 bg black,22
 bg sky_1a,26
 ;БuБcБcБcЦlВЌР[ЦйЛќВћМ©ЙсВиВћОЮБB@БcБcБcЙ©ЛаВћТ±ВрБAМ©ВљВ±В∆В™В†ВиВ№ВЈБBБv@
-`"......ќднажды на своей смене, когда € поздней ночью совершал обход,`@` ......€ видел золотую бабочку."`\
+`"...Once, when I was doing the rounds, during my shift, late at night,`@` ...I saw a golden butterfly."`\
 
 ;БuЙ©ЛаВћТ±БcБcБHБ@БcБcГxГAГgГКБ[Г`ГFВ≥В№В™МїВкВйОЮВ…РжРGВкВ∆ВµВƒФтВ‘В∆В©ВҐВ§БcБHБv\
-`"«олотую бабочку?..`@`  ...√оворили ведь, что при по€влении госпожи Ѕеатриче они порхают вокруг неЄ, да?.." `\
+`"A golden butterfly?..`@` They say that when Lady Beatrice appears, they fly around to announce her presence, right?.." `\
 
 bg black,22
 ;Б@ВїВ§ВҐВ§В±В∆В…В»ВЅВƒВҐВљБB@
-` ¬от так вот.`\
+` Indeed.`\
 ;Б@ЛаРFВ…ЛPВ≠Т±ВЌБAГxГAГgГКБ[Г`ГFВ≥В№ВћМїВкВйЧ\ТЫВ»ВћВЊВ∆ВҐВ§БB@
-`  ак говор€т, сверкающие золотом бабочки - предзнаменование по€влени€ Ѕеатриче. `\
+` They do say that butterflies that shine of gold are an omen of Lady Beatrice's appearance. `\
 
 ;Б@ВїВкВЌВ№ВйВ≈БAЧHЧмВ™ПoВйСOВ…МїВкВйРlН∞В…ВжВ≠ОЧВљИ ТuХtВѓВЊВ∆КіВґВƒВҐВљБB\
-` ќчень похоже на блуждающие огоньки, которые по€вл€ютс€ перед по€влением призрака. `\
+` That story was very similar to the will-o'-the-wisps that appear before a ghost shows up. `\
 bg butterfly_1a,4
 bg butterfly_2a,3
 ;Б@ВµВ©ВµРlН∞В∆ИбВҐБAЙ©ЛаВћТ±В…ВЌХsЛCЦ°В»ГCГББ[ГWВЌВ»ВҐБB@В«ВњВзВ©В∆ВҐВ§В∆БAВаВµВаОјНЁВЈВйВ»ВзВЇВ–ИкУxМ©ВƒВЁВљВҐВжВ§В»ФьВµВ≥ВрКіВґВйБB@
-` Ќо, в отличие от блуждающих огоньков, золотые бабочки отнюдь не зловещие.`@` я бы сказал, что это красота, которую мне бы хотелось увидеть хоть раз, если они и вправду есть.`\
+` But, unlike the will-o'-the-wisps, golden butterflies don't have an ominous image associated with them.`@` I would actually want to see such a beautiful thing at least once, if it really exists.`\
 
 ;Б@БcБcБcВµВ©ВµБAВљВЅВљВ–В∆ВиВћР[ЦйВћМ©ЙсВиВ≈ВїВкВ…ПoВ≠ВнВµВƒВµВ№ВЅВљВ»ВзБAВЂВЅВ∆СКЙЮВ…ХsЛCЦ°В≈ВЌВ†ВйВЊВлВ§БB\
-` ......Ќо если бы € увидел их один, во врем€ ночного обхода, они наверн€ка показались бы мне очень зловещими.`\
+` ...However, if I happened to meet them during a night round all alone, I'm sure they'd look really ominous.`\
 bg black,22
 bg rose_G1b,0
 ld r,KAN_DefA1,24
 
 ;БuБcБcМ√ВҐОgЧpРlВљВњВћК‘В≈ВЌБAЙ©ЛаВћТ±ВЌГxГAГgГКБ[Г`ГFВ≥В№ВћМїВкВйРжРGВкВ≈В†ВиБA@БcБcВїВµВƒВїВћМгВрТ«В¶ВќБAГxГAГgГКБ[Г`ГFВ≥В№В…ПoЙпВ¶ВйВЊВлВ§В∆МЊВнВкВƒВҐВ№ВЈВ™БAВїВћМгВрТ«ВЅВƒВЌВ»ВзВ»ВҐВ∆ВаМЊВнВкВƒВҐВ№ВЈБBБv\
-`"...—тарые слуги говор€т нам, что золотые бабочки сообщают о по€влении госпожи Ѕеатриче...`@`и что мы можем еЄ встретить, если последуем за ними, но также нам говор€т не идти за этими бабочками." `\
+`"...The old servants say that the golden butterflies announce the appearance of Lady Beatrice...`@` and that we might meet her if we follow them, but they also tell us not to follow." `\
 ld l,GOH_komaruA1,23
 ;БuВЊВ©ВзЙ√ЙєВ≥ВсВЌБAМгВрТ«ВнВ»В©ВЅВљБcБcБHБv@
-`"«начит,  анон, вы за ними не следовали?.." `\
+`"So, Kanon, you didn't follow after them?.." `\
 ld r,KAN_NayamuA1,80
 ;БuВЌВҐБB@БcБcВїВкВЌГxГAГgГКБ[Г`ГFВ≥В№В…СќВµБAХsМhВ…УЦВљВиВ№ВЈВћВ≈БBБv\
-`"Ќет.`@`  ...ѕойти за ними - то же самое, что про€вить неуважение к госпоже Ѕеатриче." `\
+`"No.`@` ...Going after them would be the same as disrespecting Lady Beatrice." `\
 ld l,GOH_MajimeA1,80
 ;БuБcБcВїВћМгВрТ«ВЅВљОgЧpРlВ™КmВ©БAСеЙцЙдВрВµВƒОЂВяВљВсВ≈ВµВљВЅВѓБHБv@
-`"...Ќасколько € помню, слуга, последовавша€ за ними, получила серьЄзную травму и уволилась." `\
+`"...If I remember, a servant who followed after them had a serious injury and resigned, right?" `\
 ld r,KAN_FumanA2,80
 ;БuВїВ§ХЈВҐВƒВҐВ№ВЈБB@БcБcГxГAГgГКБ[Г`ГFВ≥В№ВЌБAМhВ§О“В…ВЌК∞СеВ≈ВЈВ™БAВїВкВрМЗВ≠О“В…ВЌОcНУВЊВїВ§В≈ВЈВћВ≈БBБv\
-`"я слышал об этом.`@`  ...√оспожа Ѕеатриче терпима к тем, кто еЄ уважает, но жестока к люд€м, которым не хватает уважени€." `\
+`"Yes, I have heard of that.`@` ...Lady Beatrice is kind to those who respect her, but cruel to those who do not." `\
 bg black,22
 bg rose_G1c,24
 
 ;Б@Й√ЙєВ≥ВсВћХµИЌЛCВЌБAГxГAГgГКБ[Г`ГFВ≥В№ВћШbВрЧФВиВ…ВЈВйВ±В∆В≥В¶ХsМhВ≈В†ВйВ∆ВҐВ§ВжВ§В»КіВґВЊВЅВљБB@БcБcТPВ…ОДВрМЩВЅВƒВҐВйИ»ПгВћВаВћВрКіВґВљБB\
-` ѕо настроению  анона казалось, что даже излишне говорить о госпоже Ѕеатриче - и то кощунство.`@`  ...я почувствовал не только ненависть к себе, но и нечто большее.`\
+` Kanon's mood hinted that even talking so much about Lady Beatrice was a really bad idea.`@` ...It was beyond his usual dislike toward me.`\
 bg black,22
 bg rose_G1b,0
 ld c,GOH_omakaseA3,22
 
 ;БuЛMПdВ»ОЮК‘ВрОЄЧзВµВ№ВµВљВЋБB@СљХ™БAВ†ВкВЌОДВћМ©К‘ИбВҐВЊВЅВљВћВ≈ВµВеВ§БB@БcБcСљХ™БAЙЬЧlВ©В®ПмЧlВ™БAРQК™ВЂОpВ≈ХаВ©ВкВљВћВрМ©ВƒБAК®ИбВҐВµВƒВµВ№ВЅВљВћВ≈ВµВеВ§БBБv\
-`"ѕростите, что трачу ваше драгоценное врем€.`@` я, верно, ошибс€.`@`  ...ƒолжно быть, то была мадам или миледи в пижаме." `\
+`"Sorry for wasting your time.`@` I guess I made a mistake.`@` ...Perhaps, it was Madam or Milady wearing a pajama." `\
 textoff
 
 fede 0,1000
@@ -16566,177 +16566,177 @@ ld r,KAN_FumanA2,24
 me1 16
 
 ;БuБcБcБcБcБcБcБcБcБB@БcБcЙЬЧlВвВ®ПмЧlВ™БAВїВћВжВ§В»ОpВ≈ШLЙЇВ…ПoВзВкВйВ±В∆ВЌБAТfВґВƒВ†ВиВ№ВєВсБBБv@
-`".............`@`ћадам и миледи ни в коем случае не вышли бы в коридор в такой одежде." `\
+`"...`@`Madam or Milady would absolutely never go out in the corridor wearing such clothing." `\
 ld l,GOH_KomaruA2,80
 ;БuВµВ©ВµОДВЌОpВрМ©В№ВµВљБB@ФТВҐБcБAГlГOГКГWГFВрТЕВљПЧРЂВћВжВ§В»ГCГББ[ГWВЊВЅВљБBБv\
-`"Ќо € видел фигуру.`@` Ѕелую, ...словно женщина в пеньюаре." `\
+`"But I did see a figure.`@` It was like that of a woman wearing a negligee." `\
 ld r,KAN_DefA2,80
 ;БuБcБcБcЙЬЧlВ∆В®ПмЧlВћРQК™ВЂВ…БAВїВћВжВ§В»ВаВћВЌХЈВҐВƒВҐВ№ВєВсБBБv@
-`"......Ќе думаю, что у мадам или миледи есть подобна€ одежда." `\
+`"...I don't think Madam or Milady even have clothes like that." `\
 ld l,GOH_IiwakeA1,80
 ;БuБcБcБcБcБcБcБcБcБcБcБcБBБv\
-`"........................."`\
+`"..."`\
 bg black,22
 ;Б@ВїВћФџТиУIВ»УЪВ¶В±ВїВ™БAПЙВяВ©ВзУЪВ¶ВЊВЅВљВћВ©ВаВµВкВ»ВҐБB@
-` ¬озможно, такой ответ € и хотел услышать.`\
+` It's possible that this was the answer I actually wanted to hear.`\
 
 
 bg different_spiral_1a,22
 ;Б@ЙЬЧlВ≈ВаВ®ПмЧlВ≈ВаВ»ВҐБAПЧРЂВћЙeБB@
-` “от женский силуэт - не мадам и не миледи.`\
+` That female silhouette was neither Madam nor Milady.`\
 bg different_spiral_1b,22
 ;Б@БcБcБcВїВкВЌЦ{УЦВ…БAГxГAГgГКБ[Г`ГFВ≥В№ВЊВЅВљВћВЊВлВ§В©БB\
-` ......Ќеужели действительно госпожа Ѕеатриче? `\
+` ...Could it really have been Lady Beatrice? `\
 bg different_spiral_1a,22
 
 ;Б@дDВ…ЧОВњВ»ВҐБB@В†ВћТцУxВћВ±В∆В≈БAЦВПЧВ™СґНЁВЈВйВ»ВсВƒФFВяВљВ≠В»ВҐБB@БcБcВ†ВћРlЙeВ™ТNВ»ВћВ©БAВЌВЅВЂВиВ≥ВєВљВ©ВЅВљБB\
-` я не понимаю.`@` Ќе хочу признавать ведьм лишь из-за этого.`@`  ...ћне нужно вы€снить, чь€ это была тень.`\
+` I don't understand.`@` I don't want to acknowledge the existence of witches just because of this.`@` ...I need to figure out whose shadow it was.`\
 bg black,22
 ;Б@ВїВµВƒВїВкВЌСљХ™БAХ\ПоВ…ПoВƒВµВ№ВЅВљВћВЊВлВ§БB@ВїВкВ…Й√ЙєВ≥ВсВЌЛCХtВЂБAВ№ВйВ≈ТЙНРВћВжВ§В…МЊВ§БB\
-` », похоже, моЄ намерение отразилось у мен€ на лице.`@` ѕон€в,  анон будто бы предупредил мен€.`\
+` Perhaps, this intention of mine was reflected on myt face.`@` Kanon said, as though warning me:`\
 bg rose_G1b,0
 ld c,KAN_DefA2,22
 ;БuБcБcБcЛљУcВ≥ВсБB@ИЂВҐВ±В∆ВЌМЊВҐВ№ВєВсБB@БcБcГxГAГgГКБ[Г`ГFВ≥В№ВрЦ`УјВЈВйВжВ§В»НsИ„ВЌБAРTВ№ВкВљХыВ™РgВћВљВяВ©В∆ОvВҐВ№ВЈБBБv@
-`"......√оуда.`@` Ќе говорите ничего плохого.`@`  ...–ади вашего же блага вам стоит быть осторожнее с поступками, которые могут оскорбить госпожу Ѕеатриче." `\
+`"...Gohda.`@` Do not say anything.`@` ...For your own good, you should be careful with acts that might insult Lady Beatrice." `\
 ld l,GOH_omakaseA3,23
 ;БuВЌВЅВЌВЅВЌБAБcВ№В≥В©В№В≥В©БB@ВїВсВ»В¬ВаВиВЌВ†ВиВ№ВєВсВжБBБv\
-`"’а-ха-ха, ...нет-нет.`@` я не планирую ничего подобного." `\
+`"Ahaha... not at all, no, no.`@` I wasn't intending to do anything of the sort." `\
 ld c,KAN_fumanA1,80
 ;БuЦlВаИ»СOБB@БcГxГAГgГКБ[Г`ГFВ≥В№ВћСґНЁВрБAЛ^ВЅВљВ±В∆В™В†ВиВ№ВЈБBБv@
-`"я тоже не так давно...`@`сомневалс€ в существовании госпожи Ѕеатриче." `\
+`"I, too, not so long ago...`@`have doubted the existence of Lady Beatrice." `\
 ld l,GOH_MajimeA1,80
 ;БuВ¶БHБ@Й√ЙєВ≥ВсВ™БHБv\
-`"Ё? ¬ы,  анон?" `\
+`"Eh? Even you, Kanon?" `\
 bg black,22
 fede 0,1000
 bgm1 27
 
 bg rose_G1c,24
 ;БuВЌВҐБB@БcБcБcН°БAЛљУcВ≥ВсВ™ОЭВЅВƒВҐВйКіПоВ∆УѓВґВ≈ВЈБB@М√ВҐОgЧpРlВљВњВ™БAМhВ¶МhВ¶В∆МJВиХ‘ВЈУдВћЦВПЧВћСґНЁВ…БAЛ^ЦвВрКіВґВљВ±В∆В™В†ВиВ№ВЈБB@БcБcВаВµВїВћР≥СћВ™В†ВйВ»ВзВќБAЦ\ВҐВƒВвВлВ§В∆В≥В¶БBБv\
-`"ƒа.`@`  ......” мен€ был тот же взгл€д, что и у вас сейчас.`@` ћне казалось сомнительным существование загадочной ведьмы, к которой, как настаивали слуги, нужно про€вл€ть уважение."`\
-`"...я даже подумывал раскрыть еЄ истинное лицо, которое у неЄ непременно должно было быть." `\
+`"Yes.`@` ...I had the same opinion you did.`@` I was doubtful of the existence of this mysterious witch and confused by the insistence of the old servant to respect her."`\
+`"...I even thought about discovering her true face, if she had one." `\
 bg black,22
 
 ;Б@И”КOВЊВЅВљБB@
 ;Б@ГxГAГgГКБ[Г`ГFВ≥В№ВрЦѕРMВЈВйВ∆ОvВЅВƒВҐВљФёВаБAВ©В¬ВƒВЌВїВћСґНЁВ…Л^ВҐВрОЭВЅВƒВҐВљВ∆ВҐВ§ВћВЊБB@
 ;Б@БcБcВ»ВзВќВ±ВїБAЛCВ…В»ВЅВљБB\
-` Ќадо же.`\
-` я думал, что  анон слепо верит в госпожу Ѕеатриче, однако он говорит, что раньше сомневалс€ в еЄ существовании. `\
-` ...“еперь стало ещЄ тревожнее. `\
+` That was unexpected.`\
+` I was thinking that Kanon believed in Lady Beatrice blindly, but now he's telling me that he had doubts about her existence in the past.`\
+` ...Now I was even more worried. `\
 
 bg rose_G1b,0
 ld l,GOH_MajimeA1,0
 ld r,KAN_DefA1,22
 
 ;БuВїВћЙ√ЙєВ≥ВсВ™В»ВЇБAБcБcРMВґВйВ±В∆В…БHБv@
-`"ј почему вы верите в неЄ сейчас, ... анон?" `\
+`"And why do you believe now, ...Kanon?" `\
 ld r,KAN_FumanA1,80
 ;БuБcБcБcБcБcБcБcБcБB@БcБcБcБcЦВПЧВ…ВµВ©ПoЧИВ»ВҐКпР’ВрБAБcБcМ©ВєВзВкВљВ©ВзВ≈ВЈБB@/
-`".............`@`......ѕотому что мне показали чудо, ...на которое способна только ведьма. `@/
+`"...`@`...Because I was shown a miracle that only a witch could possibly do. `@/
 wait 400
 bg black,22
 bg butterfly_3a,22
 ;ВҐВ¶БAКпР’ВґВбВ»ВҐБB@В†ВкВЌМxНРВ≈ВµВљБB@БcБcБcВїВћСґНЁВрЛ^ВҐЦ`УјВЈВйЦlВ…БAГxГAГgГКБ[Г`ГFВ≥В№В™МxНРВ≥ВкВљВћВ≈ВЈБBБv\
-`’от€ нет, не чудо.`@` ћен€ предупредили.`@`  ......√оспожа Ѕеатриче предупредила мен€ не сомневатьс€ в ней и не оскверн€ть еЄ."`\
+`No, not a "miracle".`@` It was a warning.`@` ...A warning from Lady Beatrice herself not to doubt or insult her."`\
 bg black,22
 bg rose_G1b,0
 ld l,GOH_MajimeA1,23
 
 ;БuБcБcБcВїВћШbБB@ХЈВҐВƒВаВҐВҐВ≈ВЈВ©БHБv@
-`"......ѕо поводу этого.`@` ¬ы не могли бы рассказать мне?" `\
+`"...Sorry, but`@` could you tell me about this in detail?" `\
 ld r,KAN_DefA2,24
 ;БuБcБcБcБcБcБcБcБcБcБcБcБBБv\
-`"........................"`\
+`"..."`\
 ;Б@ФёВЌВїВ±В≈НƒВ—ТЊЦўВЈВйБB@
-` ќн снова замолчал. `\
+` He went silent once again. `\
 ;Б@ВµВ©ВµБAЛєВћТЖВћВаВвВаВвВрЙљВ∆В©ВµВƒР∞ВзВµВљВҐВ∆ОvВ§ЙіВаБAК»ТPВ…ВЌИшВЂЙЇВ™ВзВ»ВҐБB\
-` Ќо мне хотелось как-нибудь про€снить туман в груди, поэтому € не отступил. `\
+` However, I wanted to do something about the haze in my heart, so I didn't give up. `\
 ld r,KAN_OdorokiA2,80
 wait 600
 ld r,KAN_FumanA1,80
 ;Б@ВвВ™ВƒФёВЌН™ХЙВѓВµВƒБAФёВ™ЦВПЧВћСґНЁВрРMВґВйВжВ§В…В»ВЅВљВ∆ВҐВ§БgОЦМПБhВрШbВµВƒВ≠ВкВљБcБB\
-` я насто€л, и он рассказал мне о случае, когда поверил в ведьму... `\
+` I kept insisting, and he told me about the story of how he started to believe in the witch... `\
 
 bg black,22
 
 ;Б@ВїВкВЌК»ТPВ…РЃЧЭВЈВйВ∆БAВ±В§ВҐВ§ВаВћВЊВЅВљБB\
-` ѕопросту говор€, всЄ было так. `\
+` In short, it went like this. `\
 bg warehous_o1a,2
 
 
 ;Б@ЙАМ|СqМ…В…БAФёВ™гYЧнВ…УєЛпВрОыВяВƒХ–ХtВѓВљВ†ВйУъБB@ФёВЌБAЙАМ|СqМ…ВћМЃВрОgЧpРlОЇВћГLБ[Г{ГbГNГXВ…ЦяВЈВћВрЦYВкБAГ|ГPГbГgВ…УьВкВљВ№В№ПAРQВµВƒВµВ№ВЅВљВ∆ВҐВ§БB\
-` ќднажды он убирал садовый сарай.`@` “огда он забыл повесить ключ от сара€ обратно в ключницу в комнате слуг и пошЄл спать с ним в кармане. `\
+` One day, he was cleaning the gardening storehouse.`@` He forgot to put the key of the storehouse back into the keybox in the servants room, and went to bed with it in his pocket. `\
 
 ;Б@ЙАМ|СqМ…ВћГVГГГbГ^Б[ВЌБAРкЧpВћМЃВ–В∆В¬В≈ВµВ©КJВѓХ¬ВяВ™ПoЧИВ»ВҐБB@Г}ГXГ^Б[ГLБ[ВЌВ»В≠БAГXГyГAГLБ[ВаВ»ВҐБB@
-` ќткрыть или закрыть затвор сара€ можно только одним особым ключом.`@` Ќет ни универсального ключа, ни запасного. `\
+` You can only open and close the storehouse with this one single key.`@` There's no spare, and master keys don't work with this lock. `\
 
 ;Б@В¬В№ВиБAВїВћФ”БAТNВаЙАМ|СqМ…В…ВЌУьВкВ»В©ВЅВљВнВѓВЊБB\
-` “о есть в ту ночь в садовый сарай никто не мог попасть. `\
+` In other words, nobody should have been able to enter the storehouse that night. `\
 
 bg black,22
 ;Б@ВїВµВƒОЯВћТ©БB@
-` » на следующее утро... `\
+` Next morning... `\
 Se1 49
 bg warehous_o2a,26
 ld r,KAN_OdorokiA1,24
 
 ;Б@еKеNТлЙАВћОиУьВкВрВЈВйВљВяБAУєЛпВрПoВїВ§В∆ЙАМ|СqМ…ВрКJВѓВƒБAФёВЌЛЅЬ±ВµВљБB\
-` —обира€сь зан€тьс€ уходом за розарием, он открыл сарай, наде€сь подобрать инструмент, и был поражЄн. `\
+` In order to do the maintenance in the rose garden, he opened the gardening storehouse to get the tools and was shocked. `\
 
 bg black,24
 bg warehous_i1c,24
 ;Б@В†ВкВЊВѓТЪФJВ…РЃУЏВµВљВЌВЄВћСqМ…УаВ™ВяВњВбВяВњВбВ…В»ВЅВƒВҐВƒБA@/
-` “щательно прибранный, как должно было быть, интерьер сара€ был в полнейшем беспор€дке, `@/
+` The thorougly cleaned interior of the gardening storehouse was transformed into an utter mess, `@/
 bg black,22
 se2 33
 bg magicsquare_sun7,6
 ;БcБcВµВ©ВаП∞В…ММВћВжВ§В…Р‘ВҐУhЧњВ≈БAВ№ВйВ≈ЦВЦ@РwВрОvВнВєВйВжВ§В»БAХsЛCЦ°В»Р}М`В™Х`В©ВкВƒВҐВљВ∆ВҐВ§ВћВЊБB\
-`...да ещЄ и там красовалс€ напоминающий магический круг жуткий рисунок, который, по его словам, был нарисован на полу кроваво-красной краской. `\
+`...and there was an eerie drawing on the floor of something that looked like a magic circle in blood-like red paint. `\
 
 ;БuВїВсВ»ФnО≠В»В±В∆В™БB@БcЙ√ЙєВ≥ВсВ™МЃВрВЄВЅВ∆ОЭВЅВƒВҐВљВ»ВзБAЙАМ|СqМ…ВЌЦІОЇВ≈ВЌВ†ВиВ№ВєВсВ©БB@ТNВ…ВаБAСqМ…УаВрВяВњВбВ≠ВњВбВ…ВµВƒБAВїВсВ»В®В©ВµВ»Р}М`ВрХ`ВѓВљВнВѓВаВ»ВҐБBБv\
-`"ƒо чего абсурдна€ истори€.`@`  ...≈сли ключ всЄ врем€ находилс€ у вас, выходит, сарай был закрытой комнатой.`@` Ќикто не смог бы устроить там беспор€док и нарисовать столь странную фигуру." `\
+`"What an absurd story.`@` ...If you had the key the whole time, the storehouse was a closed room.`@` Nobody would be able to make a mess inside or draw such strange pictures." `\
 ;БuБcБcБcБcЦlВаУЦОЮВЌРMВґВзВкВ№ВєВсВ≈ВµВљБB@БcБcГVГГГbГ^Б[ВрКJВЂБAВ№ВйВ≈Ч≥К™В™Т ВиЙяВђВљМгВћВжВ§В»СqМ…УаВ™ВїВ±В…В†ВиБAХsЛCЦ°В»ЦВЦ@РwВ™Х`В©ВкВƒВҐВљОЮВћП’МВВЌБAН°ВаЦYВкВзВкВ№ВєВсБBБv\
-`".........“огда € тоже не мог поверить.`@`  ...я до сих пор не забыл, какое потр€сение испытал, когда открыл сарай, а там словно прошлось торнадо и был нарисован жуткий магический круг." `\
+`"...I also couldn't believe it back then.`@`  ...Even to this day, I remember the shock I experienced from opening the storehouse and seeing both the mess that only a tornado could have made and the eerie magic circle." `\
 bg black,22
 fede 0,1000
 ;БuКmВ©В…БAБcБcВїВсВ»В±В∆В™В†ВЅВљВзФЦЛCЦ°ИЂВ≠ВƒОdХыВ»ВҐБB@ВµВ©ВµБAВ±В§ВЌНlВ¶ВзВкВ№ВєВсВ©БH@/
-`" онечно, ...в такой ситуации он не мог не быть жутким.`@` Ќо разве нельз€ найти объ€снение?`@/
+`"Of course... In a situation like this, it couldn't have not looked eerie.`@` But is there truly no simple explanation?`@/
 bgm1 34
 ;Б@ВїВкВ™В†В»ВљВрЛЅВ©ВЈВљВяВћОиВћНЮВсВЊИЂЛYВЊВ∆ВҐВ§Й¬Ф\РЂВаБBБv\
-` Ёто могла быть тщательно спланированна€ шутка того, кто захотел вас напугать." `\
+` It could have just been an elaborate prank someone prepared to frighten you." `\
 
 bg rose_G1b,0
 ld r,GOH_DefA1,0
 ld l,KAN_DefA2,23
 ;БuБcБcБcБcБcБcБcБcБcБB@БcБcИЂЛYБcБcБHБv\
-`"..............`@`...Ўутка?.."`\
+`"...`@`...A prank?.."`\
 
 ld r,GOH_omakaseA3,24
 ;БuВ¶В•БAВїВ§В≈ВЈБB@В†В»ВљВЌВ®ОбВҐБB@СЉВћОgЧpРlВљВњВ…В©ВзВ©ВнВкВƒБAВїВ§ВҐВ§ИЂЛYВрВ≥ВкВљВћВ≈ВЌБHБv\
-`"ƒа, именно.`@` ¬ы молоды.`@` „тобы подразнить вас, другие служащие сыграли с вами шутку, нет?" `\
+`"Yes, precisely.`@` You are young.`@` To tease you, the other servants could have played a prank on you, couldn't they?" `\
 
 bg key2,24
 ;БuБcБcВ≈ВаБAМЃВЌЦlВ™ОЭВЅВƒВҐВљБB@В†ВћФ”В…МјВЅВƒВЊВѓВЌБAТNВаСqМ…В…УьВкВљВнВѓВаВ»ВҐБBБv\
-`"...Ќо ключ был у мен€.`@` ѕо крайней мере, той ночью, никто не мог попасть в сарай." `\
+`"...But I had the key.`@` At least during that night, there's no way anyone could have entered the storehouse." `\
 
 ;БuЙ√ЙєВ≥ВсВ™В≤СґТmВ»ВҐВЊВѓВ≈БAВаВ§В–В∆В¬ГXГyГAГLБ[В™В†ВйВ∆ВҐВ§В±В∆ВаВ†ВйВсВґВбВ»ВҐВ≈ВЈВ©БHБv@
-`"–азве не может быть запасного ключа, о котором вы не знаете?" `\
+`"Couldn't there be a spare that you simply don't know about?" `\
 
 bg black,22
 bg rose_G1b,0
 ld l,KAN_DefA2,23
 ;БuБcБcБcВҐВҐВ¶БAВ»ВҐВЌВЄВ≈ВЈБBБv\
-`"......Ќет, их не должно быть."`\
+`"...There should be no such thing."`\
  
 ld r,GOH_waraiA1,24
 
 ;БuВїВкВрМЊВҐРЎВкВ№ВЈВ©БH@Б@Й√ЙєВ≥ВсВЌГXГyГAГLБ[ВЌВ»ВҐВ∆РMВґВƒВйБB@ВµВ©ВµБAБgВ»ВҐБhВЌПЎЦЊВ≈ВЂВ»ВҐБB@ОјВЌЙ√ЙєВ≥ВсВ™ТmВзВ»ВҐВЊВѓВ≈БAГXГyГAГLБ[ВЌСґНЁВЈВйВсВґВбВ»ВҐВ≈ВµВеВ§В©БH@Б@ВїВ§НlВ¶ВкВќБAВїВћХsЙ¬ЙрВ»ЦІОЇОЦМПВЌБAТNВ©ВћИЂЛYВ≈РаЦЊВ≈ВЂВ№ВЈВжБBБv\
-`"ѕочему вы так в этом уверены?`@` ¬ы верите, что запасного ключа нет.`@` Ќо нельз€ доказать, что его *не существует*.`@` Ѕыть может, запасной ключ есть, но вы о нЄм не знаете.`@` “ак непостижимый случай с закрытой комнатой можно объ€снить чей-то шалостью." `\
+`"Why are you so certain?`@` You believe that a spare doesn't exist.`@` But you can't prove that.`@` Perhaps, a spare key exists, and you simply don't know about it.`@` This allows us to explain the incomprehensible closed room as someone's prank." `\
 bg black,22
 bg rose_G1d,23
 
 ;Б@ЙіВЌВњВеВЅВ∆БAЦЉТTТгВ…В≈ВаВ»ВЅВљВжВ§В»ЛCХ™ВЊВЅВљБB@ВаВњВлВсБAФёВ©ВзВћФљШ_ВЌВ»ВҐБB@
-` я ненадолго почувствовал себ€ великим сыщиком.`@` –азумеетс€, он не возразил моему объ€снению. `\
+` I started feeling like a great detective.`@` Kanon didn't object against my explanation. `\
 
 ;Б@ВЊВ©ВзЛCВрЧ«В≠ВµБAОДВЌГxГAГgГКБ[Г`ГFВ≥В№ВрФбФїВЈВйВжВ§В»В±В∆ВрМыВ…ВµВƒВµВ№ВЅВљБB\
 ` ” мен€ подн€лось настроение, и € таки раскритиковал госпожу Ѕеатриче. `\
