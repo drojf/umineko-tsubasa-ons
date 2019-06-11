@@ -16739,25 +16739,25 @@ bg rose_G1d,23
 ` I started feeling like a great detective.`@` Kanon didn't object against my explanation. `\
 
 ;Б@ВЊВ©ВзЛCВрЧ«В≠ВµБAОДВЌГxГAГgГКБ[Г`ГFВ≥В№ВрФбФїВЈВйВжВ§В»В±В∆ВрМыВ…ВµВƒВµВ№ВЅВљБB\
-` ” мен€ подн€лось настроение, и € таки раскритиковал госпожу Ѕеатриче. `\
+` My mood improved, and I ended up criticising Lady Beatrice. `\
 fede 0,2000
 ;Б@ЦВПЧВ»В«СґНЁВЈВйВнВѓВ™В»ВҐБB@ВЂВЅВ∆ЙљВ©ВћМ©К‘ИбВҐВ≈БAЦВПЧВ™ЛNВ±ВµВљХsЙ¬ЙрВ»ПoЧИОЦВћРФБXВаБAВЂВЅВ∆СSВƒЙљВзВ©ВћЛфСRВвГgГКГbГNВ≈РаЦЊВ™В¬В≠ВЌВЄВЊВ∆БB\
-` ¬едьм не существует.`@` Ќаверн€ка они просто неправильно пон€ли.`@` Ѕольшинство непон€тных инцидентов, за которые €кобы ответственна ведьма, безусловно, можно объ€снить хитрост€ми или случайност€ми. `\
+` Witches don't exist.`@` Surely, it was a misunderstanding.`@` All of the incomprehensible incidents that the witch is allegedly "responsible" for could be explained with simple tricks or coincidences. `\
 me1v 18,30
 bg black,22
 bg different_spiral_1b,22
 ;Б@БcБcБcБcВїВћОЮБAЙ√ЙєВ≥ВсВ™М©ВєВљБAСеВЂВ≠ЦЏВрМ©КJВ≠ВжВ§В»Х\ПоВ™БAЦYВкВзВкВ»ВҐБB@
-` ......я никогда не забуду взгл€д  анона, широко раскрывшего глаза в тот момент. `\
+` ...I'll never forget the wide-eyed expression Kanon showed me at that moment. `\
 bg different_spiral_1a,22
 ;Б@ВїВћВжВ§В»Л∞ВлВµВҐВ±В∆ВрМыВ…ВµВƒБAВЂВЅВ∆ВљВЊВ≈ВЌНѕВ№В»ВҐВ∆В≈ВаМЊВ§ВжВ§В»БAБcБcЛрВ©В»Х|ВҐВаВћТmВзВЄВ…ЛЅВ≠ВжВ§В»БAБcВїВсВ»Х\ПоВЊВЅВљБB\
-` ќн будто говорил: Џ00171“ы ни за что не останешьс€ целым и невредимым, сказав такие ужасные вещиЏ00187, ...словно испугалс€ при виде глупого смельчака. `\
+` It was as if he said 'You'll never get away unharmed after saying such dreadful things'... It was as though he was frightened by my stupidity... A face like that. `\
 
 bg black,22
 
 me1v 16,70
 
 ;Б@ФёВћВїВћХsЛCЦ°В»Х\ПоВ™БA@Т≤ОqВ…ПжВиК|ВѓВƒВҐВљОДВћРSВ…ВµВќВзВ≠ВћК‘БAЮЩВ∆ВµВƒОcВйВћВЊВЅВљБcБcБcБB\
-` ≈го жуткий взгл€д застр€л в моЄм сердце как шип.`@` я увлЄкс€ и застыл... `\
+` That uncanny expression of his got stuck in my heart as a thorn.`@` I froze, and remained like that for a while... `\
 
 fedexx 0,60,0,0,0,0,200
 fedexx 0,70,0,0,0,0,200
@@ -16778,81 +16778,81 @@ bg Mhal_2b,22
 bgm1 7
 
 ;Б@ВїВµВƒБAВїВћЮЩВћТ…ВЁВрЦYВкВ©ВѓВљВ†ВйУъВћВ±В∆БB@
-` ј потом, однажды, когда € начал забывать боль этого шипа... `\
+` And then, one day, when I was starting to forget the pain of that thorn... `\
 ;Б@ВїВћУъВЌТњВµВ≠В®КўЧlВ™КOПoВ≥ВкВљУъВЊВЅВљБB@БcБcВµВ©ВаВїВћПгБAТUУяЧlБAЙЬЧlБAВ®ПмЧlВ№В≈ВаВ™ЧЈНsВ≈ХsНЁВ∆ВҐВ§БAЙEСгЛ{ИкС∞В™УЗВ©ВзВ–В∆ВиВаВҐВ»В≠В»ВйВ∆ВҐВ§БAВ∆ВƒВаТњВµВҐУъВЊВЅВљБB\
-` Ќастал редкий день, когда господин  инзо уехал.`@`  ...» кроме того, господин, мадам и даже миледи отсутствовали в св€зи с поездкой, а значит, с острова уехала вс€ семь€ ”широми€.`@` ѕо-насто€щему редкий день."`\
+` It was a rare day, when Master Kinzo was out.`@` ...Master Krauss, Madam and Milady were also absent because of a trip, meaning the whole Ushiromiya family was gone from the island.`@` A truly rare day, indeed."`\
 
 bg Mhal_2a,23
 ;Б@ВїВћВљВяБAГVГtГgХ\ВЌРlРФВрФЦВ≠РЁТиВ≥ВкБA@В±ВћУъВЌБAМєОЯВ≥ВсВ∆ОДВћВQРlВЊВѓВ™ТSУЦВ…В»ВЅВƒВҐВљБB\
-` »з-за этого на смены назначили мало человек,`@` и в тот день на дежурстве были только € и √енджи.`\
+` Because of that, the shift chart had only a few people assigned,`@` so, that day, only Genji and I were on duty.`\
 
 bg black,22
 bg white,22
 
 bg sky_1a,22
 ;Б@ЛSВћЛПВ К‘В…ЙљВ∆ВвВзВ∆ВЌВжВ≠МЊВЅВљВаВћБB@Ц{УЦВ…ЛCКyВ»ИкУъВЊВЅВљВ±В∆ВрОvВҐПoВЈБB\
-` „асто говор€т Џ00171 ошка за дверь - мыши в пл€сЏ00187.`@` ƒень был очень при€тным.`\
+` They often say that 'when the cat's away, the mice will play'. It really was a very pleasant day.`\
 
 ;Б@МєОЯВ≥ВсВЌВЄВЅВ∆ОgЧpРlОЇВ≈БAПСЧёОЦЦ±В…ЦZОEВ≥ВкВƒВҐВљБB@
-` √енджи не выходил из комнаты слуг и был зан€т бумажной работой. `\
+` Genji never left the servant room and was busy with paperwork. `\
 
 ;Б@В»ВћВ≈ЙіВЌВ±ВЅВїВиВ∆ВћВсВ—ВиВ∆БAеKеNТлЙАВрОUНфВµБAК ГrБ[ГЛВ∆К`ВћОнВ≈еKеNВ…К£ФtВрВµВљВаВћВЊБB@Ц{УЦВ…ЛCКyВ»БAЦИПTИкУъВЌВ±В§ВҐВ§УъВ™В†ВЅВƒВаЧ«ВҐВ∆ОvВ¶ВйСfР∞ВзВµВҐИкУъВЊВЅВљБB\
-` “ак что € втайне прогуливалс€ по розарию с банкой пива и хурмой.`@` ¬ такой при€тный, замечательный день € подумал, что было бы неплохо, будь таким один день в неделе. `\
+` So, I was secretly but carefreely strolling through the rose garden with a beer can and a persimmon.`@` It was a really pleasant, wonderful day, and I wished that I could have a day like this at least once a week. `\
 
 bg black,22
 bg Mkit_1a,23
 ;Б@ВЊВ©ВзБAРHОЦВаБAО©Х™В∆МєОЯВ≥ВсВћШdВҐХ™ВЊВѓВЊВЅВљВћВ≈БAК»ТPВ…НѕВ№ВєВљБB@
-` ћне нужно было всего лишь приготовить достаточно еды дл€ себ€ и √енджи, и € легко с этим справилс€.`\
+` The only thing I had to do was cook for myself and Genji, which was a piece of cake.`\
 
 ;Б@ЧњЧЭВћОиК‘В™В»ВҐВ©ВзБAХ–ХtВѓВаК»ТPБB@ВєВЅВ©В≠В»ВћВ≈БAХБТiВжВиВаТOФOВ…Р~Ц[ВрС|ПЬВµБAГsГJГsГJВћГVГУГNВ…ЦЮЦ ВћПќВЁВрХВВ©В„ВљВаВћВЊБB\
-` √отовка не доставила много хлопот, потому и убратьс€ было просто.`@` ѕоскольку мне представилась редка€ возможность, € убирал кухню как никогда старательно и в сверкающей раковине видел отражение своей широкой улыбки. `\
+` The cooking wasn't too troublesome,`@` so having such a rare opportunity, I cleaned the kitchen more diligently than usual, and was rewarded with a reflection of my wide smile in the sparkling kitchen sink. `\
 
 bg black,22
 
 ;Б@МєОЯВ≥ВсВЌМ©ЙсВиУЦФ‘ВЊВЅВљВћВ≈БAОДВЌВїВкВрПIВ¶ВйВ∆ОgЧpРlЛxМeОЇВ÷ЦяВиБA@ВћВсВ—ВиВ∆ГVГГГПБ[ВрЧБВ—ВƒИкУъВћФжВкВрЦьВµВљВћВЊБB@БiФжВкВаЙљВаБAеKеNТлЙАВ≈ИкФtВвВЅВљВЊВѓВЊВ™БcБj\
-` √енджи отвечал за обходы, поэтому €, закончив дела, вернулс€ в комнату слуг,`@` а затем сн€л дневную усталость, беззаботно прин€в душ.`\
+` Genji was in charge of patrolling, so when I was finished with my work, I returned to the servants' room and,`@` to get rid of the daily fatigue, I took a shower.`\
 
 fede 0,2000
 E_A
 me1v 23,70
 ;Б@ВїВµВљВзБAУdШbВ™Ц¬ВиЛњВҐВљБB@
-` ¬друг зазвонил телефон. `\
+` Suddenly, the phone rang. `\
 
 ;Б@В±ВћОЮК‘В…ВнВіВнВіУdШbВ™К|В©ВЅВƒВ≠ВйВћВЊВ©ВзБAЙљВ©Л}ВрЧvВЈВйВ±В∆ВЊВлВ§В©В∆ЛЅВ≠БB\
-` Џ00171–аз звон€т в такой час, стало быть, что-то срочноеЏ00187, - удивлЄнно подумал €.`\
+` I thought that calling at this hour meant it was something urgent.`\
 
 bg M1F_P1cN,26
 ;Б@МєОЯВ≥ВсВЌБAР[ЦйВ…ВЌУdШbВрЦ¬ВзВЈВћВаПгХiВ≈ВЌВ»ВҐВ∆ВҐВ§НlВ¶ВћРlВ≈БAР[ЦйВ…Л}ЧpВ™В†ВЅВƒВаУdШbВЌЛ…ЧЌОgВнВЄБAСКОиВћХФЙЃВ№В≈НsВЅВƒГmГbГNВЈВйРlВЊВЅВљБB@
-` √енджи считает, что грубо звонить посреди ночи, даже если случилось что-то срочное. ќн бы предпочЄл не звонить и постучал бы в дверь того, к кому у него дело.`\
+` But Genji never calls in the middle of the night, even if something urgent happens. He'd rather avoid the phone call and go up to knock on the door of the person he had business with.`\
 
 ;Б@ВїВсВ»МєОЯВ≥ВсВ™УdШbВрЦ¬ВзВЈВћВЊВ©ВзБA@ИкСћЙљВ™ЛNВ±ВЅВљВћВ©В∆БAСеНQВƒВ≈ГoГXГ^ГIГЛВрФнВиВ»В™ВзОуШbКнВрОжВЅВљВћВЊБB\
-` Џ00171–аз звонит √енджи,`@` что же могло произойти?Џ00187 - подумал €, поднима€ трубку и накрыва€сь махровым полотенцем.`\
+` I wondered what must have happened for Genji,`@` of all people,`@` to call. In a rush, I covered myself with a bath towel and picked up the phone.`\
 
 E_M1
 SE1 53
 bg black,22
 bg TEL1a,26
 ;Б@ЙљВ©В†ВиВ№ВµВљВ©БH@Б@ВїВћХ‘ОЦВЌОјВ…ТPПГВЊВЅВљБB\
-` „то-то случилось?`@` ќтвет был очень простым.`\
+` "Did something happen?"`@` His answer to that was really simple.`\
 me1 11
 bg black,22
 ;БuБcБcСеОКЛ}БAР~Ц[В№В≈ЧИВƒЧ~ВµВҐБB@Л}В∞БBБv\
-`"...—корее спустись на кухню.`@` ѕоторопись."`\
+`"...Come to the kitchen as soon as you can.`@` Hurry."`\
 bg M1F_P1cN,22
 
 ;Б@ВїВћРЇВЌБAМєОЯВ≥ВсВ…ВµВƒВЌБAП≠ВµПгОCВЅВљВжВ§В»КіВґВЊВЅВљБB@
-` ”читыва€, что звонил √енджи, его голос звучал по-странному нервно.`\
+` It was strange for Genji's voice to sound so nervous.`\
 ;Б@РЇРFВЊВѓВ≈БAЙљВ©В®В©ВµВ»В±В∆В™ЛNВ±ВЅВљВ…ИбВҐВ»ВҐВ∆СzЛNВ≥ВєВљБB\
-` ќдин тон его голоса навЄл мен€ на мысль, что €вно произошло нечто странное.`\
+` However, the tone of his voice made me realize that something very strange must have happened.`\
 
 ;Б@БcБcВµВ©ВµБAИкСћЙљВ™ЛNВ±ВЅВљВ∆ВҐВ§ВћВ©БB@
-` ...Ќо что же могло случитьс€?`\
+` ...But what on Earth could have happened?`\
 ;Б@Р~Ц[В∆МЊВ¶ВќБAО©Х™В…В∆ВЅВƒВаВЅВ∆ВаПdЧvВ»ОзФхИ ТuВЊБB@ВїВ±В≈ЙљВ©ХsОиНџВ™В†ВЅВљВ∆ВЈВкВќБAВїВкВЌХіВкВаВ»ВҐО©Х™ВћР”ФCБB@БcВµВ©ВµБAО©Х™В…МјВЅВƒБAР~Ц[В≈ХsОиНџВ™В†ВйВЊВлВ§В©БH@Б@В∆В…В©В≠БAВаВ§ИкУxТЕС÷В¶БAР~Ц[В…ЛмВѓНЮВёВµВ©В»В©ВЅВљБB\
-`  стати, кухн€ ведь мо€ цитадель.`@` ≈сли к тому, что там произошло, привела мо€ неумелость, ответственность будет лежать на мне.`@`  ...Ќо разве € мог как-то оплошать на кухне?`@`  ак бы то ни было, € снова переоделс€ и бросилс€ на кухню.`\
+` By the way, the kitchen, to me, was my fortress.`@` If whatever happened there was due to my ineptitude, I would be responsible.`@` ...But how could I, of all people, mess something up in the kitchen?`@` Anyway, I changed clothes once again and rushed to the kitchen.`\
 E_A
 bg black,22
 ;Б@ВїВµВƒБAБcБcБcВїВ±В≈ЦЏВ…ВµВљВаВћВрБAЙіВЌЦYВкВзВкВ»ВҐВЊВлВ§БB\
-` » тогда... я никогда не забуду того, что там увидел.`\
+` And then... I'll probably never forget what I saw there.`\
 
 bgm1 32
 bg Mkit_1aN,0
@@ -16861,77 +16861,77 @@ se1 16
 quakex 2,200
 ld r,GOH_IkariA2,24
 ;БuБcБcВ±БAВ±ВкВЌБA@БcБcБcБcБcВ«В§ВҐВ§В±В∆В≈ВЈВ©БcБcБcБBБv@
-`"... -как...`@`......как это понимать?.."`\
+`"...T-this...`@`...What's the meaning of this!?.."`\
 ld l,GEN_komaruA1,80
 
 ;БuОиУ`ВЅВƒВўВµВҐБB@ОДВ–В∆ВиВ≈ВЌОиВ…ХЙВ¶В»ВҐБBБv\
-`"ѕомоги мне.`@` ¬ одиночку € не справлюсь."`\ 
+`"I want you to help me out here.`@` It's too much for me to handle alone."`\ 
 bg Mkit_1bN,23
 
 ;Б@В±ВћИўПнВ»ПуЛµВрМ©ВƒБAМєОЯВ≥ВсВћЛЅВЂВжВ§В™БAРЇВ™ПгОCВЅВљТцУxВ≈ВµВ©В»ВҐВ±В∆ВћХыВ™БAН°В∆В»ВЅВƒВЌЛЅВЂВЊВЅВљБcБB\
-` ”читыва€ всю странность ситуации, € удивилс€ тому, что удивление √енджи отразилось лишь нервозностью в его голосе...`\
+` Looking at this bizarre situation, I was surprised at how Genji-san's surprise was only expressed in the nervousness of his voice...`\
 bg black,22
 bg different_spiral_1a,22
 bg different_spiral_1b,22
 ;Б@ЙљВµВлБA@БcБcБcРЃСRВ∆Х–ХtВзВкВљБAФсВћС≈ВњПКВћВ»ВҐВЌВЄВћБA@БcБcО©ЦЭВћР~Ц[В™БA@БcБcБcБcБcВ»ВЇВ±ВсВ»В±В∆В…БcБcБB\
-` “ак или иначе,`@` ......мо€ дорога€ кухн€, которую € тщательно прибрал,`@` ...должна быть в идеальном состо€нии,`@` .........так почему она така€...`\
+` Either way,`@` ...my beloved kitchen, that I had tidied up so well,`@` ...it should have been in a perfect condition,`@` ...so why is it like this?..`\
 
 bg different_spiral_1a,22;
 ;Б@ФzСVСдВћПгВ…БAБcБcБcЛвРFВ…ЦБВЂВ±В№ВкВљУзВвГ{ГDГЛВ™БA@БcБcВ№ВйВ≈ОqВ«ВаВћРѕВЁЦЎЧVВ—ВЁВљВҐВ…БcБcБAНВБXВ∆РѕВЁПгВ∞ВзВкВƒВҐВйВћВЊБB@
-` Ќа стойке......кастрюли и миски, отполированные до серебристого цвета,`@` ...были сложены...как детские кубики.`\
+` On the counter, the pots and bowls that I have polished until they shined,`@` ...were piled up like children's building blocks.`\
 
 bg different_spiral_1b,22
 ;Б@ВїВµВƒВїВћОьВиВ…БAВ®Л В»В«ВћТ≤ЧЭКнЛпВ™ХъОЋПуВ…ХјВ„ВзВкБcБB@БcБcБcЙљВ∆ВҐВ§ВћВ©БAСжИкИуПџВЌВ№ВйВ≈БAМіПZЦѓВ™Т≤ЧЭКнЛпВ≈НмВЅВљГgБ[ГeГАГ|Б[ГЛВ©ЙљВ©ВћВжВ§В…В≥В¶М©В¶ВљБB\
-` » вокруг этого радиально была выстроена посуда вроде ковшей...`@`  ......ѕод первым впечатлением можно описать как тотемный столб из посуды, сделанный выходцами. `\
+` And around it, the cookware, such as the ladles, were lined up radially...`@` ...The impression it gave off at first could be described like that of a totem pole built out of cookware. `\
 bg black,22
 ;Б@ВїВµВƒБAБcБcБcВїВкВзВрВЃВйВиВ∆ОжВиИЌВёВжВ§В…БAММВћВжВ§В…Р‘ВҐУhЧњВ≈В„ВЅВљВиВ∆БB@/
-` Ѕолее того, ......вокруг была толстым слоем намазана напоминающа€ кровь красна€ краска. `@/
+` Moreover, ...they were surrounded by thick, blood-like red paint, `@/
 se1 34
 bg magicsquare_GAP,22
 ;БcБcХsЛCЦ°В»ЦВЦ@РwВћВжВ§В»ВаВћВ™Х`В©ВкВƒВҐВйВћВЊБB@
-` ...Ѕыло нарисовано нечто похожее на жуткий магический круг. `\
+` ...in the shape of an eerie magical circle. `\
 
 ;Б@ФwЛЎВрВЉВІВЅВ∆ВµВљВаВћВ™В±ВЁПгВ∞ВљВћВЌБAМЊВ§В№В≈ВаВ»ВҐБcБcБB\
-` »злишне говорить, что по моей спине побежали мурашки... `\
+` Of course, shivers went up my spine... `\
 bg black,22
 ;Б@ВїВµВƒБB@Ф]Ч†В…БAВ†ВћЮЩВ™СhВйБB@
-` » тогда в моей голове возродилс€ тот шип.`\
+` And then, in my mind, the thorn from that time was revived.`\
 mono 1
 bg warehous_o2a,22
 
 
 ;Б@БcБcВ±ВкВ»ВћВЊБB@Й√ЙєВ≥ВсВ™ЙАМ|СqМ…ВћТЖВ≈М©ВљВаВћВЌБAВ№В≥В…ВЂВЅВ∆БAБcБcВ±ВкВ»ВћВЊБcБB\
-` ...–азве не то же самое, что увидел  анон в садовом сарае?`@` я чертовски уверен, что...так оно и есть...`\
+` ...Isn't this the same thing...`@` that Kanon saw in the gardening storehouse?`@` I was damn sure that was the case...`\
 bg black,22
 mono 0
 bg Mkit_1aN,0
 ld c,GEN_DefA1,24
 ;БuБcБcЛљУcБB@В±ВсВ»ВаВћВрСЉВћОgЧpРlВљВњВ…М©ВєВйВнВѓВ…ВЌВҐВ©В»ВҐБB@Н°ЦйТЖВ…Л}ВҐВ≈Х–ХtВѓВжВ§БBБv@
-`"...√оуда.`@` Ќельз€ показывать такое другим слугам.`@` ƒавай скорее уберЄмс€." `\
+`"...Gohda.`@` The other servants must not see this.`@` Let's hurry up and clean." `\
 ld r,GOH_IkariA1,24
 ;БuВїБAВїВїБAВїВ§В≈ВЈВЋБcБB@Х–ХtВѓВ№ВµВеВ§БcБB@ВЊБAТNВ™В±ВсВ»В±В∆ВрБcБcБIБv\
-`"¬е-ве-верно...`@` ƒавайте уберЄмс€...`@`  -кто мог сделать такое!.." `\
+`"R-right...`@` Let's clean...`@` Wait, no! Who could have done such a thing?!.." `\
 bg black,22
 bg Mkit_1cN,23
 ;Б@ВїВкВЌМыВ…ВµВƒВЁВƒВ®В©ВµВ»ШbВЊВЅВљБB@
-` —транна€ истори€. `\
+` What a strange story. `\
 ;Б@Н°УъВЌШZМђУЗВ…БAО©Х™В∆МєОЯВ≥ВсВћВQРlВµВ©ВҐВ»ВҐВћВЊБB\
-` —егодн€ на –оккенджиме были только √енджи и €. `\
+` Today, only I and Genji were on Rokkenjima. `\
 ;Б@ЙіВ™В±ВсВ»ФnО≠ВрВЈВйВнВѓВ™В»ВҐИ»ПгБA@БcБcФ∆РlВЌО©УЃУIВ…МєОЯВ≥ВсВ∆ВҐВ§В±В∆В…БcБcБB@
-` –аз € бы ни за что не сделал такое,`@` ...виновником автоматически становитс€ √енджи...`\
+` I would never do such an absurd thing,`@` ...so this automatically makes Genji the culprit.`\
 
 ;Б@ВҐВвВµВ©ВµБA@БcБcМєОЯВ≥ВсВ…МјВЅВƒБAВ±ВсВ»ФnО≠В»В±В∆ВрВЈВйВЊВлВ§В©БcБHБI\
-` Ќет,`@` ...разве он сделал бы нечто подобное?!..`\
+` But,`@` ...would he ever do something like this?!..`\
 bg black,22
 bg different_spiral_1a,22
 ;Б@В±ВсВ»ИЂЛYВрВµВƒЙљВ…В»ВйБHБI@Б@ЙіВ…СќВЈВйМЩВ™ВзВєБHБI@Б@В≈ВаВµВ©ВµБAМєОЯВ≥ВсО©РgВЊВЅВƒВ±В§ВµВƒХ–ХtВѓВрВµВƒВҐВйБB@О©Х™В≈ОUВзВ©ВµВƒО©Х™В≈Х–ХtВѓВйВ»ВсВƒБAБcБcВїВсВ»Ц≥С В»В±В∆ВрБAТPВ…ЙіВрЛЅВ©ВєВљВҐВ™ВљВяВЊВѓВ…БAВ±ВсВ»Р[ЦйВ…ВвВйВЊВлВ§В©БcБHБI@Б@ВїВкВ±ВїНlВ¶ВзВкВ»ВҐБI\
-` «ачем ему устраивать такую шутку?!`@` ’отел доставить мне неудобства?!`@` Ќо √енджи тоже убирает всЄ.`@` «ачем ему разбрасывать вещи и самому же их убирать? ...—делал бы он нечто столь бессмысленное лишь дл€ того, чтобы напугать мен€?!`@` Ќемыслимо! `\
+` What would he gain from such a prank?!`@` Does he just want to harass me?!`@` But Genji is cleaning, too.`@` Why would he make a mess and clean it on his own?.. Would he do something so pointless just to scare me?!`@` That's impossible! `\
 
 bg black,22
 ;Б@В±ВћГOГНГeГXГNВ»ЦВЦ@РwВћИЂЛYВ…БAВаВµФ∆РlВрЛБВяВйВ»ВзВќБB@/
-` ≈сли и искать виновника, сто€щего за этой жуткой шуткой с магическим кругом... `@/
+` If I were to find a culprit for this grotesque prank with a magic circle... `@/
 ;БcБcБcБcБcЙ©ЛаВћЦВПЧБAГxГAГgГКБ[Г`ГFВЊВ∆ВµВ©БAНlВ¶ВзВкВ»ВҐБcБcБB\
-` .........Ќа ум приходит лишь «олота€ ведьма Ѕеатриче... `\
+` ...I can only think of the Golden Witch, Beatrice... `\
 bg black,22
 fede 0,2000
 me1v 11,60
