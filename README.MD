@@ -42,9 +42,3 @@ This is the file where the English translation is being added to.
 ***UNTIL THE TRANSLATION WORK IS FINISHED, THIS FILE MUST REMAIN IN WINDOWS-1251!!!***
 When the translation is done, it will be converted back into Shift-JIS to render the comments readable again.
 - `script-old.txt` is the old English translation (from before the PS3 patch). Editing this is pointless, merely consult it for the English text.
-- The `bmp/` and `bmp2/` folders contain PS3 assets.
-These are not in the repository -- you will only get them in the release.
-You can delete a file from these to revert to the equivalent file from the base game, or
-add a file here to replace the equivalent one of the base game.
-- `[07th-Mod] Umineko Tsubasa.exe` is the executable for the patched game.
-Again, this is not in the repository and will only be in the released version.
