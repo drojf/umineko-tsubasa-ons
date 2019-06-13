@@ -17249,20 +17249,20 @@ bg Mkit_1a,26
 
 
 ;Б@ИЂЦВВћР~Ц[В…ВЌБAСеКШВ™В»ВѓВкВќВ»ВзВ»ВҐВ∆У`УЭУIВ…МИВ№ВЅВƒВҐВйБB\
-` “радици€ требует, чтобы на кухне демона был котЄл. `\
+` Tradition demands that the kitchens of demons must have a cauldron. `\
 ;Б@ВїВћСеВЂВ≥ВЌИкФ Й∆ТлВћУТСDВжВиВаСеВЂВҐБB@
 ;Б@БcБcГjГУГQГУВрОѕНЮВяВйВжВ§В…НмВЅВƒВ†ВйВћВЊВ©ВзВїВкВаУЦСRВЊБB\
-` ≈щЄ крупнее, чем средн€€ домашн€€ ванна.`\
-` ...≈стественно, раз он предназначен дл€ тушени€ человеческого м€са.`\
+` One larger than the average household bath.`\
+` ...Of course, since it's meant for stewing human meat.`\
 ;Б@ЙљВ©Х®СЫВ»ЧњЧЭВ™БcБH@Б@ВїВкВ∆ВаИЂОпЦ°В»НЙЦвВ™БcБcБH@
-` √отовитс€ подобное смертельное блюдо?..`@` »ли пытка жестокой дегустацией?..`\
+` Is that a deadly dish in the making?..`@` Or is it torture via degustation?..`\
 
 
 vsp bgsp2,0
 bg black,26
 
 ;Б@СеКШВ…ЦЮВљВ≥ВкВљВ®УТВ…ВЌГ{ГDГЛВ™ХВВ©В—БAВїВћТЖВ…ВЌНПВ№ВкВљРФОнЧёВћВ®ВҐВµВїВ§В»Г`ГЗГRГМБ[ГgВ™БcБB\
-` Ќа гор€чей воде в котле плавала чаша, в которой были разнообразные измельчЄнные, вкусные конфеты... `\
+` A bowl floated upon the hot water that filled the cauldron, a variety of minced, tasty-looking chocolates within... `\
 textoff
 bg the_3c,26
 wait 500
@@ -17277,52 +17277,52 @@ ld r,RON_DefA1,0
 print 99,2000,"breakup.dll/llb"
 
 ;ВїВ±В…ГXГ|ГbГgГЙГCГgВ™УЦВљВиБAГVГFГtЦXВрФнВЅВљГНГmГEГFВ™УoПкВЈВйБB\
-` —цену осветил прожектор, и по€вилс€ –онове в колпаке шеф-повара.`\
+` A spotlight illuminated the scene, and Ronove entered the stage, wearing a chef's hat.`\
 
 ld r,RON_WaraiA1,80
 
 ;БuВ≥ВƒБAГeГМГrВћСOВћЙЬЧlХыВ®ПмЧlХыБAВжВлВµВҐВ≈ВЈВ©В»БH@Б@П[Х™В…Г`ГЗГRГМБ[ГgВрЧnВ©ВµВƒФMВµВ№ВµВљВзБAВїВкВрРжВўВ«ЧpИ”ВµВљЧвРЕВћГ{ГDГЛВ…УьВкВƒЧвВвВµВ№ВЈБB@ВїВћК‘ВЌБAНђВЇВƒНђВЇВƒНђВЇВƒБB@/
-`"„то скажете, дамы, сид€щие перед телевизорами?`@`  ак только шоколад нагреетс€ и расплавитс€, выливаем его в заранее подготовленную миску с холодной водой.`@` «атем перемешиваем, перемешиваем, перемешиваем."`\
+`"Now then, ladies in front of the television, how is this?`@`Once the chocolate is heated and melted throughout, pour it into the bowl of cold water we've prepared beforehand.`@` Then stir, stir, stir."`\
 
 ;ВЏВсВвВиВµВƒВҐВйВ∆ЙПВ©ВзМ≈В№ВЅВƒВµВ№ВҐВ№ВЈВжБB@ИкУxЧnВ©ВµВљТjРSВЌЧвВяВ≥ВєВ»ВҐВжВ§В…БAНђВЇВƒНђВЇВƒВ∆ВлВѓВ≥ВєВ№ВµВеВ§БBБv\
-`"Ѕудьте внимательны, не то кра€ потвердеют.`@` ƒавайте размешаем, иначе расплавленные сердца мужчин остынут."`\
+`"But be careful, or the edges will solidify.`@` Let us stir so as not to let those men's molten hearts cool down."`\
 ;БГГНГmГEГF
 
 ;Б@БcБcВ∆ВҐВ§БAВ±ВћЛGРяНPЧбВћОиНмВиГoГМГУГ^ГCГУГ`ГЗГRНuНјВрБAОјВ…КyВµВїВ§В…ЙЙВґВƒВҐВйБB\
-` ...’оз€ин спецвыпуска, посв€щЄнного шоколаду ко ƒню св€того ¬алентина, был в прекрасном настроении.`\
+` ...The host of this year's Valentine's Day chocolate special seemed to be truly enjoying himself.`\
 bg black,22
 bg Mkit_1c,22
 
 ld l,RON_WaraiA2,23
 
 ;БuИ»ПгВ≈ГeГУГpГКГУГOВЌКЃЧєВ≈ВЈБB@С±ВЂВ№ВµВƒБAВ±ВћГ`ГЗГRВрЙ~ПуВћИкМыГTГCГYВ…НпВиПoВµВƒВ№ВҐВиВ№ВµВеВ§БB@ВўВзБAСfУGВ≈ВЈВЋБAГ`ГЗГRВћГNГbГLБ[ВЁВљВҐВ≈ВЈВЋВ•БBБv\
-`"–аз теплова€ обработка завершена,`@` начнЄм сжимать шоколад в крохотные кружочки.`@` ¬згл€ните, идеально, не так ли? Ќа мой взгл€д, напоминает шоколадное печенье."`\
+`"Since the tempering is complete,`@` let us continue by squeezing the chocolate into bite-size circles.`@` Look, isn't that just perfect? It is like a chocolate cookie, if I do say so myself."`\
 ;БГГНГmГEГF
 
 ;Б@ГНГmГEГFВЌОјВ…КµВкВљОdСРВ≈БAОјВ…ЧDЙлВ…ГIБ[ГoБ[ГAГNГVГЗГУВ…БAВњВеВсВњВеВсВ∆Г`ГЗГRВћГБГ_ГЛВрОЯБXВ…НмВЅВƒВҐВ≠БB\
-` –онове отточенными движени€ми чередовал свои слова с созданием р€да шоколадных медалей.`\
+` With a practiced movement, Ronove punctuated his words with the creation of a succession of chocolate medals.`\
 cl l,0
 ld c,RON_DefA1,23
 ld c,RON_WaraiA1,80
 
 ;БuВїВµВƒБAВїВћПгВ…БAЧlБXВ»ПьВиХtВѓВрВµВƒЛMПЧВЊВѓВћГIГКГWГiГКГeГBВрПoВµВƒМ©В№ВµВеВ§БB@ОДВ©ВзВЌБAКоЦ{ТЖВћКоЦ{В∆ВҐВ§В±В∆В≈ГiГbГcЧёВрВ®ПІВяВµВƒВ®ВЂВ№ВµВеВ§БB@ГAБ[ГВГУГhВ…ГsГXГ^Г`ГIВ…ГJГVГЕБ[ГiГbГcБB@В≠ВйВЁВ…ЧtТГВаСfУGВ≈ВЈБB@/
-`"ƒалее, милые дамы, про€вите оригинальность, украсив их на свой вкус.`@` „то касаетс€ основы, предлагаю орехи.`@` ћиндаль, фисташки, кешью...`@` √рецкие орехи и чайные листь€ тоже подойдут."`\
+`"Next, ladies, please show me your originality by decorating it to your own taste.`@` I shall merely suggest nuts as a basis.`@` Almond, pistachio, cashews...`@` walnuts and tea leaves are wonderful as well."`\
 
 ;ИЂЦВВћГXГyГVГГГЛГМГVГsВ∆ВµВ№ВµВƒВЌБAГ_Г`ГЕГЙВћОнВ…ГGГУГWГFГЛГgГЙГУГyГbГgВћУYВ¶Й‘ХtВЂВ≈ПьВиЧІВƒВйВћВаВ®ПІВяБB@РHВ„ВйВ∆В†ВзХsОvЛcБAИ”ТЖВћФёВћЦ{УЦВћСzВҐРlВћЦЉСOВ™ХЈВЂПoВєВƒВµВ№В§В©ВаБHБv\
-`"ќсобый рецепт демонов призывает к украшению семенем дурмана и цветком бругмансии.`@` Ѕыть может, так вы загадочным образом узнаете им€ девушки, котора€ ему нравитс€."`\
+`"he demons' special recipe calls for it to be decorated with the seed of a datura and a flower of a brugmansia.`@` When he eats it, perhaps you'll mysteriously find out the name of the girl he likes?"`\
 ld c,RON_AkuWaraiA1,80
 
 ;БuГoГМГУГ^ГCГУВЌЙ≥ПЧВћЦ≤ВћН’УTБcБI@Б@В†В»ВљВћСfУGВ≈СеРЎВ»ИкУъВ™БAРґКUВћЛLФOВ∆В»ВйВжВ§БAВ±ВћГНГmГEГFБAРSВжВиВ®ЛFВиР\ВµПгВ∞ВƒВ®ВиВ№ВЈВжБB@В’ВЅВ≠ВЅВ≠ВЅВ≠БIБv@
-`"ƒень всех влюблЄнных - праздник девичьей мечты!..`@` я, –онове, искренне желаю, чтобы вы запомнили этот прекрасный и драгоценный день на всю жизнь.`@` ѕу-ку-ку-ку!"`\
+`"The Valentine's Day is the celebration of maidens' dreams!..`@` I, Ronove, sincerely wish that you shall remember this wonderful and precious day for a lifetime.`@` Pukkukkukku!"`\
 ;БГГНГmГEГF
 
 ;Б¶Г_Г`ГЕГЙВћОнВаГGГУГWГFГЛГgГЙГУГyГbГgВаРlСћВ…ЧLУ≈В≈ВЈБB@РHВ„В»ВҐВжВ§В…БIБiЦуО“ТНБj\
-` *—ем€ дурмана и цветок бругмансии €довиты дл€ людей.`@` Ќе ешьте их! (ѕримечание автора)`\
+` (Ryukishi's note: seeds of datura and flowers of brugmansia are poisonous for humans! Don't eat them!)`\
 
 ld c,RON_WaraiA1,80
 
 ;БuВаВњВлВсВаВњВлВсБB@Н°ЙсВЌГjГУГQГУВ™РHВ„В№ВЈВћВ≈БAУ≈СРВЌВжВµВƒВ®ВЂВ№ВµВеВ§БB@В±ВкВрЧвС†М…В≈ЧвВвВµВ№ВµВљВзКЃРђВ≈ВЈБB@В≥ВЯБAЙЬЧlХыБAФПОиФПОиБAВ’ВЅВ≠ВЅВ≠БIБv\
-`" онечно, конечно.`@` ѕоскольку на сей раз шоколад будут есть люди, мы не станем добавл€ть €довитые растени€.`@`  ак только вы охладите его в холодильнике, всЄ будет готово.`@` ј теперь, дамы и господа, гром аплодисментов, пу-ку-ку!"`\
+`"Of course, of course.`@` Because humans will be eating the chocolate this time, let us not use any poisonous plants.`@` Once you cool this in the refrigerator, it is complete.`@` Now please, ladies and gentlemen, a round of applause, pukkukku!"`\
 ;БГГНГmГEГF
 
 se1 54
@@ -17331,30 +17331,30 @@ mcbg 0
 print 99,2000,"breakup.dll/llb"
 
 ;Б@СдПКВћЧdРЄВљВњВ™БAВѕВњВѕВњВнБ[ВнБ[В∆ГНГmГEГFВрО]В¶ВйБB@ВїВкВ…Р[БXВ∆ЧDЙлВ»В®ОЂЛVВрХ‘ВµБAГНГmГEГFВћГoГМГУГ^ГCГУГNГbГLГУГOВЌПIЧєВ∆В»ВЅВљБB\
-`  ухонные феи восхищЄнно захлопали.`@` ќн ответил на их похвалу из€щным поклоном, и так спецвыпуск, посв€щЄнный шоколаду ко ƒню св€того ¬алентина, подошЄл к концу. `\
+` The kitchen fairies clapped and cheered in admiration of Ronove.`@` He returned their praise with a graceful bow, and with that, the Valentine's Day chocolate special came to its conclusion. `\
 vsp bgsp2,0
 bg black,65
 
 ;Б@ГНГmГEГFВЌВїВкВрБAгYЧнВ»ПьВиФ†В…ОыВяВйБB@ВїВкВЌОеБAГxГAГgГКБ[Г`ГFВ…М£ПгВЈВйВљВяВћВаВћВЊБB\
-` –онове положил шоколад в красивую подарочную коробку,`@` подход€щую его госпоже, Ѕеатриче.`\
+` Ronove placed the chocolate in a beautifully decorated box,`@` suitable for presentation to his mistress, Beatrice.`\
 vsp bgsp2,1
 bg mkit_1a,0
 ld r,RON_DefA2,80
 
 ;БuВ®ПмЧlВаГoГМГУГ^ГCГУГ`ГЗГRВ≠ВзВҐОиНмВиВ»В≥ВкВќВҐВҐВћВ…БB@РўВҐГ`ГЗГRВћХыВ™БAУaХыВћГnБ[ГgВрШhТЌВЁВ≈ВЂВњВбВ§ОЮВаВ†ВйВћВ≈ВЈВ™ВЋВ•БBБv\
-`"Ћучше бы миледи сама сделала шоколад ко ƒню ¬алентина,`@` но временами даже такой шоколад может покорить сердце джентльмена." `\
+`"It would be best if Milady were to handcraft her own Valentine's chocolate,`@` but there are also times when this shoddy chocolate of mine can grab hold of a gentleman's heart." `\
 ;БГГНГmГEГF
 
 ;Б@ГxГAГgВћХ™ВрПЬВҐВƒВаБAГ`ГЗГRВЌВ№ВЊП[Х™В…Ч]ВЅВƒВҐВљБB@
-` ѕомимо доли Ѕеато, осталось ещЄ довольно много шоколада.`\
+` Apart from Beato's share, there was still plenty of chocolate left.`\
 
 ;Б@ГНГmГEГFВЌОиВрТ@ВЂБAГpГУГpГУВ∆ВжВ≠Т ВЅВљФПОиВћЙєВрР~Ц[ТЖВ…ЛњВЂУnВзВєВйБB\
-` –онове сложил руки, и по всей кухне раздались хлопки.`\
+` Ronove brought his hands together, and the sound of his clapping echoed throughout the kitchen.`\
 
 ld r,RON_WaraiA1,80
 
 ;БuПoВƒВЂВƒМЛН\В≈ВЈВжБB@Т≤ЧЭВћК‘БAЛCФzВрПЅВµВƒВ≠ВЊВ≥ВиВ†ВиВ™В∆В§В≤ВіВҐВ№ВЈБB@ВїВћЛCМ≠ВҐВћВ≤ЦJФьВ…БAКFВ≥ВсВ…ВаВ®РЮХ™ВѓВµВƒВ†В∞В№ВµВеВ§БBБv\
-`"“еперь можете выходить.`@` —пасибо, что не показывались, пока € готовил.`@` ¬ знак признательности € поделюсь со всеми вами."`\
+`"You may come out now.`@` Thank you kindly for keeping yourselves invisible while I was cooking.`@` As a token of my appreciation, why don't I share this with all of you?"`\
 ;БГГНГmГEГF
 
 bg Mkit_1c,24
@@ -17364,12 +17364,12 @@ ld c,RG6_WaraiA1,0
 print 99,1000,"breakup.dll/urp"
 
 ;БuВЂВбВЅВЌВЌВЌБI@Б@ВвВЯВсГНГmГEГFВ≥В№ВЯГУБAСЊВЅХ†Б`БIБv@
-`" ь€-ха-ха-ха!`@` ќ, господин –онове, вы слишком добры~!"`\
+`"Kyahahaha!`@` Oh, sir Ronove, you're too kind!~"`\
 ;БГГxГЛГ[ГuГu
 
 ;Б@ИкФ‘Н≈ПЙВ…ОpВрМїВµВљВћВЌГxГЛГ[ГuГuВЊВЅВљБB@
 ;Б@УТВєВсВрВµВƒВҐВљСеКШВћТЖВ©ВзГhГ{ГУВ∆ОpВрМїВЈБB\
-` «а котлом раздалс€ звон,`@` и по€вилась ¬ельзевул.`\
+` Beelzebub was the first to appear,`@` with a *bang* from behind the cauldron.`\
 
 bg Mkit_1a,23
 se1 52
@@ -17381,14 +17381,14 @@ print 99,1000,"breakup.dll/lrb"
 
 ;Б@ИкРlВ™ОpВрМїВµВƒВµВ№ВЅВƒВЌБAВаВ§СЉВћОoЦЕВаЙBВкВƒВҐВƒВаВµВеВ§В™В»ВҐБB@
 ;Б@ЧвС†М…ВћТЖВвВзУзВћТЖВвВзБAВ†ВњВ±ВњВ©ВзБAОиВвСЂВ™В…ВгВ§ВЅВ∆РLВ—ПoВµВƒВЂВƒБAОµОoЦЕВ™ОЯБXВ…ОpВрМїВЈБB\
-`  огда одна из них по€вл€етс€, другие сЄстры тоже выход€т.`\
-` »з холодильника, кастрюль и других подобных мест начали по€вл€тьс€ руки и ноги, и одна за другой показались —емь сестЄр.`\
+` Once one of them appears, it's no use for the other sisters to stay hidden.`\
+` From the refrigerator, from the pots, and from many other similar places, hands and f eet began to emerge, followed by the remaining six sisters themselves.`\
 se1 52
 ld c,RG4_OdorokiA3,0
 print 99,1000,"breakup.dll/llb"
 
 ;БuВаБAР\ВµЦуВ†ВиВ№ВєВсБAГНГmГEГFВ≥В№ВЅБcБB@В¬ВҐФ`ВЂМ©ВћВжВ§В»Р^ОЧОЦВрБcБBБv\
-`"ѕ-простите, господин –онове...`@` ћы наблюдали за вами не..."`\
+`"W-we apologize, sir Ronove...`@` We didn't mean to spy on you..."`\
 ;БГГxГЛГtГFГSБ[ГЛ
 
 cl c,0
