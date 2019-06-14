@@ -17396,7 +17396,7 @@ bg Mkit_1c,0
 ld r,RON_WaraiA2,24
 
 ;БuВҐВ¶ВҐВ¶БAВҐВҐВсВ≈ВЈВжБB@ОµОoЦЕВћКFВ≥ВсВ∆ВƒКFБAЙ≥ПЧБB@ГoГМГУГ^ГCГУВ…ГnБ[ГgВ™В∆ВЂВяВ©В»ВҐВнВѓВаВ»ВҐБI@Б@КFВ≥ВсВ™ЛїЦ°Т√БXВ»ВћВЌУЦСRВћВ±В∆В≈ВЈВжБBБv\
-`"Ќичего страшного.`@` ¬сЄ-таки вы всемером - девы.`@` ≈стественно, в ƒень св€того ¬алентина ваши сердца заколотились!`@` Ќеудивительно, что все вы заинтересовались."`\
+`"Think nothing of it.`@` After all, the seven of you are maidens.`@` It is only proper that your hearts should beat swiftly on Valentine's Day!`@` Of course it would be a matter of interest to all of you."`\
 ;БГГНГmГEГF
 
 se1 52
@@ -17404,59 +17404,59 @@ ld l,RG6_WaraiA2,0
 print 99,1000,"breakup.dll/lrb"
 
 ;БuГНГmГEГFВ≥В№Б`БAРHВ„ВƒВаВҐВҐВ≈ВЈВ©ВЯБH@Б@СБВ≠РHВ„ВљВҐВЅБAСБВ≠РHВ„ВљВҐБIБv@
-`"√осподин –онове-е, можно съесть?`@` ≈сть, есть хочу!"`\
+`"Sir Ronoveeeee, can I eat this?`@` I'm hungry, I'm hungry!"`\
 ;БГГxГЛГ[ГuГu
 
 ld c,RG3_OdorokiA1,64
 quakex 2,200
 
 ;БuВаБ[БAГxГЛГ[ВЌП≠ВµВЌСеРlВµВ≠ПoЧИВ»ВҐВћБIБH@Б@НQВƒВйМоРHВЌВаВзВҐВ™П≠В»ВҐВЅВƒМЊВ§ВћВжГbБIБv@
-`"Ѕоже, ты можешь хоть иногда вести себ€ по-взрослому, ¬ельз?!`@` Ќе прыгай впереди паровоза!"`\
+`"Geez, can't you act like an adult a little, Beelz?!`@` Don't count your chickens before they hatch!"`\
 ;БГГTГ^ГУ
 
 ;Б@ЛїХ±ВЈВйГxГЛГ[ГuГuВ…ОґВиХtВѓВйГTГ^ГУБB@УцВвВ©В»ЧщНЦВћОµОoЦЕВЌН°УъВаХљПнЙ^НsВЊБB\
-` —атана отругала взволнованную ¬ельзевул.`@` —емь сестЄр чистилища были всЄ такими же оживлЄнными. `\
+` Satan scolded the excited Beelzebub.`@` The Seven Sisters of Purgatory were as lively as usual today. `\
 bg Mkit_1a,23
 ld l,RON_WaraiA1,23
 
 ;БuВ®С“ВњВ»В≥ВҐБAКFВ≥ВсБB@КmВ©В…ОДВЌГ`ГЗГRВрВ®РЮХ™ВѓВЈВйВ∆ВЌР\ВµПгВ∞В№ВµВљВ™БAРHВ„ВƒЧ«ВҐВ∆ВЌИкМЊВаР\ВµВƒВҐВ№ВєВсВжБBБv@
-`"Ќе торопитесь.`@` я сказал, что желаю поделитьс€ с вами шоколадом, но не позволил вам отведать его."`\
+`"Not so hasty, everyone.`@` I said that I would share this chocolate with you, but I did not say a word about allowing you to eat it."`\
 ;БГГНГmГEГF
 
 ld r,RG6_NakuA1,66
 
 ;БuВ¶БAВ¶В¶В¶В¶В•В¶В¶В•В•В¶В•В•БcБIБI@Б@ВїБAВїВсВ»ВЯБcБB@РHВ„ВњВбВҐВѓВ»ВҐГ`ГЗГRВ»ВсВƒБAВїВсВ»ВћВ†ВсВ№ВиВ≈ВЈБAНЙЦвВ≈ВЈГbБIБv\
-`"Ё-, э-э-э-э?!..`@` Ќ-но...`@` Ўоколад, который нельз€ съесть, это уже слишком, это пытка!"`\
+`"E, eeeeeeeeeeeeeh?!..`@` B-but...`@` Chocolate we can't eat, that's too much, it's torture!"`\
 ;БГГxГЛГ[ГuГu
 
 
 ld l,RON_AkuwaraiA1,80
 
 ;БuБcГxГЛГ[В…В®ОdТuВЂВЈВйОЮВ…ВЌБAВ±ВкВ©ВзВїВ§ВЈВйВ±В∆В∆ВҐВљВµВ№ВµВеВ§БB@/
-`"...ƒавайте теперь так наказывать ¬ельзевул, если возникнет необходимость. `@/
+`"...When the need arises to punish Beelzebub, let us use this method from now on. `@/
 
 ;БcБcЧ«ВҐВ≈ВЈВ©БAКFВ≥ВсБB@В±ВкВЌГoГМГУГ^ГCГУВћГ`ГЗГRВ≈ВЈВжБH@Б@ПЧРЂВ™ТjРЂВ…Г`ГЗГRВрС°ВйСfУGВ»ИкУъВћВљВяВћГ`ГЗГRГМБ[ГgВ≈ВЈБBБv\
-` ...Ќе разочаровывайтесь.`@` Ёто шоколад ко ƒню ¬алентина, верно?`@`   чудесному дню, когда женщина дарит мужчине шоколад."`\
+` ...Do not be disappointed, everyone.`@` This is Valentine's Day chocolate, is it not?`@` That wonderful day when a woman gives chocolate to a man."`\
 ;БГГНГmГEГF
 
 bg Mkit_1b,0
 ld l,RG1_OdorokiA3,24
 
 ;БuВ»БAВ»ВйВўВ«ВЅБB@БcВ¬В№ВиБAОДВљВњВ…ВїВћГ`ГЗГRВрБAТjРЂВ…ФzВкВ∆БHБv\
-`"ѕ-пон€тно.`@`  ...—тало быть, нам нужно передать этот шоколад мужчине?" `\
+`"I, I see.`@`  ...So, we should hand this chocolate over to a man?" `\
 ;БГГНГmГEГF
 
 ld r,RON_WaraiA1,24
 
 ;БuИбВҐВ№ВЈВжГЛГVГtГ@Б[БB@ФzВйВћВ≈ВЌВ†ВиВ№ВєВсБB@КFВ≥ВсВћЛCВ…В»ВйТjРЂВћХыВ…БAГvГМГ[ГУГgВµВƒВ≠ВйВћВ≈ВЈБB@/
-`"ќшибаешьс€, Ћюцифер.`@` Ќе передать.`@` ѕодарить тому, кто вам больше всего дорог. `@/
+`"You are mistaken, Lucifer.`@` It is not 'handing over'.`@` It is giving a present to the man who is the dearest in each of your hearts. `@/
 ;ВєВЅВ©В≠ВћГoГМГУГ^ГCГУГfБ[В≈ВЌВ†ВиВ№ВєВсВ©БB@Ц{Х“РҐКEВ≈ВЌОEВµВљВћОEВ≥ВкВљВћХ®СЫВ»В±В∆ВќВ©ВиБI@Б@ВєВЅВ©В≠ВћХССдЧ†ВћЧ]ЛїВ≈ВЌВ†ВиВ№ВєВсВ©БB@ВљВ№В…ВЌКFВ≥ВсВаЙ≥ПЧВзВµВҐБAК√О_ВЅВѕВҐЛCОЭВњВрКyВµВсВ≈ВЂВƒВ≠ВЊВ≥ВҐБB@ВїВкВ™ОДВ©ВзКFВ≥ВсВ÷ВћВ®РЮХ™ВѓВ≈В≤ВіВҐВ№ВЈВжБBБv\
-`–азве сегодн€ не долгожданный ƒень св€того ¬алентина?`@` ¬ этом порочном мире вы существуете лишь дл€ того, чтобы убивать или быть убитыми!"`\
-`"–азве не драгоценна€ интермеди€ за кадром?`@` ѕозвольте себе насладитьс€ горькими чувствами молодого девичьего сердца.`@` »менно этим € бы хотел поделитьс€ с вами."`\
+`Is it not the long-awaited Valentine's Day?`@` This world is but a twisted place in which you exist to kill or be killed!"`\
+`"Is this not a precious behind-the-scenes interlude?`@` Please, allow yourselves to enjoy the bittersweet feelings of a young maiden's heart.`@` This is the gift that I wish to share with you."`\
 ;БГГНГmГEГF
 
 ;!s0БuБuБuБuБuВіВнВіВнБAВ™ВвВ™ВвБIБvБvБvБvБv/
-!s0`""""""*болтовн€*болтовн€*!""""""`/
+!s0`""""""*chatter, chatter*!""""""`/
 
 se1 48
 quakey 1,300
@@ -17467,48 +17467,48 @@ quakey 1,300
 
 ;Б@ОµОoЦЕВљВњВЌОvВнВ УWКJВ…В—ВЅВ≠ВиБB@
 ;Б@ИўРЂВ…НYВрФPВґНЮВёВ»ВзВ№ВЊВµВаБAГ`ГЗГRВрС°ВйВ±В∆В…В»ВлВ§В∆ВЌБcБB\
-` —емь сестЄр удивились столь неожиданному повороту событий.`\
-` ¬ыходит, вместо того чтобы пронзать противоположный пол кинжалами, лучше подарить шоколад?..`\
+` The seven sisters were surprised by this unexpected development.`\
+` So instead of gouging men with their stakes, it's better to give them chocolate?..`\
 bg mkit_1c,0
 ld c,RG7_WaraiA2,24
 
 ;БuВЂВбБ`Б`ГУБAГXГeГLВ°ВҐВҐВ°БI@Б@В†ВиВ™В∆В§В≤ВіВҐВ№ВЈГDГНГmГEГFВ≥В№Б`БI@/
-`" ь€-а-а, здо-о-о-орово!`@` Ѕольшое спасибо, господин –онове-е!`@/
+`"Kya~~, awesoooome!`@` Thank you so much, Sir Ronove!~`@/
 ld c,RG7_waraiA1,80
 ;Б@ВЊГbВкВ…Г`ГЗГRВрВ†В∞ВњВбВ®ВЅВ©В»ВЯБIБv@
-`  ому бы мне дать шоколад?!.."`\
+` I wonder who I'll give my chocolate to?!~"`\
 ;БГГAГXГВ
 
 ;Б@РFЧцНєСњВ…ИкФ‘ЛїЦ°Т√БXВћГAГXГВГfГEГXВЌБAЦjВрНgТ™В≥ВєВƒБAВЂВбВЅВЂВбВ∆КмВ‘БB\
-` ƒела любви и похоти у јсмодей на первом месте.`@` ” неЄ покраснели щЄки, и она всЄ кричала Џ00171 ь€, кь€Џ00187.`\ 
+` Since the affairs of love and lust are Asmodeus' number one interest,`@` her cheeks flushed red, and she continued to shout "kya, kya".`\ 
 
 ld r,RON_WaraiA1,24
 
 ;БuВїВ§ВїВ§БB@ГAГXГВВ™ИкФ‘СfТЉВ≈ВЈВЋБB@ВҐВҐОqВҐВҐОqВµВƒВ†В∞В№ВµВеВ§БB@/
-`"Ќадо же.`@` ¬ижу, јсмо обрадовалась больше всех.`@` ѕоздравим еЄ. `@/
+`"My, my.`@` It seems Asmo is the most enthusiastic.`@` Let us congratulate her. `@/
 
 ;В≥БAКFВ≥ВсБAИкВ¬ВЄВ¬БB@ИўРЂВ…ЛCВ»ВйРlВ™ВҐВ»ВѓВкВќБAУѓРЂВ≈ВаМЛН\В≈ВЈВжБB@В∆В…В©В≠БAРвСќВ…В–В∆ВиВ–В∆В¬ВрТNВ©В…УnВЈВжВ§В…БB@УnВ≥В»В©ВЅВљВзБcБcБcБBБv\
-`ј теперь очередь остальных.`@` ≈сли вас не интересует член противоположного пола, тот же пол тоже сгодитс€.`@` ќб€зательно подарите шоколад.`@` ј иначе..." `\
+`Now, all of you, one by one.`@` If there's no man who interests you, women are just fine too.`@` Anyway, definitely give it to somebody.`@` Or else..." `\
 ;БГГНГmГEГF
 
 ld l,RG1_komaruA2,23
 
 ;БuУnВ≥В»В©ВЅВљВзБcБcБcБHБv@
-`"»наче?.."`\
+`"...Or else?.."`\
 ;БГГЛГVГtГ@Б[
 
 ;Б@ГЛГVГtГ@Б[В™Л∞ВйЛ∞ВйХЈВ≠БcБB@ВµВ©ВµГНГmГEГFВЌВ…ВЅВ±ВиФчПќВсВЊВ№В№УЪВ¶В»ВҐБB@
-` »спуганно спросила Ћюцифер...`@` Ќо –онове не ответил - только ухмыльнулс€.`\
+` Lucifer asked fearfully...`@` But Ronove did not answer, he merely grinned.`\
 
 ;Б@В±В§ВҐВ§ОЮВћГНГmГEГFВ™ТnЦ°В…Х|ВҐБB\
-` ¬ подобных случа€х он умеет устрашать.`\
+` On occasions like this, Ronove can be quite terrifying.`\
 ;Б@ОlВћМ№ВћВ≤ВњВбВ≤ВњВбМЊВЅВƒВйВ∆БAВ®ЦЏЛ ВрВаВзВҐВ©ВЋВ»ВҐБB@ФёВ™ФчПќВсВ≈ВҐВйУаВ…П≥СшВµВљХыВ™ВҐВҐВЊВлВ§БB\
-` Ѕудешь слишком много жаловатьс€ - теб€ отругают.`@`  огда он улыбаетс€, лучше подыграть.`\
+` If you complain too much, you might get scolded.`@` When he smiles, you had better play along.`\
 vsp bgsp2,0
 bg black,25
 
 ;Б@В±В§ВµВƒБAОµОoЦЕВћГoГМГУГ^ГCГУГfБ[ВЌБAЛ`Ц±В∆ВµВƒНsВ»ВнВкВйВ±В∆В∆В»ВЅВљВћВЊВЅВљБcБB\
-` » так провести ƒень ¬алентина дл€ —еми сестЄр стало об€зательством... `\
+` And so, the Seven Sisters' Valentine's Day became somewhat of a duty... `\
 
 vsp bgsp2,1
 bg Mkit_1a,0
@@ -17518,14 +17518,14 @@ ld c,RG1_fumanA2,26
 ld c,RG1_OdorokiA1,80
 
 ;БuБcВ∆БAМЊВ§ВнВѓВЊБB@КeО©БAОµОoЦЕВћИкИхВ∆ВµВƒМ©ОЦЦ{ФCЦ±ВрСSВ§ВµВƒВаВзВҐВљВҐВЅБB@И»ПгБAОUВкГbБIБv@
-`"...„то ж, вы его слышали.`@` я довер€ю каждому члену  инжалов великолепно исполнить свою об€занность.`@` ѕриступим!"`\
+`"...Well, you heard what he said.`@` I trust each member of the Stakes shall carry out their duty splendidly.`@` Now, let us be off!"`\
 ;БГГЛГVГtГ@Б[
 
 ld r,RG2_WaraiA1,0
 ld l,RG4_WaraiA2,80
 
 ;БuБuБuБuБuБuВЌВЯВҐБAВ®ОoЧlГbБIБIБvБvБvБvБvБv\
-`""""""ƒа-а, сестра!"""""" `\
+`""""""Ye~s, Big Sis!"""""" `\
 se1 52
 se2 52
 cl a,99,700,"breakup.dll/llb"
@@ -17538,19 +17538,19 @@ bg black,22
 bg Mkit_1c,26
 
 ;Б@ГЛГVГtГ@Б[В™ОUКJВрЦљВґВйВ∆БAОµОoЦЕВљВњВЌИкРƒВ…ФЪВЇВƒБAФтВ—ЙсВиВ»В™ВзР~Ц[ВрФтВ—ПoВµВƒВҐВ≠БB@ГtГЙГCГpГУВвУзВ»В«ВћЛаХ®ВрВвВ©В№ВµВ≠С≈ВњЦ¬ВзВµВ»В™ВзБB\
-` Ћюцифер приказала разойтись, и все семь сестЄр молниеносно вылетели из кухни.`@` ѕозади них загремели кастрюли и сковородки. `\
+` When Lucifer ordered the deployment, the seven sisters popped out all at once and dashed out of the kitchen as if flying,`@` the pots and pans clattering behind them. `\
 ;Б@В≥ВƒБAЧщНЦВћОµОoЦЕВљВњВЌБAВїВкВЉВкТNВ…Г`ГЗГRГМБ[ГgВрУnВЈВћВЊВлВ§В©БcБH\
-` „то ж, кому же —емь сестЄр чистилища подар€т шоколад?..`\
+` Now then, to whom did the Seven Sisters of Purgatory give their chocolate to?..`\
 csp bgsp2
 bg black,22
 
 ;Б@ЙљВµВлБAХБТiВ©ВзНYВрФPВґНЮВсВЊВиБAВЃВиВЃВиВµВљВиЭPВиПoВµВљВиВ∆БAХ®СЫВ»В±В∆В™РкФДУЅЛЦВЊБB@Г`ГЗГRГМБ[ГgВрЧ^В¶ВƒБAО{ВЈВ»ВсВƒМoМ±ВЌВ№ВйВ≈В»ВҐБB@
-` ƒл€ них вполне привычно пронзать кинжалом; эта опасна€ задача - их особое умение.`@` ќднако они никогда раньше не дарили шоколад.`\
+` It is quite an ordinary thing for them to gouge with a stake; this dangerous task is their exclusive specialty.`@` Gifting chocolate, on the other hand, was something they had absolutely no experience with.`\
 ;ВҐВіБAТNВ©В…УnВєВ∆МЊВнВкВƒВаБAК»ТPВ…ВЌОvВҐВ¬В©В»ВҐБB@
-` ’от€ им приказали подарить его, это не так-то просто.`\
+` Even if they are ordered to give it to somebody, it isn't that simple to do.`\
 
 ;Б@ВµВ©ВµБAРFЧцНєСњВ≈ХБТiВ©ВзУ™В™ВҐВЅВѕВҐВћГAГXГВВЌБAУnВЈСКОиВ™В∆ВЅВ≠В…МИВ№ВЅВƒВйВжВ§ВЊВЅВљБB\
-` Ќо, похоже, јсмо, чь€ голова вечно забита романтическими мысл€ми, уже давно прин€ла решение.`\
+` However, it seems that Asmo, whose head was usually full of romantic thoughts anyway, has already made her decision long ago.`\
 bg G1F_S1ap,0
 fede 0,2000
 E_A
@@ -17563,20 +17563,20 @@ print 99,1000,"breakup.dll/lrb"
 bgm1 3
 
 ;БuВ¶БAЙљБXБAВ†ВсВљБAУnВЈСКОиМИВ№ВЅВƒВйВћБHБI@Б@ТNБAТNБIБv@
-`"Ё, что? “ы решила, кому подаришь?!`@` —кажи, скажи!" `\
+`"Eh, wha, you, you have decided whom you're going to give it?!`@` Tell us, tell us!" `\
 ;БГГTГ^ГУ
 
 ld r,RG7_WaraiA2,80
 
 ;БuВ§ВЅВ”В”В”В”Б`Бф@Б@ВїВсВ»ВћМИВ№ВЅВƒВйВґВбВ»ВҐБ`БI@Б@ВdВoВSВ©ВзУoПкВћСfУGВ»ФТФnВћЙ§ОqЧlБI@Б@УVСРП\ОOВ≥В№В…МИВ№ВЅВƒВйВґВбВ»Б`ВҐБIБv\
-`"”фу-фу-фу-фуЏ09834 `@`  онечно же решила!`@` ѕринцу на белом коне, по€вившемус€ в 4-м эпизоде!`@` јмакусе ƒжузе, разумеетс€!"`\
+`"Ufufufufu~ `@` Of course I have!`@` The prince on the white horse who appeared in EP4!`@` Amakusa Juuza, for sure!"`\
 ;БГГAГXГВ
 
 bg G1F_S1cP,0
 ld c,RG2_fumanA2,24
 
 ;БuБcВ†БAУVСРВЋВ•БB@ВЌБ[БcБAВ»ВйВўВ«БAВїВкВЌНlВ¶В»В©ВЅВљБcБBБv@
-`"...ј-а, јмакусе.`@` ’а-а... ясно, так вот о ком ты думала..."`\
+`"...Aah, Amakusa.`@` Haa... I get it, so that's who you had in mind..."`\
 ;БГГМГФГBГA
 
 
@@ -17584,9 +17584,9 @@ ld l,RG7_WaraiA2,80
 
 
 ;БuВҐВвВЯВЊБAВ®ОoЧlХыГ@БI@Б@РVВµВҐТjРЂГLГГГЙВЌСSХФГ`ГFГbГNВµВƒВ»ВЂВбБ`БB@/
-`"“ы что, сестра!`@` —амо собой, € проверила всех новых персонажей мужского пола.`@/
+`"You must be kidding me, sisters!`@` Of course I checked out all the new male characters!~`@/
 ;СfУGВґВбВ»ВҐБAП\ОOВ≥В№Бф@Б@ЧeОpВаГCГPВƒВйВµБAГXГgГCГbГNВ≈ЦмРЂЦ°В†ВйВћВ…ЦмХйВЅВљВ≠В»ВҐВµВЅБB@В†ВЯВсБAОДБAИкФ‘ПжВиБ`БIБIБv\
-` –азве господин ƒжуза не прекрасен?Џ09834 `@` ќн стойкий и слегка дикий, но не грубый, а ещЄ он замечательно сложен...`@` ј-а, точно мой тип~!"`\
+` But isn't Juuza just wonderful?~ `@` He's stoic and a little wild, but not coarse, and he's got a great bod too...`@` Aah, he's definitely my type!~"`\
 se1 52
 cl l,99,1000,"breakup.dll/llb"
 
@@ -17594,13 +17594,13 @@ cl l,99,1000,"breakup.dll/llb"
 ;БГГAГXГВ
 
 ;Б@МЊВ§В™СБВҐВ©БAГAГXГВВЌНYВ…ОpВрХѕВ¶ВƒВЈВЅФтВсВ≈ВҐВ≠БB@
-` ѕосле јсмо превратилась в кинжал и улетела.`\
+` As soon as she said that, Asmo transmogrified into a stake and flew off.`\
 ;Б@В«В§ВҐВ§ХЧВ…Г`ГЗГRВрУnВЈВћВ©ЛCВ…В»ВЅВƒБAСЉВћОoЦЕВљВњВаВ¬ВҐВƒВҐВ≠БB\
-` ƒавать шоколад в таком виде как-то странно, так что другие сЄстры последовали за ней.`\
+` Giving chocolate in that kind of mood seemed worrisome, so the other sisters followed her.`\
 bg black,1
 
 ;!s0Б@ГJГLГRГLГJГLГRГLГJБ[ГУБI/
-!s0` ќни с грохотом вылетели.`/
+!s0` They flew away with a loud clatter.`/
 !s0
 !sd\
 
@@ -17615,11 +17615,11 @@ se1 47
 ld l,RG7_WaraiA1,26
 
 ;БuУVСРВ≥В№ГbБI@Б@ВЌВҐБAГoГМГУГ^ГCГУВћГ`ГЗГRГМБ[ГgВ≈ВЈБI@Б@ОуВѓОжВЅВƒЙЇВ≥ВҐГbБIБv@
-`"√осподин јмакуса!`@` Ўоколад ко ƒню ¬алентина!`@` ѕрошу, возьмите!"`\
+`"Mr. Amakusa!`@` his is Valentine's Day chocolate!`@` Please, accept it!"`\
 ;БГГAГXГВ
 
 ;Б@БcБcКДВ∆Р≥НUЦ@БAБcВҐВвБAВёВµВлР^Р≥Ц В©ВзВћЛ≠ПPВЊВЅВљБB\
-` ...—тандартна€ стратеги€...хот€ нет, лобова€ атака.`\
+` ...A standard strategy... no, it was totally a frontal attack.`\
 bg black,23
 bg BUI_E1a,23
 se1 52
@@ -17627,23 +17627,23 @@ ld c,RG1_KomaruA2,0
 print 99,1000,"breakup.dll/llb"
 
 ;БuВ†БAВ†ВҐВ¬ЧEЛCВ†ВйВнВЋБcБB@В±В§ВҐВ§ВћВЅВƒБAВµВ«ВлВаВ«ВлВ∆ЙсВиВ≠В«В≠УnВЈВћВ™ПоППВґВбВ»ВҐВћБHБIБv@
-`" -кака€ храбрость...`@` ќна даже ни капли не взволнованна?!"`\
+`"T-that courage...`@` Isn't she the least bit flustered?!"`\
 ;БГГЛГVГtГ@Б[
  
 ld r,RG4_KomaruA1,24
 
 ;БuТjВЌКДВиВ∆СБВҐО“ПЯВњВ∆ХЈВ≠БcБB@Н°ОЮБAЦЎЙAВ©ВзМ©ОзВйС_МВМ^ЧцИ§ВЌЧђНsВзВсВћВ©БcБBБv@
-`"я слышала, что мужчины влюбл€ютс€ в тех, кто про€вл€ет инициативу...`@` ѕолагаю, стратеги€ сокрыти€ за деревом в наше врем€ не попул€рна..." `\
+`"I heard that men fall to the first taker...`@` I suppose the hiding behind a tree strategy isn't popular nowadays..." `\
 ;БГГxГЛГtГF
 
 ld l,RG3_OdorokiA1,80
 
 ;БuВїВкВ…ВµВƒВаВ†ВћОqБAВаВ§ВњВеВЅВ∆ТpВґВзВҐВ∆В©В»ВҐВћБHБI@Б@В†Б[ВаР^Р≥Ц В©ВзЦЊВѓУІВѓВ…БI@Б@Н≈ЛяВћОбВҐОqВЌВЅБBБv@
-`"–азве она не должна быть застенчивее?!`@` ј-а, чЄрт, пр€мо в лоб!`@` “акой ребЄнок!" `\
+`"Shouldn't she be a little more self-conscious?!`@` Ah, jeez, she was totally upfront about it!`@` She's such a kid!" `\
 ;БГГTГ^ГУ
 
 ;ЙeВ©ВзГ{Г\Г{Г\В∆ГPГ`ВрХtВѓВйОoВљВњБB\
-` “ихо бормотали старшие сЄстры из тени.`\
+` The elder sisters quietly muttered from the shadows.`\
 
 bg black,24
 bg BUI_R1c,0
@@ -17651,21 +17651,21 @@ ld r,RG7_waraiA1,0
 ld l,AMA_DefA1,24
 
 ;Б@УVСРВЌП∆ВкВаВєВЄБAПќКзВ≈Г`ГЗГRВрОуВѓОжВйБB@
-` јмакуса не смутилс€ и с улыбкой вз€л шоколад.`\
+` Amakusa was not embarrassed, and took the chocolate with a smile.`\
 
 ;Б@БcМЛН\БAВаВзВҐВ»ВкВƒВйКіВґВћОdСРВ™БAТjРSУIВ…ВЌГАГJВ¬В≠В™БAПЧРSУIВ…ВЌГLГЗГhВЅВљВиВ≥ВкВйВжВиВЄВЅВ∆ГJГbГRГCГCБB\
-` ...≈го жест произвЄл такое впечатление, будто он привык к тому, что отвратительно сердцу мужчины, но лучше учтивость, чем подозрение со стороны женщины.`\
+` ...The gesture gave off an impression that he's quite used to this sort of thing, but it was suave rather than suspicious from a woman's perspective.`\
 
 ld l,AMA_AkuwaraiA1,80
 
 ;БuГTГУГNГXБAГLГЕБ[ГgВ»В®ПмВ≥ВсБB@МNВћОиНмВиВ©ВҐБHБv@
-`"Ѕлагодарю, мила€ юна€ леди.`@` —ами сделали?"`\
+`"<Thanks>, <cute> young lady.`@` Did you make this yourself?"`\
 ;БГУVСР
 
 ld r,RG7_WaraiA2,80
 
 ;БuГnГCБAВїВ§В≈ВЈВЅБAУVСРВ≥В№ВћВљВяВ…ОиНмВиВµВ№ВµВљБ`БIБv\
-`"јга, конечно. я сделала его специально дл€ вас, господин јмакуса~!"`\
+`"Yes, of course! I made it just for you, Amakusa~!"`\
 ;БГГAГXГВ
 
 bg black,25
@@ -17679,40 +17679,40 @@ csp bgsp
 ld l,RG1_OdorokiA1,23
 
 ;БuВ†БAВ†ВҐВ¬БAГkГPГkГPВ∆ЙRВрВ¬ВҐВƒВйВнБcБIБv@
-`"“-так бессовестно лжЄт!.."`\
+`"W-what a shameless liar!.."`\
 ;БГГЛГVГtГ@Б[
 
 ld r,RG2_AkuwaraiA1,24
 
 ;БuУVСРВ…ВЌЦ{УЦВ…ГAГXГВВћОиНмВиВ©В«В§В©МЯПЎХsФ\ВжБI@/
-`"јмакусе не узнать, правда ли она сделала шоколад своими руками!`@/
+`"It's impossible for Amakusa to tell whether she really made it by hand!`@/
 se1 48
 
 ;Б@ИЂЦВВћПЎЦЊВЋБIБv@
-` ƒоказательство дь€вола!" `\
+` It's a Devil's Proof!" `\
 ;БГГМГФГBГA
 
 cl l,24
 ld l,RG4_fumanA1,23
 
 ;БuВїВкВ…ВµВƒВаГAГXГВВяБAОиУйВкВƒВҐВйВ»БcБB@/
-`"Ќо јсмо...будто уже делала такое...`@/
+`"But Asmo looks like she's done this before...`@/
 se1 4
 
 ;ХБТiВ©ВзГCГББ[ГWГgГМБ[ГjГУГOВрМЗВ©В≥В»ВҐВ…ИбВҐВ»ВҐВЅБBБv\
-` ќна, должно быть, уже на ком-то практиковалась."`\
+` She must've practiced until it's second nature to her."`\
 ;БГГxГЛГtГF
 
 ld c,RG3_OdorokiA2,64
 
 ;!s0БuЙљВвВЅВƒВсВћВжБAОДВљВњБI/
-!s0`"ќ чЄм мы только думаем?!`/
+!s0`"What the hell are we doing?!`/
 
 se1 12
 quakey 2,200
 
 ;!sd@Б@ИкФ‘ЙЇВћЦЕВ…РжРwВрРЎВзВкВњВбВЅВљВнВжБHБI@Б@ТpВЄВ©ВµВ≠В»ВҐВћБHБIБv\
-!sd@` ќтстаЄм от нашей младшей сестры?!`@` ¬ам не стыдно?!"`\
+!sd@` Have we been outdone by our youngest sister?!`@` Aren't you all ashamed?!"`\
 ;БГГTГ^ГУ
 
 cl c,0
@@ -17722,7 +17722,7 @@ ld r,RG7_AkuwaraiA1,0
 ld l,AMA_DefA2,24
 
 ;Б@В≥ВЈВ™ВЌРFЧ~ВћГAГXГВБB@
-`  ак и ожидалось от јсмодей похоти.`\
+` As expected of Asmodeus of Lust.`\
 ;Б@ГMГГГЛГQБ[СSФ В≈Й§УєУWКJВрКЃСSВ…ПKУЊНѕВЁВЊБB@
 ` ќна идеально справилась, пойд€ коротким путЄм.`\
 
