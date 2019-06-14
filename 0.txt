@@ -17724,10 +17724,10 @@ ld l,AMA_DefA2,24
 ;Б@В≥ВЈВ™ВЌРFЧ~ВћГAГXГВБB@
 ` As expected of Asmodeus of Lust.`\
 ;Б@ГMГГГЛГQБ[СSФ В≈Й§УєУWКJВрКЃСSВ…ПKУЊНѕВЁВЊБB@
-` ќна идеально справилась, пойд€ коротким путЄм.`\
+` She got a perfect clear by using a shortcut.`\
 
 ;Б@ТЗЧ«В≠ХјВсВ≈НјВЅВƒВ≥ВЅВїВ≠НЂХпВрЙрВЂБAГНГmГEГFУЅРїГ`ГЗГRВрРUХСВ§ВћВЊВЅВљБB\
-` —частливо сид€ бок о бок с ним, јсмо, развернув упаковку, кормила јмакусу особым шоколадом –онове.`\
+` Happily sitting side by side with him and unwrapping the packaging, she treated Amakusa to Ronove's specially made chocolate.`\
 
 cl r,0
 ld c,RG7_WaraiA1,24
@@ -17735,7 +17735,7 @@ se1 48
 quakex 2,400
 
 ;БuГnГCБAУVСРВ≥В№БI@Б@В†Б`Б`Б`ВсБфБv@
-`"¬от, господин јмакуса!`@` ј-а-амЏ09834 "`\
+`"Here, Amakusa!`@` Noooommmm!~"`\
 ;БГГAГXГВ
 
 
@@ -17746,7 +17746,7 @@ ld l,AMA_MajimeA1,80
 ;БГУVСР
 
 ;Б@ТЗЦrВ№ВґВҐЧцРlУѓОmВћВжВ§В»РҐКEВрБAПuОЮВ…Н\ТzВµВƒВµВ№ВЅВƒВҐВйБB@Л∞ВйВ„ВµВЅБAРFЧ~ВћГAГXГВБI\
-` ќна вмиг построила мир интимной, взаимной любви.`@` јсмодей похоти устрашает! `\
+` In but an instant, she had constructed a world of intimate mutual love.`@` Truly frightening, Asmodeus of Lust! `\
 bg black,23
 bg BUI_e1a,0
 
@@ -17754,70 +17754,70 @@ ld c,RG1_OdorokiA3,23
 ld c,RG1_KomaruA3,80
 
 ;БuВ†БAВ†ВҐВ¬БAВЈВ≤ВҐВнВЋБcБB@ПЙВяВƒГAГXГВВ…РнЬ…ВµВљВнБcБBБv@
-`"Ќ-ничего себе...`@` јсмо впервые заставила мен€ задрожать..." `\
+`"S, she's really something...`@` This is the first time Asmo's made me shiver like that..." `\
 ;БГГЛГVГtГ@Б[
 
 
 ld r,RG6_waraiA2,24
 
 ;БuВҐБ[В»Б[БAФьЦ°ВµВїВ§ВЊВ»ВЯБB@В«Б[ВµВƒВ†В∞В»ВЂВбВҐВѓВ»ВҐВћБH@Б@О©Х™В≈РHВ„ВњВбВҐВљБ[ВҐБIБv\
-`"ћ-м-м, как вкусно выгл€дит.`@` Ќу почему-у-у € должна его отдавать?`@` я хочу сама съесть!" `\
+`"Mmm~, that really looks tasty.`@` Whyyy do I have to give it away?`@` I wanna eat it myself!" `\
 ;БГГxГЛГ[ГuГu
 
 ;Б@СКХѕВнВзВЄБAГ`ГЗГRВЌВ†В∞ВйВжВиО©Х™В≈РHВ„ВљВҐВ∆ВЏВвВ≠БAЦ\РHВћГxГЛГ[ГuГuБB@
-` ¬ельзевул обжорства всЄ ворчала о том, что шоколад нужно отдать. `\
+` As usual, Beelzebub of Gluttony grumbled about having to give the chocolate away.`\
 
 ;Б@ВµВ©ВµБAОЯВћУVСРВћМЊЧtВ…БAО®В™ФLВћВжВ§В…ГsГУВ∆ЧІВ¬БB\
-` Ќо, услышав следующие слова јмакусы, она по-кошачьи навострила уши.`\
+` However, Amakusa's next words caused her ears to perk like a cat's.`\
 
 
 bg BUI_R1a,0
 ld c,AMA_AkuwaraiA1,23
 
 ;БuГXГeГLВ»В®Ц°ВЊВЅВљВЇБAВ®ПмВ≥ВсБB@В±ВиВбБAЙіВаГzГПГCГgГfБ[В…ВЌХЙВѓВ»ВҐВ®Х‘ВµВрВµВЋВ•В∆В»БBБv@
-`"ћогучий вкус, юна€ леди.`@` Ќо € не проиграю вам, когда верну долг на Ѕелый день."`\
+`"A mighty fine taste, young lady.`@` But I won't lose to you when I return the favor on White Day."`\
 ;БГУVСР
 
 
 ld l,RG7_WaraiA2,23
 
 ;БuВнВЅВнВЅВнВЅБAЦ{УЦВ≈ВЈВ©ГbБAУVСРВ≥В№ГbБIБI@Б@ВЂВбБ[ВсБA/
-`"¬а-а-а, правда, господин јмакуса?!`@`  ь€,`/
+`"Wawawa, really, Amakusa?!`@` Kya,`/
 
 se1 48
 quakey 2,500
 
 ;КyВµВЁВ…С“ВЅВƒВ№ВЈВЋБ[БAВЂВбБ`ВсБIБIБv\
-` не могу дождатьс€, кь€-а!"`\ 
+` I can't wait, kya!"`\ 
 ;БГГAГXГВ
 
 
 ;Б@ГAГXГВВЌБAВїВћЦсС©В…ЦфВиПгВ™ВЅВƒКмВ‘БB@ВїВµВƒХ®ЙAВ≈ВаХ ВћИ”Ц°В≈ГxГЛГ[В™ЧxВиПгВ™ВЅВƒКмВ‘БB\
-` јсмо в восторге от обещани€ вскочила на ноги.`@` ј ¬ельзевул тем временем тоже в предвкушении вскочила на ноги, но по другой причине.`\
+` Asmo leapt to her feet with delight at the promise.`@` And in the shadows, Beelzebub also leapt to her feet with delight for a slightly different reason.`\
 bg BUI_e1a,24
 se1 47
 ld l,RG6_AkuwaraiA1,26
 
 ;БuВїБAБcВїВ§В©БAГ`ГЗГRВрГvГМГ[ГУГgВЈВкВќБAГzГПГCГgГfБ[В…Ф{Х‘ВµБAОOФ{Х‘ВµВ»ВсВЊБI@/
-`"ƒ-дошло, подарив шоколад, € на Ѕелый день получу в три раза больше! `@/
+`"I... I get it! If I give chocolate as a present, on White Day I'll get three times as much back! `@/
 
 ld l,RG6_WaraiA1,80
 
 ;Б@ВнВзВµВ„ТЈО“НмРнВЋБI@Б@Н°В±В±В≈Г`ГЗГRВрЙдЦЭВЈВкВќБAГzГПГCГgГfБ[В…ВЌВїВкИ»ПгВћВ®Х‘ВµВ™БI@Б@ГxГЛГ[БAФnО≠ВґВбВ»ВҐВаВсВЅБAВљВ≠В≥ВсВћВ®Х‘ВµВћВљВяВ…ИкГЦМОВ≠ВзВҐЙдЦЭВ≈ВЂВйВаВсБIБv\
-`Ёто как из гр€зи в кн€зи!`@` ≈сли € буду терпелива, на Ѕелый день мне дадут гораздо больше!`@` ¬ельз, ты не дура, ты точно можешь потерпеть мес€ц!"`\
+`It's like going from rags to riches!`@` If I'm patient now, I'll get a lot more back on White Day!`@` Beelz, you're no fool, you can definitely endure this for a month!"`\
 ;БГГxГЛГ[ГuГu
 
  
 ;Б@ГxГЛГ[ВЌБAГoГМГУГ^ГCГУГfБ[В∆ГzГПГCГgГfБ[ВрУVФЙВ…К|ВѓБAГ`ГЗГRВрЙдЦЭВЈВйХыВ™МгВ…УЊВрПoЧИВйВ∆К®ТиВЈВйБB@
-` ¬ельз считала врем€ между ƒнЄм св€того ¬алентина и Ѕелым днЄм, смотр€, может ли она пожертвовать шоколадом ради прибыли, которую получит позже.`\
+` Beelz was counting time between Valentine's Day and White Day, calculating whether she can endure the sacrifice of chocolate for the profit it will bring later.`\
 
 se1 52
 cl l,99,1000,"breakup.dll/llb"
 
 ;Б@ВїВћОZТiВ™В¬ВѓВќМгВћНsУЃВЌСБВҐБB@
 ;Б@ЧvВЌБAТNВ…ГzГПГCГgГfБ[ВћВ®Х‘ВµВрВаВзВҐВљВҐВ©ВЊБB\
-` ѕон€в, она немедленно прин€ла меры.`@
-` ќт кого она хочет ответный подарок на Ѕелый день?`\
+` The moment she figured that out, she took action.`@
+` In short, from whom does she want a return gift on White Day?`\
 
 bg black,22
 fede 0,1000
@@ -17825,8 +17825,8 @@ E_A
 
 ;Б@С°ВйСКОиВЌЛ…ВяВƒСzСЬВ…ЧeИ’БB@
 ;Б@В¬В№ВиБAГzГПГCГgГfБ[В…ИкФ‘ФьЦ°ВµВҐВ®Х‘ВµВрБgНмВЅВƒБhВ≠ВкВїВ§В»СКОиВЊВЅВљБB\
-` ѕартнЄра, который мог бы дать ей шоколад, очень легко представить. `\
-` “от, кто сделает на Ѕелый день самый вкусный ответный подарок.`\
+` The partner to give her chocolate to was very easy to imagine. `\
+` In other words, it was someone who would make the most delicious return gift on White Day.`\
 
 bg Glob_1a,22
 ld c,GOH_KomaruA2,26
@@ -17834,7 +17834,7 @@ ld c,GOH_KomaruA2,26
 bgm1 64
 
 ;БuВЌБAБcБcВЌВЯБB@ВнБAОДВ…БAВ≈ВЈВ©БcБBБv@
-`"’а, ...ха-а.`@` ћ-мне?.."`@
+`"Haha, hahaha.`@` T-this?.. For me?!.."`@
 ;БГЛљУc
 
 se1 52
@@ -17842,16 +17842,16 @@ ld r,RG6_WaraiA2,0
 print 99,1000,"breakup.dll/llb"
 
 ;БuВ¶В•БAГnГCБAЛљУcВ≥В№Г@БB@ЛMХыВћВ±В∆ВрОvВЅВƒБAН≈НВВћГ`ГЗГRВрНмВиВ№ВµВљГ@БB@ВЇВ–В«В§В©ПҐВµПгВ™ВЅВƒВ≠ВЊВ≥ВҐБ`БIБv\
-`"ќ, да, господин √оуда.`@` — мысл€ми о вас € сделала лучший шоколад.`@` ѕрошу, попробуйте!"`\
+`"Oh, yes, Gohda.`@` I thought of you, and made the best chocolate.`@` Please eat it!~"`\
 
 ;БГГxГЛГ[ГuГu
 
 
 ;Б@ИƒВћТиБAУnВЈСКОиВЌЛљУcВЊВЅВљБcБB@МїЛаВ»ГДГcБAВ∆ОoЦЕВљВњВЌЛрТsВйБB@
-`  ак и ожидалось, она дала его √оуде...`@` Џ00171 ака€ корыстна€Џ00187, - проворчали остальные сЄстры. `\
+` As expected, she gave it to Gohda...`@` 'How selfish', grumbled the other sisters. `\
 
 ;Б@УVСРВ∆ИбВҐБAЛљУcВ…ВЌГoГМГУГ^ГCГУВ…Г`ГЗГRВрВаВзВЅВљВ∆ВҐВ§МoМ±ВЌСљВ≠В»ВҐВзВµВҐБB@КДВ∆МТСSВ…В«ВђВ№ВђВµВƒВҐВйВжВ§ВЊВЅВљБB\
-` ¬ отличие от јмакусы, √оуда не часто получал конфеты ко дню ¬алентина.`@` ќн был в замешательстве. `\
+` Unlike Amakusa, Gohda did not seem to have much experience with receiving Valentine's Day chocolates.`@` He seemed to be rather bewildered. `\
 
 ld c,GOH_OmakaseA2,80
 
