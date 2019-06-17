@@ -18573,7 +18573,7 @@ bg garden_1a,0
 ld c,RG3_OdorokiA2,23
 
 ;БuВ»ГbБAЙљВ≈СfТЉВ…ОуВѓОжВзВ»ВҐВћВжБI@Б@Х В…ЙцВµВҐВаВћВ»ВсВ©УьВЅВƒВ»ВҐВнВжБAХБТ ВћГ`ГЗГRВжГbБAОуВѓОжВиВ»В≥ВҐВжБIБIБv@
-`"ѕ-почему ты покорно не вз€л?!`@` ¬ нЄм нет ничего странного, это самый обычный шоколад, так что бери!"`\
+`"W-why didn't you just accept it!?`@` It's not like I've put anything weird inside, it's normal chocolate, so just take it!"`\
 ;БГГTГ^ГУ
 
 cl c,0
@@ -18581,23 +18581,23 @@ ld r,RG3_OdorokiA2,0
 ld l,KAN_KomaruA1,23
 
 ;БuЛMЧlВ©ВзВїВсВ»ВаВћВрВаВзВ§ИаВкВЌВ»ВҐБBБv\
-`"Ќе вижу причин брать у теб€ такое."`\
+`"There is no reason for me to accept such a thing from you."`\
 ;БГЙ√Йє
 
 
 ld r,RG3_OdorokiA1,80
 
 ;БuВїВкВЌВїВћБAБcБcГoГМГУГ^ГCГУГfБ[В∆В©ВҐВ§ГДГcВжВЅБB@ВїВсВ»ВћВ«В§В≈ВаВҐВҐВ≈ВµВеБHБI@/
-`"—-сегодн€...ƒень св€того ¬алентина, болван.`@` „ем не повод?! `@/
+`"It's, it's... Valentine's Day, idiot.`@` Isn't that good enough?! `@/
 ld r,RG3_OdorokiA1,80
 
 ;!s0Б@ВҐВҐВ©ВзСБВ≠ВаВзВҐВ»В≥ВҐГbБI/
-!s0 `ѕросто возьми!`/
+!s0 `Just take it!`/
 
 se1 11
 quakey 2,300
 ;@Б@ПЧВ…ТpВрС~В©ВєВйВ¬ВаВиЛCБHБI@Б@В±ВћР¬ХZТ\ГbБIБIБv/
-@` “ебе что, нравитс€ играть с девичьими сердцами?!`@` —опл€к!"`/
+@` Do you just like playing with girls' hearts?!`@` You fool!"`/
 
 !sd\
 ;БГГTГ^ГУ
@@ -18606,14 +18606,14 @@ quakey 2,300
 ld l,KAN_odorokiA1,80
 
 ;БuВ»БAЙљВЊВ∆БcБI@Б@ЦlВрЛрШMВЈВйВљВяВЊВѓВ…БAВ±В±В№В≈ЧИВљВ∆ВҐВ§ВћВ©БIБv\
-`"„-что!..`@` ѕришла высме€ть мен€?!"`\
+`"W-what!?..`@` Did you come here just to make fun of me?!"`\
 ;БГЙ√Йє
 
 ;ПоВѓВ»ВҐЧКВиВ»ВҐУЩВћИЂМыВЌЙ√ЙєВ…ВЌУЅВ…Л÷ЛеВЊБB@
 ;Й√ЙєВћУ{ВиВЌЧeИ’В≠Х¶У_ВрМ}В¶ВƒВµВ№В§БB\
 
-` ∆алкое навешивание €рлыков дл€  анона особенно прискорбно.`\
-` ” него наконец лопнуло терпение.`\
+` Pathetic name-calling was especially deplorable to Kanon.`\
+` He had finally reached his boiling point.`\
 
 se1 57
 mbg white,1
@@ -18621,24 +18621,24 @@ ld l,KAN_IkariA1b,0
 mcbg 22
 
 ;БuПЅВ¶ОЄВєВлБI@Б@ЛMЧlВ©ВзВЌЙљВћО{ВµВаОуВѓВ»ВҐБIБv@
-`"”бирайс€!`@` я отказываюсь что-либо брать у теб€!"`\
+`"Get lost!`@` I refuse to accept anything from you!"`\
 ;БГЙ√Йє
 
 
 ld r,RG3_IkariA2,80
 
 ;БuВЂВбГbБAБcВ»БAЙљВжБAВїВсВ»В…У{ВйВ±В∆В»ВҐВ≈ВµВеБHБI@Б@Г`ГЗГRВрУnВµВљВзПЅВ¶ВйВнВжБcБI@Б@СБВ≠ОуВѓОжВсВ»В≥ВҐГbБIБI@Б@ОДВЊВЅВƒМЩБXВвВЅВƒВйВсВЊВ©ВзГbБIБv\
-`" ь€, ...ч-чего ты так злишьс€?!`@` я даю тебе шоколад, а ты говоришь мне убиратьс€!..`@` ѕросто возьми!`@` ћне тоже всЄ это не нравитс€, если хочешь знать!"`\
+`"Kya, ...what are you so angry about?!`@` I'm giving you chocolate and you tell me to get lost!..`@` Just take it!`@` I don't like doing this either, you know!"`\
 ;БГГTГ^ГУ
 
 ;Б@СЉВћЦЕВљВњВ…ВЌВЁВсВ»ПoЧИВљВ±В∆В»ВћВ…БAО©Х™ВЊВѓВ™В§В№В≠НsВ©ВЄБAГTГ^ГУВЌНҐШfВрЙBВєВ»ВҐБB@В∆В…В©В≠СБВ≠ЙЯВµХtВѓВƒВ±ВћПкВрУ¶В∞ВљВҐВ∆БAКзВрР^ВЅР‘В…ВµВƒОХзaВиВµВƒВҐВйБB\
-` —атана не могла скрыть недоумение - как еЄ младшим сЄстрам удалось то, что не удалось ей?`@` —тиснув зубы и жела€ сбежать подальше, она сунула  анону шоколад. `\
+` Satan could no longer conceal her bewilderment that all her younger sisters had succeeded, yet she could not.`@` Gritting her teeth and wishing for nothing more then to run away, she shoved the chocolate to Kanon. `\
 
 ;Б@БcУЦВћЙ√ЙєВаБAВ»ВЇВїВсВ»В…В№В≈В≥ВкВƒГ`ГЗГRВрЙЯВµХtВѓВзВкВ»ВѓВкВќВ»ВзВ»ВҐВћВ©В≥ВЅВѕВиВЊБB@
-` ...ќн тоже был сбит с толку.`\
+` ...Kanon, too, was quite confused by all this.`\
 
 ;Б@ВЈВйВ∆ВїВ±В÷ЧzЛCВ»ОйОuНБВћРЇВ™БcБB\
-` ¬друг откуда-то послышалс€ бодрый голос ƒжессики... `\
+` Suddenly, Jessica's cheerful voice rang out from somewhere... `\
 
 
 bg black,23
@@ -18646,11 +18646,11 @@ bg garden_1b,0
 ld c,JES_TereruA1,23
 
 ;БuЙ√ЙєВ≠Б`ВсБAВҐВйБ`БH@Б@В†БAВ†ВћГbБAН°БAВ–ВЅБAЙ…В©В»БI@/
-`" ано-он, ты зде-есь?`@` Ё-э, е-если ты не зан€т! `@/
+`"Kanoooon~, are you there?`@` Eh, um, if you aren't busy! `@/
 ld c,JES_IkariA1,80
 
 ;Б@БcБcВЅВƒБAВ®ВнГbБI@Б@В®БAВ®СOБAЧщНЦВћОµОoЦЕВћГbБIБv/
-`...Ё, угх!`@` “-ты, из тех семи!"`/
+`...Eh, ugh!`@` Y-you're one of those seven!"`/
 
 se1 13
 quakey 2,300
@@ -18658,28 +18658,28 @@ quakey 2,300
 ;БГОйОuНБ
 
 ;Б@Й√ЙєВћВљВяВ…ОЭВЅВƒВЂВљВ≈В†ВлВ§Й¬И§ВзВµВ≠ХпСХВ≥ВкВљФ†ВрВ«В≥ВиВ∆ЧОВ∆ВµБA@/
-` ƒжессика уронила элегантно завЄрнутую коробочку, которую собиралась дать  анону, и сунула руки в карманы. `@/
+` Jessica dropped the elegantly wrapped box she had brought to give to Kanon, and thrust her hands into her pockets. `@/
 se1 20
 ;ОйОuНБВЌЧЉОиВрГ|ГPГbГgВ…УЋВЅНЮВёБBВїВкВрИшВЂФ≤ВѓВќЧ’РнС‘Р®БB@ЧЉОиВ…ВЌГБГКГPГУГTГbГNВћУЁВҐМхВиВ™БI\
-`¬ытащив их, она уже была готова напасть, держа в обеих руках кастеты. `\
+`When she pulled them out, she was already prepared to attack, having brass knuckles twinkling on both of her hands. `\
 bg garden_1c,0
 ld r,RG3_ikariA2,24
 
 ;БuВ»БAЙљВ≈ОДВЊВѓВ§В№В≠НsВ©В»ВҐВћВжБcБI@Б@СЉВћЦЕВљВњВЌВЁВсВ»В§В№В≠НsВЅВƒВйВћВ…БcБIБIБv@
-`"ѕ-почему только мне одной не повезло?!..`@` ¬се мои младшие сЄстры запросто справились!.." `\
+`"W-why am I the only one who's this unlucky?!..`@` All my younger sisters didn't have any trouble!.." `\
 ;БГГTГ^ГУ
 
 
 ld l,JES_IkariA3,23
 
 ;БuЙ√ЙєВ≠ВсВ…ВњВеВЅВ©ВҐВрПoВЈВ»БI@Б@В«ВЅВ©В÷НsВѓБAЦВПЧВћЙ∆ЛпВяБI@Б@В®СOВ–В∆ВиВ»ВзБAОДВ∆Й√ЙєВ≠ВсВћУGВґВбВ»ВҐВсВЊВЉБIБv\
-`"Ќе смей его трогать!`@` ”ходи, вещь ведьмы!`@` ” теб€ нет ни шанса против мен€ и  анона!" `\
+`"Don't you dare touch him!`@` Go away, furniture of the witch!`@` You don't stand a chance against me and Kanon!" `\
 ;БГОйОuНБ
 
 ld r,RG3_odorokiA2,80
 
 ;БuВ±БAВ±ВҐВ¬БcБI@Б@ВdВoВSВ≈Л}В…РнУђЧЌПгВ∞ВљВ©ВзВЅВƒВҐВҐЛCВ…В»ВЅВƒБcБIБv\
-`"“-ты!..`@` Ќе веди себ€ так дерзко лишь потому, что у теб€ вдруг по€вилась сила в 4-м эпизоде!.."`\
+`"Y-you!..`@` Don't get so cocky just because you had a power-up in EP4 all of a sudden!.."`\
 ;БГГTГ^ГУ
 
 textoff
@@ -18692,7 +18692,7 @@ wait 100
 mcbg 22
 
 ;БuБcБcБcПЅВ¶ОЄВєВлБB@В®СOИкРlВ»ВзБAЦlИкРlВЊВЅВƒТxВкВЌОжВзВ»ВҐВЉБBБv\
-`"...»счезни.`@` — тобой € и один справлюсь."`\
+`"...Get lost.`@` I could handle you even by myself."`\
 ;БГЙ√Йє
 textoff
 bg garden_1a,24
@@ -18707,95 +18707,95 @@ quakey 3,400
 ld l,RG3_NakuA1,80
 
 ;БuВ»БAЙљВжБAВ±ВкВ•БcБI@Б@ВнБAОДВЌГ`ГЗГRВрУnВµВ…ЧИВљВЊВѓВ≈ВµВеБHБI@Б@ГoГМГУГ^ГCГУВґВбВ»ВҐВћБHБI@Б@ЙљВ≈В±ВсВ»ЦЏВ…СШВнВ≥ВкВ»В≠ВњВбВ»ВзВ»ВҐВћВжГbБHБI@/
-`"ѕ-почему так вышло?!..`@` я ведь просто пришла дать тебе шоколад!`@` —егодн€ ƒень ¬алентина, а ты даже не смотришь на мен€! `@/
+`"W-why did this happen?!..`@` I just came to give you some chocolate!`@` Isn't it Valentine's Day?!`@` Why won't you even look at me?! `@/
 
 ;ЙљВ≈ОДВЊВѓВ§В№В≠НsВ©В»ВҐВћБHБI@Б@ВЁВсВ»ВЌВ§В№В≠НsВЅВљВћВ…В«В§ВµВƒОДВЊВѓГbБI@Б@В«В§ВµВƒВжВ«В§ВµВƒВжГbБAВнВѓВнВ©ВсВ»ВҐГbБIБI@Б@В§В§В£В§В£В£В£В£БcГbБIБIБv\
-`ѕочему только мне не повезло?!`@` ¬се остальные с лЄгкостью справились, но почему не €?!`@` ѕочему, почему, не понимаю!`@` ”-у-у-у-у-у!.."`\
+`Why am I the only one with no luck?!`@` Everyone else had an easy time with it, why not me?!`@` Why, why, I don't get it!`@` Uuugggnnh!.."`\
 ;БГГTГ^ГУ
 
 
 ld r,JES_IkariA1,24
 
 ;БuГПГPВнВ©ВсВЋВ•ВћВЌВ®СOВћХыВЊВЇГbБI@Б@В«В§ВєВ®СOВћГ`ГЗГRВ»ВсВƒБAЙцВµВҐУ≈В©ЙљВ©УьВЅВƒВйВсВЊВлБB@ВїВсВ»ВћЙ√ЙєВ≠ВсВ…РHВнВєВзВкВйВ©ГbБIБv\
-`"Ёто € теб€ не понимаю!`@` “вой шоколад наверн€ка отравлен.`@` Ѕудто бы  анон стал его есть!" `\
+`"What I don't get is you!`@` Your chocolate's probably poisoned or something.`@` As if Kanon would ever eat something like that!" `\
 ;БГОйОuНБ
 
 ld l,RG3_IkariA2,80
 
 ;БuВЃГbБAБcБcВ§ВЃВЃВЃВЃВЃГbБIБI@Б@В®КиВҐВЊВ©ВзВаВзВҐВ»В≥ВҐВжГbБAЙљВ≈ОДВ™В±ВсВ»В…В№В≈ХKОАВ…В»ВЅВƒГ`ГЗГRУnВ≥В»ВЂВбВ»ВзВ»ВҐВћВжБAВ«В±В№В≈ОДВ…ТpВрС~В©ВєВкВќЛCВ™НѕВёВћВжБIБI@/
-`"√х, ...у-у-у-у-у!`@` ”мол€ю, возьми! ћне конец, если € не отдам его, так что издевайтесь сколько хотите! `@/
+`"Guh... ugugugugu!`@` I'm begging you to accept this, if I don't hand this over to somebody it's all over for me, so mock me as much as you want `@/
 se1 6
 se2 52
 cl l,99,1000,"breakup.dll/ulb"
 
 ;Б@ФnО≠ГbТpТmВзВЄГbБAКoВ¶ВƒВ»В≥ВҐВжГbБAН°УxВЂВЅВ∆ОEВµВƒВвВйГbБIБIБv\
-`Ќо € это припомню, бессовестные глупцы, и об€зательно в следующий раз убью вас!"`\
+`But I'll remember this, you shameless fools, and I will definitely kill you next time!"`\
 ;БГГTГ^ГУ
 
 ;Б@ГTГ^ГУВЌГ`ГЗГRВћФ†ВрЙ√ЙєВ…УКВ∞В¬ВѓВƒВ‘В¬ВѓВйВ∆БAЙчВµВ≥В≈КзВрР^ВЅР‘В…ШcВяВ»В™ВзБAВїВћОpВрЙ©ЛаВћТ±ВћМQВкВ…ХѕВ¶ВƒПЅВ¶ВйБB\
-` —атана швырнула  анону коробку.`@` ≈Є раскалЄнное лицо исказилось от досады, и она превратилась в рой золотых бабочек.`\
+` Satan hurled the box at Kanon, her red-hot face twisted with vexation, and burst into a swarm of golden butterflies.`\
 
 ld l,KAN_OdorokiA1,23
 
 ;БuБcБcБcВ»БAБcЙљВ»ВсВЊБAВ†ВҐВ¬ВЌБBБv@
-`"......ƒ-да что это с ней." `\
+`"...What was her deal?.." `\
 ;БГЙ√Йє
 
 cl r,0
 ld c,JES_atyaA2,64
 
 ;БuУсУxВ∆ЧИВйВ»Б[БI@Б@В™ВйВйВйВйВйБ[БIБv\
-`"» не возвращайс€!`@` √р-р-р-р!"`\
+`"And don't come back again!`@` Grrrr!"`\
 ;БГОйОuНБ
 
 ;Б@ЙљВ™ЙљВЊВ©ВнВ©ВзВЄНҐШfВЈВйЙ√ЙєВ…БAГTГ^ГУВ™ПЅВ¶ЛОВЅВљЛХЛуВ…ЪXВиВ¬ВѓВйОйОuНББB\
-` ƒжессика зарычала туда, где исчезла —атана, а  анон продолжал недоумевать. `\
+` Jessica growled at the space where Satan had disappeared to, while Kanon continued to be perplexed. `\
 cl c,0
 bg black,26
 
 ;Б@Й√ЙєВћСЂМ≥В…ВЌГTГ^ГУВћУКВ∞В¬ВѓВљФ†В™В†ВЅВљБB@
-` Ўоколад, брошенный ею, лежал у его ног.`\
+` The box Satan had hurled lay at Kanon's feet.`\
 
 ;Б@БcПEВЅВƒБAМгВ≈Х‘ВЈВ„ВЂВЊВлВ§В©В∆ЦјВЅВƒВҐВйВ∆БAВЈВЃВ…ОйОuНБВ™ВїВкВрПEВ§БB\
-` ...ќн хотел было подн€ть коробку, но ƒжессика тут же схватила еЄ. `\
+` ...As he wondered whether he should pick it up, Jessica grabbed it immediately. `\
 bg garden_1c,0
 ld c,JES_atyaA2,26
 
 ;БuС ЦЏВЊВЇБAИЂЦВВћГ`ГЗГRВ»ВсВƒРHВ„ВњВбБI@Б@РвСќВ…ЙљВ©УьВЅВƒВйВ…МИВ№ВЅВƒВйБB@В±ВкВЌОДВћХыВ≈ПИХ™ВµВƒВ®В≠В©ВзГbБIБv@
-`"Ќе ешь шоколад чертовки!`@` я решила.`@` я лично теб€ от него избавлю!"`\
+`"You definitely can't eat that demon's chocolate!`@` I've decided.`@` I'm going to help you get rid of this personally!"`\
 ;БГОйОuНБ
 
 
 ld r,KAN_FumanA1,24
 
 ;БuБcБcВїВкВ≠ВзВҐБAЦlВћХыВ≈ПИХ™ВµВ№ВЈВћВ≈БcБAБv\
-`"...я и сам могу..." `\
+`"...I can do that myself..." `\
 ;БГЙ√Йє
 
 cl c,0
 ld l,JES_IkariA3,24
 
 ;БuВЊГ@ВяБIБI@Б@ОДВ™ПИХ™ВЈВйВЇБI@Б@Й√ЙєМNВЌФ†В…ВаРGВкВњВбС ЦЏГbБAВ™ВйВйВйВйВйБcБIБv\
-`"Ќет!`@` я разберусь!`@` я не допущу, чтобы эта коробка теб€ потревожила, гр-р-р-р!.." `\
+`"No!`@` I'll handle it!`@` I won't allow this box to disturb you, grrrr!.." `\
 ;БГОйОuНБ
 
 ;Б@В±ВкВЊВѓВЌПчВзВ»ВҐВ∆ВҐВ§Л≠ВҐМ`СКВ≈БAОйОuНБВ™ВїВћФ†ВрТDВ§БB@
-` — убеждением, написанным на лице, ƒжессика выхватила коробку.`\
+` With her conviction written on her face, Jessica snatched away the box.`\
 
 ;Б@ЙљВ≈ИЂЦВВћГ`ГЗГRВрБAВїВсВ»В…ВаВёВЂВ…В»ВЅВƒОйОuНБВ™ПEВ§ВћВ©БAЙ√ЙєВ…ВЌВжВ≠ВнВ©ВзВ»В©ВЅВљБB\
-`  анон не пон€л, почему она с такой решимостью схватила шоколад демона.`\
+` Kanon didn't understand why Jessica was so determined to take that demon's chocolate.`\
 
 
 ld r,KAN_FumanA2,80
 
 ;БuБcБcВїВкВ…ВµВƒВаБB@ЙљВµВ…ЧИВљВсВЊВлВ§БAВ†ВҐВ¬ВЌБBБv@
-`"...Ќе понимаю.`@` «ачем она приходила?" `\
+`"...I don't get it.`@` What did she come here for?" `\
 ;БГЙ√Йє
 
 ld l,JES_komaruA1,80
 
 ;БuИЂЦВВ»ВЊВѓВ…БAЦВВ™НЈВµВљВсВЊВлВ§ВЇБcБI@/
-`"ќна же демон, наверн€ка пришла наложить на теб€ закл€тие!..`@/
+`"She's a demon, she definitely came to curse you somehow!..`@/
 ld l,JES_TereruA2,80
 
 ;!s0Б@В†БA/
