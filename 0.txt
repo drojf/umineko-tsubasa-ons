@@ -18421,70 +18421,70 @@ me1 24
 ` Meanwhile, Leviathan also decided to visit a former enemy.`\
 
 ;В»ВйВўВ«БAГxГЛГtГFВ™ЧѓХ§ХvВ…Г`ГЗГRВрУnВЈВћВ»ВзБAФёПЧВ™ЦґН]В…УnВµВƒВаВ®В©ВµВҐВ±В∆ВЌВ»ВҐБB\
-` ƒа, если Ѕельф дала свой шоколад –удольфу, то не странно, что она даЄт свой  ирие.`\
+` Indeed, if Belphe gave her chocolate to Rudolf, there's nothing strange about her giving hers to Kyrie.`\
 ld l,KIR_KomaruA1,80
 
 ;Б@В№В≥В©О©Х™В™Г`ГЗГRВрВаВзВ¶ВйВ∆ВЌОvВнВЄБAЦґН]ВЌЛкПќВҐВрХВВ©В„ВйБB\
-` Џ00171Ќе ожидала, что мне подар€т шоколадЏ00187, - с кривой улыбкой подумала  ирие.`\
+` I didn't expect I'd be the one getting chocolate', Kyrie thought with a dry smile.`\
 
 ld l,KIR_WaraiA2,80
 
 ;БuВвВЊБAПЧВћОqВ…Г`ГЗГRВаВзВЅВњВбВЅВљБB@БcВ≈ВаБAВ†ВиВ™В∆БB@КрВµВҐВнБBБv@
-`"я бы предпочла не брать шоколад у девушки, но...`@`спасибо.`@` я благодарна."`\
+`"I'd rather not take chocolate from a girl...`@` But, thank you.`@` I appreciate it.."`\
 ;БГЦґН]
 
 
 ld r,RG2_FumanA2,80
 
 ;БuОєУiВрОiВйОДВ™ОєУiВ≈ХЙВѓВљВ©ВзВЋБB@В†ВсВљВ…ВЌИкЙЮБAИкЦЏТuВҐВƒВсВћБBБv\
-`"ћне, повелевающей завистью, нанесла поражение тво€ зависть.`@` ѕока что € признаю твоЄ превосходство." `\
+`"I, who rule envy, was defeated by your envy.`@` For the time being, I acknowledge your superiority." `\
 ;БГГМГФГBГAГ^ГУ
 
 ld l,KIR_WaraiA1,80
 
 ;БuВїВсВ»ВћВ≈СЄМhВ≥ВкВљВ≠В»ВҐВнБB@/
-`"Ќе скажу, что хочу быть признана за такое. `@/
+`"I don't really want to be acknowledged for such a thing. `@/
 ;В†ВзБAСfУGБB@В±ВкБAОиНмВиВ»ВћБHБ@ФьЦ°ВµВїВ§БBБv@
-`Ќадо же.`@` —ама сделала? ¬кусно."`\
+`Oh, my.`@` Did you make this? Delicious."`\
 ;БГЦґН]
 
 
 ld r,RG2_AkuwaraiA1,80
 
 ;БuВЂВЅВ∆ФьЦ°ВµВҐВнВжБB@РжВ…ГxГЛГtГFВ…ВаВзВЅВљЧѓХ§ХvВаБAФьЦ°ВµВҐВЅВƒМЊВЅВƒВљВаВсБBБv\
-`"–азумеетс€.`@` –удольфу тоже понравилось, когда Ѕельф только что дала ему шоколад."`\
+`"It certainly is.`@` Rudolf also said it was delicious when Belphe gave him chocolate as well..."`\
 ;БГГМГФГBГAГ^ГУ
 
 ld l,KIR_waraiA2,80
 
 ;БuБcБcБcВ¶БAЙљБH@Б@ЙљВћШbБHБv@
-`"...Ё, прости?`@` „то ты сказала?" `\
+`"...Eh, sorry?`@` What did you just say?" `\
 ;БГЦґН]
 
 ;Б@ЦґН]ВЌПќКзВћХ\ПоВћВ№В№БAЛCЙЈВЊВѓВрЧлЙЇВ…ЙЇВ∞ВƒХЈВЂВ»В®ВЈБB\
-` ѕодобие улыбки, по€вившеес€ на лице переспросившей  ирие, быстро снизило температуру до абсолютного минимума. `\
+` The warmth of that semblance of a smile that was on Kyrie's face quickly dropped down to absolute zero as she asked again. `\
 bg black,25
 
 me2v 17,85
 
 ;Б@ГМГФГBГAВЌБAКрБXВ∆ВµВ»В™ВзЧѓХ§ХvВ∆ГxГЛГtГFВћВ±В∆ВрШbВЈБB@
-` Ћеви€ поспешила рассказать ей подробности.`\
+` Levia eagerly filled her in.`\
 
 ;Б@УсРlВ≈М®ВрХјВ„ВƒНјВЅВƒБAГ`ГЗГRВрОиУnВµВƒВ©ВзБAУсРlВћМ®В™ЛяХtВҐВƒЙ]БXБcБB\
-` ќни вдвоЄм сели друг р€дом с другом, отложили шоколад в сторону и сблизились плечами... `\
+` The two of them sat down next to each other, the chocolate was handed over, and their shoulders drew near... `\
 
 bg cof_1a,0
 ld l,RG2_AkuwaraiA4,26
 
 ;БuВЋВ•БAВҐВҐВћВ©ВµВзБAВїВкВЅВƒХВЛCВґВбВ»ВҐВћБHБv@
-`"Ёй, ничего, что он так дурачитс€?"`\
+`"Hey, is that alright, him fooling around like that?"`\
 ;БГГМГФГBГAГ^ГУ
 
 
 ld r,KIR_WaraiA2,24
 
 ;БuВ¶Б[БH@Б@В≠ВЈВ≠ВЈВ≠ВЈБAВїВсВ»В±В∆В»ВҐВнВжБB@ЧѓХ§ХvВ≥ВсВЌОДИкЛЎВЊВаВћБAХВЛCВ»ВсВ©ВµВ»ВҐВнВжБB@/
-`"Ё?`@` *хи-хи*, нет.`@` Ёто не дурака вал€ть, дл€ –удольфа такое вполне привычно. `@/
+`"Eh?`@` *giggle*, no, no.`@` Rudolf isn't fooling around, for him, this is normal. `@/
 me3v 3,90
 
 cl r,3
@@ -18497,13 +18497,13 @@ cl l,0
 ld c,RG2_WaraiA1,23
 
 ;БuВЂВбБ[БAВ≥ВЈВ™ВЌОєУiВћВ®ОtП†ЧlВЯБI@Б@ВаВЅВ∆ВаВЅВ∆ВаВЅВ∆ВаВЅВ∆БI@Б@НЫВкНЫВкВµВњВбВ§ОєУiВрВаВЅВ∆М©ВєВƒГFБAВЂВбБ`ВсБфБv\
-`" ь€, узнаю свою наставницу в зависти!`@` ≈щЄ, ещЄ, ещЄ!`@` ѕокажи мне больше своей чарующей зависти, кь€-аЏ09834 "`\
+`"Kya-, just as expected from my mentor in jealousy!`@` More, more, more!`@` Show me more of that charming envy of yours, kya~"`\
 ;БГГМГФГBГAГ^ГУ
 
 cl c,23
 
 ;Б@ЦґН]ВЌПќКзВћВ№В№БAЙtСћТВСfВћВжВ§В»ЧвЛCВрХYВнВєВ»В™ВзБAВћВЅВµВћВЅВµВ∆ХаВЂЛОВЅВƒВҐВ≠БB@
-`  ирие с лед€ной улыбкой ушла.`\
+` With a smile icy enough to send liquid nitrogen drifting through the air, Kyrie walked away.`\
 
 textoff
 se1 60
@@ -18517,9 +18517,9 @@ quakey 2,300
 
 
 ;ВїВћМгВрБAВЂВбВЅВЂВбВ∆МџХСБHБ@ВµВ»В™ВзГМГФГBГAВ™В¬ВҐВƒВҐВ≠БB\
-`  рича в поддержку Џ00171 ь€-кь€Џ00187, Ћеви€ пошла следом.`\
+` Shouting 'kya, kya's of encouragement, Levia followed after her.`\
 ;Б@ОєУiВрОiВйГМГФГBГAГ^ГУВзВµВҐБAГ`ГЗГRВћУnВµХыВ≈ВЌВ†ВЅВљБcБB\
-` Ћевиафан зависти подарила шоколад так, как было больше всего на неЄ похоже... `\
+` It was an occasion of giving chocolate most suited for Leviathan of Envy... `\
 
 textoff
 bg black,22
@@ -18532,23 +18532,23 @@ bg G1F_S1cp,22
 me1 16
 
 ;Б@В†В∆БAОcВЅВљВћВЌГЛГVГtГ@Б[В∆ГTГ^ГУВћВQРlБB@
-` ѕосле остались только Ћюцифер и —атана - две сестры, хорошо известные за упр€мство.`\
+` After that, the only two remaining were Lucifer and Satan - the two of the Seven Sisters well-known for being obstinate.`\
 
 bg G1F_S1bp,0
 ld l,RG3_KomaruA1,23
 
 ;Б@ПЗФ‘УIВ…ВЌБAОЯВЌГTГ^ГУБB@
-` Ќастала очередь —атаны.`\
+` It was Satan's turn next.`\
 
 ;Б@ТNВ…УnВЈВ©ВЌВ≥ВЅВЂВ№В≈МИВ№ВЅВƒВҐВ»В©ВЅВљВ™БAГxГЛГtГFВљВњВћВ®ЙAВ≈ОvВҐУЦВљВЅВљБB\
-` ’от€ она ещЄ не решила, кому подарить шоколад, Ѕельф и другие подали ей идею.`\
+` Although she hadn't decided who to give her chocolate to, Belphe and the others had given her an idea.`\
 ld l,RG3_fumanA1,80
 
 se1 52
 cl l,99,1000,"breakup.dll/urb"
 
 ;Б@ФёПЧВаВ№ВљБAВ©В¬ВƒРнВЅВљВ±В∆В™В†ВйСКОиВћВ∆В±ВлВ÷Г`ГЗГRВрОЭВЅВƒНsВ≠БB\
-` ќна тоже решила дать шоколад тому, с кем сражалась.`\
+` She decided to hand her chocolate to the one she had fought, as well.`\
 bg black,22
 
 fede 0,1000
@@ -18560,14 +18560,14 @@ ld r,KAN_DefA2,26
 bgm1 110
 
 ;БuБcБcБcБcВҐВзВ»ВҐБBБv\
-`"......Ќе стоит."`\
+`"...There's no need."`\
 ;БГЙ√Йє
 
 ;Й√ЙєВЌМ”ОUПLВїВ§В…Г`ГЗГRВрИкХЋВЈВйВ∆БAЧвВљВ≠МЊВЅВљБB@
-` ќтветил  анон, окинув шоколад подозрительным взгл€дом.`\
+` Kanon gave that reply after looking at the chocolate with a single, suspicious glance.`\
 
 ;СЉВћОoЦЕВљВњВЌБAВ–ВеВҐВ–ВеВҐВЅВ∆В§В№В≠ОиУnВєВƒВҐВљВћВ≈БAО©Х™ВЊВѓВЌТfВзВкВƒБAГTГ^ГУВЌВ©В»ВиШTФВВЈВйБB\
-` ѕосле того как шоколад остальных сестЄр привычно прин€ли и похвалили, а ей отказали, —атана сильно расстроилась.`\
+` Since the other sisters' chocolate had been accepted casually and praised, and only hers was rejected, Satan was most upset by this.`\
 
 bg garden_1a,0
 ld c,RG3_OdorokiA2,23
