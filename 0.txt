@@ -17856,7 +17856,7 @@ print 99,1000,"breakup.dll/llb"
 ld c,GOH_OmakaseA2,80
 
 ;БuВҐВвВЯБAВЌВЌВЌБcБB@В№В≥В©В±ВћНќВ…ВаВ»ВЅВƒБAВ±ВсВ»ОбВҐПЧВћОqВ©ВзБAВ±ВсВ»В…ВаФьЦ°ВµВїВ§В»Г`ГЗГRВрВаВзВ¶ВйВ∆ВЌБcБB@ВƒБAП∆ВкВ№ВЈВ»Г@БAВ»ВЌВЌВЌВЌВЌБcБcБBБv\
-`"ј, ха-ха-ха...`@` Ќикогда бы не подумал, что мне в таком возрасте подарит конфеты столь юна€ леди...`@` Ќеловко, на-ха-ха-ха-ха..." `\
+`"Ah, hahaha...`@` At this age, I never imagined I'd get such delicious-looking chocolate from such a young girl...`@` It's quite awkward, nahahahaha..." `\
 ;БГЛљУc
 
 se1 47
@@ -17864,19 +17864,19 @@ cl r,0
 ld l,RG6_WaraiA1,24
 
 ;БuВ≥ВЯВ≥БAПҐВµПгВ™ВкПҐВµПгВ™ВкБI@Б@ВїВµВƒГzГПГCГgГfБ[В…ВЌОOФ{ВћВ®Х‘ВµВрЙЇВ≥ВҐВ»ГbБI@/
-`"Ќу же, ешьте, ешьте!`@` ј потом на Ѕелый день дайте мне в три раза больше! `@/
+`"C'mon, eat, eat!`@` And on White Day, please give me three times as much in return! `@/
 ;!s0Б@В»ВЅ/
-!s0`Ћ€-`/
+!s0`La-`/
 se1 48
 quakey 2,300
 
 ;В»ВЅ/
-`л€-`/
+`la-`/
 se2 48
 quakey 2,300
 
 ;В»ВЅБфБv/
-`л€Џ09834 "`/
+`la~ "`/
 se3 48
 quakey 2,300
 
@@ -17886,12 +17886,12 @@ quakey 2,300
 bg black,22
 
 ;Б@ЛљУcВЌКзВрР^ВЅР‘В…ВµВ»В™ВзБAГ`ГЗГRВрВѕВ≠ВиВ∆РHВ„ВйБB@
-` √оуда одним махом съел шоколад, и у него покраснело лицо. `\
+` Gohda ate the chocolate in a single gulp, his face completely red. `\
 
 ;Б@БcВµВ©ВµБAВїВћНgТ™ВµВљЦjВ™ВЁВйВЁВйРЅВяВƒВҐВ≠БB@
-` ...¬прочем, его щеки тут же прин€ли нормальный вид.`\
+` ...However, his cheeks returned to normal in an instant.`\
 ;Б@БcБcВ†ВкБAФьЦ°ВµВ≠В»В©ВЅВљБcБH\
-` ...Ѕыло невкусно?..`\
+` ...Did it taste bad?..`\
 fede 0,1000
 E_A
 
@@ -17901,25 +17901,25 @@ ld l,RG6_KomaruA1,26
 me1 5
 
 ;БuБcБcВ†БAВ†ВћБB@В®МыВ…ПҐВµВ№ВєВсВ©БcБHБv@
-`"...Ё-э,`@` что-то не так?.."`\
+`"...Um,`@` is something wrong?.."`\
 ;БГГxГЛГ[ГuГu
 
 ld r,GOH_IiwakeA2,26
 
 ;БuВ®ПмВ≥ВсБcБB@В±ВћГ`ГЗГRВЌВ†В»ВљВћОиНмВиВ∆Р\ВµВ№ВµВљВ©БcБHБv\
-`"ёна€ леди...`@` ѕомнитс€, вы сказали, что сделали этот шоколад сами?.."`\
+`"Young lady...`@` Did I hear you say that you made this chocolate by hand?.."`\
 ;БГЛљУc
 
 
 ld l,RG6_OdorokiA3,80
 
 ;БuВ¶БAБcВ¶В•ВЅБAВїВ§В≈ВЈВЅБB@ОДВ™НмВиВ№ВµВљБ[БIБv\
-`"Ё... ј, да.`@` ≈го сделала €!" `\
+`"E... eh, that's right.`@` I made it!" `\
 ;БГГxГЛГ[ГuГu
 
 
 ;Б@ГxГЛГ[В™ВµВбВ†ВµВбВ†В∆ЙRВрВ¬В≠В∆БAЛљУcВЌВЈВ≠ВЅВ∆ЧІВњПгВ™ВйБB@БcВїВћХ\ПоВ…ХВВ¬ВҐВљВаВћВЌВ»В©ВЅВљБB\
-`  огда ¬ельз бессовестно солгала, √оуда выпр€милс€.`@`  ...ѕо его взгл€ду ничего не было €сно.`\
+` As Beelz shamelessly lied, Gohda stood up straight.`@` ...There was nothing uncertain about his expression.`\
 textoff
 
 E_A
@@ -17931,24 +17931,24 @@ wait 1000
 bgm1 106
 
 ;БuБcБcВ†ВиВ™В∆В§БAВ®ПмВ≥ВсБB@В«В§ВвВзВ±ВћЛљУcБAВµВќВзВ≠В ВйВ№УТВ≈РQВЏВѓРЎВЅВƒВҐВљВжВ§В≈ВЈБB@БcБcВ±ВкВўВ«ВћШrСOВ∆ВЌБAБcВ±ВкВЌВаВЌВвОДВ÷ВћТІРнГbБAВїВ§В≈ВЈВЋБAВ®ПмВ≥ВсБI@/
-`"...ѕримите мою благодарность, юна€ леди.`@` ƒавно уже подобный вкус не пробуждал мен€, √оуду, от посредственности.`@` “акой навык... я принимаю вызов, юна€ леди!.."`\
+`"......You have my thanks, young lady.`@` It's been a long time since such a taste has awoken me, Gohda, from mediocrity..`@` What skill... I accept this challenge, young lady!.."`\
 
 
 ;!s0Б@В”В В®В®В®В®ВІВ®В®В®ВІВ®В®БIБI@/
-!s0`"”о-о-о-о-о! `@/
+!s0`"Wohhhh! `@/
 
 se1 12
 se2 57
 bg Glob_1e,1
 quakey 2,500
 ;Б@В±ВсВ»ОбВҐП≠ПЧВ™В±ВсВ»В…ВаСfР∞ВзВµВҐГ`ГЗГRВрБI@Б@ГzГПГCГgГfБ[В№В≈ИкГЦМОБI@/
-`—толь великолепный шоколад от такой юной леди!`@` ƒо Ѕелого дн€ осталс€ мес€ц! `@/
+`Such splendid chocolate from such a young lady!`@` One month remains until White Day! `@/
 se1 5
 mbg white,1
 mcbg 22
 
 ;Н°В©ВзГxГЛГMБ[В…НsВЅВƒПCНsВрГbБIБI@/
-`ћне нужно немедленно отправитьс€ на обучение в Ѕельгию! `@/
+`I must depart to Belgium for training immediately! `@/
 textoff
 se1 20
 wait 300
@@ -17958,7 +17958,7 @@ se3 20
 wait 200
 
 ;Б@В±ВћЛљУcБAЦ°В≈ВЊВѓВЌХЙВѓВзВкВсГУГУГУВсВ£В®В®В®ВІВІВ®В®В®В®ВІВ®В®В®ГbБIБIБv/
-`ћен€, √оуду, не пошатнЄт такой вку-у-у-у-ус!!!"/
+`I, Godha, shall not be defeated by this taaaaaaste!!!"/
 
 se1v 1006,100
 se2v 1006,100
@@ -17972,7 +17972,7 @@ bg Glob_1a,0
 ld c,RG6_OdorokiA3,26
 
 ;Б@ГxГЛГ[ВЌЙљОЦВ©В∆ЦЏВрФТНХВ≥ВєВƒВҐВљВ™БAВ∆ВиВ†В¶ВЄБAОЯВћГzГПГCГgГfБ[В™В∆ВƒВаКyВµВЁВ»ВћВЌК‘ИбВҐВ»В©ВЅВљБcБB\
-` ¬ельз озадачила эта вспышка, но, как бы то ни было, следующий Ѕелый день обещал быть неистовым событием...`\
+` Beelz was rather taken aback by the outburst, but in any case, the next White Day would no doubt be a boisterous occasion...`\
 bg black,24
 bg Glob_1c,24
 se1 52
@@ -17981,10 +17981,10 @@ print 99,1000,"breakup.dll/ulb"
 ld r,RG5_akuwaraiA1,80
 
 ;БuБcВ»ВйВўВ«ВЋБB@/
-`"...“еперь € пон€ла. `@/
+`"...I get it now. `@/
 
 ;В№ВЯБAВЊВҐВ‘ЧvЧћВЌВнВ©ВиВ№ВµВљБB@В†В№ВиН\В¶ВƒВаОdХыВ™В»ВҐВсВ≈БAОДВаВ≥ВЅВ≠ВиУnВµВƒВЂВ№ВЈБBБv@
-`Ќу, основную идею.`@` –аз ничего не поделаешь, € тоже отдам свой шоколад."`\
+`Well, the basic idea, anyway.`@` Since there's no avoiding it, I'll be giving my chocolate away as well."`\
 ;БГГ}ГВГУ
 
 se1 52
@@ -17992,7 +17992,7 @@ ld l,RG1_OdorokiA3,0
 print 99,1000,"breakup.dll/lrb"
 
 ;БuВ¶ВЅБAЙљБAГ}ГВГУБcБI@Б@ТNВ…УnВЈВ©ВаВ§МИВ№ВЅВƒВйВћБcБHБIБv\
-`"Ё, что, ћаммон?!..`@`  ому ты его дашь?!.." `\
+`"Eh, wha, Mammon?!..`@` Who are you giving it to?!.." `\
 ;БГГЛГVГtГ@Б[
 textoff
 ld r,RG5_AkuwaraiA4,80
@@ -18001,10 +18001,10 @@ se1 52
 cl r,99,1000,"breakup.dll/lrb"
 
 ;Б@Г}ГВГУВЌУЪВ¶ВЄБAНYВ…В»ВЅВƒВЈВЅФтВсВ≈ВҐВ≠БB@/
-` Ќе ответив, ћаммон превратилась в кинжал `@/
+` Without answering, Mammon became a stake `@/
 
 ;ГJГLГRГLГJГLГRГLГJБ[ГУБI\
-`и с грохотом улетела.`\
+`and flew away with a clatter.`\
 
 bg black,22
 fede 0,1000
@@ -18021,67 +18021,67 @@ bgm1 92
 ld l,SAK_WaraiA1,23
 
 ;БuВ§ВиВгБ[БI@Б@ВњВеВ±ВкБ[В∆ВЊБ[БIБIБv@
-`"”рю-ю!`@`  онфетки!"`\
+`"Uryuu!`@` Candies!"`\
 ;БГВ≥В≠ВљВлВ§
 
 ld r,RG5_HohoemiA2,24
 
 ;БuВ†ВсВљВЊВѓВћХ™ВґВбВ»ВҐВнВжБAЙПОхВ≥В№В∆Х™ВѓВЅВ±ВжБB@В†ВкБAЙПОхВ≥В№ВЌБHБv\
-`"Ќе только дл€ теб€, поделись с госпожой Ёнж...`@` Ё, а где она?"`\
+`"This isn't just for you, share it with Ange...`@` Eh, where is she?"`\
 ;БГГ}ГВГУ
 
 
 ld l,SAK_DefA1,80
 
 ;БuВ§ВиВгБB@РнРlВвУVСРВ…Г`ГЗГRВрВ†В∞ВйВЅВƒМЊВЅВƒБAЛвНјВ№В≈В®ФГВҐХ®БBБv@
-`"”рю,`@` она сказала, что хочет подарить шоколад Ѕаттлеру и јмакусе, так что пошла в магазин." `\
+`"Uryuu,`@` she said she wanted to give chocolate to Battler and Amakusa, so she went shopping in Ginza." `\
 ;БГВ≥В≠ВљВлВ§
 
 
 ld r,RG5_akuWaraiA1,80
 
 ;БuВ†Б[БAЙПОхВ≥В№ВЅВƒОиНмВиВжВиГ}ГlБ[ГpГПБ[В≈Х–ХtВѓВйХыВ≈ВµВљВЅВѓБB@/
-`"ј, так госпожа Ёнж предпочла купить, а не делать самой. `@/
+`"Ah, so Ange would rather use her money than make it herself. `@/
 ;ВґВбВ†БAВїВћУаБAЛAВЅВƒВ≠ВйВ©В»БBБv\
-`„то ж, тогда она скоро вернЄтс€."`\
+`Well, she should be coming back before long."`\
 ;БГГ}ГВГУ
 
 
 ld l,SAK_WaraiA2,80
 
 ;БuЙПОхВаБAО©Х™ВћХ™ВћГ`ГЗГRВ™С“ВЅВƒВйВ∆ВЌОvВнВЄБAВЂВЅВ∆В—ВЅВ≠ВиБI@Б@ЙПОхВрЛЅВ©ВµВњВбВ®В£БIБv@
-`"Ёнж наверн€ка не ждЄт шоколада!`@` ƒавай удивим еЄ!"`@
+`"I'm sure Ange won't expect to get her own share of chocolate!`@` Let's surprise her!"`@
 ;БГВ≥В≠ВљВлВ§
 
 
 ld r,RG5_WaraiA2,80
 
 ;БuВїВкБAВҐВҐГAГCГfГAБB@В†В∆БAГ}ГКГAЛ®ВаМƒВсВ≈ВзВЅВµВбВҐБB@ГoГМГУГ^ГCГУВ…БAПЧВћОqВ™Г`ГЗГRВрРHВ„ВњВбВҐВѓВ»ВҐВЅВƒГЛБ[ГЛВЌВ»ВҐВЌВЄВЊВнБBБv\
-`"Ќеплоха€ мысль.`@` ѕригласим и леди ћарию.`@` Ќикто не запрещает девушкам есть шоколад ко ƒню ¬алентина."`\
+`"That's a nice idea.`@` Afterwards, why don't we invite Lady MARIA too?`@` There's no rule against girls eating chocolate on Valentine's."`\
 ;БГГ}ГВГУ
 
 
 ld l,SAK_WaraiA3,80
 
 ;БuВ§ВиВгБ[БI@/
-`"”рю-ю! `@/
+`"Uryuu! `@/
 ;!s0Б@СБВ≠РHВ„ВљВҐБA/
-!s0 `’очу съесть `/
+!s0 `I want to eat `/
 se1 48
 quakey 2,400
 
 ;Г}ГВГУВћГ`ГЗГRБA/
-`шоколад ћаммон, `/
+`Mammon's chocolate, `/
 se2 48
 quakey 2,400
 
 ;СБВ≠РHВ„ВљВҐВЅБA/
-`хочу съесть, `/
+`I want to eat it, `/
 se3 48
 quakey 2,400
 
 ;В§ВиВгБ`БIБv/
-`урю~!"`/
+`uryuu~!"`/
 !sd\
 ;БГВ≥В≠ВљВлВ§
 
@@ -18089,21 +18089,21 @@ quakey 2,400
 ld r,RG5_AkuwaraiA1,80
 
 ;БuВ≠ВЈБB@ИкМ¬ВЊВѓУEВЁРHВҐВЈВйБHБv@
-`"*хи-хи*`@` Ќу так бери свою долю."`\
+`"*giggle*`@` You can take your share."`\
 ;БГГ}ГВГУ
 
 
 ld l,SAK_WaraiA1,80
 
 ;БuУEВЁРHВҐВЈВйБ[БIБv\
-`"—ейчас и возьму!"`\
+`"Then I will!"`\
 ;БГВ≥В≠ВљВлВ§
 
 
 ld r,RG5_WaraiA2,80
 
 ;БuВ§В”В”БAОДВаУEВЁРHВҐВµВљВ≠В»ВЅВњВбВ§БcБB@Б@В†ВЯВсБAВ≥В≠ВљВлБAВаВ§ЙдЦЭВ≈ВЂВ»Б[ВҐГbБAГВГtГВГtВ≥ВєВƒВ•Б`БфБv\
-`"”фу-фу, а вот €...`@` ј-а, —акутаро, € больше не могу-у, € теб€ съемЏ09834 "`\ 
+`"Ufufu, as for what I'd like to eat...`@` aah, Sakutaro, I can't stand it anymooore, I'm gonna eat you~ "`\ 
 
 cl r,0
 ld c,RG5_WaraiA1,80
@@ -18117,18 +18117,18 @@ bg PAR_1b,22
 
 
 ;БuВ§ВЂВгБHБI@Б@ВђВгБ[БI/
-`"”кь€?!`@` √ь€!`/
+`"Ukya?!`@` Gya!`/
 se1 47
 quakex 2,200
 
 ;@Б@ВвВяВƒГ}ГВГУБ`Б`БA/
-@` ѕрекрати, ћаммо-о-он, `/
+@` Stop it, Mammon~, `/
 
 ;В§ВђВгБ`БA/
-`угь€-а, `/
+`ugya~, `/
 
 ;В§ВиВгБ`БIБv/
-`урю-ю!"`/
+`uryu!"`/
 
 
 se3 48
@@ -18140,22 +18140,22 @@ quakey 2,200
 
 
 ;БuГВГtГВГtБI/
-`"*хвать*!`/
+`"*grab*!`/
 
 ;@Б@ГВГtГВГtБ`БIБI/
-@` *грызь*~!`/
+@` *chew*~!`/
 se2 48
 quakey 2,200
 
 @/
 ;!s0Б@ВЌГ@ВсБA/
-!s0` ’а-а, `/
+!s0` Haa, `/
 ;!d300ВЋВ•ВЋВ•БA/
-!d300`эй-эй, `/
+!d300`hey hey, `/
 ;!d300О®Ва/
-!d300`твои уши...`/
+!d300`your ears...`/
 ;!d400 КЪВсВ≈ВҐВҐБEБEБEБHБv 
-!d400` ћожно мне их погрызть?.."`/
+!d400` Can I nibble on them?.."`/
 
 !sd\
 
@@ -18165,7 +18165,7 @@ quakey 2,200
 
 
 ;БuВЊВяВЊВжВЊВяВЊВжБAВ§ВиВгБ`Б`Б`Б`Б`ГbБIБv\
-`"Ќе надо, нет, урю-ю-ю!" `\
+`"No, don't, uryuu~!" `\
 ;БГВ≥В≠ВљВлВ§
 
 bg black,2
@@ -18181,7 +18181,7 @@ print 99,1000,"breakup.dll/llb"
 me1 5
 
 ;БuГ}ГВГУВћГДГcБAВ†ВҐВ¬ВаВ»В©В»В©ЧvЧћВ™ВҐВҐВнБcБIБv@
-`"ј ћаммон неплохо придумала!.."`\
+`"That Mammon, she's pretty clever!.."`\
 ;БГГЛГVГtГ@Б[
 
 se1 52
@@ -18189,7 +18189,7 @@ ld l,RG2_OdorokiA2,0
 print 99,1000,"breakup.dll/lrb"
 
 ;БuВўВћВЏВћВ∆ВҐВҐШbВ…ОЭВЅВƒНsВЂВ¬В¬БAВ≥ВиВ∞В…В≥В≠ВљВлВрУ∆РиВµВƒВйВнБB@В≥В≠ВљВлВЌОДВљВњВЁВсВ»ВћЛ§ЧLХ®В»ВћВ…ГBБIБv/
-`"»з этого может выйти трогательна€ истори€... Ёй, чего это она его обнимает?`@` —акутаро принадлежит всем нам!"`/
+`"A heartwarming story might come out of this... but she's just nonchalantly hogging him,`@` Sakutaro belongs to all of us!"`/
 se1 12
 quakey 2,500
 
@@ -18200,21 +18200,21 @@ quakey 2,500
 ld r,RG1_FumanA2,80
 
 ;БuОЯВЌТNБH@Б@ЙљВЊВ©ЦЦВЅОqВ©ВзПЗФ‘ВЁВљВҐВ»КіВґВЊВнБBБv\
-`" то следующий?`@` ѕохоже, мы двигаемс€ от младших к старшим." `\
+`"Who's next?`@` It feels like we're going from youngest to eldest." `\
 ;БГГЛГVГtГ@Б[
 
 bg G1F_S1cp,0
 ld c,RG4_HohoemiA1,24
 
 ;БuБcБcВ∆В»ВкВќБAОЯВЌОДВ™НsВ±В§БBБv@
-`"...“огда следующей пойду €." `\
+`"...In that case, I will go next." `\
 ;БГГxГЛГtГFГSБ[ГЛ
 
 
 ld l,RG1_FumanA1,23
 
 ;БuГxГЛГtГFБAРSУЦВљВиВЌВ†ВйВћБHБv\
-`"” теб€ кто-то есть на примете, Ѕельф?"`\
+`"Belphe, you have someone in mind?"`\
 ;БГГЛГVГtГ@Б[
 
 
@@ -18223,7 +18223,7 @@ ld c,RG4_fumanA2,80
 E_A
 
 ;БuВҐВнВдВйСzВҐРlВ∆ВҐВ§ВвВ¬ВЌВҐВ»ВҐВ™БAЙПВћВ†ВЅВљГjГУГQГУВЌВҐВйБBБv@
-`"” мен€ нет людей, которые мне дороги, но € знаю кое-кого."`\
+`"There are no men I treasure, but I can think of someone."`\
 ;БГГxГЛГtГFГSБ[ГЛ
 
 
@@ -18232,16 +18232,16 @@ ld r,RG2_WaraiA1,24
 bgm1 89
 
 ;БuВ†Б[БAВнБ[В©ВЅВљБBБv\
-`"ј, пон€тно." `\
+`"Ah, I see." `\
 ;БГГМГФГBГAГ^ГУ
 se1 52
 cl c,99,1000,"breakup.dll/urb"
 
 ;Б@ОЯВЌГxГЛГtГFГSБ[ГЛВ™ФтВсВ≈ВҐВ≠БB@
-` —ледующей улетела Ѕельфегор.`\
+` The next to fly away was Belphegor.`\
 
 ;Б@ФёПЧВ∆ЙПВ™В†ВЅВљГjГУГQГУВ∆ВҐВ§В∆БAВЂВЅВ∆ЧѓХ§ХvВ…ИбВҐВ»ВҐБB\
-` –аз речь идЄт о знакомом ей человеке, это €вно –удольф.`\
+` The person she had in mind was, without any doubt, Rudolf.`\
 bg black,22
 
 mono 1
@@ -18250,7 +18250,7 @@ ld l,RUD_AkuwaraiA1G,0
 ld r,RG4_DefA1,22
 
 ;Б@ВdВoВRВ≈ИкСќИкВ≈СќМИВµВљБB@ВїВ§ВҐВ§М√ХЧВ»РнВҐВ™НDВЁВћФёПЧВ…В∆ВЅВƒВЌБAВ»В©В»В©ЦYВкВ™ВљВҐОvВҐПoВћВЌВЄВЊБB\
-` ќна сражалась с ним один на один в 3-м эпизоде.`@` “акой старомодный поединок, наверное, дл€ неЄ незабываемое воспоминание. `\
+` She fought him one-on-one in EP3.`@` Such an old-fashioned duel must be a rather unforgettable memory to her. `\
 
 bg black,22
 mono off
@@ -18259,54 +18259,54 @@ ld c,RG4_DefA1,26
 ld c,RG4_FumanA1,80
 
 ;БuН»С—О“В…С°ВйВћВЌГtГFГAВ©В«В§В©ВнВ©ВзВсВ™БB@НDУGОиВћПЎВ∆ВµВƒБAВ±ВкВрС°ВйБBБv\
-`"Ќе знаю, можно ли давать шоколад женатому мужчине.`@` Ќо прими его в знак признани€ достойного противника." `\
+`"I don't know whether it's proper to give chocolate to a married man.`@` But please accept this as acknowledgement of a worthy opponent." `\
 ;БГГxГЛГtГFГSБ[ГЛ
 
 bg Gdin_1c,0
 ld r,RUD_AkuwaraiA1,24
 
 ;БuВ–ВгВ£БAВ№В≥В©В®ПмВњВбВсВ©ВзВаВзВ¶ВйВ∆ВЌОvВнВ»В©ВЅВљВЇБB@В†ВиВ™В∆В»БB@В«В§ВЊВҐБAВїВћМгВЌБB@М≥ЛCВ≈ВвВЅВƒВйВ©БBБv\
-`"ќго, не ожидал получить шоколад от такой юной леди.`@` —пасибо.`@`   слову,`@` с тобой всЄ было в пор€дке после того случа€?"`\
+`"My, I didn't expect to get chocolate from a young lady.`@` Thanks.`@` By the way,`@` were you all right after all that?"`\
 ;БГЧѓХ§Хv
 
 ld l,RG4_fumanA2,23
 
 ;БuВ§БAВ§ВёБAВ№ВЯБAВҐВ¬ВаТ ВиВ…ВвВЅВƒВҐВйБBБv@
-`"Ё-э, ну, такое дл€ мен€ обычное дело."`\
+`"U, um, well, that sort of thing is ordinary for me.."`\
 ;БГГxГЛГtГFГSБ[ГЛ
 
 ld r,RUD_NayamuA1,80
 
 ;БuВ®СOВ≥ВсВЌБAИЂЦВВћВ≠ВєВ…Ч•ЛVВЈВђВйБB@БcБcЙіВЯБAВїВ§ВҐВ§ПЧВ™БAВµВ»В≠ВƒВҐВҐЛCЛкШJВрФwХЙВҐНЮВсВ≈ВйВ∆В±ВлВрБAМЩВ…В»ВйВўВ«М©ВƒВЂВљБB@ЙeВ≈ЛкШJВµВƒВЋВ•В©БAВїВкВЊВѓВ™РSФzВ≈В»БBБv\
-`"“ы слишком честна дл€ чертовки.`@`  ...я видел много таких женщин, как ты, которые берут на себ€ ненужные проблемы.`@` ¬ернее, трудности, так что € волновалс€." `\
+`"You're too honest for a devil.`@` ...I've seen many women like you who take up troubles they don't need to.`@` It looks like a hardship, so that's the reason I worried." `\
 ;БГЧѓХ§Хv
 
 ld l,RG4_fumanA1,80
 ;БuБcБcВµБAРSФzВ≥ВкВйВжВ§В»В±В∆В»ВсВƒВ»ВҐВЉБB@ОДВЌЦЌФЌУIВ»Й∆ЛпВЊВ©ВзБAВїВ±ВЌВ§В№В≠ВвВЅВƒВҐВйБBБv\
-`"...Ќ-нет причин дл€ беспокойства.`@` я - образцова€ вещь, выполн€вша€ свой долг." `\
+`"...T-there is nothing to be concerned about.`@` I am exemplary furniture, so I just fulfilled my duty." `\
 ;БГГxГЛГtГFГSБ[ГЛ
 
 ;Б@ХБТiБAИƒВґВзВкВйВ±В∆ВћВ»ВҐГxГЛГtГFВЌБAЧѓХ§ХvВ…ХпЧeЧЌВћВ†ВйРSФzВрВ≥ВкВƒБAВ¬ВҐМЋШfВЅВƒВµВ№В§БB@РeРЎВ…В≥ВкВйВћВ…ОгВҐВћВЊБB\
-` ќбычно за Ѕельф никто не волнуетс€,`@` и она растер€лась, когда –удольф открыто сказал, что беспокоилс€.`\
+` Normally, no one worries about Belphe,`@` so when Rudolf was open-minded enough to be concerned about her, she was bewildered.`\
 ;fixabovesentence
 cl r,0
 ld c,RUD_AkuwaraiA1,24
 ;БuП≠ВµГYГЛВ≠В»ВкВжБB@ВїВћХыВ™Й¬И§ВҐВЇБAВ®СOВЌВжБBБv@
-`"Ѕольше не так честна, да?`@` ƒовольно мила€ сторона." `\
+`"Not so honest anymore, are you?`@` That side of you is pretty cute." `\
 ;БГЧѓХ§Хv
 
 
 ld l,RG4_KomaruA2,80
 
 ;БuГYБAГYГЛВ≠В∆ВЌВ«В§ВҐВ§В±В∆В©БcБB@/
-`"„-что значит не честна...`@/
+`"Wh-what are you saying I wasn't honest about...`@/
 
 ld l,RG4_OdorokiA3,80
 
 ;!s0В®БAВ®СOБAМ®В™ЛяВҐБcБA/
-!s0` Ёй, т-ты слишком близко...`/
+!s0` H-hey, you're getting too close...`/
 ;!d800В∆ВҐВ§В©БAЙМСРПLВҐВЅБcБIБv/
-!d800` ¬ смысле, от теб€ несЄт табаком!.."`/
+!d800` I mean, you stink of tobacco!.."`/
 !sd\
 ;БГГxГЛГtГFГSБ[ГЛ
 
@@ -18326,7 +18326,7 @@ cl r,0
 ld c,RUD_AkuwaraiA1,24
 
 ;БuВҐВҐВ©БAГYГЛВ≥ВЅВƒВћВЌВ»БcБH@Б@О®ВрСЁВєБB@В±ВЅВїВиЛ≥В¶ВƒВвВйВжБcБBБv@
-`"ѕовернись сюда.`@` я прошепчу тебе..." `\
+`"Turn your ear this way.`@` I'll whisper it to you..." `\
 ;fixabovesentence
 ;БГЧѓХ§Хv
 
@@ -18334,22 +18334,22 @@ ld c,RUD_AkuwaraiA1,24
 ld l,RG4_KomaruA3,80
 
 ;БuВЁБAО®ВрВ©БcБH@Б@ВнБAВнВ©ВЅВљБcБBБv\
-`"“-так?`@` Ћ-ладно..."`\
+`"L-like this?`@` O-okay..."`\
 ;БГГxГЛГtГFГSБ[ГЛ
 
 ;Б@О®ВрСЁВєВ∆МЊВнВкВљВћВ≈БAГxГЛГtГFВЌЧ•ЛVВ…О®ВрНЈВµПoВЈБB@
-` Ќичего не подозрева€, Ѕельф наклонила голову, раз уж еЄ попросили.`\
+` Belphe tilted her head unsuspectingly, since she was asked.`\
 
 
 mcl a,0
 bg black,26
 
 ;Б@БcБcЧѓХ§ХvВЌГxГЛГtГFВћО®М≥В…МыВрКсВєБA/
-` ...–удольф приблизилс€, и...`/
+` ...Rudolf's mouth came close, and...`/
 
 ;!d900БcБcБcБcБB\
 
-!d900`..........`\
+!d900`...`\
 
 wait 1000
 
@@ -18376,11 +18376,11 @@ ld c,RG1_NakuA1,80
 ;!d500В§ВЅВнВ§ВЅВнБcБA/
 ;!d800ГIБAГIГgГiВЊБcБA/
 ;!d900ВЌВ–В°Б`ГbБIБv/
-!s0`"ј-а, `/
-!d500`...ува-`/
-!d500`ува-а-а...`/
-!d800` „-что вы делаете...`/
-!d900` »-и-и!"`/
+!s0`"Aaah, `/
+!d500`...uwa-`/
+!d500`uwawawawa...`/
+!d800` W-what are you doing!?..`/
+!d900` Stooop!~"`/
 
 
 !sd\
@@ -18394,7 +18394,7 @@ msp msp_c,70,0
 mcbg 22
 
 ;!s0БuГЛГVОoБAВ±ВкИ»ПгВЌМ©ВњВбС ЦЏВжС ЦЏВжГbБI/
-!s0`"Ћюци, нам лучше не смотреть!`/
+!s0`"Lucy, this isn't something we should be watching!`/
 se1 12
 quakex 3,600
 cl c,25
@@ -18406,7 +18406,7 @@ msp msp_c,70,0
 print 80
 
 ;Б@В†ВҐВ¬В–В«ВҐВнБAЙЬВ≥ВсВҐВйВћВ…ПЧВћОqМыРаВ≠В»ВсВƒВ–В«ВҐВнГbБI@Б@БcБcВ†ВкБH@Б@ГМГФГBГAОoВ™ВҐВ»ВҐБHБIБv\
-` —котина, у него есть жена, но всЄ равно он положил на неЄ глаз!`@` ...Ё?`@` √де Ћеви€?"`\
+` That bastard, he's got a wife and he's still pulling the moves on her!`@` ...Eh?`@` Where's Levia?"`\
 ;БГГTГ^ГУ
 
 mcl c,0
@@ -18418,7 +18418,7 @@ ld l,KIR_DefA1,22
 me1 24
 
 ;Б@ВїВћН†БAГМГФГBГAГ^ГУВЌБAУѓВґВ≠В©В¬ВƒВћНDУGОиБAЦґН]ВћВ∆В±ВлВ…ВҐВљБB@
-` Ћевиафан между тем тоже пошла к бывшему врагу.`\
+` Meanwhile, Leviathan also decided to visit a former enemy.`\
 
 ;В»ВйВўВ«БAГxГЛГtГFВ™ЧѓХ§ХvВ…Г`ГЗГRВрУnВЈВћВ»ВзБAФёПЧВ™ЦґН]В…УnВµВƒВаВ®В©ВµВҐВ±В∆ВЌВ»ВҐБB\
 ` ƒа, если Ѕельф дала свой шоколад –удольфу, то не странно, что она даЄт свой  ирие.`\
