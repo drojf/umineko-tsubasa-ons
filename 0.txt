@@ -18803,11 +18803,11 @@ ld l,JES_TereruA2,80
 ;!d300ВїВкВжВиЙ√ЙєВ≠ВсВЅБA/
 ;!d600ВїВћБA/
 ;!d500В±БAВ±ВкБcБIБv/
-!s0` A, `/
-!d300`к-`/
-!d300`кстати, `/
-!d600`в-вот, `/
-!d500`это тебе!.."`/
+!s0` Ah, `/
+!d300`b-`/
+!d300`by the way, `/
+!d600`t-this, this is `/
+!d500`for you!.."`/
 !sd\
 ;БГОйОuНБ
 
@@ -18815,62 +18815,62 @@ bg black,22
 bg rose_G1a,22
 
 ;Б@Н°ВћГTГ^ГУВћГ`ГЗГRСЫВђВЌИкСћВ»ВсВЊВЅВљВћВ©БcБHБH@
-` ѕочему шоколад —атаны вызвал столько шума?.. `\
+` Why did Satan's chocolate cause such a commotion?.. `\
 
 ;Б@ЙљВ™ЙљВЊВ©ВнВ©ВзВ»ВҐВ№В№БAЙ√ЙєВЌН°УxВЌБAЛ`ЧЭВЊЛ`ЧЭВЊВ∆ШAМƒВЈВйОйОuНБВћГ`ГЗГRСЫВђВ…К™ВЂНЮВ№ВкВйВћВЊВЅВљБcБB\
-` ƒжессика вт€нула ничего не понимающего  анона в шоколадные беспор€дки...`\
+` Kanon has been dragged into this messy chocolate situation by Jessica without understanding any part of it...`\
 bg black,22
 bg G1F_S1bp,0
 ld c,RG3_NakuA1,26
 
 ;БuВ§В§В§В£В§В§В£В§В£БAВ–ВЅВ≠БAВ§ВЅВ≠БcБIБv@
-`"”-у-у-у, хнык, хнык!.."`\
+`"Uuugh, hic, hic!.."`\
 ;БГГTГ^ГУ
 
 ld r,RG7_AkuwaraiA1,24
 
 ;БuВ¶Б[БAВвВЊВЯБAГTГ^ГУВ®ОoЧlГ@БAВЁВЅВ∆ВаВ»Б`ВҐБIБv@
-`"Ёх, —атана-а, какой позо-ор!"`\
+`"Eh, Satan! How shame~ful!"`\
 ;БГГAГXГВ
 
 ld l,RG6_waraiA1,23
 
 ;БuГ`ГЗГRВ–В∆В¬ЦЮСЂВ…УnВєВ»ВҐВ»ВсВƒБAПоВѓВ»Б`ВҐБIБv\
-`"ќна даже не смогла отдать паршивый кусок шоколада, убо-ожество!"`\
+`"She couldn't even gift a lousy box of chocolate, how piti~ful!"`\
 ;БГГxГЛГ[ГuГu
 
 ;Б@ЦЕВљВњВЌГTГ^ГУВрЫjВйЫjВйБB@БcОЄС‘В™В†ВЅВљВзГtГЛГ{ГbГRВ»ВћВ™ОµОoЦЕВћХsХґЧ•ВЊБB\
-` —Єстры безжалостно дразнили —атану.`@`  ...»здеватьс€ над сестрой, потерпевшей неудачу в задании, - их неписанный закон. `\
+` The sisters teased Satan mercilessly.`@` ...It's their unwritten law to mock whichever sister fails her task. `\
 cl c,0
 bg G1F_S1cp,0
 ld r,RG1_KomaruA3,24
 
 ;Б@ВїВсВ»ВћВрМ©ВєВ¬ВѓВзВкВƒБAГЛГVГtГ@Б[ВЌЛ}В…ХsИјВ…В»ВЅВƒВµВ№В§БB@
-` ѕока они хвастались, Ћюцифер вдруг занервничала.`\
+` As they bragged on and on, Lucifer suddenly became anxious.`\
 
 ;Б@ГЛГVГtГ@Б[ВЌХ\МьВЂВЌТЈПЧВ∆ВµВƒХЭВрЧШВ©ВєВƒВҐВйВ™БA@ОјНџВЌБAОoЦЕВ≈ИкФ‘БAЧvЧћВ™ИЂВҐВ±В∆ВрО©КoВµВƒВҐВйБB\
-` ’от€ ей, старшей сестре, нравитс€ разбрасыватьс€ вли€нием, на самом деле она наименее компетентна.`\
+` Although Lucifer likes to throw her influence around as the eldest sister, in reality she's the least competent of them.`\
 ;Б@ГTГ^ГУВ™В§В№В≠НsВ©В»В©ВЅВљВћВЊВ©ВзБAО©Х™В™В§В№В≠НsВ≠ВнВѓВ™В»ВҐВ∆БAЛ}В…Л∞ВлВµВ≠В»ВЅВƒВµВ№В§БB\
-` ѕоскольку —атане не удалось, она испугалась, что тоже не сможет.`\
+` Since Satan hadn't succeeded, she suddenly became frightened that she might fail as well.`\
 ld r,RG1_OdorokiA3,80
 
 ;Б@БcБcВ«В§ВµВжВ§В«В§ВµВжВ§БcБI@Б@В≈ВаБAВњВбВсВ∆Г`ГЗГRВрТNВ©В…УnВ≥В»В©ВЅВљВзГНГmГEГFВ≥В№В…У{ВзВкВƒВµВ№В§БI@Б@ВїВ§ВµВљВзБAЦЕВљВњВ…ВЌВЂВЅВ∆ГTГ^ГУИ»ПгВ…НУВҐЦЏВ…СШВнВ≥ВкВйБcБI\
-` ...„то делать, что же делать!..`@` –онове разозлитс€ на мен€, если € не отдам шоколад!`@` ј мои сЄстры вечно будут насмехатьс€ надо мной!`\
+` ...What to do, what to do!..`@` If I don't gift my chocolate, I'll make Ronove mad!`@` And my sisters will never let me hear the end of it!`\
 
 ld r,RG1_KomaruA2,80
 
 ;БuВ«БAВ«В§ВµВљВаВћВ©ВµВзБcБB@БcБcГgГЙГuВзВ»ВҐВ≈В†ВЅВ≥ВиВ∆ОуВѓОжВЅВƒВ≠ВкВїВ§В»ТjВЌВҐВ»ВҐВ©ВµВзБcБBБv\
-`"„-что же мне делать...`@` Ќет никого, кто вот так вз€л бы и прин€л шоколад..."`\
+`"W-what to do...`@` I don't know anybody who would just accept it without making a fuss..."`\
 ;БГГЛГVГtГ@Б[
 
 bg black,0
 ld l,GEO_HohoemiA1,22
 
 ;Б@ПчО°В∆В©В«В§В©ВµВзБB@
-` ћожет, ƒжордж?`\
+` Maybe George?`\
 
 ;Б@В†ВҐВ¬БAВ®РlНDВµВїВ§ВЊВµБAГ|ГCВ∆УnВµВљВзВ†ВЅВ≥ВиОуВѓОжВЅВƒВ≠ВкВїВ§БB\
-` ќн хороший парень и должен вз€ть. `\
+` He's a nice guy, he ought to accept it casually. `\
 
 textoff
 se1 57
@@ -18884,23 +18884,23 @@ se2v 55,70
 print 99,2000,"breakup.dll/lrb"
 
 ;Б@БcБcВ†ВЯБAВ≈ВаВЂВЅВ∆О—ЙєВ™ВµВбВµВбВиПoВƒЧИВйВ…ИбВҐВ»ВҐБB@ГAГCГcБAВ±В±ВЉВ∆ВҐВ§ОЮВЌВвВљВзВ∆КжМ≈В≈В®ВЅВ©В»ВҐВ©ВзБI\
-` ...ј-а, но Ўанон об€зательно помешает.`@` ѕорой она очень упр€ма!`\
+` ...Ahh, but Shannon would surely get in my way.`@` She's really stubborn sometimes!`\
 cl c,0
 bg black,22
 
 ;БuБcБcТNВ©В…УnВµВљБA/
-`"...ћожет, мне избавитьс€ от него `/
+`"...Maybe I could just throw it away `/
 ;!d800В∆ВҐВ§В±В∆В…ВµВƒБAВ±ВЅВїВиПИХ™ВµВњВбВЅВљХыВ™ВҐВҐВ©ВаБcБBБv\
-!d800`и притворитьс€, что € подарила?"`\
+!d800`and pretend I've given it to someone?"`\
 ;БГГЛГVГtГ@Б[
 
 
 
 ;Б@В§ВсБAСљХ™БAВїВкВ™ВҐВҐБcБcБB@
-` ƒа, так будет лучше всего... `\
+` Yeah, that's probably the best... `\
 
 ;Б@ОoЦЕВљВњВ™ГTГ^ГУВрВҐВґВяВƒВҐВйК‘В…БAВ±ВЅВїВиВ±ВкВрПИХ™БcБcБB\
-` ѕока они издеваютс€ над —атаной, € тайком избавлюсь от него...`\
+` While they're busy tormenting Satan, I'll secretly dispose of this...`\
 se1 57
 se2 36
 bg black,0
@@ -18911,7 +18911,7 @@ csp2 4
 se3v 37,100
 
 ;БuГЛГVОoВћНlВ¶ВƒВйВ±В∆В»ВсВƒВ®М©Т ВµВ»ВсВЊВ©ВзБIБIБv\
-`"ћы знаем, о чЄм ты думаешь, Ћюци!" `\
+`"We know what you're thinking, Lucy!" `\
 ;БГГTГ^ГУ
 
 bg G1F_S1cp,0
@@ -18921,27 +18921,27 @@ print 1
 quakey 2,200
 
 ;БuВ–ГbБIБv\
-`"’и-и!!!"\
+`"Hii!!!"\
 ;БГГЛГVГtГ@Б[
 
 ;Б@ВаВ§ГTГ^ГУВҐВґВяГ^ГCГАВЌПIЧєВµВƒВҐВљБB@
-` »здевательства над —атаной уже подошли к концу.`\
+` Satan-tormenting time had already come to an end.`\
 
 ;Б@ГTГ^ГУВЌБAВ«В≥В≠В≥В…ХіВкВƒГЛГVГtГ@Б[В™О©Х™ВЊВѓУ¶В∞ВжВ§В∆ВЈВйВ±В∆В≠ВзВҐО@ВµВ™В¬ВҐВƒВҐВљВћВЊБB\
-` » —атана догадалась, что Ћюцифер в разгар хаоса попытаетс€ избежать об€занности.`\
+` And Satan had guessed that Lucifer would try to run off on her own in the midst of the chaos.`\
 mld l,RG3_OdorokiA2,0
 msp msp_l,80,0
 print 23
 
 ;БuОДВљВњВ…ВЌИ–Т£ВиОUВзВЈВ≠ВєВ…БAВҐВ¬ВаВ±ВЅВїВиУ¶В∞ПoВЈВћВ™ГЛГVОoВ»ВсВЊВ©ВзБI@/
-`"ќна всегда раздаЄт нам приказы, а сама исчезает, когда наступает еЄ очередь!`@/
+`"She always bosses us around, then disappears when it's time for her to do her part!`@/
 
 mld l,RG3_AkuwaraiA3,0
 msp msp_l,80,0
 print 80
 
 ;Б@В≥ВЯВ≥БAВ®СOВљВњБI@Б@ГЛГVОoВрУ¶В™ВЈВсВґВбВ»ВҐВжБIБv\
-` Ќу же!`@` Ќе дайте Ћюци сбежать!"`\
+` Come on, everyone!`@` Don't let Lucy escape!"`\
 ;БГГTГ^ГУ
 
 
@@ -18954,29 +18954,29 @@ ld l,RG7_WaraiA2,0
 print 99,1000,"breakup.dll/urb"
 
 ;БuБuБuВЌВЯВҐБAВ®ОoЧlГbБIБIБvБvБv\
-`"""ƒа, сестра!"""`\
+`"""Yes, Sis!"""`\
 ;Б@ГTГ^ГУВћНЖЧяВ…ЦЕВљВњВ™БAНШВрФ≤В©ВµВƒВ÷ВљВиНЮВёГЛГVГtГ@Б[ВрОжВиИЌВёБB\
-` ѕо приказу —атаны младшие сЄстры окружили Ћюцифер, в испуге рухнувшую на колени.`\
+` On Satan's orders, the younger sisters surrounded Lucifer, who collapsed to her knees in fright.`\
 
 mcl l,24
 ld l,RG7_AkuwaraiA1,80
 
 ;БuВЋВ•БAГЛГVГtГ@Б[В®ОoЧlГ@БB@В®ОoЧlВЌТNВ…Г`ГЗГRВрВ†В∞ВйВћВ©ВµВзВЯБH@Б@ТЈПЧВ…СКЙЮВµВҐБAЧDЙлВ≈СfУGВ≈БAВїВµВƒФZЦІВ»И§ВћГoГМГУГ^ГCГУВрМ©ВєВƒВ≠ВЊВ≥ВйВћВжВЋБcБHБv\
-`"Ќу-у, сестра Ћюцифер?`@` » кому же ты собираешьс€ дать свой шоколад?`@` ” старшей сестры точно есть элегантный и прекрасный ¬алентин, источающий неземную любовь, правда?.." `\
+`"Welll, Sis Lucifer?`@` Who are you going to give your chocolate to, I wonder?`@` Surely the eldest of us has an appropriately graceful and wonderful Valentine, oozing with love?.." `\
 ;БГГAГXГВ
 
 
 ;Б@В№ВЄВҐБAХяВ№ВЅВљБcБcБB@В«БAВ«В§ВµВжВ§БcБAТNВ…ВаУnВЈВ†ВƒВ™В»ВҐБcБB@БcБcВ«В§ВµВжВ§В«В§ВµВжВ§БcБB\
-` ѕлохо, € в ловушке...`@` „-что же делать... ћне некому его подарить...`@` „то делать, что же делать...`\
+` This is bad, I'm trapped...`@` W-what to do... I have nobody to give it to...`@` What to do, what to do...`\
 mld r,RG1_NakuA1,0
 msp msp_r,-80,0
 print 80
 
 ;Б@ГЛГVГtГ@Б[ВћКзВ™М©ВйМ©ВйР¬ВіВяВƒВҐВ≠БB@ВїВћХ\ПоВЌБAЙљВжВиВаЧYХўВ…БAУ¶В∞ВжВ§В∆ВµВљЛєТЖВрХ®МкВЅВƒВҐВљБB@
-` Ћюцифер побледнела.`@` ѕо еЄ лицу было €сно как день, что ей больше всего на свете хотелось сбежать.`\
+` Lucifer turned pale.`@` It was plain as day on her face that she wanted nothing more then to run away.`\
 
 ;Б@ТNВ…УnВЈВћБAВ«В§ВвВЅВƒУnВЈВћВ∆ЪТВµЧІВƒВйЦЕВљВњБB@РвЦ]УIВ»Х\ПоВ≈ШлВЂРkВ¶ВйТЈПЧБcБB\
-` Џ00171 то, кто?Џ00187 - допытывались младшие сестры.`@` ƒрожа, их старша€ сестра в отча€нии опустила взгл€д... `\
+` "Who, who?" the younger sisters jeered at her.`@` Trembling, the eldest sister looked down in despair... `\
 
 textoff
  
@@ -18996,7 +18996,7 @@ ld c,BUT_DefA2,64
 bgm1 2
 
 ;БuВ®В§БAСЊВаВаОoВњВбВсВљВњВ©БB@СКХѕВнВзВЄБAОoЦЕТЗЧ«В≠ВвВЅВƒВсВ»БBБv\
-`"ќ, девочки с классными задницами.`@` ¬сЄ так же хорошо ладите друг с другом?"`\
+`"Oh, if it isn't the ass sisters.`@` Getting along with each other the same as ever, ain't ya?"`\
 
 ;БГРнРl
 textoff
@@ -19008,16 +19008,16 @@ wait 300
 ld r,RG1_IkariA2,80
 
 ;БuВ»БAБcБcЙEСгЛ{РнРlБcБIБv@
-`"„т-, ...”широми€ Ѕаттлер!.."`\
+`"Wha-, ...Ushriomiya Battler!.."`\
 ;БГГЛГVГtГ@Б[
 
 ld l,RG3_WaraiA1,80
 
 ;БuВ¶В•БAВїВ§ВжБ`БAЧщНЦВћОµОoЦЕВЌВЁВсВ»ТЗЧ«ВµВ»ВћБB@/
-`"ƒа, конечно же.`@` ћы, —емь сестЄр чистилища, замечательно ладим. `@/
+`"Yes, of course~`@` We, the Seven Sisters of Purgatory, are getting along just fine. `@/
 
 ;ВЋБ`БAВЁВсВ»ВЯБIБv\
-`ѕравда ведь?!" `\
+`Isn't that right, everyone?!" `\
 
 ;БГГTГ^ГУ
 
@@ -19025,23 +19025,23 @@ ld r,RG1_WaraiA3,0
 ld c,RG6_WaraiA1,80
 
 ;БuБuБuБuВЌГ@ВҐБAТЗЧ«ВµВ≈Б`ВЈБIБvБvБvБv\
-`"""ƒа, мы все о-очень хорошо ладим!"""`\
+`"""Yes, everything's just fine~!"""`\
 
 ;Б@ГЛГVГtГ@Б[ВЌЦЏВ…Ч≠В№ВЅВљЧ№ВрСеЛ}ВђВ≈Р@ВЂБAУѓВґЧlВ…ОжВиСUВ§БB\
-` Ћюцифер поспешно вытерла слЄзы, навернувшиес€ на глаза.`\
+` Hurriedly, Lucifer wiped away the tears that had appeared in her eyes.`\
 
 bg G1F_S1ap,0
 ld l,BUT_WaraiA1,23
 
 ;БuБcБcЙљВЊБAВїВћФ†БH@Б@В†ВЯБAВїБ[В©БAГoГМГУГ^ГCГУВЊВаВсВ»ВЯБI@Б@В÷В÷БAВ®СOВљВњВаХБТiБAХ®СЫВ»В±В∆ВрМЊВЅВƒВйКДВ…ВЌБAЙ¬И§В∞ВћВ†ВйВ∆В±ВаВ†ВйВсВЊВ»БBБv\
-`"...„то за коробка?`@` ј, пон€л, ко ƒню ¬алентина!`@` ’е-хе, а вы всЄ-таки очень даже нормальные.`@` “акие милые дл€ хладнокровных убийц."`\ 
+`"...What's this box then?`@` Ah, I got it, it's for Valentine's Day!`@` Hehe, so you do have some normality in your lives.`@` For cold-blooded killers like you, this is pretty cute."`\ 
 ;БГГTГ^ГУ
 
 ;Б@РнРlВЌГЛГVГtГ@Б[В™ОЭВЅВƒВҐВйГ`ГЗГRВћФ†В…ЛCХtВЂБAВ÷ВзВЅВ∆ПќВ§БB\
-` Ѕаттлер заметил коробку шоколада в руках Ћюцифер и ухмыльнулс€. `\
+` Battler noticed the box of chocolate which Lucifer was holding, and grinned. `\
 
 ;Б@БcБcВ§БAВ±ВкВЌРзНЏИкЛцВћГ`ГГГУГXВ©ВаБB@РнРlВ»ВзГmГКВ™Ч«В≥ВїВ§ВЊВµБAИƒКOВ≥ВзВЅВ∆ВаВзВЅВƒВ≠ВкВйВсВґВбБcБB\
-` ...«олота€ возможность.`@` ќн в хорошем настроении, так что вдруг примет... `\
+` ...This is a golden opportunity.`@` Battler's in a good mood, so he might accept it... `\
 
 
 ld r,RG1_KomaruA2,6
@@ -19049,9 +19049,9 @@ ld r,RG1_KomaruA2,6
 ;!s0БuВ§БA/
 ;!d500БcБcЙEСгЛ{БA/
 ;!d700БcБcРнРlГbБIБv/
-!s0`"”-...`/
-!d500`...”широми€...`/
-!d700`...Ѕаттлер!"`/
+!s0`"U-...`/
+!d500`...Ushiromiya...`/
+!d700`...Battler!"`/
 
 !sd\
 ;БГГЛГVГtГ@Б[
@@ -19060,35 +19060,35 @@ ld r,RG1_KomaruA2,6
 ld l,BUT_DefA1,80
 
 ;БuВ†ВсБH@Б@ЙљВЊВҐБAСЊВаВаОoВњВбВсБBБv\
-`"A?`@` „то, девочка с классной задницей?"`\
+`"Ah?`@` What's up, ass-sis?"`\
 ;БГРнРl
 
 
 ld r,RG1_IkariA1,80
 
 ;БuВ”БAСЊВаВаВґВбВ»ВҐВнВжБAГЛГVГtГ@Б[ВЅВƒЦЉСOВ™В†ВйВнВжБcБIБv@
-`"Ќ-не девочка с классной задницей, мен€ зовут Ћюцифер!.." `\
+`"I'm n-not an ass-sis! My name is Lucifer!.." `\
 ;БГГЛГVГtГ@Б[
 
 
 ld l,BUT_FutekiA1,80
 
 ;БuВїВиВбВЈВ№ВЋВ•В»БB@ВсВ≈БAВїВћГЛГVГtГ@Б[ВњВбВ№В™ЙљВ©ЧpВ©БHБv\
-`"ќй, прости, прости.`@` Ќу и, Ћюцифер, чем могу помочь?" `\
+`"Oh, sorry, my bad.`@` Well, Lucifer, how can I help you?" `\
 ;БГРнРl
 
 cl r,0
 ld c,RG1_IkariA2,24
 
 ;БuБcВ±ВЅБAБcБcВ±ВЅВ±В±ВЅБAБv\
-`"...¬о-......во-вот." `\
+`"...H-here." `\
 ;БГГЛГVГtГ@Б[
 
 ;Б@ГЛГVГtГ@Б[ВЌБAР‘Ц ВµВƒВ”ВйВ”ВйВ∆РkВ¶В»В™ВзБAГ`ГЗГRВћФ†ВрУЋВЂПoВЈБB@
-` — красным лицом и дрожащими руками...Ћюцифер сунула Ѕаттлеру коробку с шоколадом. `\
+` With her face red and her arms trembling, Lucifer thrust the chocolate box to Battler. `\
 
 ;Б@ВҐВ≠ВзУЁКіВ»РнРlВ≈ВаБAВїВћВ®СVЧІВƒВ≥ВкВљПуЛµЙЇВ≈ВЌБAВїВкВ™ЙљВрО¶ВµВƒВҐВйВћВ©ВжВ≠ВнВ©ВйБB\
-` „асто нечувствительный Ѕаттлер быстро всЄ пон€л.`\
+` Battler, though he was often insensitive, understood the situation quickly.`\
 
 
 ld l,BUT_OdorokiA2,80
@@ -19098,10 +19098,10 @@ ld l,BUT_OdorokiA2,80
 ;!d600БcБcЙіВ…БA/
 ;!d800БcВїВкБcБcБHБv/
 
-`"...ј?`@/
-!s0` Ё-`/
-!d600`...это...`/
-!d800`мне?"`/
+`"...Eh?`@/
+!s0` Eh,`/
+!d600` ...this is... `/
+!d800`for me?"`/
 !sd\
 ;БГРнРl
 
@@ -19109,25 +19109,25 @@ ld l,BUT_OdorokiA2,80
 ld c,RG1_NakuA1,80
 
 ;БuБcВ§БAБcБcОуВѓОжВЅВƒЙЇВ≥ВҐГbБAВ®КиВҐВµВ№ВЈБcБcБIБv\
-`"...¬-возьми, пожалуйста!.."`\ 
+`"...P-please take it!.."`\ 
 ;БГГЛГVГtГ@Б[
 
 ;Б@ВаВћВЈВ≤ВҐСеР^Ц ЦЏВћГЛГVГtГ@Б[В…БAГ`ГЗГRВрУЋВЂПoВ≥ВкВйБB@
-` Ћюцифер со всей серьЄзностью всучила ему шоколад. `\
+` With the utmost seriousness, Lucifer pushed the chocolate to him. `\
 
 ;Б@ВїВкВЌХKОАВаХKОАБB@ОoЦЕВљВњВ…ОЄС‘ВрЫjВзВкВ№ВҐВ∆ХKОАВ»ВћВЊБB\
-` ќна отча€нно стремилась не допустить того, чтобы младшие сЄстры еЄ задразнили. `\
+` She was frantic not to fail,`@` so that her younger sisters wouldn't tease her. `\
 
 ;Б@ГjГДГjГДВ∆И”ТnИЂВїВ§В…М©ОзВйЦЕВљВњБB@
-` —Єстры наблюдали с вредными ухмылками.`\
+` The younger sisters watched with malicious smirks.`\
 
 ;Б@ВµВ©ВµРнРlВ…ВЌВїВкВЌБAОoВћЧEЛCВрМ©ОзВиЦ≥МЊВ≈ЙЮЙЗВЈВйВжВ§В…М©В¶ВљВћВ©ВаВµВкВ»ВҐБB\
-` Ќо они, казалось, молча поддержали храбрость старшей сестры.`\
+` But, in silence, they seemed to support the courage of their sister.`\
 
 ld l,BUT_WaraiA1,80
 
 ;Б@РнРlВЌВ…ВвВиВ∆ГEГBГУГNВµВ»В™ВзБAВ№ВйВ≈ХГПчВиВћПќКзВ≈ПќВ§БB\
-` Ѕаттлер с улыбкой подмигнул, что было традицией в его семье.`\
+` Battler winked, with the smile that was his family heirloom.`\
 
 
 ld c,RG1_OdorokiA3,80
@@ -19140,40 +19140,40 @@ ld c,RG1_OdorokiA3,80
 ld l,BUT_defA2,80
 
 ;БuВ†ВиВ™В∆В»БB@Н°УъВќВЅВ©ВиВЌБAЭPВйВЊВћГuГbОEВЈВЊВћВЌЛxРнВЊВЇБB@В†ВиВ™ВљВ≠ТЄС’ВЈВйВЇБBБv\
-`"—пасибо.`@` Ќа сегодн€ € заключу с тобой мир.`@` ѕрими мою благодарность."`\ 
+`"Thanks.`@` Just for today, I'll make peace with you.`@` You have my gratitude."`\ 
 ;БГРнРl
 
 se1 54
 ;Б@В®В®В®В®В®В®В®ВІБAВ∆ЦЕВљВњВ™КљРЇВрПгВ∞ВйБB@ГTГ^ГУВЊВѓВЌГ`ГbВ∆РгС≈ВњВрВЈВйБB@
-` Џ00171ќ-о-о-о-оЏ00187, - радостно воскликнули младшие сестры.`@` ќдна лишь —атана цокнула €зыком.`\
+` "Oooooooh", the younger sisters' voices rose in a cheer.`@` Only Satan clicked her tongue.`\
 
 ;Б@ГЛГVГtГ@Б[ВЌБAРнРlВ™Л~РҐОеВ…М©В¶ВƒБAГLГЙГLГЙВ∆МгМхВ≥В¶М©В¶ВйВћВЊВЅВљБB\
-` „то касаетс€ Ћюцифер, Ѕаттлер был дл€ неЄ не иначе как спасением, и она даже увидела над его головой сверкающий ореол.`\
+` As for Lucifer, Battler was her saviour, and she even witnessed the sparkling halo above his head.`\
 
 ld l,BUT_waraiA3,80
 
 ;БuВ±ВиВбВЈВ∞В•В»БB@В®СOВћОиНмВиВ©БIБv@
-`"«дорово!`@` —ама сделала?"`\
+`"This is great!`@` Did you make it?"`\
 ;БГРнРl
 
 cl c,0
 ld r,RG1_WaraiA4,23
 
 ;БuВ№БAВ№ВЯВїВћБAВїВсВ»В∆В±ВлВжБcБcБBБv\
-`"Ќ-ну, €..."`\
+`"W, well, I..."`\
 ;БГГЛГVГtГ@Б[
 
 
 ld l,BUT_WaraiA1,80
 
 ;БuВ§ВсБAВ§ВяВ¶В§ВяВ•БI@Б@В†ВиВ™В∆В»БAГЛГVГtГ@Б[БB@В®СOБAМЛН\БAЧњЧЭВћГZГУГXВ†ВйВЇБB@Х®СЫВ»В±В∆ВЌО~ВяВƒБAХБТ В…Й≈В≥ВсПCНsВµВљХыВ™МьВҐВƒВйВ∆ОvВ§ВЇБHБv@
-`"ƒа, чертовски вкусно!`@` —пасибо, Ћюцифер.`@` ” теб€ талант.`@` ћожет, станешь домохоз€йкой, когда перестанешь быть хладнокровной убийцей?"`\
+`"Yeah, this is devilishly delicious!`@` Thanks, Lucifer.`@` You've got a knack for this.`@` If you ever stop being a cold-blooded killer, how about becoming a housewife?"`\
 ;БГРнРl
 
 ld r,RG1_odorokiA3,80
 
 ;БuБcБcВёБAВёБcБB@ВїВкВЌЙдВзЙ∆ЛпВ÷ВћН≈СеВћХОРJБAХЈВЂОћВƒВ»ВзВ»ВҐВЅБBБv\
-`"...’мф...`@` ƒл€ вещей это непростительное оскорбление."`\ 
+`"...Hmph...`@` That's an inexcusable insult to furniture such as us."`\ 
 ;БГГЛГVГtГ@Б[
 bg black,24
 bg G1F_S1cp,24
@@ -19181,16 +19181,16 @@ ld c,BUT_WaraiA2,24
 ld c,BUT_WaraiA1,80
 
 ;БuПзТkПзТkБI@/
-`"Ўучу, шучу! `@/
+`"Kidding, kidding! `@/
 
 ;Б@ВґВбВ†В»В≤ТyСЦЧlБI@Б@ГzГПГCГgГfБ[В…ВЌКъС“ВµВлВжБAГVБ[ГЖБ[ГAГQГCГУБIБv\
-`Ќу, спасибо за шоколад!`@` Ќа Ѕелый день € верну долг, see you again!"`\ 
+`Well, thanks for the chocolate!`@` I'll pay you back on White Day, and until then, <see you again>!"`\ 
 ;БГРнРl
 
 cl c,24
 
 ;Б@ВїВкИ»ПгВћВ®РҐОЂВЌВ©В¶ВЅВƒЛ@МЩВрЛtХПВ≈ВЈВйВ…ИбВҐВ»ВҐВ∆МеВиБAРнРlВЌГLГUСдОМВрОcВµВƒЛОВЅВƒНsВЅВљБcБB\
-` ѕонима€, что дальнейшие комплименты испорт€т настрой, с этими показными словами Ѕаттлер ушЄл.`\ 
+` Realizing that any more compliments were likely to spoil the mood, Battler took his leave with those pretentious words.`\ 
  
 
 fede 0,1000
@@ -19201,57 +19201,57 @@ ld l,RG1_AkuwaraiA2,23
 bgm1 96
 
 ;БuВ”БAБcВ”В”В”В”В”В”БcБI@Б@М©ВљВ©БI/
-`"’ех, ...хе-хе-хе-хех!..`@` Ќу что, съели?!`/
+`"Hehhehehe!..`@` Did you see that?!`/
 
 se1 4
 se1 4
 
 ;@Б@ТЈПЧГЛГVГtГ@Б[В…К|В©ВкВќБAГoГМГУГ^ГCГУВ»В«Г`ГЗГНВҐВаВсВжБI@Б@В†ВћГjГУГQГУХЧПоВ™ГzГПГCГgГfБ[В…ЙљВрВ®Х‘ВµВµВƒВ≠ВкВйВћВ©БAКyВµВЁВЊВнБBБv\
-@` ƒоверьтесь сестре Ћюцифер, и шоколад ко ƒню ¬алентина - предрешЄнное дело!`@` „еловек вернЄт мне долг на Ѕелый день, звучит весело."`\ 
+@` Just ask your elder sister Lucifer and Valentine's Day chocolate is a cinch!`@` I'll be treated to human hospitality on White Day, it sounds fu."`\ 
 ;БГГЛГVГtГ@Б[
 
 bg G1F_S1bp,0
 ld r,RG3_IkariA1,24
 
 ;БuБcВвВйВнВЋБAГЛГVОoВћХ™НџВ≈БcБBБv@
-`"...—ломить Ћюци не так-то просто..."`\
+`"...Guess it's not that easy to break Lucy after all..."`\
 ;БГГTГ^ГУ
 
 
 ld l,RG2_AkuwaraiA1,23
 
 ;БuЙ^В™Ч«В©ВЅВљВћВжВІБAВ†ВїВ±В≈УsНЗВжВ≠РнРlВ™МїВкВйВ»ВсВƒБ[БIБv\
-`"≈й повезло, что Ѕаттлер так удобно по€вилс€!"`\ 
+`"She really lucked out, with Battler appearing conveniently like that!"`\ 
 ;БГГМГФГBГAГ^ГУ
 
 
 ld c,RG1_odorokiA1,80
 
 ;БuЙ^ВаОјЧЌВћУаВжБI@Б@В†Б[ВжВ©ВЅВљВжВ©ВЅВљБAЦ{УЦВ…ВжВ©ВЅВљБB@В±ВкВ≈ЧщНЦВћОµОoЦЕВЌИкЙЮВЌФCЦ±ТBРђБI@Б@ГНГmГEГFВ≥В№В…В®ЦJВяВћМЊЧtВ™ВҐВљВЊВѓВйВ∆ВҐВ§ВаВћВЊВнБBБv\
-`"”дачливость тоже навык!`@` ј-а, отлично, отлично.`@` —емь сестЄр чистилища завершили свою задачу!`@` √осподин –онове непременно нас похвалит."`\ 
+`"Luck is also a skill!`@` Ah~ wonderful, wonderful, truly wonderful.`@` The Seven Sisters of Purgatory have completed their task!`@` Sir Ronove will certainly praise us."`\ 
 ;БГГЛГVГtГ@Б[
 cl c,0
 bg G1F_S1ap,0
 ld r,RG7_AkuwaraiA4,23
 
 ;БuГTГ^ГУОoВћЦ≥ЧlВ»ВћВЌПЬВҐВƒВЋБHБv@
-`"¬сех, кроме неуклюжей —атаны, да?"`\
+`"Everyone except that clumsy Satan, right?"`\
 ;БГГAГXГВ
 
 ld c,RG3_OdorokiA1,24
 
 ;БuВ†ГbБAВ†ВкВаВ№ВљНмРнВжБI@Б@В†В†ВҐВ§УnВµХыВаВ†ВйВћВжБIБIБv@
-`"ќ, у мен€ тоже есть план!`@` ѕросто скажем ему, что € всЄ сделала!"`\
+`"Ah, I have a plan for that, too!`@` We'll just tell him I did it in spirit!"`\
 ;БГГTГ^ГУ
 
 ld l,RG5_WaraiA1,80
 
 ;БuВ§Б`ВсБAГTГ^ГУОoВћЛZВЌР[ВҐВ»ВЯБB@Й§УєГcГУГfГМВЊВЋВ•БB@ГfГМВ™В»ВҐВѓВ«БBБv@
-`"ƒа, потр€сающа€ иде€.`@` ќна королева цундере.`@` ƒаже без Џ00171дереЏ00187."`\
+`"Yeah, Satan's technique is pretty advanced.`@` She's the queen of tsundere.`@` Except without the dere."`\
 ;БГГ}ГВГУ
 
 ;БuБuБuВЂВбВЅВЂВбБAВЂВбВЅВЂВбБIБvБvБv\
-`""" ь€-кь€, кь€-кь€!"""`\ 
+`"""Hahaha, hahahaha!"""`\ 
 
 
 ld c,RG1_AkuwaraiA2,0
@@ -19259,7 +19259,7 @@ msp msp_c,100,0
 print 24
 
 ;БuМ©ОЦВЊВнБAЙдВзВ±ВїВЌЧщНЦВћОµОoЦЕБI@Б@В≥ВЯВ≥БAГНГmГEГFВ≥В№В…ФCЦ±КЃЧєВћХсНРВжБIБv\
-`"¬еликолепно, —емь сестЄр чистилища!`@` Ќу же, доложим о нашем прогрессе господину –онове!"`\ 
+`"Splendid work, Seven Sisters of Purgatory!`@` Come, come, let us report our success to Sir Ronove!"`\ 
 ;БГГЛГVГtГ@Б[
 
 ld l,RG5_WaraiA2,0
@@ -19267,7 +19267,7 @@ ld r,RG7_WaraiA1,0
 ld c,RG3_fumanA1,80
 
 ;БuБuБuБuБuБuВЌБ[ВҐБAВ®ОoЧlБIБIБvБvБvБvБvБv\
-`""""""ƒа, сестра!""""""`\ 
+`""""""Yes, sis!""""""`\ 
 
 se1 52
 se2 52
@@ -19278,20 +19278,20 @@ bg black,2
 
 
 ;Б@В∆ВиВ†В¶ВЄБAГНГmГEГFВћГ`ГЗГRВћВ®ЙAВ≈БAОµОoЦЕВљВњВЌКyВµВ≠ИкУъВрЙяВ≤ВЈВ±В∆В™ПoЧИВљВћВЊВЅВљБcБcБB\
-` Ѕлагодар€ шоколаду –онове —емь сестЄр смогли при€тно провести день...`\ 
+` Thanks to Ronove's chocolate, the seven sisters were able to pass this one day pleasantly...`\ 
 
 lsp bgsp2,":c;BMP\background\efe\Different_spiral_1a.bmp",0,0,100
 bg Mkit_1a,0
 ld c,RON_waraiA2,22
 
 ;Б@ОµОoЦЕВЌУ^ЦЦВрР~Ц[ВћГНГmГEГFВ…ХсНРВЈВйБB\
-` Ќа кухне сЄстры доложили обо всЄм –онове.`\ 
+` The seven sisters reported the details to Ronove in the kitchen.`\ 
 
 
 ld c,RON_WaraiA1,80
 
 ;БuВїВкВЌЧ«В©ВЅВљБB@КyВµВҐИкУъВ…В»ВиВ№ВµВљВЋБB@КFВ≥ВсВЌЙЇВ™ВЅВƒМЛН\В≈ВЈВжБAВ®ФжВкЧlВ≈ВµВљБBБv\
-`"«амечательно.`@` ¬ижу, у вас был интересный день.`@` ћожете идти, отпразднуйте успех."`\ 
+`"How wonderful.`@` You must have had an entertaining day.`@` All of you may be dismissed, congratulations on your success."`\ 
 ;БГГНГmГEГF
 
 bg Mkit_1c,0
@@ -19301,7 +19301,7 @@ ld c,RG1_DefA1,24
 ld c,RG1_FumanA2,80
 
 ;БuВ©ВµВ±В№ВиВ№ВµВљВЅБAОЄЧзВµВ№ВЈВЅБIБv@
-`"Ѕольшое спасибо, с вашего позволени€!"`\
+`"Thank you very much, please excuse us!"`\
 ;БГГЛГVГtГ@Б[
 
 se1 52
@@ -19313,7 +19313,7 @@ ld c,RG6_waraiA1,0
 ld r,RG5_WaraiA1,80
 
 ;БuБuБuБuБuБuОЄЧзВµВ№Б[ВЈБAГНГmГEГFВ≥В№ВЯБIБvБvБvБvБvБv\
-`""""""— вашего позволе-ени€, господин –онове!""""""`\ 
+`""""""Excuse u~s, Sir Ronove!""""""`\ 
 
 textoff
 se1 52
@@ -19330,29 +19330,29 @@ ld c,RON_Waraia2,23
 me1v 5,50
 
 ;Б@ОјВЌГНГmГEГFВЌХсНРВрОуВѓВЄВ∆ВаБAПЏН„ВЌСSВƒТmВЅВƒВҐВљБB@
-` ¬ообще-то –онове всЄ знал даже до получени€ доклада.`\
+` In truth, even before receiving the report, Ronove had known everything.`\
 
 ;Б@ФёВ…В∆ВЅВƒВЌБAГ`ГЗГRВћК√В≥ВжВиВаБAФёПЧВзВ™ВїВћГ`ГЗГRВрПДВЅВƒРFБXВ∆ВвВЅВƒВ≠ВкВљИкУъВћПoЧИОЦВћХыВ™ВжВЅВџВ«К√ВҐВћВЊБB\
-` ƒл€ него различное множество способов дать шоколад много слаще самого шоколада.`\ 
+` For him, rather then the sweetness of the chocolate, the variety that the chocolate had given to their day was far sweeter.`\ 
 
 ld c,RON_WaraiA1,80
 
 ;БuВ’ВЅВ≠ВЅВ≠БB@В№ВЯБAФNВ…ИкУxВћК√О_ВЅВѕВҐУъВ≈В≤ВіВҐВ№ВЈБB@ВљВ№В…ВЌВ±ВсВ»ГXГgБ[ГКБ[ВаВ®ЛXВµВҐВћВ≈ВЌВ»ВҐВ≈ВµВеВ§В©БB@ОДВаОјВ…Г`ГЗГRВрВ®РЮХ™ВѓВµВљНbФгВ™В†ВЅВљВ∆ВҐВ§ВаВћВ≈ВЈБB@/
-`"ѕу-ку-ку.`@` “акой горько-сладкий день бывает всего раз в году...`@` ѕодобные истории врем€ от времени при€тны.`@` Ќе зр€ € поделилс€ шоколадом."`\
+`"Pukkukku.`@` Such a bittersweet day comes only once a year...`@` this kind of a story is pleasant once in a while.`@` Sharing that chocolate was truly a worthwhile endeavor."`\
 ld c,RON_AkuwaraiA1,80
 
 ;БcБcБcБcВ¶БH@/
-`"........Ё? `@/
+`"...Eh? `@/
 se1 4
 se3 4
 
 ;Б@ГIГ`БH@/
-`я о ком-то забыл? `@/
+`Have I forgotten someone? `@/
 
 se2 47
 
 ;Б@В†ВЯБAВаВњВлВсВ†ВиВ№ВЈВ∆ВаБB@ВїВћСеЦрВЌБAЙдВзВ™ОеВ≈В†ВйГxГAГgГКБ[Г`ГFВ®ПмЧlВ…В®КиВҐР\ВµПгВ∞В№ВµВеВ§БB@В«В§ВЉГJГБГЙВрВїВњВзВћХыВ…БB@В’ВЅВ≠ВЅВ≠ВЅВ≠БIБv\
-`ј, разумеетс€.`@` √лавна€ роль принадлежит нашей госпоже Ѕеатриче.`@` Ќаправьте камеру на неЄ.`@` ѕу-ку-ку!"`\
+`Ah, but of course.`@` The starring role is none other then our mistress, Beatrice.`@` Please, put her on camera.`@` Pukkukku!"`\
 ;БГГНГmГEГF
 
 csp bgsp2
@@ -19360,7 +19360,7 @@ se1 22
 bg black,8
 
 ;Б@ГНГmГEГFВ™ГpГ`ГУВ∆ОwВрЦ¬ВзВЈВ∆БAХ®МкВ∆ХССдВЌИ√У]БB\
-` –онове щЄлкнул пальцами, и сцена потемнела.`\ 
+` Ronove snapped his fingers, and the stage turned dark.`\ 
 
 fede 0,1000
 E_A
@@ -19372,7 +19372,7 @@ ld c,BEA_KomaruA2,0
 print 99,2000,"whirl.dll/"
 
 ;Б@ГvГМГ[ГУГgГ{ГbГNГXВрОиВ…БAВЂВеВлВЂВеВлВ∆РнРlВрТTВµЙсВЅВƒВҐВйГxГAГgВћОpВ™В†ВЅВљБB\
-` Ѕеато беспокойно искала Ѕаттлера с подарочной коробкой в руке.`\ 
+` With a gift box in her hand, Beato searched around restlessly for Battler.`\ 
 
 bg black,22
 bg Different_space_1a,22
@@ -19382,26 +19382,26 @@ print 99,2000,"breakup.dll/llb"
 ld l,BEA_waraiA2,80
 
 ;БuВ®БAВҐВљВҐВљГ@БI@Б@ВҐВжБ`ГHБAРнРlВЯБAТTВµВљВЉБ[БI@Б@ГnГbГsБ[ГoГМГУГ^ГCБ`ГУБIБv@
-`"ј, вот он где!`@` Ѕаттлер, € теб€ нашла-а-а!`@` — днЄм св€того ¬алентина!"`\
+`"Ah, there he is!`@` Battler, I found yoooou!`@` Happy Valentine's Day!"`\
 ;БГГxГAГg
 
 ld r,BUT_KomaruA1,23
 
 ;БuЙљВЊВжГxГAГgБAВ®СOВ№В≈ГoГМГУГ^ГCГУВ…ХВВ©ВкВƒВйВћВ©ВжБcБBБv\
-`"ќ, даже ты празднуешь день ¬алентина, Ѕеато..."`\
+`"Huh, so even you celebrate Valentine's Day, Beato..."`\
 ;БГРнРl
 
 ;Б@ВЈВЅВ©ВиПoЧИПгВ™ВЅВƒВµВ№ВЅВљВ©ВћВжВ§В…ПгЛ@МЩВћГxГAГgВ™БAВжВ§ВвВ≠РнРlВрМ©В¬ВѓВйБB@
-` Ќаконец найд€ Ѕаттлера, Ѕеато была в отличнейшем настроении. `\
+` After having finally finding Battler, Beato was in a great mood. `\
 
 ;Б@ВїВћОиВ…ВЌВ∆ВƒВаНЛЙЎВ…ПьВиВ¬ВѓВзВкВљГvГМГ[ГУГgГ{ГbГNГXВ™БB\
-` ѕодарочна€ коробка у неЄ в руках была украшена очень роскошно.`\ 
+` The gift box in her hand was decorated very luxuriously.`\ 
 
 
 ld r,BUT_NayamuA2,80
 
 ;БuВ№В≥В©БAВ®СOВ№В≈Г`ГЗГRВрОЭВЅВƒВЂВљВЅВƒВсВґВбВ»ВҐВЊВлВ§В»БcБBБv@
-`"“олько не говори, что этот шоколад дл€ мен€..."`\
+`"Don't say this chocolate is... for me?.."`\
 
 ;БГРнРl
 
@@ -19409,14 +19409,14 @@ ld r,BUT_NayamuA2,80
 ld l,BEA_AkuwaraiA2,80
 
 ;БuВ≠ВЅВ≠ВЅВ≠ВЅВ≠БAМхЙhВ≈В†ВлВ§Ч_ВкВ≈В†ВлВ§БA@П®В©ВзВїВ»ВљВ…ГoГМГУГ^ГCГУГ`ГЗГRГМБ[ГgВћРiТжВ≈В†ВйВЉБI@Б@Р≥НјВµВƒОуВѓОжВйВ™ВжВҐВЉБIБv\
-`"*хе-хе*хе-хе*, познай честь и славу,`@` получив от мен€ шоколад ко ƒню ¬алентина!`@` ѕрими его на колен€х!"`\ 
+`"*cackle, cackle*, know the honor and the glory`@` of being presented Valentine's Day chocolate by me!`@` Accept it on your knees!"`\ 
 ;БГГxГAГg
 
 
 ld r,BUT_DefA1,80
 
 ;БuВ®СOВ№В≈ГoГМГУГ^ГCГУВ©ВжБAВ®ВяВ≈ВƒБ[ЦВПЧВЊВ»БcБB@В«В§ВєБAРHВ§В∆ЙљВ©В®В©ВµВ≠В»ВйУ≈В≈ВаУьВЅВƒВсВЊВлБBБv\
-`" ак будто получить валентинку от теб€ - вопрос праздновани€...`@` “ы же ведьма.`@` ќн наверн€ка отравлен."`\ 
+`"As if receiving a gift from you is something to celebrate... You're a witch.`@` It's probably got some strange poison in it."`\ 
 
 ;БГРнРl
  
@@ -19424,56 +19424,56 @@ ld r,BUT_DefA1,80
 ld l,BEA_fukigenA2,80
 
 ;БuОЄМhВ»БB@В±В§М©В¶ВƒВаП®ВЌЛуЛCВрУ«ВяВйЦВПЧВ≈В†ВйВЉБB@ВїВиВбВ†БAРHВ„ВљВзГAГqГAГqБфВ…В»ВйЦтВвГCГДГУГCГДГУБфВ…В»ВЅВњВбВ§ЦтВрГSГКГSГКВ∆НђВЇВƒВЌВЁВљВҐВЉБH@Б@ВµВ©ВµП®ВЌЦтВ»В«В…ЧКВйВћВЌО„УєВЊВ©ВзБAВїВсВ»ВаВћВ…ЧКВЅВљВиВЌВµВ»ВҐВћВЊБIБv\
-`"√руби€н.`@` ƒумай как знаешь,`@` но € - ведьма, умеюща€ читать настроение.`@` я не из тех, кто полагаетс€ на ересь вроде €дов!"`\ 
+`"How rude.`@` You may think that,`@` but I am a witch who can read the atmosphere.`@` I am not one to rely on nonsense like poisons!"`\ 
 ;БГГxГAГg
 
 
 ld r,BUT_AseruA1,80
 
 ;БuБcВ№ВЈВ№ВЈВ…РMЧpВ≈ВЂВЋВ•В»ВЯБcБB@БcВ№ВЯЛCОЭВњВЊВѓВЌОуВѓОжВЅВƒВвВйВЇБB@РHВ§В©В«В§В©ВЌХ ВЊВ™В»БBБv@
-`"...Ќе особо обнадЄживает...`@` Ћадно, € принимаю твои чувства.`@` ’от€ не знаю, съем ли."`\ 
+`"...That's not particularly reassuring...`@` Well, I'll accept your feelings.`@` Not sure whether I'll eat it."`\ 
 ;БГРнРl
 
 
 ld l,BEA_WaraiA2,80
 
 ;БuРHВ§В™Ч«ВҐВЉРHВ§В™Ч«ВҐВЉБB@П®ВћРSВћШUВЅВљОиНмВиВ≈В†ВйБIБv\
-`"—ъешь, съешь.`@` я сделала его от всего сердца!"`\ 
+`"Come on, eat~.`@` I made it from the bottom of my heart!"`\ 
 ;БГГxГAГg
 
 ;Б@БcБcГxГAГgВаВ№ВљБAГНГmГEГFВ™НмВЅВљГ`ГЗГRВ»ВћВ…БAОиНмВиВЊВ∆ВµВбВ†ВµВбВ†В∆ГEГ\ВрУfВ≠БB\
-` ...Ѕеато тоже бессовестно солгала о шоколаде, сделанном –онове.`\ 
+` ...Beato also shamelessly lied about the chocolate Ronove had made.`\ 
 
 
 ld r,BUT_DefA2,80
 
 ;БuВїВЅВ©БB@ОиНмВиВЅВƒВсВ»ВзБAИкЙЮБAФqВсВ≈В®В©ВЋВ•В∆В»БB@/
-`"¬от как.`@` ¬ ручной работе вр€д ли есть что-нибудь странное.`@/
+`"I see.`@` If it's handmade, there's probably nothing strange in it.`@/
 ld r,BUT_WaraiA1,80
 
 ;БcВ«ВкБB@Й©ЛаВћЦВПЧВ≥В№ВћЧњЧЭВћШrСOВрФqМ©В≥ВєВƒВаВзВ®В§ВґВбВЋВ•В©БBБv\
-`  ...„то ж,`@` взгл€нем на кулинарные навыки «олотой ведьмы."`\
+`  ...Very well then,`@` allow me to bear witness to the cooking ability of the Golden Witch."`\
 ;БГРнРl
 
 bg Different_space_1c,25
 
 ;Б@В†ВћГxГAГgВ™ОиНмВиВ∆ВЌБcБB@
-` –учна€ работа Ѕеато...`\
+` Handmade by Beato...`\
 
 ;Б@ЙцВµВ≠ВаВ†ВйВ™БAГoГМГУГ^ГCГУВћВљВяВ…Г`ГЗГRВрО©ВзНмВйВїВћЛкШJВрЛВВЁОжВзВ»ВѓВкВќТjВ≈ВЌВ»ВҐБB@РнРlВЌВ±ВћПкВЌГxГAГgВћКзВрЧІВƒВƒВвВйВ±В∆В…ВЈВйБB
-` ’от€ он сомневалс€, что, как мужчина, не может грубо отказатьс€ от шоколада женщины,`@` Ѕаттлер решил дать Ѕеато сохранить лицо.`\ 
+` Although he doubted that, he couldn't upset a woman by refusing her chocolate.`@` Battler decided to let Beato save face.`\ 
 
 
 ld c,BEA_waraiA2,24
 
 ;БuВ≠ВЅВ≠ВЅВ≠ВЅВ≠БI@Б@В≥ВЯФ†ВрКJВѓБAЛЅВ≠В™Ч«ВҐВЉБIБv\
-`"*хе-хе*хе-хе*!`@` ј теперь открой коробку и узри!"`\ 
+`"*cackle, cackle*!`@` Now, open the box, and behold!"`\ 
 ;БГГxГAГg
 
 bg black,26
 
 ;БuВ«ВкБB@БcБcБcВ®ВвБH@Б@В±ВкВЌБcБcБBБv\
-`"„то ж.`@`  ......Ё?`@` Ќо ведь..."`\ 
+`"Alright.`@` ...Eh?`@` But..."`\ 
 ;БГРнРl
 
 fede 0,1000
@@ -19485,30 +19485,30 @@ ld r,BEA_WaraiA3,22
 me1 5
 
 ;БuВ«В§ВЊБI@/
-`"Ќу как?!`@/
+`"How is it?!`@/
 se1 37
 ;Б@В§В№ВїВ§В»Г`ГЗГRВ≈В†ВлВ§БI@Б@П®ВћОиНмВиВ≈В†ВйВЉБ[БIБv\
-` ¬кусный шоколад!`@` —деланный мной!"`\
+` The delicious chocolate, `@`made by me!"`\
 ;БГГxГAГg
 
 ;Б@РнРlВЌЦЏВрКџВ≠ВЈВйБB@В¬ВҐВ≥ВЅВЂБAГЛГVГtГ@Б[В…В≤ТyСЦВ…В»ВЅВљГ`ГЗГRВ∆В№ВЅВљВ≠УѓВґВаВћВЊВ©ВзВЊБB@
-` Ѕаттлер уставилс€ на точно такой же шоколад, как тот, который ему дала Ћюцифер пару минут назад.`\
+` Battler stared`@` at exactly the same chocolate`@` he'd received from Lucifer just a few minutes ago.`\
 
 ;Б@ВїВµВƒКmВ©ВїВкВЌБAГЛГVГtГ@Б[ВћОиНмВиВґВбВ»В©ВЅВљВЅВѓБHБHБH\
-` –азве этот шоколад не ручна€ работа Ћюцифер?`\
+` Hadn't that chocolate been handmade by Lucifer?`\
 
 bgm1 146
 
 ld l,BUT_MajimeA2,24
 
 ;БuВ®ВҐБAВњВеВЅВ∆С“ВƒБAГxГAГgБB@В±ВћГ`ГЗГRБAЦ{УЦВ…В®СOВћОиНмВиВ»ВћВ©БHБv@
-`"Ёй, секунду, Ѕеато.`@` ≈го правда сделала ты?"`\
+`"Hey, just a minute, Beato.`@` Did you really make this?"`\
 ;БГРнРl
 
 ld r,BEA_waraiA2,80
 
 ;БuВ§ВёБAВїВ§В≈В†ВйВЉБI@Б@В®СOВћВљВяВ…РSВрНЮВяВƒНмВЅВљВћВ≈В†ВйВЉБIБv\
-`"јга, €!`@` я сделала его от всего сердца, полного моих чувств к тебе!"`\
+`"Yup, it was all me!`@` I made it from my heart, full of feelings and emotions for you!~"`\
 ;БГГxГAГg
 
 E_MA
@@ -19516,7 +19516,7 @@ se1 20
 ld l,BUT_MajimeB4,80
 
 ;БuХЬП•ЧvЛББB@!s0БgВ±ВћГ`ГЗГRВЌГxГAГgГКБ[Г`ГFВћОиНмВиВ≈В†ВйБhБBБv/
-`"ѕовтори красным.`@!s0` Џ00171Ётот шоколад - ручна€ работа ЅеатричеЏ00187."`/
+`"Repetition request.`@!s0` 'This chocolate was handmade by Beatrice'."`/
 
 se1 73
 quakex 2,400
@@ -19527,31 +19527,31 @@ quakex 2,400
 ld r,BEA_OdorokiA1,80
 
 ;БuВ”В∞БHБI@Б@ВсВ»БAБcВ»В»БAВ»ВсВ≈ВЊГbБHБIБv\
-`"”гх?!`@` „т-, ...ч-ч-что?!"`\ 
+`"Ugh?!`@` W-wha, wh, whaaat?!"`\ 
 ;БГГxГAГg
 
 
 ld l,BUT_futekiB1,80
 
 ;БuВїВІВзБAОvВЅВљТ ВиВЊБB@ЙљВ™ОиНмВиВЊБAВҐВҐЙЅМЄВ»В±В∆МЊВҐВвВ™ВЅВƒБB@ЙіВЌТmВЅВƒВсВЊВжБB@/
-`"’а, как € и думал.`@` я знал, что ты не сможешь повторить.`@/
+`"Ha, just like I thought.`@` I knew you wouldn't be able to repeat it.`@/
 se1 5
 
 ;В±ВкБAГЛГVГtГ@Б[В…НмВЅВƒВаВзВЅВљВсВЊВлБHБv@
-` “ебе его дала Ћюцифер, так?"`\
+` You got this from Lucifer, didn't you?"`\
 ;БГРнРl
 
 ld r,BEA_OdorokiA2,80
 
 ;БuГЛБAГЛГVГtГ@Б[БHБI@Б@ЙљВ≈ГЛГVГtГ@Б[БcБHБHБHБv\
-`"Ћ-Ћюцифер?`@` ѕри чЄм тут Ћюцифер???"`\
+`"Lucifer?`@` What does Lucifer have to do with anything???"`\
 ;БГГxГAГg
 
 ld l,BUT_futekiA2,80
 
 ;БuКmВ©В…ГЛГVГtГ@Б[ВћГ`ГЗГRВЌВ§В№В©ВЅВљБB@В†ВҐВ¬БAХ®СЫВ»В±В∆ВќВЅВ©ВиВµВƒВйВнВиВ…ВЌБAВ»В©В»В©Г`ГЗГRНмВйВћВ§В№ВҐВжВ»БB@ВаВ§П≠ВµВ®ПiВвВ©В…В»ВЅВƒЙ‘Й≈ПCЛ∆ВрРѕВяВќБAВҐВҐЙ≈В≥ВсВ…В»ВкВйВЇВЂВЅВ∆БB@ГzГПГCГgГfБ[В…ВЌХ±ВЅВƒВ®Х‘ВµВрВµВƒВвВйВ¬ВаВиВЊБB@ВЊВ™В®СOВЌЙљВЊБHБI@Б@РlВ…Г`ГЗГRВрНмВЅВƒВаВзВЅВƒБAВїВкВрВҐВѓВµВбВ†ВµВбВ†В∆О©Х™В™ОиНмВиВµВљВ∆ГEГ\ВрУfВ≠В∆ВЌБI@Б@В®СOВЁВљВҐВ»ГEГ\УfВЂВћГ`ГЗГRВЌВҐВзВсБIБv\
-`"Ўоколад Ћюцифер был очень вкусным.`@` ƒа, она хладнокровна€ убийца, но делает замечательный шоколад.`@` —тань она чуточку из€щнее, из неЄ могла бы выйти прекрасна€ жена.`@` ћен€ тронули еЄ чувства, и € намерен на Ѕелый день ответить тем же."`\
-`"ј ты?!`@` ЋжЄшь, что сделала шоколад своими руками!`@` ћне не нужен шоколад от такой лгуньи!"`\
+`"That chocolate of Lucifer's was certainly delicious.`@` She may be a cold-blooded killer, but the chocolate she makes is delicious.`@` If she became a little more graceful, she'd make a great wife.`@` I was touched by her feelings, and intend to return them on White Day."`\
+`"But what about you?!`@` You're lying about making your own chocolate, what the hell!?`@` I don't need any chocolate from someone like you!"`\
 ;БГРнРl
 
 textoff
@@ -19565,30 +19565,30 @@ cl r,0
 ld c,BEA_HanbesoA2,24
 
 ;БuВїБAВїВсВ»ВЯВ†В†В†ВЯВ†В†ВЯРнРlВЯВ†ВЯВЯВЯВЯВ†ВЯБcБcБBБv\
-`"Ќ-не-е-е-е-ет, всЄ не так, Ѕаттле-е-ер..."`\
+`"N-noooooo, Battleeeeeeeeeer, that's wrooooong..."`\
 ;БГГxГAГg
 
 ;Б@РнРlВЌВЈВљВЈВљВ∆ЧІВњЛОВЅВƒВµВ№В§БB@
-` Ќо Ѕаттлер стремительно пошЄл прочь.`\
+` But Battler had swiftly taken his leave.`\
 
 ;Б@МгВ…ВЌБAГgГzГzГzВ∆Ч№ВрХВВ©В„БAВ«В§ВµВƒГEГ\В™ГoГМВљВћВ©В≥ВЅВѕВиВнВ©ВзВ»ВҐГxГAГgВ™ОжВиОcВ≥ВкВйБB\
-` √ромко рыда€ позади, Ѕеато пон€ти€ не имела, как еЄ ложь раскрыли.`\ 
+` Sobbing noisily behind him, Beato had no idea how her lie had been exposed.`\ 
 
 ;Б@В–В∆В¬ВнВ©ВйВћВЌБAВ»ВЇВ©В«В§ВµВƒВ©ВЌТmВзВ»ВҐВ™БAГoГМВљВћВ∆ГЛГVГtГ@Б[В™К÷МWВ†ВйВзВµВҐВ∆ВҐВ§В±В∆ВЊВѓВЊБB\
-` ќднако она знала одно - Ћюцифер с этим как-то св€зана.`\ 
+` But she did know one thing - Lucifer had been connected to it in some way.`\ 
 
 bg Different_space_1c,25
 
 ;БuГЛБAГЛГЛБAГЛГVГtГ@В†В†В†ВЯВ†В†ВЯВ†ВЯВЯБAП®ВћЙ∆ЛпВћХ™НџВ≈БcБcБA@ВжВ≠ВаРнРlВ…НРВ∞МыВµВљВ»ВЯВ†В†ВЯВЯВЯБIБI@Б@В∆ВҐВ§В©В†ВҐВ¬ВяБAГНГmГEГFВ™НмВЅВљГ`ГЗГRВ»ВћВ…БAО©Х™В™НмВЅВљВ∆В©ГEГ\ВрУfВЂВ®ВЅВƒБIБI@Б@ГEГ\ВрУfВ≠В∆ВЌВѓВµВ©ВзВсГДГcБI@Б@Р№ЯBВЊВ®ОdТuВЂВЊНЙЦвВЊВЯВ†В†В†В†В†В†Б[ГbБIБIБv\
-`"Ћю-Ћю-Ћюцифе-е-е-е-е-е-ер, вещь мо€...`@` “ы всЄ испортила!`@` »з-за теб€ мен€ поймали на лжи о шоколаде –онове!`@` Ќаказание, наказание, пытка-а-а-а-а!!!"`\ 
+`"Luciferrrrrrrrrrrr, my furniture...`@` You ruined everything!`@` Because of you,`@` I was caught in a lie about having made Ronove's chocolate myself!`@` Punishment, torture!!!"`\ 
 
 ;БГГxГAГg
 
 ;Б@О©Х™ВаВµВбВ†ВµВбВ†В∆ГEГ\ВрУfВҐВƒВ®ВЂВ»В™ВзБAВ«ВћМыВ™ВїВ§МЊВ§ВвВзБcБB@
-` ќна могла бы сказать то же самое и самой себе, бессовестно солгавшей...`\
+` She could say these very same words to herself, as she shamelessly lied too...`\
 
 ;Б@ЙRУfВЂЦВПЧВћГoГМГУГ^ГCГУГfБ[ВЌБAВ±В§ВµВƒХйВкВƒНsВ≠ВћВ≈ВµВљБcБcБB\
-` » так ƒень св€того ¬алентина лживой ведьмы подошЄл к концу...`\
+` And thus the sun sets on the Valentine's Day for the lying witch...`\
 
 bg black,22
 
@@ -19598,11 +19598,11 @@ msp msp_c,-100,0
 print 2
 
 ;Б@ВїВћН†БAГЛГVГtГ@Б[ВЌБAГzГПГCГgГfБ[В…ВЌЙљВ©В®Х‘ВµВрВвВйВ©ВзВ»В∆РнРlВ…МЊВнВкБA@ИƒКOБAГoГМГУГ^ГCГУВаОћВƒВљВаВћВ≈ВЌВ»ВҐВ∆БAВ±ВЅВїВиГzГNГzГNВµВƒВҐВйВћВ≈ВµВљБcБcБB@
-` ј на Ѕелый день, получив от Ѕаттлера ответный подарок,`@` Ћюцифер неожиданно подумала про себ€, что ƒень ¬алентина не так уж и плох... `\
+` And on White Day, when Lucifer received her return gift from Battler,`@` she unexpectedly thought to herself that Valentine's Day isn't that bad... `\
 
 
 ;Б@В®ВµВ№ВҐБB@В’ВЅВ≠ВЅВ≠ВЅВ≠БB\
-`  онец.`@` ѕу-ку-ку.`\
+` The end.`@` Pukuku.`\
 se1 26
 _ld r,":a;bmp\background\sbook\RED_eye.bmp",6
 
