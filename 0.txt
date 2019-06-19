@@ -11507,13 +11507,13 @@ me1 30
 bg cit_1a,2
 
 ;Б@ВPВPМОВQВRУъВЌЛќШJКіО”ВћУъБB\
-` —егодн€ 23-е но€бр€ - ƒень благодарности за труд. `\
+` Today is November 23rd, the Labor Thanksgiving Day. `\
 
 ;Б@УъЦ{В≈ВЌБAЛќШJВрСЄВ‘ЛxУъВ…В»ВЅВƒВҐВйВ™БA@ОqЛЯВљВњВ…В∆ВЅВƒВЌУЅВ…БAЙ∆С∞ВћВљВяВ…У≠ВҐВƒВ≠ВкВйРeВ…КіО”ВЈВйУъВ∆ВҐВ§КіВґВ…В»ВЅВƒВҐВйБB@
-` ¬ японии это праздник посв€щени€ труду,`@` но дети в этот день благодар€т родителей за все прилагаемые ради семьи усили€.`\
+` In Japan, it is a holiday for commemorating labor,`@` but for children, it is a day to thank their parents for the hard work they do for their families.`\
 
 ;Б@ЧcТtЙАВвПђКwНZВ≈БAЧЉРeВ…КіО”ВЈВйВљВяВ…БAНHНмВћОЮК‘В…РFБXВ»ВаВћВрНмВЅВљЛLЙѓВ™В®В†ВиВћХыБXВаСљВҐВЌВЄБcБB\
-` ¬ детском саду и начальной школе, чтобы выразить благодарность родител€м, многие ученики делают подарки во врем€ »«ќ и “руда... `\
+` In kindergarten and elementary school, in order to show thanks to their parents, many students make gifts during arts and crafts time... `\
 
 bg white,2
 E_MA
@@ -11523,7 +11523,7 @@ ld r,MAR_NiyariA1,24
 ld r,MAR_WaraiA1,80
 
 ;БuВ§Б[БI@Б@Р^ЧҐШ±ВЋБAКwНZВ≈ЛќШJКіО”ВћУъВћГvГМГ[ГУГgНмВЅВљВћБI@/
-`"”-у!`@` я сделала в школе подарок ко ƒню благодарности! `@/
+`"Uu!`@` Maria made a Thanksgiving Day present at school!! `@/
 
 ;Б@ВўВзБ[БAВ±ВкВ»ВћБA/
 `—мотрите, вот, `/
@@ -11534,7 +11534,7 @@ ld r,MAR_WaraiA1,80
 ld l,BUT_WaraiA1,23
 
 ;БuВ®Б[БAСfУGВ»ХХУЫВґВбВЋВ•В©БI@Б@БgЛќШJКіО”ВћУъВћГvГМГ[ГУГgБhБAВ©БB@ТЉЛЕВ»ВћВ™ВҐВҐВ»ВЯБIБv@
-`"ќ-о, какой конвертик!`@` Џ00171ѕодарок ко дню благодарностиЏ00187, да?`@` ћне нравитс€ его простота!"`\
+`"Ooh, that's a nice envelope!`@` 'Thanksgiving Day Present,' huh.`@` I like how straightforward it is!"`\
 ;БГРнРl
 
 cl r,23
@@ -11542,84 +11542,84 @@ cl r,23
 ld r,GEO_HohoemiA1,24
 
 ;БuгYЧнВ…ПьВиВ¬ВѓВ™ПoЧИВƒВйВЋБB@Р№ВиОЖВ≈НмВЅВљВћБH@Б@У\ВиХtВѓВƒВйВ®Й‘В™В∆ВƒВаПгОиВЊВЋБBБv\
-`"“ы очень красиво его украсила.`@` ќригами?`@` ÷веты хорошо сделаны." `\
+`"You decorated it very nicely.`@` Did you make these with origami?`@` The flowers you pasted on are very well made." `\
 ;БГПчО°
 
 cl l,24
 ld l,JES_WaraiA1,23
 
 ;БuЙљВƒМЊВ§ВћВ©БAР^РSВ™У`ВнВйВЇБB@В≈БAТЖРgВЌЙљВ»ВсВЊВҐБHБv\
-`"ѕр€мо отражение твоей искренности.`@` », что там?" `\
+`"It really conveys your sincerity.`@` So, what's inside of it?" `\
 ;БГОйОuНБ
 
 ld c,MAR_WaraiA1,23
 ld c,MAR_WaraiA2,80
 
 ;БuВ§Б[БI@/
-`"”-у! `@/
+`"Uu! `@/
 
 se1 1010
 
 ;Б@В¶ВЅВ∆ВЋБAВўВзВЅБB@/
-`¬от, смотрите. `@/
+`Here, look! `@/
 se1 4
 
 ;М®Т@ВЂТиКъМФБ`БI@/
-` упон на массаж плеч! `@/
+`It's a coupon for shoulder massages~! `@/
 
 ;Б@ИкГЦМОЧLМшВ»ВћБB@ВҐВ¬В≈ВаГ}Г}В™ВµВƒЧ~ВµВҐОЮВ…БAР^ЧҐШ±В™М®ВрГgГУГgГУВµВƒВ†В∞ВйВћБIБv\
-`ƒействителен мес€ц.`@` ¬с€кий раз, когда мама захочет, € буду массировать ей плечи!" `\
+`It expires in a month.`@` Whenever Mama wants, Maria will massage her shoulders!" `\
 ;БГР^ЧҐШ±
 
 bg black,22
 bg BUI_R1d,22
 
 ;Б@ЧLМшКъМјВЌИкГЦМОБB@ИкУъИкЙсБAВRВOХ™БB@
-` ƒействителен мес€ц.`@` ≈го можно использовать один раз в день, по 30 минут. `\
+` It was valid for 1 month,`@` and could be used up to 30 minutes daily. `\
 ; ВљВЊВµОЮК‘ВЌБAЦйВћВXОЮВ№В≈БB@
-` Ќо только до 21:00. `\
+` However, it could only be used before 9:00 PM. `\
 
 ;Б@ВЊВ©ВзСБВ≠ЛAВЅВƒЧИВƒВЋВ∆ВҐВ§БAР^ЧҐШ±ВћГБГbГZБ[ГWВаНЮВяВзВкВƒВҐВйБB\
-` ѕоэтому в некотором смысле ћари€ так просила маму приходить домой раньше.`\
+` So in a way, it also contained a message from Maria, asking her mother to come home early.`\
 ;Б@ХХУЫВаТиКъМФВаФсПнВ…ТЪФJВ…БAВїВµВƒКyВµВїВ§В…СХПьВ≥ВкВƒВҐВƒБAВ»В©В»В©ВћЧЌНмВЊВЅВљБB@
-`  онверт и купон, оформленные на удивление прилежно и забавно, были очень красивы.`\
+` The envelope and the coupon, which were decorated in a surprisingly diligent and fun-looking manner, were something of a masterpiece.`\
 
 ;Б@РнРlБAПчО°БAОйОuНБВљВњВЌБAВїВћР^РSВ…КіУЃВрКoВ¶ВЄВ…ВЌВҐВзВкВ»В©ВЅВљБcБB\
-` Ѕаттлера, ƒжорджа и ƒжессику глубоко тронула эта искренность... `\
+` Battler, George, and Jessica were all deeply moved by that sincerity... `\
 
 bg cof_1a,2
 
 ;Б@Ц^УъБAУsУаЦ^ПКВћЛiТГУXБB@
 ;Б@ВљВ№В…ВЌВҐВ∆В±УѓОmВ≈ПWВ№ВЅВƒВ®ТГВ≈ВаБAВ∆ВҐВ§ПчО°ВћТсИƒВ≈ПWВ№ВЅВљВаВћВЊБB\
-` ќни сидели в кафе столичного региона. `\
-` ƒжордж сказал, что было бы неплохо порой собиратьс€ на чай, и все они пошли туда. `\
+` They were in a coffee shop in a metropolitan area. `\
+` George had proposed that it would be nice to have fellow cousins together for tea once in awhile, so they had all gathered there. `\
 
 ;Б@В≥ВЅВЂВ№В≈ШOНјВ™ИкППВЊВЅВљВ™БAФёПЧВаОdОЦВћСКОиВ∆И•ОAВћЦсС©В™В†ВйВ∆В©В≈БAР^ЧҐШ±ВрЧaВѓСёР»ВµВƒВҐВљБB@
-` –оза тоже была с ними, но она договорилась пойти встретить кого-то с работы, и ей пришлось уйти, доверив им ћарию. `\
+` Rosa had also been with them for awhile, but she had an arrangement to go greet someone from work or something, and she had entrusted Maria to them and left. `\
 
 ;Б@В»ВћВ≈БAВ±ВЅВїВиБB@Р^ЧҐШ±ВЌШOНјВ…ГvГМГ[ГУГgВЈВйЧ\ТиВћВаВћВрВЁВсВ»В…М©ВєВƒВ≠ВкВљВћВЊБB\
-` » тогда...`@`ћари€ втайне раскрыла всем свой план дать –озе подарок. `\
+` Then, secretly.`@` Maria had showed everyone her plans to give Rosa a present that day. `\
 ld l,MAR_WaraiA2,23
 
 ;БuВ®Ч[Ф—ВрРHВ„ВљВзГvГМГ[ГУГgВЈВйВћБB@В§Б[БIБv@
-`"я подарю ей сегодн€ за ужином.`@` ”-у!" `\
+`"Today, I'll give her the present when we're eating dinner.`@` Uu!" `\
 ;БГР^ЧҐШ±
 
 ld r,JES_waraiA2,24
 
 ;БuВїВиВбВ†БAКмВ‘ВЇБcБB@/
-`"ќна точно обрадуетс€...`@/
+`"I'm sure she'll be delighted...`@/
 
 
 ;БcБcВїВ§ВҐВ§ЛCОЭВњБAЦYВкВƒЛvВµВҐВ»ВЯБBБv\
-` я уже давно забыла о таких чувствах." `\
+` I forgot about these kinds of feelings a long time ago." `\
 ;БГОйОuНБ
 
 ;Б@ОйОuНБВЌБAЛCТpВЄВ©ВµВїВ§В…У™ВрС~ВЂВ»В™ВзЦЏВрИнВзВЈБB@БcБcР^ЧҐШ±ВћСfТЉВ≥В™БAВњВеВЅВ∆бњВµВҐВћВЊБB@
-` ќтвед€ взгл€д, ƒжессика смущЄнно почесала голову.`@`  ...»скренность ћарии как-то ослепл€ла.`\
+` Jessica embarrassedly scratched her head, averting her eyes.`@` ...Maria's earnestness was a bit dazzling.`\
 
 ;Б@ВїВкВЌРнРlВаУѓВґВЊВЅВљБB@Р^ЧҐШ±ВћЦ≥НCВ»ПќКзВ…БAЛCВ№ВЄВїВ§В…ПќВЅВƒВµВ№В§БB\
-` “о же относилось и к Ѕаттлеру.`@` ¬ид€ искреннюю улыбку ћарии, он смог лишь неловко посме€тьс€. `\
+` The same went for Battler.`@` He could only laugh awkwardly at Maria's pure smile. `\
 bg black,25
 
 ;Б@БcБcТNВЊВЅВƒРeВ…ВЌКіО”ВµВƒВйБB@ВµВ©ВµБAФљНRКъВ…ИкУxВ§ВвВёВвВ…В»ВЅВƒБB@БcБcВїВћМгБAВїВ§ВҐВ§ЛCОЭВњВрОЭВ¬ВћВ™БAВ№ВйВ≈ТpВЄВ©ВµВҐВ±В∆ВћВжВ§В»ЛCВ™ВµВƒБAВїВћВ№В№В…В»ВЅВƒВµВ№В§БB\
