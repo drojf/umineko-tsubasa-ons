@@ -11623,17 +11623,17 @@ ld r,JES_waraiA2,24
 bg black,25
 
 ;Б@БcБcТNВЊВЅВƒРeВ…ВЌКіО”ВµВƒВйБB@ВµВ©ВµБAФљНRКъВ…ИкУxВ§ВвВёВвВ…В»ВЅВƒБB@БcБcВїВћМгБAВїВ§ВҐВ§ЛCОЭВњВрОЭВ¬ВћВ™БAВ№ВйВ≈ТpВЄВ©ВµВҐВ±В∆ВћВжВ§В»ЛCВ™ВµВƒБAВїВћВ№В№В…В»ВЅВƒВµВ№В§БB\
-` ...ѕочти все благодарны родител€м.`@` Ќо в м€тежный период эти чувства искажаютс€.`@`  ...ѕотом подобные чувства уже кажутс€ почти неловкими, и ничего не мен€етс€. `\
+` ...A lot of people are grateful to their parents.`@` However, during their rebellious period, those feelings become distorted.`@` ...Afterwards, having those kinds of feelings seems almost embarrassing, so nothing changes. `\
 bg cof_1a,26
 ld l,JES_TohohoA2,23
 
 ;БuБcБcОДВаБAБcБcЙљВ©В®УyОYБAФГВЅВƒЛAВлВ§В©В»БcБBБv@
-`"...ћожет...и мне купить подарок..." `\
+`"...Maybe...I should go buy some kind of present, too..." `\
 ;БГОйОuНБ
 
 ld r,BUT_WaraiA2,24
 ;БuПчО°ВћМZЛMВаВ≥ВЅВЂВ©ВзЙ„Х®ВрОЭВЅВƒВйВѓВ«БAВ–ВеВЅВ∆ВµВƒРeВ÷ВћГvГМГ[ГУГgВЊВЅВљВиБcБHБv\
-`"ƒжордж, ты пришЄл с пакетом... Ќеужто подарки дл€ родителей?.." `\
+`"George, you brought some luggage with you. Could that be presents for your parents?.." `\
 ;БГРнРl
 
 cl l,24
@@ -11641,23 +11641,23 @@ ld l,GEO_HohoemiA1,23
 ld l,GEO_WaraiA1,80
 
 ;БuВ§ВсБB@ХГВ≥ВсВ…ВЌРVВµВҐНаХzВрВЋБB@БcБcЙПЛNТSВђВ»ВћВ©БAВЄВҐВ‘ВсМ√ВҐВћВрОgВҐС±ВѓВƒВйВсВЊВѓВ«БB@Н≈ЛяВЌПђСKУьВкВ™ФjВѓВƒБAНdЙЁВ™ВжВ≠ЧОВњВйВЁВљВҐВЊВ©ВзБB@ВїВлВїВлРVВµВҐВћВ™В†ВЅВƒВаВҐВҐВ∆ОvВЅВƒБB@/
-`"ƒа.`@` я купил отцу новый бумажник.`@`  ...Ќе знаю, из-за суевери€ ли, но он уже давно не мен€л его.`@` ≈го бумажник сильно износилс€, и из него часто выпадают монеты.`@` —амое врем€ подарить ему новый."`\
+`"Yeah.`@` I got Father a new wallet.`@` ...I'm not sure if it's because of some kind of superstition, but he's been using a really old one for awhile.`@` Recently, his change purse has gotten really worn-out, and it seems like coins often fall out of it.`@` I thought it was about time he owned a new one."`\
 
 
 ;БcБcВ†В∆БAВ§ВњВ≈ВЌЛќШJКіО”ВћУъВ…ВЌБAХкВ≥ВсВ…ВаГvГМГ[ГУГgВрС°ВйВсВЊВжБB@Н°УъБAЦlВ™НsВЂК|ВѓВ…ОуВѓОжВЅВƒВЂВљВ±ВкВ™БAХкВ≥ВсВ÷ВћГvГМГ[ГУГgВ≥БBБv\
-`"...” мен€ есть подарок и дл€ мамы.`@` ¬от, € выбрал его сегодн€, по дороге сюда." `\
+`"...I'm also giving my mother a gift for Thanksgiving Day.`@` This, which I picked up on the way here today, is my present to Mother." `\
 ;БГПчО°
 
 ld r,BUT_WaraiA1,24
 
 ;БuВ÷В•БB@ВїВҐВ¬ВЌЙљВЊВҐБHБv\
-`"’м-м.`@` Ёто что?" `\
+`"Hmm.`@` What's this?" `\
 ;БГРнРl
 
 ld l,GEO_WaraiA2,23
 
 ;БuХпТЪВЊВжБB@ХкВ≥ВсВЌБAХпТЪВ…ВЌВ±ВЊВнВиВћВ†ВйРlВЊВ©ВзВЋБB@ГuГЙГУГhХ®В≈ВЋБB@ВЂВЅВ∆ЛCВ…УьВЅВƒВ≠ВкВйВ∆ОvВ§БBБv\
-`" ухонный нож.`@` ћама одержима такими.`@` Ѕрэндовыми, € имею в виду.`@` ≈й об€зательно понравитс€." `\
+`"A kitchen knife.`@` Mother is obsessed with them.`@` With brand name ones, that is.`@` I'm sure she'll like it." `\
 ;БГПчО°
 
 textoff
@@ -11668,18 +11668,18 @@ bg ROS_R1b,0
 ld c,EVA_MajimeA1,2
 
 ;Б@КGЙHВЌБAРeС∞ЙпЛcВћР»В≈В±ВїБAВ©В»ВиВвВиОиВћВ§ВйВ≥М^В…ВаМ©В¶ВйБB@
-` Ќа семейном собрании ≈ва весьма проницательна и придирчива. `\
+` When seated at the family conference, Eva appeared very shrewd and faultfinding. `\
 
 ;Б@ВµВ©ВµЙ∆ТлВ≈ВЌБAЧњЧЭВ∆ГKБ[ГfГjГУГOВрУЊИ”В∆ВЈВйБAЧ«ВЂХкВ»ВћВЊБB\
-` Ќо дома она хороша€ мать, преуспевша€ в кулинарии и садоводстве. `\
+` But at home, she was a good mother who excelled at cooking and gardening. `\
 
 ld c,EVA_WaraiA1,80
 
 ;Б@УЅВ…СnНмЧњЧЭВ…ВЌВ±ВЊВнВиВ™В†ВиБA@ОЮВ…БAВ≤ЛяПКВћОеХwВрПµВҐВƒВћГzБ[ГАГpБ[ГeГBВ≈БAО©ЦЭВћРVНмВрФвШIВµВƒКЕН—ВрОуВѓВљВиВаВЈВйБB@
-` ќна особенно любила творческую кулинарию и часто приглашала соседок на домашние праздники, на которых с гордостью выставл€ла свои новейшие работы и получала похвалу. `\
+` She especially loved creative cooking,`@` and would often invite the women of the neighborhood over for house parties, in which she would proudly announce her newest works and receive praise. `\
 
 ;Б@ВїВсВ»БgСдПКВћЦВПЧБhВ…ВЌБAВЂВЅВ∆В“ВЅВљВиВћС°ВиХ®ВЊВлВ§БB\
-` Ѕезусловно, достойный подарок дл€ такой кухонной ведьмы." `\
+` It was certainly a fitting gift for that "witch of the kitchen". `\
 
 bg black,2
 mono 0
@@ -11690,13 +11690,13 @@ ld c,JES_DefA2,24
 ld c,JES_WaraiA1,80
 
 ;БuХпТЪВЋВ•БB@ГuГЙГУГhХ®ВЅВƒВ≠ВзВҐВЊВ©ВзБAПгУЩВїВ§ВЊВЇБB@ВҐВ≠ВзИ ВЈВйВсВЊБHБv@
-`" ухонный нож...`@` ѕервоклассный подарок.`@` —колько он стоил?" `\
+`"A kitchen knife, huh.`@` It seems pretty high class for a present.`@` How much did it cost?" `\
 ;БГРнРl
 
 ld l,GEO_KomaruA2,23
 
 ;БuГvБAГvГМГ[ГУГgВЌТlТiВґВбВ»ВҐВжБB@БcБcВ±ВкВЌВQВOЦЬВњВеВЅВ∆В≠ВзВҐВћВ©В»БBБv\
-`"¬-в подарках не важна их стоимость.`@`  ...ќколо 200000 иен." `\
+`"P-Presents aren't about the cost.`@` ...I guess this was about 200,000 yen ($2000)." `\
 ;БГПчО°
 
 ld r,BUT_OdorokiA2,0
@@ -11706,7 +11706,7 @@ ld l,MAR_ikariA1,80
 !s0
 
 ;БuБuВ…БAВ…ВґВгВ§В№ВсВ¶ВсБHБIБHБIБvБv/
-`""ƒ-двухсот ты-ы-ыс€ч?!?!"" `/
+`""T-Two hundreeeeeeed thousaaaaaand?!"" `/
 
 se1v 2,100
 se2v 12,70
@@ -11720,7 +11720,7 @@ SE1 47
 ld l,MAR_OdorokiA1,80
 
 ;БuВ§Б[БAВїВкВЅВƒНВВҐБHБv\
-`"”-у, это много?" `\
+`"Uu, is that a lot?" `\
 ;БГР^ЧҐШ±
 
 bg black,22
@@ -11728,14 +11728,14 @@ bg BUI_o1a,22
 
 ;Б@ПчО°ВЌБAО–ЙпХ„Л≠ВћИкК¬В∆ВµВƒПGЛgВћЙпО–В≈М©ПKВҐВрВµВƒВҐВйБB@
 ;Б@В®ЛаВћОgВҐХыВаХ„Л≠В∆ВҐВ§В±В∆В≈БAЛЛЧњВ∆МƒВсВ≈ВаВ®В©ВµВ≠В»ВҐВ®ЛаВрВаВзВЅВƒВҐВљБB\
-` ¬ рамках исследований социальных вопросов ƒжордж работал в компании ’идэЄши. `\
-` ”знава€ также о том, как обращатьс€ с деньгами, он получил сумму, котора€ могла бы сойти за зарплату.`\
+` George, as part of his studies of social affairs, worked as an apprentice at Hideyoshi's company. `\
+` Because he was also learning about how to handle money, he received an amount of money that could pass for a salary.`\
 
 bg cof_1a,0
 ld c,GEO_DefA1,22
 
 ;Б@ВаВњВлВсФёВЌВїВкВрВЂВЅВњВиТЩЛаВµВƒВҐВƒБA@ОgВ§В„ВЂОЮВ…ВЌБAВїВкВрР…ВµВ№ВЄОgВ§ВжВ§В…Л≥В¶ВзВкВƒВҐВйВћВЊБB@
-` –азумеетс€, он вложил эти деньги в сбережени€ и училс€ тратить их скромно. `\
+` Of course, he properly kept that money in savings,`@` and was taught to be frugal whenever he did have to use it. `\
 
 ;Б@В±ВкВЌВ№В≥В…БAВїВћХ„Л≠ВћРђЙ ВрЧЉРeВ…Л≥В¶ВйВаВћВЊВЅВљБB\
 ` Ќесомненно, всЄ благодар€ тому, что он узнал от родителей. `\
