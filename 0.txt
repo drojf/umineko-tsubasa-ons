@@ -11738,46 +11738,46 @@ ld c,GEO_DefA1,22
 ` Of course, he properly kept that money in savings,`@` and was taught to be frugal whenever he did have to use it. `\
 
 ;Б@В±ВкВЌВ№В≥В…БAВїВћХ„Л≠ВћРђЙ ВрЧЉРeВ…Л≥В¶ВйВаВћВЊВЅВљБB\
-` Ќесомненно, всЄ благодар€ тому, что он узнал от родителей. `\
+` This was surely the results of what he learned from his parents. `\
 
 ld c,GEO_WaraiA2,80
 
 ;БuВ≤БAМлЙрВµВ»ВҐВ≈ВўВµВҐВћВЌБAТlТiВґВбВ»ВҐВЅВƒВ±В∆ВЊВжБB@ЦlВћГvГМГ[ГУГgВ…ВаР^ЧҐШ±ВњВбВсВћГvГМГ[ГУГgВ…ВаБAВ«ВњВзВ…ВаПЯВйВ∆ВаЧтВзВ»ВҐВаВћВ™ПhВЅВƒВйВ∆ОvВ§ВжБB@СеРЎВ»ВћВЌЛCОЭВњВ»ВсВЊВ©ВзВЋБBБv\
-`"Ќе поймите неправильно, цена неважна.`@` ≈сли сравнивать мой подарок с подарком ћарии, € не думаю, что один уступает другому.`@` Ќаши чувства важнее." `\
+`"W-What I don't want you two to misunderstand is that the price isn't what matters.`@` Between my and Maria's presents, I don't believe one is inferior to the other.`@` What's important is our feelings." `\
 ;БГПчО°
 
 ld r,MAR_WaraiA2,23
 
 ;БuВ§Б[БI@Б@ЛCОЭВњВ™СеОЦБ\БIБv\
-`"”-у!`@` „увства важны!" `\
+`"Uu!`@` Feelings are important!" `\
 ;БГР^ЧҐШ±
 
 ld c,GEO_waraiA1,80
 
 ;БuУсРlВ∆ВаБAВ®ХГВ≥ВсВ…КіО”ВЈВйЛ@ЙпВЅВƒВ†ВйБH@Б@ИƒКOБAВ»ВҐВаВћВЊВжБB@ЛќШJКіО”ВћУъВЅВƒБAЦlВЌСfУGВ»ГCГxГУГgВЊВ∆ОvВ§ВѓВкВ«ВЋБBБv\
-`"—колько получаешь возможностей выразить благодарность отцу?`@` Ќе так много, как можно ожидать.`@` ѕо-моему, ƒень благодарности за труд - замечательный праздник." `\
+`"How many chances do you get to show gratitude to your father?`@` Not as many as you'd expect.`@` I think Labor Thanksgiving Day is a wonderful event." `\
 ;БГПчО°
 
 cl c,0
 bg BUI_R1d,26
 
 ;Б@РнРlВ∆ОйОuНБВЌКзВрМ©НЗВнВєВйБB\
-` Ѕаттлер и ƒжессика перегл€нулись. `\
+` Battler and Jessica exchanged glances. `\
 
 ;Б@РнРlВаБAЧѓХ§ХvВ∆ВЌРFБXВ†ВЅВƒБAЦҐВЊВ…ВђВ≠ВµВбВ≠В∆ВµВљК÷МWВЊВ™БAБcБcИкЙЮВЌБAРeВ∆ВµВƒВћМhИ”ВрКіВґВƒВаВҐВйБB@ВљВЊВµВїВкВЌБAМыВ…ПoВµВƒВ№В≈У`В¶ВйВаВћВ∆ВЌОvВЅВƒВҐВ»ВҐБB\
-` Ѕаттлер через многое прошЄл с –удольфом, и даже сейчас у них по-прежнему напр€жЄнные отношени€, но всЄ равно он ещЄ уважал своего родител€.`@` “олько он не думал, что об этом нужно говорить вслух.`\
+` Battler had been through a lot with Rudolf, and even now their relationship was still strained...but even then, he still felt a sense of respect for his parent.`@` But he hadn't thought it was something worth conveying enough to say out loud.`\
 
 ;Б@ОйОuНБВаУѓВґБB@ЧЉРeВ…ВЌИкТиВћКіО”ВрВµВ»В™ВзВаБAВїВкВЌМыВ…ПoВµВƒВ№В≈ВЈВйВаВћВЊВ∆ВЌОvВЅВƒВҐВ»ВҐБB@
-` “о же самое касалось и ƒжессики.`@` ƒа, она была благодарна родител€м, но не думала, что про это нужно говорить вслух.`\
+` It was the same with Jessica.`@` Even though she definitely felt gratitude towards her parents, she hadn't thought it was something significant enough to say out loud.`\
 
 ;Б@ВїВсВ»УсРlВ…В∆ВЅВƒБAПчО°ВћМЊЧtВЌБAП≠ВµЯОВЁВйВаВћВ™В†ВЅВљБcБB\
-` Ётих двоих слегка задели слова ƒжорджа... `\
+` To those two, George's words stung a bit... `\
 
 bg cof_1a,22
 ld r,MAR_NiyariA2,24
 
 ;БuГvГМГ[ГУГgВЌВЋБAТNВ≈ВаОgВ¶ВйБAВ∆ВЅВƒВаК»ТPВ»ЦВЦ@В»ВћБBБv@
-`"ѕодарки - очень проста€ маги€, которую может использовать каждый." `\
+`"Presents are very simple magic that anyone can use." `\
 ;БГР^ЧҐШ±
 
 ld l,JES_TohohoA1,23
@@ -11788,13 +11788,13 @@ ld l,JES_TohohoA1,23
 ld r,MAR_WaraiA1,80
 
 ;БuВ§ВсБB@КіО”ВћЛCОЭВњВЌБAВµВƒВйЦ{РlВ…ВЌВжВ≠М©В¶ВйВћВ…БAСКОиВ…ВЌВњВЅВ∆ВаМ©В¶В»ВҐБAФяВµВҐВаВћБB@ВїВкВрВЋБH@Б@ЦЏВ…М©В¶ВйМ`В…ПoЧИВƒБAУ`В¶ВйВ±В∆В™ПoЧИВйБAВ∆ВЅВƒВаК»ТPВ≈БAВїВµВƒВ∆ВЅВƒВаСfУGВ»ЦВЦ@В»ВћБBБv\
-`"ƒа.`@` √рустно, что те, кто испытывает чувства благодарности, вид€т их, а другие - нет.`@` «наете?`@` »х можно выразить, придав им форму. ќчень проста€ и удивительна€ маги€." `\
+`"Yeah.`@` It's sad that feelings of gratitude can be clearly seen by the person who has them, but the other person can't see them at all.`@` So, you know?`@` If you give them a form that can be seen, you can express them. It's really simple and wonderful magic." `\
 ;БГР^ЧҐШ±
 
 ld c,GEO_HohoemiA1,24
 
 ;БuВїВ§ВЊВЋБB@С°ВйХ®ВћТlТiВЌК÷МWВ»ВҐВсВЊВжБB@СКОиВрОvВЅВƒБAЙљВрС°ВЅВљВзКмВ‘В©НlВ¶БA@О©Х™ВћСЂВ≈ВїВкВрТTВµБAХпВсВ≈ОЭВњЛAВиБAКіО”ВћМЊЧtВ∆Л§В…ОиУnВЈБAВїВћЙяТцБB@ВїВкВ™ГvГМГ[ГУГgВ∆ВҐВ§М`В…В»ВЅВƒМЛОјВµВƒБAСКОиВ…У`ВнВйБB@БcБcЦВЦ@В∆МƒВсВ≈ВаВҐВҐВаВћВЊВ∆ОvВ§ВжБBБv\
-`"ƒа.`@` ÷ена подарка не имеет значени€.`@` Ќужно пон€ть, что может осчастливить человека,`@` самосто€тельно найти это, завернуть и отдать со словами благодарности.`@` ¬есь этот процесс принимает форму подарка, и потому его можно передать другому.`@`  ...“акое и вправду можно назвать магией." `\
+`"That's true.`@` The price of the gift doesn't matter.`@` It's about thinking of what would make that person happy,`@` going to find it yourself, wrapping it up, and giving it to them with words of thanks.`@` That whole process takes the form of a present, so it can be handed to another person.`@` ...I think it makes sense to call that magic." `\
 ;БГПчО°
 
 ld r,MAR_WaraiA2,80
