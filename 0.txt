@@ -11800,59 +11800,59 @@ ld c,GEO_HohoemiA1,24
 ld r,MAR_WaraiA2,80
 
 ;БuЦ{УЦВ…ЦВЦ@В»ВсВЊВжБcБI@Б@В±ВћЦВЦ@ВрОgВ§В∆ВЋБH@Б@Г}Г}В™ХKВЄМ≥ЛCВ…В»ВЅВƒБAВ…В±В…В±В…В»ВйВћБI@Б@ВїВµВƒЙпО–ВћОdОЦВаСБВ≠ПIВнВйВжВ§В…В»ВЅВƒБAЦИУъВ®Й∆В…ЛAВЅВƒВЂВƒБAИкППВ…В®Ч[Ф—ВрРHВ„ВƒВ≠ВкВйВжВ§В…В»ВйВћБI@Б@Ц{УЦВ»ВсВЊВжБHБI@Б@ВЈВ≤ВҐМшВЂЦЏВ»ВћБIБ@В§Б[БIБv\
-`"ƒа, насто€ща€ маги€!..`@` «наете, что будет, когда € еЄ использую?`@` ћама об€зательно обрадуетс€ и улыбнЄтс€!`@` » она будет заканчивать работу раньше, приходить домой каждый день, и мы будем вместе ужинать!`@` “ак-то!`@` “очно сработает! ”-у!" `\
+`"Yes, it's real magic!..`@` Do you know what will happen when I use this magic?`@`  Mama will definitely be happy and smile!`@` And she'll finish her work early, come home every day, and we'll eat dinner together!`@` It's the turth!`@` It'll certainly work! Uu!" `\
 ;БГР^ЧҐШ±
 
 cl a,24
 ld l,BUT_WaraiA1,23
 
 ;БuКmВ©В…В»БB@В±ВсВ»Р^РSВћШUВЅВљБAМ®Т@ВЂМФВрС°ВзВкВњВ№ВЅВљВзБAБcГWБ[ГУВ∆ЧИВњВ№В§В»ВЯБBБv\
-`"Ќаверн€ка.`@` ѕолучив этот массажный купон, наполненный такой искренностью, она об€зательно будет возвращатьс€ домой в мгновение ока." `\
+`"That's for sure.`@` If she gets this massage coupon filled with such sincerity...I'm sure she'll come home in a flash." `\
 ;БГРнРl
 
 ld r,JES_WaraiA1,24
 
 ;БuБcБcВжВµВЅБB@ОДВаХГВ≥ВсВћВљВяВ…ЙљВ©ФГВ§ВЇБI@Б@НDКіУxГAГbГvВрС_ВЅВƒВ§В№В≠ВҐВЅВљВзБA@/
-`"...Ћадно.`@` я тоже куплю что-нибудь дл€ папы!`@` » если это сломает напр€жЄнность между нами...`@/
+`"...Alright.`@` I guess I'll buy something for Dad as well!`@` And, if it helps to break tension between us somewhat, `@/
 se1 48
 ;БcБcГGГwГwБAГMГ^Б[ФГВЅВƒВаВҐВҐБHВЅВƒРЎВиПoВєВйВ©ВаБBБv@
-` Ёхе-хе, может, € смогу попросить его купить мне гитару." `\
+` ehehe, maybe I could ask him to buy me a guitar." `\
 ;БГОйОuНБ
 
 ld l,BUT_DefA1,80
 
 ;БuЙЇРSВ†ВиВ†ВиВЊВ»БB@В№ВЯВ≈ВаБAВїВкВ≈ВаЙљВаС°ВзВ»ВҐВжВиВЌВЌВйВ©В…ВҐВҐВЇБBБv\
-`" оварно.`@` ¬прочем, это лучше, чем вообще ничего не давать." `\
+`"That's selfish.`@` Well, that's still way better than not giving him anything at all." `\
 ;БГРнРl
 
 cl r,23
 ld r,GEO_hohoemiA1,24
 
 ;БuВїВ§ВЊВЋБB@ВµВ»ВҐСPВжВиБAВЈВйЛUСPВЊВжБB@ГSГ}ОCВиВЊВ∆ОvВнВкВƒВаВҐВҐБB@/
-`"ƒа.`@` Ћучше уж сделать лицемерно, чем и вовсе ничего не сделать.`@` ѕусть даже дл€ теб€ в этом есть выгода, ничего страшного.`@/
+`"That's right.`@` It's better to do something selfish than do nothing at all.`@` There's nothing awful about getting something in return for it.`\
 
 ;ВҐВвБAВїВћВ¬ВаВиВ≈ВаВҐВҐВ©ВзБAВљВ№В…ВЌЙљВ©В≤ЙґХ‘ВµВрВµВƒВЁВљВзБH@Б@БcБcВЂВЅВ∆БAЙљВ©В™СfУGВ…В»ВйВЂВЅВ©ВѓВ…В»ВйВ∆ОvВ§ВжБBБv\
-` ѕускай у теб€ свой замысел, почему бы иногда не выражать благодарность?`@` ...ƒумаю, это может перерасти в нечто прекрасное." `\
+` So even though you have an ulterior motive for now, why not express your gratitude some other time?`@` ...I think it could develop into something wonderful." `\
 ;БГПчО°
 cl l,24
 ld l,MAR_WaraiA2,23
 
 ;БuЙ∆С∞В™НKВєВ…В»ВйЦВЦ@В»ВћБB@В§Б[БIБv\
-`"ћаги€ осчастливить семью.`@` ”-у!" `\
+`"Magic to make your family happy.`@` Uu!" `\
 ;БГР^ЧҐШ±
 
 ld r,GEO_WaraiA2,80
 ;БuЙљВЊВЅВљВзБAВ±ВкВ©ВзГfГpБ[ГgВ…В≈ВаНsВЅВƒВЁВйВ©ВҐБHБv@
-`"«айдЄм потом в универмаг?"`\
+`"Should we stop by the mall after this?"`\
 ;БГПчО°
 
 ;Б@ПчО°В™ВїВ§РЎВиПoВЈВ∆БAРнРlВ∆ОйОuНБВЌКзВрМ©НЗВнВєВйБB\
-` ѕредложил ƒжордж, и Ѕаттлер с ƒжессикой перегл€нулись. `\
+` George laid out the suggestion, and Jessica and Battler exchanged glances. `\
 ;Б@БcБcВ§ВсБB@ВљВ№В…ВЌВїВ§ВҐВ§ВћВаВҐВҐВ©ВаВµВкВ»ВҐБB@
-` ...ƒа.`@` Ѕыло бы неплохо так делать врем€ от времени. `\
+` ...Yeah.`@` Something like that might be good once in awhile. `\
 
 ;Б@УсРlВЌПќКзВ≈ЧЌЛ≠В≠ихВ≠ВћВЊВЅВљБB\
-` ќни вдвоЄм улыбнулись и твЄрдо кивнули. `\
+` The two smiled and nodded firmly. `\
 
 bg white,2
 
@@ -11865,55 +11865,55 @@ bg "bmp\background\sbook\Shop_1a.bmp",8
 bgm1 3
 
 ;Б@ЙwГrГЛВ…ВЌЧlБXВ»В®УXВ™УьВЅВƒВҐВљБB@
-` ¬ здании вокзала много магазинов.`\
+` There were various stores in the station building.`\
 ;Б@В®НаХzВ≥В¶ЛЦВєВќБAВ«ВсВ»Х®В≈ВаОиВ…УьВиВїВ§ВЊБB\
-` — деньгами там можно купить всЄ, что только пожелаешь. `\
+` As long as their wallets were up for it, it seemed like they could buy anything they wanted to. `\
 ld r,JES_DefA1,24
 
 ;БuРнРlВЌБAЧѓХ§ХvФМХГВ≥ВсВ…ЙљВрФГВ§ВћБHБv\
-`"Ѕаттлер, что ты купишь д€де –удольфу?" `\
+`"Battler, what are you gonna buy for Uncle Rudolf?" `\
 ;БГОйОuНБ
 
 ld l,BUT_NayamuA2,23
 
 ;БuБcБcРeХГВ…ВЋВ•БB@БcБcЦ≥УпВ…ГlГNГ^ГCХ”ВиВрБAБcВ∆В≈ВаМЊВҐВљВҐВ∆В±ВлВЊВ™БcБB@/
-`"...’м, папаше...`@`  уплю ему самое простое - галстук... ’отел бы € сказать, но... `@/
+`"...For the old man, huh.`@` I'd buy him a necktie to stay on the safe side, but... `@/
 
 
 ;РeХГВћГДГcБAГlГNГ^ГCВћНDВЁВ…В§ВйВ≥В≠ВƒВ»ВЯБB@ВжВ≠ВаВзВҐВаВсВћГlГNГ^ГCВ…ГKГЙВ™ИЂВҐВ∆В©Г_ГTГCВ∆В©БAВЄВҐВ‘ВсГOГ`ВрМЊВЅВƒВйВсВЊВжВ»ВЯБBБv\
-`ќн очень придирчив к ним.`@` ћного жалуетс€ на получаемые галстуки, говор€, что на них плохой узор или что они слишком простые." `\
+`He's really picky about his necktie preferences.`@` He complains a lot about the neckties he gets, saying the pattern is bad or they're unsophisticated or whatever." `\
 ;БГРнРl
 
 bg "bmp\background\sbook\Shop_1b.bmp",0
 ld l,GEO_waraiA1,23
 
 ;БuГlГNГ^ГCВЌНDВЁВ™В†ВйВ©ВзВЋВ•БB@В≈ВаБAГvГМГ[ГУГgВ»ВзБAВ«ВсВ»Х®В≈ВаКрВµВҐВаВћВЊВжБBБv@
-`"¬сЄ-таки у людей разные вкусы на этот счЄт.`@` Ќо € уверен, что он обрадуетс€ любому, если ему подар€т." `\
+`"People do have different tastes in clothing, of course.`@` But I'm sure he'll be happy with anything if it's a gift." `\
 ;БГПчО°
 
 ld r,BUT_futekiA1,24
 
 ;БuГtГ@ГbГVГЗГУМnВжВиБAУъЧpХiМnВ™ВҐВҐВ©В»ВЯБB@УъЧpХiВ»ВзБAВ∆ВиВ†В¶ВЄОgВ¶ВкВќХґЛеВЌМЊВнВ»ВҐВЊВлВ§ВµБBБv\
-`"Ћучше купить то, что необходимо каждый день.`@` “ак оно пригодитс€, да и он не сможет пожаловатьс€." `\
+`"Rather than something related to fashion, maybe I should just get some kind of daily necessity.`@` At least that way it'd be useful, and he won't be able to complain." `\
 ;БГРнРl
 
 cl l,24
 ld l,JES_AisowaraiA1,23
 
 ;БuВ†Б[БAВнВ©ВйВнВ©ВйБB@ОДВаБAХГВ≥ВсВћГZГУГXВЌВжВ≠ВнВ©ВзВ»ВҐВ©ВзБAОјЧpРЂВћВ†ВйВаВћВрТTВµВљВҐВЇБBБv@
-`"ј, да, понимаю.`@` я не особо разбираюсь во вкусах отца, так что хочу найти что-нибудь практичное." `\
+`"Ah, yeah, I can understand that.`@` I don't really get Dad's taste in clothes at all, so I want to look for something practical." `\
 ;БГОйОuНБ
 
 ld c,MAR_MajimeA1,23
 
 ;БuВ§Б[БB@СеРЎВ»ВћВЌЛCОЭВњБ[БB@ГZГУГXВЌВҐВҐВћБ[БBБv\
-`"”-у!`@` ¬ажны чувства.`@` ¬кус не важен." `\
+`"Uu!`@` What's important is feelings.`@` Taste doesn't matter." `\
 ;БГР^ЧҐШ±
 
 ;Б@ВҐВвВҐВвБAВ№ВЅВљВ≠Р^ЧҐШ±ВћМЊВ§Т ВиБB@
-` ƒа, ћари€ права. `\
+` Yes, Maria was right. `\
 ;Б@РнРlВ∆ОйОuНБВЌБAУ™ВрС~ВЂВ»В™ВзБAКeГtГНГAВћРFБXВ»В®УXВрМ©ВƒЙсВйВћВЊВЅВљБB\
-` Ћома€ головы, Ѕаттлер и ƒжессика обошли все магазины на каждом этаже. `\
+` Battler and Jessica, while scratching their heads, looked around the various stores on each floor. `\
 
 textoff
 bg "bmp\background\sbook\Shop_1a.bmp",3
@@ -11922,51 +11922,51 @@ bg "bmp\background\sbook\Shop_2a.bmp",3
 
 ld l,JES_AkuwaraiA1,23
 ;БuБcБcОДБAВ±ВћХ”В™ЛCВ…ВҐВЅВљВ©ВаВµВкВ»ВҐВЇБBБv@
-`"...ћожет, нечто вроде этого." `\
+`"...I'm thinking something like this might be good." `\
 ;БГОйОuНБ
 
 ld r,BUT_WaraiA1,24
 
 ;БuВ®ВІБAВ«ВƒВзВ∆ВЌВ№ВљПaВҐБB@В≈ВаБAС†ЙPФМХГВ≥ВсВ…ОЧНЗВ§В©Б[БHБv\
-`"ќ-о, м€гкое кимоно. Ќеплохо.`@` Ќо подойдЄт ли оно д€де  рауссу?"`\
+`"Ooh, a padded kimono. Not bad.`@` But I wonder if that'd suit Uncle Krauss?"`\
 ;БГРнРl
 
 ld l,JES_TohohoA1,80
 
 ;БuВ§ВњВЌХкВ≥ВсВ™МµВµВҐВ©ВзВ≥БB@О©ОЇИ»КOВЌБAВљВ∆В¶ЙЃХ~ВћТЖВ≈ВаМцЛ§ВћПкВ∆УѓВґРgВ»ВиВрВЅВƒМµВµВҐВсВЊВжБB@/
-`"ћо€ мама очень строга€.`@` ќна требует, чтобы мы за пределами своих комнат ходили в особн€ке так же, как и снаружи.`@/
+`"My mom's really strict.`@` Outside of our own rooms, she demands we all present ourselves inside the mansion as if we were in public.`@/
 
 
 ;БcБcВ≈ВаВ≥БAВїВкВґВбБ[БAМ®В™Л√ВйВЅВƒВаВсВЊВЇБB@ХГВ≥ВсВаОЮБXБAВ±ВЅВїВиГOГ`ВЅВƒВйВжБB@ХкВ≥ВсВ™ЧИВйВ∆БAВЈВЃВ…ЦўВЅВњВбВ§ВѓВ«БBБv\
-`  ...Ќо из-за этого у нас сильно затекают плечи.`@` »ногда папа втайне жалуетс€.`@` ’от€, когда мама проходит мимо, он тут же замолкает." `\
+`  ...But 'cause of that, our shoulders get really stiff.`@` Sometimes Dad secretly complains about it.`@` Though whenever Mom comes by, he instantly shuts up." `\
 ;БГОйОuНБ
 
 bg "bmp\background\sbook\Shop_1b.bmp",0
 ld c,GEO_WaraiA2,24
 ;БuВЌВЌВЌВЌВЌВЌБAС†ЙPФМХГВ≥ВсВаЙ¬И§ВҐРlВЊВЋБBБv@
-`"’а-ха-ха-ха-ха, забавно." `\
+`"Hahhahaha, that's kind of cute." `\
 ;БГПчО°
 
 ld r,MAR_WaraiA2,24
 
 ;БuВ§Б[БIБ@В«ВƒВзВЌВҐВҐВжБI@/
-`"”-у! ћ€гкие кимоно отличные! `@/
+`"Uu! Padded kimonos are great! `@/
 
 ;Б@Г}Г}ВаУ~ВЌБAВ«ВƒВзВ…ГWГГБ[ГWВ≈БAВ®В±ВљВ…УьВЅВƒГ~ГJГУРHВ„В»В™ВзНgФТМ©ВйБ[БBВ§Б[БIБv\
-`«имой мама носит такое вместе с трикотажем и ест мандарины. ”-у!" `\
+`During the winter, Mama wears a padded kimono and jersey, and relaxes while eating tangerines. Uu!" `\
 ;БГР^ЧҐШ±
 
 ld l,BUT_OdorokiA2,23
 
 ;БuВ†БAВ†ВћВ®Я≠ЧОВ»ШOНјПfХкВ≥ВсВ™БcБH@Б@ВїБAВїВкВЌП’МВУIВ»МхМiВЊВ»БcБcБBБv\
-`"—-стильна€ тЄт€ –оза?..`@` Ў-шокирующее зрелище..." `\
+`"T-the stylish Aunt Rosa does?..`@` T-that'd be a pretty shocking sight..." `\
 ;БГРнРl
 
 cl c,0
 ld c,GEO_defA1k,80
 
 ;БuЦlВЌВ«ВƒВзБAСfУGВЊВ∆ОvВ§ВжБB@Й∆В≈ВЌБAВћВсВ—ВиГКГЙГbГNГXВµВƒВўВµВҐВ∆ВҐВ§ЛCОЭВњВЌБAЙ∆С∞В…ВµВ©У`В¶ВзВкВ»ВҐВ©ВзВЋБBБv\
-`"Ќа мой взгл€д, м€гкие кимоно замечательны.`@` ∆елание лениво отдохнуть у себ€ дома можно раскрыть только семье." `\
+`"I think padded kimonos are wonderful.`@` Because that desire to lazily relax at home is something that can only be shown to your family." `\
 ;БГПчО°
 
 cl c,0
@@ -11975,14 +11975,14 @@ bg "bmp\background\sbook\Shop_2a.bmp",0
 ld r,JES_WaraiA1,24
 
 ;БuКmВ©В…В»БB@В±В§ВҐВ§ВћВЌБAРgУаВ©ВзВаВзВЅВƒВ±ВїВЊВЇБBБv\
-`"“очно.`@` “акие вещи нужно получать от родственника." `\
+`"Exactly.`@` This kind of thing is definitely something you should receive from a relative." `\
 
 ;БГОйОuНБ
 
 ld l,MAR_WAraiA2,23
 
 ;БuС†ЙPФМХГВ≥ВсВ…ВЌБAВ«ВсВ»ВћВ™ОЧНЗВ§В©В»ВЯБB@В§Б[В§Б[БIБ@Р^ЧҐШ±ВЌВ±ВћГsГУГNВћГJГoВ≥ВсВћВ™ВҐВҐБ[БIБv/
-`" акое будет лучше смотретьс€ на д€де  рауссе?`@` ”-у, у-у! ћне нравитс€ розовое!" `/
+`"Which one would look best on Uncle Krauss?`@` Uu uu! Maria likes this pink one!" `/
 se1 48
 quakey 1,100
 
