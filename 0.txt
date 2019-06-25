@@ -11992,7 +11992,7 @@ quakey 1,100
 ld r,JES_AtyaA3,80
 
 ;БuВ≥БAВ≥ВЈВ™В…ВїВкБAХГВ≥ВсВЌТЕВкВЋВ•ВЇБcБB@БcБcХГВ≥ВсВ™ТЕВƒВаТpВЄВ©ВµВ≠В»ВҐБAВаВ§ВњВеВЅВ∆К—Ш\ВћВ†ВйГДГcВЌВ»ВҐВ©В»БBБv\
-`"Ќ-не думаю, что папа наденет такое...`@` Ќужно достойное, чтобы ему не было стыдно." `\
+`"I-I don't think Dad would wear that...`@` Maybe there's a more dignified one that Dad wouldn't be ashamed of." `\
 ;БГОйОuНБ
 
 bg "bmp\background\sbook\Shop_1b.bmp",0
@@ -12000,37 +12000,37 @@ bg "bmp\background\sbook\Shop_1b.bmp",0
 ld l,BUT_FutekiA1,23
 
 ;БuБcБcС†ЙPФМХГВ≥ВсВЊВ∆БAВ«ВƒВзВЅВƒВжВиВЌБAГiГCГgГKГEГУВЅВƒКіВґВЊВѓВ«В»Б[БBБv@
-`"...ј € вообще считаю, что д€де  рауссу больше подошла бы ночна€ рубашка, нежели м€гкое кимоно." `\
+`"...I dunno, I think a nightgown might be more suitable for Uncle Krauss than a padded kimono." `\
 ;БГРнРl
 
 ld r,GEO_hohoemiA1,24
 
 ;БuВҐВвВҐВвБB@М®ХIВрТ£ВзВ»ВҐЙ∆ТлУIВ»ВаВћВ™БAВ©В¶ВЅВƒКмВќВкВйВаВћВЊВжБB@ВїВкВ…БAОйОuНБВњВбВсВ™О©Х™В≈МИВяВљВ∆ВҐВ§ВћВ…И”Ц°В™В†ВйБB@ЦlВЌСfУGВ»Г`ГЗГCГXВЊВ∆ОvВ§ВжБBБv\
-`"Ќет-нет.`@` ƒумаю, он будет рад получить нечто чуть более скромное и ориентированное на семью.`@`   тому же, тут есть особое значение, ведь ƒжессика сама так решила.`@` ѕо-моему, отличный выбор." `\
+`"No, no.`@` I think he would be happy to receive something a little more modest and family-oriented.`@` Besides, there's a special meaning to it because Jessica-chan decided on it herself.`@` I think it's an excellent choice." `\
 ;БГПчО°
 
 ld l,BUT_WaraiA1,80
 
 ;БuВїВкВаВїВ§ВЊВ»БB@БcБcОйОuНБВЊВЅВљВзБAГKГEГУВжВиВ«ВƒВзВЅВƒГCГББ[ГWВЊВЇБBБv@
-`"Ќу, возможно.`@`  ...ƒжессика больше представл€етс€ в м€гком кимоно, чем в ночной рубашке."`\
+`"Well, I guess that's true.`@` ...With Jessica, you'd imagine her going for a padded kimono over a nightgown."`\
 ;БГРнРl
 
 ld c,JES_IkariA1,64
 
 ;!s0БuВ»ГbБAЙљВЊВжВїВкБI/
-!s0`"„-чего?! `/
+!s0`"W-wha?! `/
 
 se1 12
 quakex 2,200
 
 ;!sd@Б@В«В§ВҐВ§И”Ц°ВЊВжБAВ§ВЇБ[ВЇБI@Б@ВїВкВжВиРнРlВЌЙљВ…ВЈВсВЊВжБcБIБv\
-!sd@`„то ты этим хочешь сказать, придурок?!`@` » вообще, ты-то что будешь покупать?!.." `\
+!sd@`What's that supposed to mean, jerk?!`@` More importantly, what are you gonna get?!.." `\
 ;БГОйОuНБ
 
 ld l,BUT_DefA1,80
 
 ;БuЙіВЌВаВ§МИВ№ВЅВƒВйВЇБB@В№БAЦ≥УпВ…В»БBБv\
-`"я уже решил.`@` Ќу, примерно." `\
+`"I've already decided.`@` Well, mostly." `\
 ;БГРнРl
 
 bg black,24
@@ -12038,74 +12038,74 @@ bg "bmp\background\sbook\Shop_1b.bmp",24
 
 ;Б@РнРlВЌВаВ§ЦЏУЦВƒВћХ®ВрМИВяВƒВҐВљБB@
 ;Б@ОйОuНБВћВ«ВƒВзВрФГВҐБAОЯВЌВїВћФДВиПкВ…МьВ©В§БB\
-` Ѕаттлер уже решил, что искать. `\
-` ƒжессика купила м€гкое кимоно, и они направились туда, где это можно купить. `\
+` Battler had already decided what to look for. `\
+` After buying Jessica's padded kimono, they headed to the place where it would be sold.. `\
 
 bg black,24
 bg "bmp\background\sbook\Shop_3a.bmp",24
 ld l,JES_atyaA1,23
 
 ;БuВ§ВнБ[БB@В±В§ВҐВ§В∆В±В…ВЌОДБAЙПВ™ВЋБ[ВЇБcБBБv@
-`"”ва-а.`@` Ќичего не знаю о таких штуках..." `\
+`"Uwaah.`@` I don't know anything about this type of stuff..." `\
 ;БГОйОuНБ
 
 ld c,MAR_waraiA1,23
 
 ;БuРнРlБAЙљФГВ§ВћБH@Б@УdУЃХEТдВиБ[БHБv\
-`"Ѕаттлер, что купишь?`@` Ёлектробритву?" `\
+`"Battler, what are you buying?`@` An electric shaver?" `\
 ;БГР^ЧҐШ±
 
 bg "bmp\background\sbook\Shop_3b.bmp",0
 ld r,BUT_futekiA1,24
 
 ;БuРeХГБAВ†Б[М©В¶ВƒГqГQВ™ФZВҐВ©ВзВ»Б[БB@ЦыТfВµВƒВйВ∆БAСcХГВ≥В№ВЁВљВҐВ…БAВаВЁВ†В∞В™К{ГqГQВ∆МqВ™ВЅВњВ№В§ВЅВƒВЏВвВҐВƒВйВЇБBБv@
-`"Ќа вид так не скажешь, но у старого козла очень много волос на лице.`@` ќн всегда жалуетс€, что ему лень, и его бакенбарды перерастают в бороду, как у деда." `\
+`"Even if he doesn't look like it, the old man's got really thick facial hair.`@` He's always complaining about how if he gets lazy, his sideburns end up growing into a beard like Grandfather's." `\
 ;БГРнРl
 
 ld l,GEO_WaraiA1,23
 
 ;БuВ†ВЅВЌВЌВЌВЌВЌБB@В»ВйВўВ«ВЋБB@В±ВкВ»ВзБAС°ВзВкВƒНҐВйВ±В∆ВЌВ»ВҐВЊВлВ§ВЋБBБv\
-`"јха-ха-ха.`@` ѕон€тно.`@` — этим ему будет не о чем беспокоитьс€." `\
+`"Ahahaha.`@` I see.`@` If you give him this, he won't have to worry." `\
 ;БГПчО°
 
 cl r,23
 ld r,JES_TohohoA2,24
 
 ;БuВµВ©ВµБAЙ∆УdРїХiВ»ВЁВ…РFБXВ†ВйВЇБcБB@ПЧВћОДВ…ВбБAВ«ВкВ™В«В§НВРЂФ\В»ВћВ©В≥ВЅВѕВиВЊВЇБBБv@
-`"Ќо есть столько разновидностей...`@` я, девушка, пон€ти€ не имею, кака€ лучше." `\
+`"But when it comes to consumer electronics, there's a ton of variety, right?..`@` Someone like me has no idea which ones are the most efficient." `\
 ;БГОйОuНБ
 
 ld l,GEO_WaraiA2,80
 
 ;БuВ№ВЯБAТlТiВ…ФдЧбВµВƒРЂФ\В™НВВҐВ∆ОvВЅВƒК‘ИбВҐВ»ВҐВЊВлВ§ВЋБB@ПЧРЂВћЙїПѕХiВаУѓВґВ≈ВµВеБHБv\
-`"Ќу, € считаю, что эффективность обычно пропорциональна стоимости.`@` “о же самое ведь можно сказать и о женской косметике?" `\
+`"Well, I believe efficiency is usually proportional to the cost.`@` It's the same for cosmetics, right?" `\
 ;БГПчО°
 
 ld r,JES_AtyaA3,80
 
 ;БuВсВ»В±ВљВЋБ[ВЇБB@ТlТiВЊВѓВґВбВ»В≠БAГББ[ГJБ[ВвСКРЂВаВ†ВйВµБB@БcБcИјВҐВћВ™ФІВ…НЗВнВ»ВҐВ∆БAВ®ФІВаНаХzВаГLГcВҐВнВѓВЊВЇБBБv\
-`"¬овсе нет.`@` ѕомимо стоимости, нужно обращать внимание на производител€ и совместимость.`@`  ...ƒешЄвый материал не может быть хорош дл€ кожи, и он реально т€жЄл как дл€ неЄ, так и дл€ кошелька." `\
+`"Not at all, seriously.`@` It's not just about cost, you have to pay attention to the maker and compatibility, too.`@` Cheap stuff might not be good for your skin, so it's really tough for both your skin and your wallet." `\
 ;БГОйОuНБ
 
 ld c,BUT_WaraiA2,24
 
 ;БuГNГ\РeХГВћГqГQВ»ВЉБAО≈К†ВиЛ@В≈ВњВеВ§В«ВҐВҐВЊВлВ∆ОvВҐВљВҐВ∆В±ВЊВ™БAВ№ВЯБAН°УъВЌУЅХ ВЊБB@ВљВ№В…ВЌЛќШJВрКіО”ВµВƒБAВҐВЅВњВеБAВ№В∆ВаВ»ВаВћВрФГВЅВƒВвВйВЇБBБv\
-`"“ут € бы сказал, что бороду старого козла можно постричь и газонокосилкой, но, ну, сегодн€шний день ведь особенный.`@` »ногда всЄ же можно благодарить его за труд и покупать серьЄзную штуку." `\
+`"This is usually where I'd say that a lawnmower would be more than enough to take care of the old bastard's beard, but, well, today is special.`@` Once in awhile I can show some gratitude for his work and buy something serious." `\
 ;БГРнРl
 
 cl c,0
 bg black,5
 
 ;Б@РнРlВаРFБXВ∆ФYВсВЊМЛЙ БAП≠ВµМ√ВҐМ^ВћБAУWО¶ХiНЁМ…МјВиВрМ©В¬ВѓБAФдКrУIИјВ≠НwУьВЈВйВ±В∆В…РђМчВЈВйБB\
-` ћногое обдумав, Ѕаттлер нашЄл модель, малость устаревшую по дисплею, и преуспел в относительно дешЄвой покупке.`\
+` After worrying about various things, Battler found a model that's just slightly outdated on display and succeeded in a relatively cheap purchase.`\
 
 bg "bmp\background\sbook\Shop_1a.bmp",22
 
 ;Б@В±ВкВ≈БAРнРlВаОйОuНБВаБAЦ≥ОЦВ…В®ХГВ≥ВсВ÷ВћУъН†ВћКіО”ВћГvГМГ[ГУГgВрОиВ…УьВкВйВ±В∆В™ПoЧИВљБB@
-` “ак ƒжессика и Ѕаттлер без проблем купили подарки повседневной благодарности отцам. `\
+` With that, Jessica and Battler had been able to obtain gifts of everyday gratitude for their fathers without incident. `\
 
 ;Б@УсРlВЌВ≠ВЈВЃВЅВљВїВ§В…П∆ВкНЗВ§В™БAВљВ№В…ВЌВ±В§ВҐВ§ФГВҐХ®ВаВҐВҐВ©В»В∆БAФчПќВсВ≈ВҐВљБcБcБB\
-` »м стало неловко, и они улыбнулись, дума€, что врем€ от времени можно пройтись так по магазинам... `\
+` The two felt a bit shy, and smiled, thinking that it might be alright to go shopping like this once in awhile... `\
 
 ;БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БE
 
@@ -12124,13 +12124,13 @@ BGM1 70
 ld c,BEA_FukigenA2,22
 
 ;БuВ®ОtП†ЧlВжБ[БB@ВїВћШbБAВ№В≥В©ВїВкВ≈БAВїВкВЉВкВ™РeВ…УnВµВƒБAГjГRГjГRПќКзВ≈ВяВ≈ВљВµВяВ≈ВљВµВ≈ПIВнВйВсВґВбВЋВ•ВжВ»Б[БHБv\
-`"Ќаставница-а-а.`@` “олько не говорите, что в этой истории все просто дадут родител€м подарки и будут улыбатьс€ счастливому концу?" `\
+`"Teacheeer.`@` Don't tell me that this story's just gonna have everyone handing their presents over to their parents and smiling to a happy ending?" `\
 ;БГГxГAГg
 
 ld r,WAL_KomaruA2,24
 
 ;БuВїБAВїВ§В≈ВЈВ™БAЙљВ©ХsЦЮВ≈ВаБcБH@Б@ОqЛЯВљВњВ™УъН†ВћХГРeВћЛќШJВ…КіО”ВЈВйБAСfР∞ВзВµВҐВ®ШbВ≈ВЌВ†ВиВ№ВєВсВ©БcБcБBБv\
-`"ƒ-да, так и есть. “ы чем-то недовольна?..`@` –азве не прекрасна€ истори€ о том, как дети благодар€т отцов за ежедневный труд?.." `\
+`"Y-Yes, that is the case. Are you dissatisfied with something?..`@` Don't you think it's a wonderful story about the children thanking their fathers for their everyday work?.." `\
 ;БГГПГЛГMГКГA
 
 bg rose_3cp,0
@@ -12138,18 +12138,18 @@ mov %MAR_isyou,2
 ld l,MAR_OdorokiA1,24
 
 ;БuВ§Б[БB@Р^ЧҐШ±ВЌЦ ФТВҐВжБHБv@
-`"”-у.`@` Ѕеато, по-моему, интересно." `\
+`"Uu.`@` Beato, Maria thinks it's interesting." `\
 ;БГЦВПЧР^ЧҐШ±
 
 ld r,BEA_AkuwaraiA2,23
 
 ;БuГ_ГБГ_ГББI/
-`"Ќу нет, нет! `/
+`"No way, no way! `/
 
 se1 37
 
 ;@Б@В±ВсВ»ВћВ¬В№ВсВЋВ•ВЅВƒБ[БB@В»ВЯБAГНГmГEГFБAВ–ВЋВиВ™ВЋВ•ВжВ»Г@БHБv\
-`√оворю же тебе, так слишком скучно.`@` ƒа, –онове? –азве не должно быть некого поворота?" `\
+`I'm telling you, that's too boring.`@` Right, Ronove? Shouldn't there be some kind of twist?" `\
 ;БГГxГAГg
 
 se1 52
@@ -12157,51 +12157,51 @@ ld c,RON_WaraiA1,0
 print 99,2000,"breakup.dll/ulb"
 
 ;БuВ’ВЅВ≠ВЅВ≠БcБI@Б@В№ВЯБAГ}ГКГAВ≥В№ВЌВ∆ВаВ©В≠БAВ–ВЋВ≠ВкВљВ®ПмЧlВЌБAВ–ВЋВ≠ВкВљГIГ`ВрВ®Ц]ВЁВ≈В≤ВіВҐВ№ВµВеВ§В©ВзБBБv\
-`"ѕу-ку-ку!..`@` ƒл€ госпожи ћарии этого достаточно, но наша испорченна€ миледи желает испорченной концовки." `\
+`"Pukuku!..`@` Well, that may be enough for Lady MARIA, but our twisted Milady desires a twisted ending." `\
 ;БГГНГmГEГF
 bg rose_3bp,0
 ld l,WAL_IkariA2,23
 
 ;БuВ±БAВ±ВзБcБI@Б@РlВ™Г}ГКГAЛ®ВћВљВяВ…БAР^Ц ЦЏВ»БAВљВяВ…В»ВйВ®ШbВрХЈВ©ВєВƒВҐВйВ∆ВҐВ§ВћВ…ВЅБBБv\
-`"Ё-эй!..`@` я лишь искренне пытаюсь ради леди ћарии сделать историю интересной." `\
+`"H-Hey!..`@` I'm just seriously trying to make the story interesting for Lady MARIA's sake." `\
 ;БГГПГЛГMГКГA
 
 ;Б@ГПГЛГMГКГAВЌБAЧ«ВҐШbВрХЈВ©ВєВƒВҐВйВЌВЄВЊВЅВљБB@
-` ¬ергили€ рассказывала добрую историю. `\
+` Virgilia was supposed to be telling a good story. `\
 
 
 ld r,BEA_AkuwaraiA3,24
 
 ;Б@ВµВ©ВµБAВ±ВкИ»ПгБAЙљВћГIГ`ВаВ»ВҐВ±В∆ВрМеВЅВљГxГAГgВ™БAСёЛьВїВ§В…ГSГlПoВЈБB\
-` Ќо Ѕеато, осознавшей, что в истории не будет сюрпризов, стало скучно, и она заворчала. `\
+` However, Beato, who realized there were no surprises to come in the tale, grew bored and grumbled. `\
 
 ;Б@ГНГmГEГFВЌВїВкВрВ∆ВЅВ≠В…Ч\М©ВµВƒВҐВљВзВµВ≠БAОиМ≥ВћЙщТЖОЮМvВрКmФFВµВ»В™ВзБAВ≠ВЈВ≠ВЈВ∆ПќВЅВƒВҐВљБB@
-` –онове предвидел такую реакцию и усмехнулс€, что-то подтвердив по карманным часам. `\
+` Ronove seemed as though he had foreseen that reaction, and chuckled while confirming something with his pocket watch. `\
 
 ;Б@БcБcВњВ»ВЁВ…БAГНГmГEГFВ™РSВћТЖВ≈УqВѓВƒВҐВљОЮК‘ВжВиБAЦсВPХ™БAГxГAГgВ™СёЛьВµПoВЈВћВ™СБВ©ВЅВљБB\
-` ...ќказываетс€, Ѕеато заскучала на минуту раньше, чем он ожидал. `\
+` ...It turned out that Beato had grown bored about one minute sooner than the time Ronove had wagered upon in his mind. `\
 ld r,BEA_futekiA2,80
 
 ;БuСеСћБAВїВкВ≈ГIГ`В™БAВЁВсВ»ГjГRГjГRВµВƒКyВµВ≠ЙяВ≤ВµВ№ВµВљВ∆В≥БAВяВ≈ВљВµВяВ≈ВљВµВ≈ВЌБAВ†В№ВиВ…В–ВЋВиВ™В»ВҐБB@/
-`" ому нужна концовка, в которой все просто улыбаютс€ и живут долго и счастливо? `@/
+`"An ending like that, where everyone just smiles and lives happily ever after, doesn't have any punch to it. `\
 se1 4
 ld r,BEA_AkuwaraiA5,80
 
 ;!s0Ц ФТВ≠В»ВҐБIБiГLГКБIБj@!sdБ@П®ВћГQБ[ГАВрМ©ВƒВЂВƒЦЏВћФмВ¶ВљКѕМАВћЦВПЧПФМЂВЌБAВ±В±В≈П®В™УoПкВµВƒБAВ–В∆НђВЇВµВƒВ≠ВкВйВ±В∆ВрКъС“ВµВƒВҐВйВнБB@В»ВЯБAГ}ГКГAБH@Б@В»ВЯБAГНГmГEГFБHБv\
-!s0`Ќеинтересно!`@!sd` ¬се театральные ведьмы, наблюдавшие за моей игрой, ждут, что € по€влюсь и посею хаос!`@` ѕравда, ћари€?`@` ƒа, –онове?" `\
+!s0`It's not interesting! `@!sd` All of the theater-going witches who have been watching my game are probably waiting for me to appear and stir things up!`@` Right, MARIA?`@` Right, Ronove?" `\
 ;БГГxГAГg
 
 bg rose_3cp,0
 ld c,RON_akuwaraiA1,24
 
 ;БuВ≥ВЯВƒБAВҐВ©В™В≈В≤ВіВҐВ№ВµВеВ§БB@В®ПмЧlВ™СљХ™БAВ®РSВћЦ]ВёВ№В№В…В≥ВкВйВћВ™БAИкФ‘Ч«ВҐМЛЙ В…В»ВиВ№ВµВеВ§В©ВзБBБv@
-`"„то ж, как знать.`@` ѕожалуй, миледи сможет добитьс€ наилучших результатов." `\
+`"Well, I wonder.`@` Milady doing as she wishes will probably yield the best results." `\
 ;БГГНГmГEГF
 
 ld r,MAR_WaraiA2,24
 
 ;БuВ§Б[БIБI@Б@Р^ЧҐШ±БAГxГAГgВћВ®ШbВаХЈВЂВљВҐБI@Б@ХЈВ©ВєВƒХЈВ©ВєВƒБIБv\
-`"”-у!`@` ’очу послушать историю Ѕеато!`@` –асскажи, расскажи!" `\
+`"Uu!`@` Maria wants to hear Beato's story!`@` Let me hear, let me hear!" `\
 ;БГЦВПЧР^ЧҐШ±
 
 
@@ -12209,34 +12209,34 @@ bg rose_3ap,0
 ld l,BEA_AkuwaraiA2,23
 
 ;БuВ≠ВЅВ≠В≠В≠В≠БI@Б@ВїВ§ВҐВ§ВнВѓВЊБAВ®ОtП†ЧlБI@Б@П≠ВµП®В™ШbВрВҐВґВ≠ВЅВƒВвВлВ§БBБv@
-`"*хе-хе*хе-хе*хе-хе*!`@` “ак-то, наставница!`@` ѕовожусь-ка € с этой историей." `\
+`"*cackle, cackle, cackle*!`@` That's how it is, Teacher!`@` I shall fiddle with this story a bit." `\
 ;БГГxГAГg
 
 ld c,WAL_OdorokiA1,66
 
 ;!s0БuГ_БAГ_ГБВ≈ВЈВжБcБIБI/
-!s0`"Ќ-нет!.. `/
+!s0`"N-no!.. `/
 se1 48
 quakex 2,200
 
 ;!sd@Б@В±ВкВЌЛќШJКіО”ВћУъВ…БAРeВ…КіО”ВЈВйЛCОЭВњВрХ`ВҐВљБAгYЧнВ»В®ШbВ»ВсВ≈ВЈБcБI@Б@ХѕВ»ТГЙїВµВЌВµВњВбГ_ГБВ≈ВЈБcБIБv\
-!sd@`Ёта чудесна€ истори€ изображает благодарность детей родител€м на ƒень благодарности!..`@` Ќе порти еЄ!.." `\
+!sd@`This beautiful story depicts the children's feelings of gratitude towards their parents on Thanksgiving Day!..`@` Don't ruin it!.." `\
 ;БГГПГЛГMГКГA
 
 ld l,BEA_AkuwaraiA1,80
 
 ;БuВ№ВЯВ№ВЯБAВїВ§МШВҐВ±В∆МЊВнВЄВ…В≥Г@БB@П®В™ВњВеВЅВ“ВиВ–ВЋВйВЊВѓВЊВ©ВзГ@БBБv\
-`"ƒа ладно, не тревожьтесь так.`@` я просто еЄ слегка закручу." `\
+`"Ah, don't worry so much.`@` I'm going to twist it,`@` but juuuuust a little." `\
 ;БГГxГAГg
 
 cl c,0
 ld r,WAL_FumanA1,23
 
 ;БuВаБAБcБcВаВ§БAОdХыВ™В†ВиВ№ВєВсВЋБB@БcП≠ВµВЊВѓВ≈ВЈВжБH@Б@ВљВЊВµБAГIГ`ВЌХKВЄБAЧ«ВҐВаВћВ…ВЈВйВсВ≈ВЈВжБH@/
-`"Ћ-ладно, ничего не поделаешь.`@`  ...“олько немного.`@` Ќо конец всЄ равно должен быть счастливым, хорошо? `@/
+`"F-fine, I guess I can't help it.`@` ...But just a little.`@` And there must still be a happy ending, okay? `@/
 
 ;Б@Ц≥ОЦВ…ГvГМГ[ГУГgВрОиУnВµВƒБAНKВєВ…В»ВкВ№ВµВљВ∆БAВїВ§ВҐВ§ГIГ`В…ВµВ»ВҐВ∆У{ВиВ№ВЈВ©ВзВЋБHБIБv\
-`≈сли все не дадут свои подарки и не обрадуютс€, € рассержусь, пон€ла?!" `\
+`If it does not end with everyone safely handing over their presents and becoming happy, I will be angry, understood?!" `\
 ;БГГПГЛГMГКГA
 
 cl l,0
@@ -12244,10 +12244,10 @@ ld c,BEA_FutekiA1,23
 ld c,BEA_AkuwaraiA4,80
 
 ;БuВ”ВЅВ”ВЅВ”ВЅВ”ВЅВ”БIБI@Б@В®ОtП†ЧlВћЛЦЙ¬В™ПoВљВЉВ£БI@/
-`"’е-хе-хе-хе-хех!`@` Ќаставница разрешила! `@/
+`"Fufufufufu!`@` I have obtained Teacher's permission! `@/
 
 ;Б@ВїВкВ≈ВЌШMВйВЉБAВ±ВћХ®МкБAВ±ВћГQБ[ГАФ’БI@Б@В»ВЯВ…БAСеВЂВ≠С~ВЂЧРВµВЌВєВ БB@ВўВсВћВњВеВЅВ“ВиБAФчПќВ№ВµВҐХѕЙїВрЙЅВ¶ВйВЊВѓВжБBБv\
-`“огда поиграюсь с этой историей, с этой игровой доской!`@` Ќе волнуйтесь, € не стану слишком уж еЄ искажать.`@` ѕросто внесу при€тное изменение." `\
+`Then I shall tamper with it, this story, this game board!`@` Don't worry, I won't disturb it too much.`@` I will just make a pleasant little alteration." `\
 ;БГГxГAГg
 
 ld r,WAL_KomaruA1,24
@@ -12256,9 +12256,9 @@ ld r,WAL_KomaruA1,24
 ;!d500ВїБAВїВћБA/
 ;!d600Л≥ИзВ…ИЂВҐВаВћВ…УьВкС÷В¶ВƒВµВ№В®В§В∆В≈ВаМЊВ§ВћВ≈ВµВеВ§ВЅБBБv\
 
-`"ѕри€тное изменение?..`@`  акое?`@` ’-хочешь подменить подарки на странные, жуткие предметы `/
-!d500`и-или `/
-!d600`на что-то, что научит детей плохим вещам?" `\
+`"A 'pleasant alteration'?..`@` What kind?`@` A-are you planning to switch the presents with some odd, grotesque objects `/
+!d500`o-or `/
+!d600`something that will teach bad things to children??" `\
 ;БГГПГЛГMГКГA
 
 cl c,0
@@ -12267,16 +12267,16 @@ ld l,MAR_fukigenA1,24
 ld l,MAR_OdorokiA1,80
 
 ;БuВ§Б[БH@/
-`"”-у?`@/
+`"Uu?`@/
 se1 47
 ;Б@Л≥ИзВ…ИЂВҐВаВћВЅВƒБAЙљБHБv@
-` „то научит плохим вещам?" `\
+` What's going to teach bad things?" `\
 ;БГЦВПЧР^ЧҐШ±
 
 ld r,BEA_AkuwaraiA5,64
 
 ;БuЙљВЊВлВ§В»ВЯБ`В®ОtП†В≥В№Г@В†В†ВЯВ†В†ВЯБHБHБHБv\
-`"ƒа, что же, наставница-а-а-а???" `\
+`"I wonder what~ Teacheeeeer!?" `\
 ;БГГxГAГg
 
 bg rose_3bp,0
@@ -12284,16 +12284,16 @@ ld c,WAL_KomaruA2,23
 ld c,WAL_OdorokiA1,80
 
 ;БuВїБAВїВћГbБAБcБcВ±БAОqЛЯВ…ВЌВњВеВЅВ∆СБВҐБAЦйВћВ®УєЛпВ∆В©В≈ВЈБcБIБI@/
-`"Ё-э... Ќ-ночные инструменты, которые дл€ детей неуместны!.. `@/
+`"U-um... N-nighttime tools... that would be inappropriate for children!.. `@/
 
 ;Б@В±ВћНмХiВЌСSФNЧоВ»ВсВ≈ВЈВжБHБI/
-`Ёта брошюра дл€ всех возрастов! `/
+`This booklet is for all ages! `/
 
 se1 12
 quakey 2,200
 
 ;@Б@В†В»ВљВћНlВ¶ВїВ§В»В±В∆ВЌВЈВ≈В…В®М©Т ВµВ≈ВЈБIБv\
-@`я раскусила твой план!"`\
+@`I have already seen through what you're planning!"`\
 ;БГГПГЛГMГКГA
 
 bg rose_3ap,24
@@ -12301,56 +12301,56 @@ ld l,BEA_AkuwaraiA2,23
 ld l,BEA_waraiA1,80
 SE1 37
 ;БuВ≠ВЅВ–ВЅВ–ВЅВ–В°ВҐВҐБ`БAЦйВћВ®УєЛпВЅВƒГiГ@ГjВ©В»ВЯБ`БHБI@/
-`" у-хи-хи-хи-и! » что вы имеете в виду под ночными инструментами? `@/
+`"Kuhihihiii~ I wonder what you mean by nighttime tools? `@/
 
 
 ;Б@ГmГУГmГУБAИјРSВєВжВ®ОtП†ЧlГ@БB@П®ВЌВ±В§М©В¶ВƒВаВаВ§БAЙЇХiВЌС≤Л∆ВµВљВћВЊБB@ВїВћВжВ§В»Ц≥РИВЌВєВ ВЅВƒБcБIБv@
-`Ќет-нет, расслабьтесь, наставница.`@` „то бы вы ни думали, € отказалась от таких пошлостей.`@` Ќичего столь хамского!.." `\
+`No, no, relax, Teacher.`@` Even if you wouldn't think it, I have graduated from such vulgarity.`@` I will not do something so boorish!.." `\
 ;БГГxГAГg
 
 ld r,WAL_KomaruA2,24
 
 ;БuВ≈БAВ≈ВЌБAЙљВћИЂЛYВрВЈВйВ¬ВаВиВ≈ВЈВ©ВЅБBБv\
-`"“-тогда какой трюк ты планируешь?" `\
+`"T-then, what kind of trick are you trying to pull?" `\
 ;БГГПГЛГMГКГA
 
 ld l,BEA_DefA2,80
 ;БuОжВйВ…СЂВзВ ГCГ^ГYГЙВжБB@ВSРlВћПАФхВµВљГvГМГ[ГУГgВ™БAВњВеВЅВ∆ВµВљЛCВ№ВЃВкОЦМћВ≈БAУьВкС÷ВнВЅВƒВµВ№В§ВЊВѓВЊБB@В±ВкВ»ВзЦвСиВ»ВҐВ≈В†ВлВ§БHБv@
-`"Ќичтожную шалость.`@` ѕо странной случайности подарки той четвЄрки помен€ютс€ друг с другом.`@` “ак сойдЄт?" `\
+`"Just a tiny little prank.`@` In a fickle accident, the presents the four have prepared will be switched up.`@` There is no problem with that, is there?" `\
 ;БГГxГAГg
 
 ld r,WAL_KomaruA1,80
 
 ;БuВљБAБcБcКmВ©В…БAВїВкВ≠ВзВҐВ»ВзБAФчПќВ№ВµВҐВ≈НѕВЁВ№ВЈВЋБcБBБv\
-`"ƒ-да, так истори€ ещЄ может закончитьс€ при€тно..." `\
+`"Y-yes, that would still allow the story to end pleasantly..." `\
 ;БГГПГЛГMГКГA
 
 bg rose_3bp,0
 ld l,MAR_NiyariA2,23
 
 ;БuВ§Б[БB@Ц ФТВҐШbВ…В»ВйБHБv@
-`"”-у.`@` »нтересна€ будет истори€?" `\
+`"Uu.`@` Will the story be interesting?" `\
 ;БГЦВПЧР^ЧҐШ±
 
 
 ld r,BEA_FutekiA2,24
 
 ;БuВ»ВйВ∆ВаБB@С±ВЂВЌП®В™ШbВЈВЉБB@ХЈВ≠В™ВжВҐГ}ГКГAБIБv\
-`" онечно.`@` я продолжу.`@` —лушай внимательно, ћари€!"  `\
+`"Of course it will.`@` I shall continue the story now.`@` Listen closely, MARIA!"  `\
 ;БГГxГAГg
 
 bg rose_1ep,25
 
 ;Б@ВSРlВћГvГМГ[ГУГgВ…ХsРRВ»У_ВЌВ»ВҐБB@
-` ¬ подарках кузенов не было ничего странного. `\
+` There was nothing unusual about the four cousins' presents. `\
 
 ;Б@К‘ИбВЅВљРlК‘В…УЌВѓВќБAП≠БXВћНђЧРВЌВ†ВйВЊВлВ§В™БAВїВкВЌВїВкВ≈ФчПќВ№ВµВҐБAЛxУъВћВњВеВЅВ∆ВµВљГnГvГjГУГOВ≈НѕВёВЌВЄВЊБcБB\
-`  огда они попадут не к тем люд€м, возникнет путаница, но это будет не более чем маленька€ случайность в праздник... `\
+` When they reached the wrong people, there would be a bit of confusion, but it wouldn't be anything more than a charming little happenstance on a holiday... `\
 ;Б@ГПГЛГMГКГAВЌБAВїВкИ»ПгВћГCГ^ГYГЙВЌЦ{УЦВ…ВµВ»ВҐВсВ≈ВµВеВ§ВЋВ∆ПdВЋВƒФOВрЙЯВµБA@ВїВкВ…ГxГAГgВ™ихВЂХ‘ВµВљВћВ≈БAХ®МкВћГQБ[ГАФ’ВрПчВйВ±В∆В…ВµВљБcБcБB@
-` ¬ергили€ удостоверилась, что та не собираетс€ делать ничего более, и, когда Ѕеато кивнула в ответ, игрова€ доска перешла к ней... `\
+` Virgilia checked to confirm that she was not planning to do anything more than that, and when Beato nodded in return, the game board was turned over to her... `\
 
 ;Б@Р^ЧҐШ±ВЌБAВнВ≠ВнВ≠ВµВ»В™ВзБAС±ВЂВрВєВ™ВёБB\
-` ћари€ нетерпеливо травила еЄ продолжить. `\
+` Maria eagerly badgered her for a continuation. `\
 
 bg black,22
 bg rose_3bp,0
@@ -12358,7 +12358,7 @@ ld c,BEA_AkuwaraiA1,22
 ld c,BEA_AkuwaraiA3,80
 
 ;БuВїВкВ≈ВЌБAЙ©ЛаВћЦВПЧБAГxГAГgГКБ[Г`ГFВ…ВжВйБAЛќШJКіО”ВћУъВћХ®МкБB@МгХ“ГXГ^Б[ГgВІБIБv\
-`"„то ж, вот истори€ ƒн€ благодарности по «олотой ведьме Ѕеатриче.`@` ƒа начнЄтс€ втора€ половина!"`\
+`"Well then, here is the Thanksgiving Day story according to the Golden Witch Beatrice.`@` Let the second half begin!"`\
 ;БГГxГAГg
 
 textoff
@@ -12383,62 +12383,62 @@ BGM1 64
 
 ld r,GEO_DefA1,24
 ;БuХкВ≥ВсВ…ВЌВ±ВкВрБB@ВҐВ¬ВаЙ∆С∞ВћВљВяВ…В†ВиВ™В∆В§БBБv\
-`"Ёто тебе, мама.`@` —пасибо за всЄ, что ты делаешь дл€ нашей семьи." `\
+`"This is for you, Mother.`@` Thanks for everything you do for our family." `\
 ;БГПчО°
 
 ld l,EVA_WaraiA1,23
 
 ;БuВ†ВиВ™В∆В§БB@Н°ФNВЌЙљВ©ВµВзБB@В†В»ВљВЌЙљВЊВЅВљВћБHБv@
-`"Ѕлагодарю.`@` „то на этот год?`@` ј ты что получил, дорогой?" `\
+`"Thank you.`@` I wonder what it is this year?`@` What did you get, dear?" `\
 ;БГКGЙH
 
 cl r,23
 ld r,HID_WaraiA2,24
 
 ;БuВнВµВЌНаХzВЊВЅВљБI@Б@В®В®ВЂВ…В»ВЯБIБv\
-`"Ѕумажник!`@` Ѕольшой!" `\
+`"God'a wallet!`@` Big'un!" `\
 ;БГПGЛg
 
 ld l,EVA_HohoemiA1,80
 
 ;БuВ†ВзБAГJГbГRГCГCВґВбВ»ВҐБB@СfУGВ»В®НаХzВЋБB@ПчО°В™СIВсВЊВћБHБv@
-`"Ќадо же, как стильно.`@` «амечательный бумажник.`@` “ы сам выбирал, ƒжордж?" `\
+`"My, how stylish.`@` What a wonderful wallet.`@` Did you pick it out yourself, George?" `\
 ;БГКGЙH
 
 ld c,GEO_HohoemiA1,24
 
 ;БuВ§ВсБB@ХГВ≥ВсВЌОбБXВµВҐВ©ВзБAП≠ВµОбО“МьВѓВ≈ВаВҐВҐВ©В∆ОvВЅВƒБBН°БAЧђНsВћГ}ГWГbГNГeБ[ГvОЃВ≥БBБv\
-`"ƒа.`@` ќтец ещЄ не так стар, и € подумал, что можно купить молодЄжный. Ёто векро, нынешн€€ мода."`\
+`"Yeah.`@` Father is pretty youthful, so I thought one made for the younger crowd might be good. It's the Velcro type that's in style right now."`\
 ;БГПчО°
 
 ld r,HID_WaraiA1,80
 
 ;БuВнВЅВЌВЅВЌБI@Б@В±ВзБAВнВµВаНаХzВ…ХЙВѓВсВжВ§В…ВєВсВ∆В»ВЯБI@Б@КGЙHВЌЙљВЊВЅВљВсВвБBБv\
-`"¬а-ха-ха!`@` „то ж, € не потер€ю свой бумажник!`@` „то получила ты, ≈ва?" `\
+`"Wahaha!`@` Well, I won't lose ta my wallet!`@` What did ya get, Eva?" `\
 ;БГПGЛg
 
 ld l,EVA_DefA1,80
 
 ;БuВ±ВкВ©ВзКJВѓВйВнБB@ЙљВ©ВµВзБAКyВµВЁВЊВнБBБv@
-`"—ейчас открою.`@` Ќе терпитс€ увидеть." `\
+`"I'm going to open it now.`@` I'm looking forward to seeing what it is." `\
 ;БГКGЙH
 
 ld c,GEO_WaraiA1,80
 
 ;БuСдПКВ≈КJВѓВƒВЁВƒБB@ВЂВЅВ∆ЧњЧЭВћЦрВ…ЧІВ¬В©ВзБBБv\
-`"ќткрой на кухне.`@` ќб€зательно пригодитс€ в готовке." `\
+`"Try opening it in the kitchen.`@` I'm sure it'll be useful for your cooking." `\
 ;БГПчО°
 
 ld l,EVA_WaraiA1,80
 
 ;БuВ¶Б[БH@Б@В≠ВЈВ≠ВЈБAЙљВ©ВµВзБB@ВаВ§ОGРЖВ™ОѕВ¶ВљН†ВЋБB@ВґВбВ†БAСдПКВ≈В±ВЅВїВиКJВѓВƒВЁВйВнВЋБBБv\
-`"’м-м?`@` *хи-хи*хи-хи*, что же там.`@` Ќаверное, сол€нка уже готова.`@` ѕойду, тихо открою на кухне." `\
+`"Hmm?`@` *giggle, giggle* I wonder what it is.`@` I wonder if the hodgepodge is ready yet.`@` Well then, I'll go quitely open it in the kitchen." `\
 ;БГКGЙH
 
 cl l,24
 
 ;Б@Н°УъВћКGЙHВћИкЙ∆ВЌБAЙ∆С∞В≈ТЗЧ«В≠В®УзБB@ВїВµВƒВ®ВҐВµВ≠РHВ„ВљМгВЌБAЧСВ∆В≤Ф—ВрЧОВ∆ВµВƒБAОGРЖВЊВЅВљБB\
-` “ем днЄм дома у ≈вы был семейный праздник.`@` ѕосле всех вкусностей их ждала сол€нка. `\
+` At Eva's house that day, the family was having a friendly feast together.`@` And after eating all the delicious food, there was a hodgepodge prepared for them. `\
 
 bg black,23
 bg "bmp\background\sbook\EVA_h2a.bmp",0
@@ -12447,8 +12447,8 @@ ld c,EVA_DefA1,23
 ;Б@КGЙHВЌО©Х™ВћГvГМГ[ГУГgВрОЭВЅВƒБAСдПКВ÷НsВ≠БB@
 ;Б@ВїВµВƒВўВ≠ВўВ≠ВµВ»В™ВзБAТЪФJВ…ХпВЁОЖВрКJВѓВљБcБcБB\
 
-` ≈ва вз€ла свой подарок и пошла на кухню. `\
-` ѕосмеива€сь себе под нос, она аккуратно сн€ла обЄрточную бумагу... `\
+` Eva took her present and went to the kitchen. `\
+` And while smiling to herself, she carefully removed the wrapping paper... `\
 
 textoff
 SE1 52
@@ -12459,7 +12459,7 @@ mset
 ld r,BEA_akuwaraiA2,22
 
 ;БuР\ВµЦуВ»ВҐВ»Г@БAКGЙHГ@Б`БI@Б@Ц{УЦВЌВїВ±В©ВзБAНВЛЙХпТЪВ™ПoВƒВ≠ВйВЌВЄВ»ВћВЊВ™БB@ВїВћВ№В№В≈ВЌБAВ†Б`ВсБAВ†ВиВ™В∆Б`БAВ±ВћХпТЪВ≈В±ВкВ©ВзВаВ®ЧњЧЭВрВ™ВсВќВЅВњВбВ§ВнВЋБ`БЩБAВ∆ВµВ©В»ВзВсВћВ≈В»БB@В®СOВ…ВЌБAОйОuНБВ©ВзВћС°ВиХ®ВрГvГМГ[ГУГgВЊБIБv\
-`"”ж прости, ≈ва!`@` Ќа самом деле ты должна была получить первоклассный кухонный нож.`@` Ќо так ты бы сказала Џ00171ќ, спасибо, теперь € буду использовать этот нож в приготовлении пищиЏ09734 Џ00187, и на этом всЄ бы закончилось.`@` “ак что ты получишь подарок ƒжессики!" `\
+`"My apologies, Eva~!`@` This is where you are actually supposed to get a high class kitchen knife.`@` But with that setup, it would end with nothing more than an 'Ah~ Thank you~ I'll use this knife to work hard on my cooking from now on~'`@` So you shall receive Jessica's present!" `\
 ;БГГxГAГg
 
 textoff
@@ -12476,51 +12476,51 @@ print 99,2000,"whirl.dll/"
 ld c,EVA_WaraiA1,80
 
 ;БuВ†ВзБcБcБB@БcБcБcВ÷В•БcБcБB@ВҐВҐВґВбВ»ВҐБBБv\
-`"A...`@` ’м-м...`@` Ќедурно." `\
+`"Ah...`@` Hmm...`@` Not bad?.." `\
 ;БГКGЙH
 
 ;Б@ТЖВ©ВзПoВƒВЂВљВћВЌБAБcБcОйОuНБВ™С†ЙPВћВљВяВ…СIВсВЊБAВ«ВƒВзБB@
-` ¬нутри было...м€гкое кимоно, которое ƒжессика купила  рауссу. `\
+` What she found inside...`@` was the padded kimono Jessica had chosen for Krauss. `\
 
 ;Б@РFВЌЧОВњТЕВҐВƒВҐВƒБAИјВЅВџВїВ§В≈ВЌВ†ВйВ™БAЙ∆В≈ТЕВйХ™В…ВЌП[Х™В»ГZГУГXВЊБB\
-` ’олодного цвета, и выгл€дело дЄшево, но дл€ дома самое оно. `\
+` It was of a cold colour and it looked a little cheap, but it was perfectly sensible as something to wear at home. `\
 ;Б@БcБcВїВћПђВ≥ВҐГvГМГ[ГУГgГ{ГbГNГXВ©ВзБAВ«В§ВвВЅВƒВ±ВсВ»В©В≥ВќВйВаВћВ™ПoВƒВЂВљВвВзБB@БcВїВћХ”ВЌБAХsОvЛcЦВЦ@В≈В§ВвВёВвВ…В≥ВкВƒВҐВйБB\
-` ... ак из такой маленькой подарочной коробки по€вилось громоздкое кимоно?`@` ...Ѕлагодар€ таинственной магии этот вопрос размылс€. `\
+` ...How had something so bulky had come from such a small gift box?`@` Eva paid no attention to that issue thanks to mysterious magic. `\
 ld c,EVA_hohoemiA1,80
 
 ;БuВ±ВкВ©ВзВћЛGРяВ…ВЌВ“ВЅВљВиВґВбВ»ВҐБB@БcБcВ†ВзВвВЊБAГ~ГgГУВ∆РFВ™В®СµВҐБB@В≠ВЈБAПчО°ВЅВљВзБAВ†ВћРlВ…ОЧВƒГZГУГXВ™ВҐВҐВсВЊВ©ВзБфБv\
-`"»деально дл€ предсто€щего сезона.`@`  ...ќй, даже цвет сочетаетс€ с моими варежками.`@` *хи-хи*. ” ƒжорджа такой хороший вкусЏ09834 " `\
+`"This is just perfect for the coming season.`@` ...Oh my, the color even matches my mittens.`@` *giggle* Oh George, you've got such good taste. " `\
 ;БГКGЙH
 
 bg black,24
 bg "bmp\background\sbook\EVA_h1a.bmp",24
 
 ;Б@В∆ВҐВ§ВнВѓВ≈БB@
-` » так...`\
+` And so...`\
 
 ;Б@КGЙHВЌЛфСRВ…ВаГ~ГgГУВ∆УѓВґРFВЊВЅВљБAВ«ВƒВзВрТЕВƒБAОGРЖВћОѕВ¶ВљВ®УзВ∆ИкППВ…ЦяВЅВƒВЂВљБB\
-` ≈ва надела рукавицы, которые по стечению обсто€тельств оказались того же цвета, и м€гкое кимоно, а после вернулась с горшочком готовой сол€нки. `\
+` Eva put on her mittens - which, by coincidence, happened to be of the same color - and the padded kimono, and returned with the pot the hodgepodge had been cooked in. `\
 
 ld l,HID_WaraiA1,23
 
 ;БuВ®В®Б[Б[БIБI@Б@ОЧНЗВ®В§В∆ВйВвВ»ВҐВ©ВЅБB@В±ВкВ©ВзВћЛGРяВ…В“ВЅВљВиВвВ»ВЯБIБv@
-`"O-o!`@` ¬еликолепно смотритс€.`@` ќтлично дл€ гр€дущего сезона!" `\
+`"Ooh!`@` That looks great on ya.`@` Just perfect fer the comin' season!" `\
 ;БГПGЛg
 
 ld r,EVA_DefA1,24
 
 ;БuВ†ВиВ™В∆БAПчО°БB@В±ВкБAСеРЎВ…ТЕВйВнВЋБB@В®СдПКВЌЧвВ¶ВйВ©ВзБAВ±ВкБAЦ{УЦВ…КрВµВҐВнБBБv@
-`"—пасибо, ƒжордж.`@` я буду носить его и дорожить им.`@` Ќа кухне иногда холодно, так что € очень рада такому подарку." `\
+`"Thank you, George.`@` I'll treasure this as I wear it.`@` It can get chilly in the kitchen, so I'm truly happy you gave me such a thoughtful gift." `\
 ;БГКGЙH
 
 ;Б@КGЙHВЌСfУGВ»С°ВиХ®В…В…ВЅВ±ВиБB@ПGЛgВаОЧНЗВЅВƒВҐВйВ∆БAСеРвО^ВЊВЅВљБB\
-` ≈ва улыбнулась в ответ на замечательный подарок.`@` ’идэЄши тоже похвалил его, сказав, что оно прекрасно на ней смотритс€. `\
+` Eva smiled sweetly in response to the wonderful present.`@` Hideyoshi also praised it, saying it looked great on her. `\
 
 bg "bmp\background\sbook\EVA_h1b.bmp",0
 ld c,GEO_WaraiA1k,24
 
 ;Б@ВµВ©ВµБAПчО°ВЌИ§СzПќВҐВрХВВ©В„В»В™ВзЦЏВрФТНХВ≥ВєВƒВҐВйБB\
-` ƒжордж вежливо улыбалс€, но испытывал неопределЄнное чувство вины. `\
+` However, though George smiled politely, he felt an uncertain sense of guilt. `\
 
 ld c,GEO_KomaruA2k,80
 
@@ -12528,13 +12528,13 @@ ld c,GEO_KomaruA2k,80
 ;Б@В†ВкВЌКmВ©БAОйОuНБВњВбВсВ™ФГВЅВљВ«ВƒВзБcБcБB@
 ;Б@В«БAВ«В§В»ВЅВƒВйВћБcБcБHБH@
 
-` „-...что?.. `@
-` “о м€гкое кимоно, купленное ƒжессикой...`@
-`  -как так вышло?..`\
+` H...Huh...? `@
+` That's definitely the padded kimono Jessica-chan bought...`@
+` H-How did this happen...?`\
 
 
 ;Б@ПчО°ВЌЛкПќВҐВµВ»В™ВзБAУ™ПгВ…ГNГGГXГ`ГЗГУВрХВВ©В„ВйВћВЊВЅВљБcБcБB\
-` √орько улыба€сь, спросил ƒжордж небеса...`\
+` While smiling bitterly, George questioned nobody in particular...`\
 
 bg black,5
 fede 0,2000
@@ -12542,87 +12542,87 @@ E_A
 
 ;Б@В∆БAВ»ВкВќБB@
 ;Б@УЦСRБAОйОuНБВ™С†PВ…С°ВЅВљГvГМГ[ГУГgВаБAИбВ§ВаВћВ…В»ВЅВƒВҐВйБB@
-` » в результате...`@
-` ѕодарком ƒжессики, естественно, стало что-то другое. `\
+` And, as a horribly natural result,...`@
+` Jessica's present to Krauss had also become something different. `\
 
 ;Б@ИкСћБAС†ЙPВ…ВЌБAТNВћГvГМГ[ГУГgВ™НsВЅВљВћВЊВлВ§БcБcБB\
-` Ќо какой подарок досталс€  рауссу?.. `\
+` But which present did Krauss receive?.. `\
 
 bgm1 7
 se1 16
 bg M2F_P1aN,64
 
 ;Б@ТЉРЏОиУnВЈВћВЌТpВЄВ©ВµВ©ВЅВљВћВ≈БAОйОuНБВЌГvГМГ[ГУГgВрБAС†ЙPВћПСН÷ВћСOВ…В±ВЅВїВиТuВҐВƒВ®ВҐВљБB\
-` ƒжессика слишком стесн€лась передать подарок напр€мую и потому украдкой оставила его возле кабинета  раусса. `\
+` Because she had been too shy to hand it over to him directly, Jessica had stealthily left the present outside of Krauss' study. `\
 
 ;Б@ВїВаВїВаБAОйОuНБВћЙ∆В≈ВЌБAЛќШJКіО”ВћУъВ…В±В§ВҐВ§ВвВиОжВиВрВЈВйПKКµВЌВ»ВҐБB@
-` ¬ доме ƒжессики не было традиции праздновать ƒень благодарности.`\
+` In the first place, there had never been a tradition of celebrating Thanksgiving Day in Jessica's home.`\
 ;Б@ВЊВ©ВзОйОuНБВ…В∆ВЅВƒВаС†ЙPВ…В∆ВЅВƒВаБAУВУЋВ»ГvГМГ[ГУГgВ…В»ВйВнВѓВЊБB@
-` “ак что и дл€ неЄ, и дл€  раусса подарок был очень неожиданным. `\
+` So to both Jessica and Krauss, it was a very sudden present. `\
 
 ;Б@ВЂВЅВ∆ЛЅВҐВƒВ≠ВкВйВЊВлВ§В∆ОvВ§ФљЦ БAВ»ВЇН°ЙсВ…МјВЅВƒГvГМГ[ГУГgВрБAВ∆НlВ¶ВйВ∆БA@Ф@ЙљВ…ВаГMГ^Б[ВрВ®ВЋВЊВиВµВљВ≠ВƒГSГ}ВрОCВЅВƒВҐВйВћВ™М©В¶М©В¶В≈БAТpВЄВ©ВµЙяВђВйБcБB\
-` „асть еЄ считала, что он удивитс€, но учитыва€, что она почему-то вдруг в этом году дала ему подарок,`@` цель выпросить у него гитару казалась настолько далЄкой, что ей стало неловко... `\
+` Part of her had thought he would be surprised, but when she thought about why she had only gotten him a present this year,`@` the goal of coaxing a guitar out of him had seemed so transparent that she had felt embarrassed... `\
 ;Б@ВЊВ©ВзБAПСН÷ВћСOВ…В±ВЅВїВиТuВ≠В≠ВзВҐВ≈БAТЪУxВҐВҐВ∆ОvВЅВƒВҐВљБB\
-` ѕоэтому она посчитала, что можно оставить подарок у его кабинета.  `\
+` Therefore, she thought it would be just fine to leave it outside of his study.  `\
 
 bg black,24
 bg M1F_S1aN,0
 ld r,JES_NayamuA1,24
 
 ;БuБcБcХГВ≥ВсБAВ≥ВЅВЂПСН÷В…ПгВ™ВЅВƒВЅВљВжВ»БcБB@ГvГМГ[ГУГgБAЛCХtВҐВƒВ≠ВкВљВ©В»ВЯБcБBБv\
-`"...ѕапа пошЄл к себе в кабинет...`@` «аметил ли он подарок..." \
+`"...Dad went up to his study awhile ago...`@` I wonder if he noticed the present..." \
 
 ;БГОйОuНБ
 
 ;Б@ОйОuНБВЌЛqК‘В≈ГeГМГrВрМ©ВƒВҐВљВ™БAВїВкВаПгВћЛуБB@
-` ƒжессика сидела перед телевизором в гостиной, но не обращала на него особого внимани€.`\
+` Jessica was sitting in the parlor watching the TV, but she wasn't paying much attention to it.`\
 
 ;Б@йDСuВ∆ЙHРDВЅВƒН~ВиВƒВЂВƒВ≠ВкВ»ВҐВ©В»В∆ВїВнВїВнВµВƒВҐВљБB\
-` ќна нервно задавалась вопросом, спуститс€ ли он в том, что ему подарили. `\
+` She was nervously wondering if he would dashingly come down wearing what she had given him. `\
 
 ld r,JES_Atyaa2,80
 
 ;Б@В†БAБcБcВ–ВеВЅВ∆ВµВƒУаРьВрОДВћХФЙЃВ…К|ВѓВƒБAУdШbВ≈КіО”ВµВжВ§ВЅВƒМЊВ§ВсВґВбБcБB@
-` ј, ...он же может позвонить мне в комнату и поблагодарить мен€ по телефону...`\
+` Ah... he might use the internal phone line to call my room and thank me that way...`\
 ;Б@ВЊВЅВљВзМЩВЊВ»ВЯБB@В†БAВ≈ВаБAВїВкВ»ВзХФЙЃВ…ЦяВЅВƒУdШbВрС“ВЅВƒВљХыВ™ВҐВҐВ©В»ВЯБcБB\
-` Ќе хочу так.`@` ќ, но тогда, может, мне вернутьс€ в комнату и ждать звонка... `\
+` I wouldn't want that.`@` Ah, but, in that case, maybe I should return to my room and wait for a phone call... `\
 
 SE1 16
 bg M1F_S1bN,24
 ld l,NAT_DefA1,24
 
 ;БuВ«В§ВµВљВћВ≈ВЈБAОйОuНББH@Б@ЧОВњТЕВЂВ»В≠БAВїВнВїВнВµВƒБBБv@
-`"„то такое, ƒжессика?`@` “ы так взволнованно Єрзаешь." `\
+`"What is the matter, Jessica?`@` You are fidgeting about in such an agitated manner." `\
 ;БГЙƒФ№
 
 ld r,JES_AisoWaraiA1,24
 
 ;БuВ†БAВ†ВЌВЌВЌВЌБcБI@Б@В»БAЙљВ≈ВаВЋБ[ВЇВЅБB@В∆БAХГВ≥ВсВЌВаВ§БAПСН÷В÷ПгВ™ВЅВљВћВ©В»ВЯБHБIБv\
-`"ј-аха-ха-ха!..`@` Ќ-нет, ничего.`@` ѕапа уже в кабинете?!" `\
+`"A-Ahahaha!..`@` N-no, it's nothing.`@` Has D-dad already gone up to his study?!" `\
 ;БГОйОuНБ
 
 ld l,NAT_WaraiA1,80
 
 ;БuВ≥ВЅВЂПгВ™ВиВ№ВµВљВ™БAВаВ§ВґВЂЙЇВиВƒЧИВйВ∆ОvВҐВ№ВЈВжБB@БcБcОйОuНБВ™ФГВЅВƒЧИВƒВ≠ВкВљНgТГВрБAВ≥ВЅВїВ≠ВҐВљВЊВЂВ№ВµВеВ§БBБv\
-`"ќн уже давно подн€лс€, так что тоже скоро спуститс€.`@`  ...ƒавай насладимс€ чЄрным чаем, который ты купила, ƒжессика." `\
+`"He went up some time ago, so I believe he will come down soon.`@` Let us enjoy the tea you bought, Jessica." `\
 ;БГЙƒФ№
 
 ;Б@НgТГВћУєЛпВрНЏВєВљФzСVСдО‘ВрБAЙƒФ№О©ВзВ™ЙЯВµВ»В™ВзБAЛqК‘В…ВвВЅВƒЧИВљБB\
-` Ќацухи вошла в гостиную, толка€ тележку с чайным сервизом. `\
+` Natsuhi entered the parlor, pushing the cart with the tea set placed upon it. `\
 
 ;Б@НgТГВћЯєВкХыВрМµВµВ≠ОwУ±В≥ВкВƒВҐВйОgЧpРlВљВњВ…ФдВ„ВйВ∆БAЙƒФ№ВћВїВкВЌБAП≠БXФZВҐБB@БcБcТГЧtВ…ВжВЅВƒВЌБAП≠ВµГGГOВ≠ВµВƒВµВ№В§БB@
-` ѕо сравнению со служащими, подачу ча€ которыми она строго контролировала, чай Ќацухи был немного крепким.`@`  ...„айные листь€ делали его чуть горьким. `\
+` Compared to the servants, whom she strictly guided on how to serve tea, Natsuhi's tea was a little bit strong.`@` ...The tea leaves made it a bit bitter. `\
 
 ;Б@ВµВ©ВµВїВкВ≈ВаБAОйОuНБВЌХкВ™О©ВзЯєВкВƒВ≠ВкВљНgТГВЌМЩВҐВ≈ВЌВ»В©ВЅВљБB\
-` Ќо ƒжессике всЄ равно нравилс€ чай, который еЄ мать делала сама. `\
+` But despite that, Jessica still liked the tea her mother made herself. `\
 bg black,22
 bg M1F_s1cn,22
 
 ;Б@Й∆С∞РЕУьВзВЄВ≈ВћНgТГВћВ–В∆ОЮБB@ОgЧpРlВљВњВ™МЩВҐВ»ВнВѓВ≈ВЌВ»ВҐВ™БAВвВЌВиО©Х™ВћЙ∆С∞ВЊВѓВЊВ∆ЧОВњТЕВ≠ВаВћВЊБcБcБB@
-` ¬ такие времена семь€ могла насладитьс€ чаем без посторонних.`@` ќна ничего не имела против слуг, но врем€препровождение наедине с семьЄй расслабл€ло... `\
+` It was a time for the family to enjoy tea together without any outsiders.`@` She certainly didn't mind the servants, but being alone with her family was a bit relaxing... `\
 
 ;Б@ВїВсВ»В∆В±ВлВ÷БAГvГМГ[ГУГgВµВљВ«ВƒВзВрТЕВƒЙЇВиВƒЧИВйС†ЙPБcБB\
-` » тогда придЄт  раусс в подаренном ему м€гком кимоно... `\
+` That's when Krauss would come down wearing the padded kimono she had given him as a present... `\
 
 se1 52
 mset2ef 0
@@ -12630,19 +12630,19 @@ ld l,KLA_AkuwaraiA1,0
 print 99,2000,"trvswave.dll/"
 
 ;Б@С†ЙPВЌП∆ВкВ»В™ВзБAБuОйОuНББAВ†ВиВ™В∆В§БB@ТњВµВҐВ»БAВ®СOВ™С°ВиХ®ВрВµВƒВ≠ВкВйВ∆ВЌБcБcБBБv\
-`  раусс неловко скажет: Џ00171—пасибо, ƒжессика.`@` “ы не часто даришь мне подарки...Џ00187`\
+` Krauss would awkwardly say, "Jessica, thank you.`@` It's unusual for you to give me a present..."`\
 ;БГС†ЙP
 
 ld r,JES_TereruA1,24
 
 ;Б@ВЈВйВ∆ОйОuНБВЌБAБuВҐБAВҐВвВЯБAВїВкВўВ«В≈ВаБcБB@ВљВЅБAВљВ№В…ВЌВїВћБAЛќШJКіО”ВћУъВЅВƒВ±В∆В≈БAБcБcВ∆БAХГВ≥ВсВ…КіО”ВµВƒВаВҐВҐВ©В»ВЯВЅВ∆ОvВЅВƒБBБv\
-` » тогда ƒжессика ответит: Џ00171Ќ-нет, ничего такого...`@` »-иногда на, э-э, ƒень благодарности... я подумала, что можно врем€ от времени благодарить теб€, папа.Џ00187 `\
+` Then Jessica would say, "N-no, it's no big deal...`@` S-sometimes on, um, Thanksgiving Day...I t-thought it might be nice to show you my gratitude, Dad. `\
 ;БГОйОuНБ
 
 ld c,NAT_WaraiA1,22
 
 ;Б@ВїВкВ…ЙƒФ№В™БAБuЙEСгЛ{Й∆ОЯКъУЦОеВ∆ВµВƒСКЙЮВµВҐВ©В«В§В©ВЌВ∆ВаВ©В≠БB@БcБcЙ∆С∞ВЊВѓВћОЮВЌБAВљВ№В…ВЌВ±В§ВҐВ§ВћВаИЂВ≠ВЌВ†ВиВ№ВєВсВЋБBБv\
-` » Ќацухи скажет: Џ00171ѕодходит это или нет следующему главе семьи ”широми€,`@` ...когда мы наедине, как семь€, така€ вещь при€тна.Џ00187`\
+` Then Natsuhi would say, "Regardless of whether or not it is something appropriate for the next head of the Ushiromiya family,`@` ...when we're alone as a family, a thing like this can be pleasant."`\
 ;БГЙƒФ№
 
 se1v 52,50
@@ -12651,13 +12651,13 @@ mendef 0
 print 99,2000,"trvswave.dll/"
 
 ;Б@В∆ВҐВ§КіВґВ≈БAВўВсВћВиЙЈВ©ВЁВћВ†ВйНgТГВћОЮК‘В…В»ВЅВњВбВЅВљВиВµВƒБB@
-` » в такой обстановке начнЄтс€ тЄплое чаепитие. `\
+` And with that kind of atmosphere, a warm teatime would start. `\
 
 ;Б@ВїВкВ≈ВҐВҐКіВґВћВ∆В±ВлВ≈БAОјВЌБcБcБAОДБAКyКнВ™ВвВиВљВ≠ВƒБcБcБA@В»ВЯВсВƒКіВґВ≈РЎВиПoВєВљВзВ»ВЯВ∆БAОйОuНБВЌФзОZЧpВрВµВƒВҐВљБB\
-` ј потом, когда у всех будет хорошее настроение, € скажу: Џ00171¬ообще-то...€ как бы хочу играть на музыкальном инструменте...Џ00187`@` ƒжессика забежала вперЄд и представл€ла исход. `\
+` And then, when the mood was good, it would end with: "Actually... I kind of want to play an instrument..."`@` Jessica got ahead of herself and daydreamed about how things might play out. `\
 
 ;Б@ВЈВйВ∆БAВћВЅВµВћВЅВµВ∆С†ЙPВћВвВЅВƒЧИВйСЂЙєБB\
-` ѕослышались приближающиес€ шаги  раусса. `\
+` Then, the sound of Krauss' approaching footsteps could be heard. `\
 
 SE1 16
 bg black,22
@@ -12665,98 +12665,97 @@ bg M1F_S1aN,0
 ld c,KLA_MajimeA1,23
 
 ;БuВЈВ№ВсБB@С“ВљВєВљВ»БBБv@
-`"ѕростите, что заставил ждать." `\
+`"Sorry I kept you waiting." `\
 ;БГС†ЙP
 
 ld r,NAT_WaraiA2,24
 
 ;БuВ†В»ВљБB@ОйОuНБВ™ФГВЅВƒЧИВƒВ≠ВкВљНgТГВ≈ВЈВжБB@ВҐВљВЊВЂВ№ВµВеВ§БBБv\
-`"ƒорогой.`@` ƒжессика купила чай.`@` ƒавай насладимс€ им." `\
+`"Dear.`@` Here is the tea Jessica bought.`@` Let us enjoy it." `\
 ;БГЙƒФ№
 
 bg M1F_S1cN,0
 ld l,JES_KomaruA1,24
 
 ;БuБcБcБcВ†ВкБAБcХГВ≥ВсБB@БcБcВїВћБAГvБAГvГМГ[ГУГgВЌБAВ«В§ВЊВЅВљБcБcБHБv@
-`"...Ё-э, ...пап.`@`  ...Ём, т-тебе понравилс€ подарок?.." `\
+`"Uh, ...Dad.`@` ...Um, d-did you like the present?.." `\
 ;БГОйОuНБ
 
 ld r,KLA_DefA1,24
 
 ;БuВ§ВёБAВ†ВиВ™В∆В§БB@СfР∞ВзВµВ©ВЅВљВжБBБv@
-`"ƒа, спасибо.`@` ѕрекрасный подарок." `\
+`"Yes, thank you.`@` It was wonderful." `\
 ;БГС†ЙP
 
 ld l,JES_KomaruA3,80
 
 ;БuБcБcБcВ†БAБcБcБcВїВ§БcБBБv\
-`"......A, ......вот как..." `\
+`"...Ah... I see..." `\
 ;БГОйОuНБ
 
 bg M1F_S1bn,0
 ld c,NAT_TukareA2,23
 
 ;БuВ®ВвБAЙљВ©В†ВЅВљВћВ≈ВЈВ©БHБv@
-`"ќ, что-то случилось?" `\
+`"Oh, my, what's the matter?" `\
 ;БГЙƒФ№
 
 ld l,KLA_NayamuA1,23
 
 ;БuВ§ВёБB@ОйОuНБВ©ВзБAЛќШJКіО”ВћУъВћГvГМГ[ГУГgВ™В†ВЅВƒВ»БB@БcБcВ»В©В»В©В…ПђЯ≠ЧОВƒВҐВљБBБv\
-`"ƒа,`@` € получил от ƒжессики подарок на ƒень благодарности.`@`  ...ќчень искренний." `\
+`"Ah, you see.`@` I received a Thanksgiving Day present from Jessica.`@` ...It was quite a heartfelt gift." `\
 ;БГС†ЙP
 
 ;Б@С†ЙPВЌБAВ«ВƒВзВрЙHРDВЅВƒВЌВҐВ»В©ВЅВљБB\
-`  раусс не надел м€гкое кимоно. `\
+` Krauss wasn't wearing the padded kimono. `\
 
 bg M1F_S1cn,0
 ld r,JES_TohohoA2,24
 ld r,JES_OdorokiA1,80
 
 ;Б@В¶Б[БAВїВ±ВЌЛуЛCВрУ«ВсВ≈БAЙHРDВЅВƒЙЇВиВƒЧИВйВћВ™УєЧЭВґВбВЋБ[ВћВ©ВжБ[БcБI@Б@В‘В¬В‘В¬В‘В¬БI@/
-` „то-о-о? –азве не очевидно, что он должен прочувствовать настроение и прийти в нЄм?!..`@` ’мф, хмф, хмф! `@/
+` Whaaat, isn't it obvious that this is where he should read the atmosphere and come in wearing it!..`@` Hmph, hmph, hmph! `@/
 
 ;Б@П≠В»ВҐПђМ≠ВҐТ@ВҐВƒФГВЅВƒБAВїВћВ«ВƒВзВ©ВзГMГ^Б[ВрФГВЅВƒВаВзВ®В§В∆ВҐВ§БAВнВзВµВ„ТЈО“НмРнВ™Б[БAВаБ[БI@Б@В‘В¬В‘В¬В‘В¬БI@Б@ОйОuНБВЌРSВћТЖВ≈СеВҐВ…ВЏВвВ≠
-`я потратила на его покупку свои скудные деньги, и у мен€ родилс€ блест€щий план получить из этого м€гкого кимоно гитару, блин!`@` ’мф, хмф, хмф!`\
-` ћысленно ворчала ƒжессика. `\
+`I used up my scarce spending money to buy it, and had a brilliant plan to get a guitar out of that padded kimono, geez!`@` Hmph, hmph, hmph!`\` Jessica grumbled inside her mind.`\
 
 ld l,KLA_AkuwaraiA2,23
 
 ;БuВ†Б`Б`БAМ®В™Л√ВЅВљВ»ВЯБBБv@
-`"ј-а, как же у мен€ затекли плечи."`\
+`"Ah~ My shoulders are stiff."`\
 ;БГС†ЙP
 
 ld r,JES_AtyaA2,80
 
 ;БuБcБcВЊВ©ВзЙљВЊВжБB@Й^УЃХsСЂВґВбВЋБ[ВћБHБv@
-`"...Ќу и что.`@` Ѕольше занимайс€ физическими упражнени€ми." `\
+`"...So what.`@` It's because you don't exercise enough, isn't it?" `\
 ;БГОйОuНБ
 
 ld l,KLA_NayamuA2,80
 
 ;БuВ§БAВ§Б`Б`ВсБAМ®ВрЭЖВсВ≈ВаВзВ¶ВљВзКрВµВҐВ»ВЯБcБBБv\
-`"’м-м, € буду рад, если ты их помассируешь..." `\
+`"H-Hmmm~ I'd be pleased if you would massage my shoulders..." `\
 ;БГС†ЙP
 
 ld r,JES_TereruA2,80
 
 ;БuМ®ВрЧвВвВµВƒВЅВ©ВзЛ√ВйВсВЊВЇБB@/
-`"” теб€ затекли плечи из-за холода. `@/
+`"Your shoulders are stiff 'cause they're too cold. `@/
 
 ;В†БAМъТЕВµВлВжВ»БB@ЧбВ¶ВќВїВћБAВ«БAВ«ВƒВзВ∆В©ВЅБBБv@
-`Ќ-надень что-нибудь толстое.`@` ћ-м€гкое кимоно, например." `\
+`W-wear thicker clothes.`@` Like a, uh, p-padded kimono." `\
 ;БГОйОuНБ
 
 ld l,KLA_AkuwaraiA2,80
 
 ;БuВ«ВƒВзВ»В«БAПОЦѓВћПгТЕВ≈ВЌВ»ВҐВ©БB@ВїВсВ»ВаВћВжВиБAОДВћМ®В…ВЌСКЙЮВµВҐВаВћВ™В†ВйВсВґВбВ»ВҐВ©ВЋБHБv\
-`"ћ€гкое кимоно лишь халат дл€ простолюдинов.`@` –азве дл€ моих плеч нет кое-чего более подход€щего?" `\
+`"A padded kimono is merely a coat for commoners.`@` Rather than that, isn't there something more suitable for my shoulders?" `\
 ;БГС†ЙP
 
 ld r,JES_ikariA1,80
 
 ;БuВЌБAБcБcВЌВЯБHБI@Б@СКЙЮВµВҐВаВћВЅВƒЙљВЊВжБB@В§ВЇБ[ВЇВЅБIБv\
-`"ј-а?!`@` „его Џ00171более подход€щегоЏ00187?`@` ƒа ну теб€!" `\
+`"Hu...Huh?!`@` What the hell do you mean by 'suitable'?`@` Shut up!" `\
 ;БГОйОuНБ
 
 cl r,23
@@ -12764,35 +12763,35 @@ SE1 15
 bg black,63
 
 ;Б@ОйОuНБВЌГvГУГvГУВµВ»В™ВзЛqК‘ВрПoВƒНsВ≠БB\
-` ƒжессика резко выбежала из комнаты. `\
+` Jessica furiously stormed out of the room. `\
 
 bg M1F_S1aN,0
 ld c,KLA_NayamuA3,23
 
 ;Б@С†ЙPВЌЦЇВ∆ВћГRГ~ГЕГjГPБ[ГVГЗГУВ…ОЄФsВµБAЙљВрВ«В§К‘ИбВ¶ВљВћВ©В∆БAЦЏВрФТНХВ≥ВєВƒВҐВљБB\
-`  раусс проводил еЄ взгл€дом со смутным чувством вины, интересу€сь, где же он ошибс€ в неудачном разговоре с дочерью. `\
+` Krauss watched with a vague sense of guilt, wondering where he had erred in this failure to communicate with his daughter. `\
 
 cl c,0
 ld r,KLA_NayamuA3,23
 
 ;БuВ§БAВ§Б`Б`ВёБB@/
-`"’-хм-м. `@/
+`"H-huh... `@/
 ld r,KLA_KomaruA4,80
 ;ВїБAВїВ§В©БI@Б@МяМгВXОЮВ№В≈В∆ПСВҐВƒВ†ВЅВљВ»БB@В±ВкВЌВ§ВЅВ©ВиВµВљБcБB@ЦЊУъБAЛ@ЙпВрЙьВяВйВ∆ВµВжВ§БcБBБv\
-`ќ-о, €сно!`@` Ѕыло написано, что это только до 9-ти вечера.`@` Ѕеспечно с моей стороны...`@` «автра попробую снова..." `\
+`Ooh, I see!`@` It was written that it must be before 9 PM.`@` That was careless of me...`@` Tomorrow, I will try again..." `\
 ;БГС†ЙP
 
 ld l,NAT_DefA1,23
 
 ;БuЙљВћШbВ≈ВЈБH@Б@ЛќШJКіО”ВћУъВћГvГМГ[ГУГgВћШbВ≈ВЈВ©БHБv\
-`"ќ чЄм ты?`@` ќ подарке на ƒень благодарности?" `\
+`"What are you talking about?`@` Is it about the Thanksgiving Day present?" `\
 ;БГЙƒФ№
 
 cl r,0
 ld c,KLA_NayamuA1,24
 
 ;БuВ§БAВ§ВёБB@БcБcОјВЌОйОuНБВ©ВзВ±ВсВ»ВаВћВрВаВзВЅВљВћВЊБcБBБv@
-`"ƒ-да.`@`  ...ƒжессика дала мне вот это..." `\
+`"Y-yes.`@` ...You see, I was given this by Jessica..." `\
 ;БГС†ЙP
 
 se1v 1010,50
@@ -12800,29 +12799,29 @@ se1v 1010,50
 ld l,NAT_TukareA2,80
 
 ;БuВ†ВзБAВ№ВЯБBБv\
-`"ќ, надо же." `\
+`"Oh, dear." `\
 ;БГЙƒФ№
 
 bg black,26
 
 ;Б@С†ЙPВ™В™ВЅВ≠ВиВ∆М®ВрЧОВ∆ВµВ»В™ВзМ©ВєВйВїВкВЌБAБcБcР^ЧҐШ±В™ШOНјВ…С°ВйВЌВЄВЊВЅВљБAМ®Т@ВЂМФБB\
-` ѕонуро опустив плечи,  раусс показал ей... массажный купон, который ћари€ собиралась дать –озе. `\
+` What Krauss showed to her while dejectedly dropping his shoulders...`@` was the massage coupon Maria had intended to give to Rosa. `\
 
 bg Different_spiral_1a,22
 
 ;Б@ПчО°ВћВ∆В±ВлВ…БAОйОuНБВћГvГМГ[ГУГgВ™ЧИВƒБB@
 ;Б@ОйОuНБВћВ∆В±ВлВ…БAР^ЧҐШ±ВћГvГМГ[ГУГgВ™ЧИВƒБB@
-` ѕодарок ƒжессики по€вилс€ на месте подарка ƒжорджа. `@
-` ѕодарок ћарии по€вилс€ на месте подарка ƒжессики.`\
+` Jessica's present had come to George's place. `@
+` Maria's present had come to Jessica's place.`\
 
 ; БcБcГvГМГ[ГУГgВ™БAВ«В§ВҐВ§ВнВѓВ©ГYГМВƒВµВ№ВЅВƒВҐВйБB\
-` ...¬се подарки перепутались.`\
+` ...All of the presents got mixed up.`\
 
 ;Б@ПчО°ВаОйОuНБВаБAСеВЂВ≥ВаНЂХпВаВ№ВйВ≈ИбВ§ВћВ…БAВ«В§ВµВƒК‘ИбВ¶ВƒВµВ№ВЅВљВћВ©В∆ОсВрФPВйВ™БAЦВЦ@В»ВћВ≈В«В§ВµВжВ§ВаВ»ВҐБB@
-` ƒжордж и ƒжессика не понимали, как могли перепутать подарки с совершенно разными размерами и упаковками, но это была маги€, так что ничего не поделаешь.`\
+` George and Jessica were puzzled at how they could've mistaken the presents with their completely different sizes and packaging, but it was magic, so there was nothing that could be done about it.`\
 
 ;Б@В∆ВиВ†В¶ВЄБAО©Х™ВћС°ВЅВљГvГМГ[ГУГgВрКмВсВ≈ВаВзВ¶ВйВжВ§БAЛFВйВµВ©В»В©ВЅВљБcБB\
-` »м оставалось только наде€тьс€, что их подарки воспримут позитивно... `\
+` At any rate, they could do nothing but hope that the presents they had given would be received well... `\
 
 bg black,22
 fede 0,2000
@@ -12831,157 +12830,156 @@ bgm1 11
 
 
 ;Б@РнРlВ™ФГВЅВљУdУЃГVГFБ[ГoБ[ВЌБAКmВ©В…СљП≠ВЌИјВ≠ФГВЅВљВаВћВЊВ™БAРнРlВћПђМ≠ВҐВ…ВЌП≠ВµСеВЂВ»ФГВҐХ®ВЊВЅВљБB\
-` Ѕаттлер купил дешЄвую электробритву, но дл€ него с его карманными деньгами даже она была дорогой. `\
+` The electric shaver Battler had bought was certainly a bit cheap, but it was a fairly big purchase for him, considering his spending money. `\
 
 bg Gdin_1a,0
 ld l,BUT_WaraiA2,0
 ld r,KIR_WaraiA1,6
 
 ;Б@а¬аѕВ»РнРlВЌБAВїВкВрР≥ТЉВ…ЦґН]В…ШbВµБAЛ§УѓВћС°ВиХ®В…ВµВжВ§В∆ТсИƒБB@ФЉКzВрМ®СгВнВиВµВƒВаВзВ§В±В∆В…РђМчВµВƒВҐВљВћВЊВЅВљБB\
-` ’итрый Ѕаттлер заранее обсудил вопрос с  ирие и предложил сделать совместный подарок.`@` ¬ итоге она вз€ла на себ€ половину стоимости.`\
+` The sly Battler was upfront about that with Kyrie, and had proposed that they make it a joint gift.`@` He succeeded in getting her to shoulder half of the cost.`\
 
 ;Б@ВµВ©ВµБAХsНKВ»В±В∆В…БA@В±В±РФУъБAЧѓХ§ХvВЌКOНСВћЛqРlВ∆ВћПdЧvВ»Г~Б[ГeГBГУГOВ™ПdВ»ВЅВƒВ®ВиБAЙпО–В…ФСВ№ВиНЮВсВ≈ВҐВљБB\
-` Ќо, к сожалению,`@` у –удольфа на несколько следующих дней была запланирована встреча с иностранным гостем, и он ночевал в компании.`\
+` But unfortunately,`@` Rudolf had an important meeting scheduled with a foreign guest for the next few days, and was staying overnight at his company.`\
 
 bg black,22
 
 ;Б@ГvГМГ[ГУГgВЌГ^ГCГ~ГУГOВ™СеОЦБB@
-` —роки важны. `\
+` The timing of this present is important. `\
 ;Б@В»ВћВ≈ЦґН]ВЌБAЧѓХ§ХvВ…УnВµВƒВаВзВ§ВжВ§В…ЙпО–ВћФйПСВ…ЧКВсВ≈В®В≠ВћВЊВЅВљБB\
-` ѕоэтому  ирие попросила секретар€ компании передать подарок –удольфу. `\
+` Therefore, Kyrie had asked one of the company's secretaries to pass the gift along to Rudolf. `\
 bg "bmp\background\sbook\ke_s1.jpg",5
 
 ;Б@ВїВћВ®ЙAВ≈БAУЦУъБAЧѓХ§ХvВћО–ТЈР»ВћПгВ…ВЌБAЦґН]БХРнРlВжВиВ∆ГБГbГZБ[ГWГJБ[ГhВћУьВЅВљГvГМГ[ГУГgГ{ГbГNГXВ™ТuВ©ВкВƒВҐВљБB\
-` Ѕлагодар€ этому на следующий вечер подарочна€ коробка с посланием от  ирие и Ѕаттлера оказалась на его рабочем месте. `\
+` Thanks to that, the next night, a present box with a message card from Kyrie and Battler was placed on Rudolf's president seat. `\
 
 SE1 16
 wait 1000
 ld c,RUD_DefA1,22
 
 ;БuВ®В§БAВ±ВкВ©БAЦґН]В™УdШbВ≈МЊВЅВƒВљВћВЌБBБv@
-`"ќ, должно быть,  ирие об этом говорила по телефону." `\
+`"Oh, this must be what Kyrie told me about over the phone." `\
 ;БГЧѓХ§Хv
 
 ;Б@Р[ЦйВ…О–ТЈОЇВ…ЦяВЅВƒВЂВљЧѓХ§ХvВЌБAКчВћПгВ…ТuВ©ВкВљГvГМГ[ГУГgГ{ГbГNГXВрМ©В¬ВѓВйБB\
-` ¬ернувшись в кабинет директора компании поздней ночью, –удольф нашЄл на столе подарочную коробку.`\
+` After returning to the company president's room late at night, Rudolf found the present box that had been placed on his desk.`\
 se1 1010
 
 ;Б@ГБГbГZБ[ГWГJБ[ГhВрКJВ≠В∆БAЦґН]ВћЩ{Т†Ц В»ХґОЪВ≈ТZВҐГБГbГZБ[ГWВ™УYВ¶ВзВкВƒВҐВљБB@
-` ¬з€в карточку, он увидел короткое послание, написанное методичным почерком  ирие.`\
+` When he opened the card, he found a short message written in Kyrie's methodical handwriting.`\
 
 ;БgЧѓХ§ХvВ≥ВсВ÷БAУъН†ВћЛCОЭВњВрНЮВяВƒБB@ЦґН]БХРнРlБh\
-` Џ00171–удольфу с нашими повседневными чувствами.`@`  ирие и ЅаттлерЏ00187`\
+` "To Rudolf, with our everyday feelings.`@` Kyrie & Battler"`\
 
 ld c,RUD_WaraiA1,80
 
 ;БuВ–ВеВ£БB@ЯОВЁВйВЋВ•БB@/
-`"‘ью. ¬от так так.`@/
+`"Phew. So that's how it is. `@/
 
 ;БcБcЙљВЊВлВ§В»БB@СеОЦВ…ОgВ§ВЇБBБv\
-`  ...„то же там?`@` Ќадо оценить." `\ 
+` ...I wonder what it is.`@` I should try guessing." `\ 
 
 ;БГЧѓХ§Хv
 
 ;Б@Ф†ВрОЭВњПгВ∞ВйВ∆БAВ»В©В»В©ВћПdМъКіВ™В†ВйБB@ТjХ®ВћРҐКEВ≈ВЌБAПdВ≥ББГOГМБ[ГhВЅВџВҐГCГББ[ГWВЌВ†ВйБB\
-` ѕодн€в коробку, он заметил, что она довольно т€жЄла€. ¬ мире мужчин есть точка зрени€, что размер равен качеству. `\
+` When he lifted up the box, he noticed it felt fairly heavy. And some men have the impression that size equals quality. `\
 ld c,RUD_DefA2,80
 
 ;Б@ЧѓХ§ХvВЌБAВ±ВиВбБAВ©В»ВиНВВҐВаВћВрС°ВзВкВљВ©В»В∆Л¬УVВµВƒВµВ№В§БB@
-` –удольфа слегка шокировала мысль о получении дорогого подарка. `\
+` Rudolf was slightly shocked that he had probably been given an expensive gift. `\
 
 ;Б@КрВµВҐФљЦ БAВ®Х‘ВµВаУѓВґГOГМБ[ГhВрКъС“В≥ВкВƒВµВ№В§ВнВѓВ≈БAВµВ©ВаВїВћВ®Х‘ВµВЌУсРlХ™БB@ВвВкВвВкВ∆М®ВрвРВяВйБB\
-` ¬место счасть€ ему подумалось, что они будут ждать от него ответный подарок такого же качества. Ќе говор€ уже о том, что ему понадоб€тс€ два подарка.`@` ќн пожал плечами и вздохнул. `\
+` Rather than feeling happy, he imagined they would expect a return gift of the same quality from him. Not to mention he'd need a gift for two people.`@` He shrugged his shoulders and let out a sigh. `\
 
 bg black,26
 Me1 23
 bg off_1a,22
 
 ;Б@НЂХпВћГКГ{ГУВрЙрВ±В§В∆ВЈВйВ∆БAСмПгВћУdШbВ™Ц¬ВЅВљБB\
-`  огда он разв€зал подарочную ленту, зазвонил телефон на столе. `\
+` As he unfastened the ribbon on the gift, the phone on his desk rang. `\
 
 e_ 2,1
 se1 53
 
 
 ;БuВаВµВаВµБAЙіВЊБB@БcБcБcБcВсБH@Б@ВнВ©ВЅВљБAМqВҐВ≈В≠ВкБB@Л…ФйВћП§ТkВЊБB@ВµВќВзВ≠ВЌТNВћУdШbВаУ`МЊВаОжВиОЯВЃВ»БB@БcБcБcБcБcБcВаВµВаВµБB/
-`"јлло, это €.`@`  ...’м?`@` ѕон€л, передай звонок.`@` ¬сЄ совершенно секретно.`@` ѕока не передавай никаких звонков и сообщений.`@`  .......јлло. `/
+`"Hello, it's me.`@` ...Hm?`@` Got it, transfer the call.`@` This is a matter of absolute secrecy.`@` Don't pass on any calls or messages for a while.`@` ...Hello. `/
 se1 48
 bgm1 3
 ;БcВжВ§БAГnГjБ[БB@/
-` ...ѕривет, пупсик. `@/
+` ...Yo, honey. `@/
 se2 4
 
 ;ЦЊУъЙпВ¶ВйВЅВƒМЊВЅВљВлБH@Б@В±В±В÷ВЌВ†В№ВиУdШbВЈВйВ»ВЅВƒМЊВЅВљВЇБB@БcБcВЌВЅВЌВЌБAФnО≠ВЊВ»БAН°ЦйВЌВжВ≠РQВƒВ®ВѓВЅВƒБB@ЦЊУъВћЦйВЌРQВзВкВйВ∆ВЌМјВзВЋВ•ВЉБHБv\
-`—казал же, завтра увидимс€.`@` я просил теб€ старатьс€ не звонить сюда."`\
-`"...’а-ха-ха, выспись этой ночью.`@` «автра ты недолго будешь спать." `\
+`I said I'd see you tomorrow, didn't I?`@` I told you not to call me here too much.`@` ...Hahaha, you idiot, I'm telling you to sleep well tonight.`@` You won't be sleeping much tomorrow night, okay?~" `\
 ;БГЧѓХ§Хv
 
 bg "bmp\background\sbook\ke_s1.jpg",0
 ld r,RUD_AkuwaraiA1,22
 
 ;Б@ЧѓХ§ХvВЌВҐВвВзВµВ≠ГjГДГjГДВ∆БAВ†ВйВҐВЌБAРґВЂРґВЂВ∆УdШbВћСКОиВ…ФчПќВЁК|ВѓВйБB@
-` –удольф непристойно ухмыльнулс€ или, может, просто оживлЄнно улыбнулс€ человеку на другом конце линии. `\
+` Rudolf was wearing something between a lewd grin and a lively smile, directed at the other person over the phone. `\
 
 ;Б@БcБcВ±Б[ВћТjВЌБAВµВеБ[В±ВиВаВ»В≠БAВ№ВЯВљПЧВрИшВЅК|ВѓВƒВҐВљВћВЊБB\
-` ...Ётот козЄл снова повЄлс€ на другую женщину.`\
+` ...This damn man, he's caught himself another woman again.`\
 ;Б@ВаВЌВвГЙГCГtГПБ[ГNВ∆МЊВЅВƒВаВҐВҐБB@ГrГWГlГXВ≈БAФьРlВћГlБ[Г`ГГГУВрМ©В¬ВѓВйВ∆БAМыРаВ©ВЄВ…ВЌВҐВзВкВ»ВҐВћВЊБB\
-` ћожно назвать это делом его жизни.`@` ќн не мог жить без поиска и соблазнени€ прекрасных дам. `\
+` You could call it his life's work at this point.`@` He couldn't exist without seeking out beautiful ladies during his business and seducing them. `\
 ;Б@Н°УъВћУъТцВ™Х–ХtВҐВƒМ®ВћЙ„ВаЙЇВиБAР[ЦйВ∆ВҐВ§В±В∆В≈Ц≠В»ГeГУГVГЗГУВаНВВҐВћВ©БA@ЧѓХ§ХvВЌБAСеРlВ»ЙпШbВрКyВµВЁВ»В™ВзБAВїВћОуШbКнВрМ®В≈ХшВ¶БAГvГМГ[ГУГgВћНЂХпВрЙрВ≠БB\
-;UNTRANSLATED TEXT.``\
+` After finishing the work for the day, he lets the tension out,`@`holds the phone with his shoulder and enjoys some adult conversation.`\
 ;Б@ХВЛCВЌВµВ»В™ВзВаЙ∆С∞ГTБ[ГrГXВЌЦYВкВ»ВҐБB@ВїВкВрЧЉЧІВ≈ВЂВƒВ±ВїБAР^ВћХВЛCУєВ∆ФёВЌНlВ¶ВƒВҐВљБB\
-` ƒаже измен€€, он не забывал об ответственности перед семьЄй.`@` ќн всЄ спрашивал себ€, можно ли считать балансирование этого истинным путЄм обмана.`\
+` Even when cheating, he didn't forget his responsibility to his family.`@` He wondered if being able to balance those two things was the true way of cheating.`\
 bg white,22
 se1 1010
 bg black,29
 
 ;Б@В∆БAУdШbВрВµВ»В™ВзНЂХпВрНLВ∞ВйВ∆БAТЖВ©ВзВЌВ»В©В»В©ФЧЧЌВћВ†ВйЛЋВћПђФ†В™БB\
-` –азговарива€ по телефону, он развернул упаковку и достал оттуда довольно-таки т€жЄлый дерев€нный €щичек. `\
+` And, while talking over the phone, he unwrapped the packaging and took out the fairly heavy small wooden box that was inside. `\
 
 ;Б@В®ВҐВ®ВҐБAЙљВЊВ±ВиВбВ†БB\
-` Ёй, эй, какого чЄрта. `\
+` Oi, oi, what the hell is this? `\
 bg off_1a,26
 
 ;БuВ÷ВЅВ÷ВЅВ÷БB@Ц{ЛCВ…В»ВЅВљВзХЙВѓВЊВЇВ•БH@Б@В®МЁВҐП≥ТmВћК÷МWВЊВлБH@Б@ВїВ§В≥БAВїВ§ВҐВ§ГXГgГCГbГNВ»В∆В±ВлВ™БAЙіВЌЛCВ…УьВЅВƒВйВсВЊВЇБcБB@БcБcРжУъГvГМГ[ГУГgВµВљГДГcБAВњВбВсВ∆РgВ…ХtВѓВƒЧИВҐВжБB@КyВµВЁВ…ВµВƒВйВ©ВзВ»БBБv\
-`"’е-хе-хе.`@` Ќе нужно серьЄзности.`@` ћы сами согласились на такие отношени€.`@` ƒа, мне нравитс€ твоЄ безразличие...`@`  ...я приду в том твоЄм подарке.`@` ∆ду с нетерпением." `\
+`"Hehehe.`@` If you get serious, you lose.`@` It's a relationship we both accept, right?`@` That's right, I like that indifference...`@` ...I'll come wearing the present you gave me a couple days ago.`@` I'm looking forward to it." `\
 ;БГЧѓХ§Хv
 
 ;БwВ§В”Б`ВсБAВаВњВлВсВжБ`БB@ЦЊУъИкФ”ВЌБAЙЬВ≥ВсВћВ±В∆В»ВсВ©ЦYВкВ≥ВєВњВбВ§ВсВЊВ©ВзБ`ГУБЩБx\
-`"”фу, конечно.`@` «автра вечером € заставлю теб€ забыть о женеЏ09734 " `\
+`"Ufu~ Of course~ `@`Tomorrow, for one evening, I'll make you forget all about your wife~" `\
 
 bg black,22
 bg "bmp\background\sbook\ke_s1.jpg",0
 ld c,RUD_waraiA1,26
 
 ;БuЙ¬И§ВҐВ±В∆МЊВ§ВґВбВЋВ•В©Б`БB@БcБcБcВЅВƒБA/
-`" акие милые вещи ты говоришь.`@`  ......„-`/
+`"You're saying some pretty cute things~`@`... w-`/
 
 ld c,RUD_IkariA2,80
 E_A
 quakex 3,100
 
 ;БcБcВ В®ГbБAБv\
-`что за."`\
+`what the..."`\
 
 ;БГЧѓХ§Хv
 
 ;!sdБwВ«БAВ«В§ВµВљВћБ`БHБx\
-!sd`"„то такое?"`\
+!sd`"Is something wrong?"`\
 
 ME1 16
 bg black,66
 
 ;Б@В©ВѕВЅВ∆БAЛЋВћПђФ†ВрКJВѓВйВ∆БB@
-` ќн открыл дерев€нный €щичек.`\
+` He finally opened the small wooden box.`\
 
 se1v 5,100
 bg white,1
 bg black,2
 
 ;Б@ВїВ±В…ВЌБAРЎВЅРжЙsЧШВ»БAБcБcУЁВҐЛвВћаКВЂВ™БB@
-` » обнаружил там острый, заострЄнный...предмет, сверкающий тусклым серебром.`\
+` There, he found a sharp, pointed... object that shined a dull silver.`\
 se3 34
 ;Б@ОwРжВ≈ВњВеВсВ∆РGВкВљВЊВѓВ≈БAБcБcММВ™ОмВ…В»ВЅВƒХВВЂПoВµВїВ§В»В≠ВзВҐВ…БAЙsВҐБB\
-` ќн был до того острым, что мог бы порезать даже если легонько надавить на него пальцем.`\
+` It was so sharp ...that it seemed that just pressing it lightly against his fingertip would cause beads of blood to surface.`\
 ME1v 18,40
 
 ;!s0Б@В¶БA/
@@ -12989,41 +12987,41 @@ ME1v 18,40
 ;!d600БcБcВўБA/
 ;!d1000БcБcБcХпТЪБcБcБH@
 
-!s0` Ё,`/
-!d900` ...a,`/
-!d600` ...ку-`/
-!d1000`......кухонный нож?..`\
+!s0` Eh,`/
+!d900` ...ah,`/
+!d600` ...a ki-`/
+!d1000`...kitchen knife?..`\
 
 
 ;Б@БcБcЙљВ≈БA/
 ;!d1000БcБcЙіВ…БcБcБH\
 
-` ...— чего бы им...`/
-!d1000`дарить мне его?..`\
+` ...Why would they...`/
+!d1000`give me this?..`\
 !sd
 
 ;Б@ЧѓХ§ХvВЌОЙКЊВрВЏВљВЏВљРВВзВµВ»В™ВзБAГБГbГZБ[ГWГJБ[ГhВрУ«ВЁХ‘ВЈБB\
-` ѕокрывшись холодным потом, –удольф перечитал послание на карточке. `\
+` As Rudolf broke into a cold sweat, he reread the message on the card. `\
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 se1 1010
 bg Different_spiral_1a,66
 
 locate 0,7
 ;БgЧѓХ§ХvВ≥ВсВ÷БAУъН†ВћЛCОЭВњВрНЮВяВƒБh\
-`–удольфу с нашими повседневными чувствами.`\
+`"To Rudolf, with our everyday feelings".`\
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 ;!s0Б@УъН†ВћЛCОЭВњВрНЮВяВƒБB/
-!s0` — нашими повседневными чувствами. `/
+!s0` "With our everyday feelings". `/
 se1 21
 wait 1000
 ;НЮВяВƒ/
-`—-`/
+`W-`/
 wait 1000
 ;НЮВяВƒ/
-`с-`/
+`w-`/
 wait 1500
 ;НЮВяВƒБB\
-`с...`\
+`w...`\
 !sd
 
 textoff
@@ -13040,13 +13038,13 @@ wait 1000
 bg off_1a,6
 
 ;БuГ_Б`ГКБ[ГУБAВ«В§ВµВљВћВІБAЦўВЅВњВбВЅВƒВ•БBБv\
-`"ѕупсик, что такое? “ы что-то совсем затих."`\
+`"Darling~ What's wrong? You got all quiet."`\
 
 E_A
 bgm1v 86,90
 
 ;!s0БuВ†БA/
-!s0`"A...`/
+!s0`"Ah...`/
 SE1 48
 quakey 2,100
 ;БcБcВ†ВЌВЌВЌВЌВЌВЌБIБI@Б@ВҐБA/
@@ -13057,13 +13055,13 @@ quakey 2,100
 ;!d500В†ВћВїВћБA/
 ;!d600БcБcБcОhВ≥ВкВйВ£В§В§В§В§В£В§В§В§В§В§В§В§БIБIБv\
 
-`аха-ха-ха-ха-ха!`@` ”-`/
-!d600`ух, прости?!`@` Ё-э, ну, `/
-!d800`знаешь, вообще-то у мен€ на завтра есть кое-какие неотложные дела?!`@` я-`/
-!d800`€ потом св€жусь с тобой.`/
-!d600` ќ, ух, н-не звони мне пока!..`@` «-`/
-!d500`знаешь, `/
-!d600`......мен€ хот€т уби-и-и-и-ить!" `\
+`Ahahahahahaha!`@` Uh...`/
+!d600` uh, I'm sorry?!`@` Um, well, `/
+!d800` You see, actually, some urgent business came up for tomorrow?!`@` I, `/
+!d800` I'll get in touch with you later?`/
+!d600` Oh, uh, c-could you not contact me for a while?`@` Y-`/
+!d500`you see, `/
+!d600`...they're planning to muuuuuuuuuuurder me!" `\
 
 bg black,1
 se1 13
@@ -13076,19 +13074,19 @@ bg "bmp\background\sbook\ke_s1.jpg",2
 
 
 ;Б@БcБcПчО°ВћФГВЅВљГvГМГ[ГУГgВЌБAЧѓХ§ХvВ…УnВЅВљВжВ§ВЊВЅВљБB@
-` ...  –удольфу попал подарок ƒжорджа. `\
+` ...It seemed the present George had bought had found its way to Rudolf. `\
 
 ;Б@В«ВсВ»ГvГМГ[ГУГgВаБAУъН†ВћНsВ»ВҐВ™ИЂВҐВ∆БAГБГbГZБ[ГWВаМлЙрВ≥ВкВƒВµВ№В§В∆ВҐВ§ВҐВҐМ©Ц{ВЊБB\
-` „то бы ему ни подарили, из-за своих повседневных проступков он бы всЄ равно неправильно истолковал послание. `\
+` No matter what kind of present he received, because of his daily misconducts, he probably would have misinterpreted the message. `\
 bg black,22
 fede 0,2000
 E_A
 
 ;Б@В≥ВƒБB@В∆В»ВкВќБAН≈МгВћР^ЧҐШ±ВЌБH@
-` Ќу что ж,`@` закончим на ћарии. `\
+` Well then.`@` In this case, we'll be ending with Maria. `\
 
 ;Б@ИкСћБAР^ЧҐШ±В™ШOНјВ…УnВµВљГvГМГ[ГУГgВЌЙљВ…БH\
-`  акой подарок она дала –озе? `\
+` What present did Maria give to Rosa? `\
 ME1 23
 wait 1000
 bg "bmp\background\sbook\Ke5.jpg",22
@@ -13097,47 +13095,47 @@ se1 53
 
 bgm1 110
 ;БuО–ТЈБ`БB@В®ПмВ≥ВсВ©ВзВ®УdШbВ≈ВЈБ[БB@ЙсВµВ№ВЈВ©Б[БBБv\
-`"ѕредседатель,`@` вам звонит ваша дочь.`@` ѕеревести?" `\
+`"President,`@` you've got a call from your daughter.`@` Should I transfer it?" `\
 bg "bmp\background\sbook\Ke_s2.jpg",0
 ld c,ROS_KomaruA1,26
 
 ;БuЙсВµВƒВњВеВ§ВЊВҐБB@Р^ЧҐШ±ВЅВљВзБAЙљВ©ВµВзБB@ОdОЦПкВ…ВЌК|ВѓВњВбС ЦЏВЅВƒМЊВЅВƒВйВћВ…БB@/
-`"ƒа, пожалуйста.`@` „то ей понадобилось?`@` я же говорила не звонить мне, когда € на работе. `@/
+`"Please do.`@` That Maria, I wonder what she wants.`@` I told her not to call me when I'm at work. `@/
 se1 53
 
 ;БcБcБcВаВµВаВµБAР^ЧҐШ±БH@Б@В«В§ВµВљВћБHБv\
-` ...јлло, ћари€?`@` „то такое?" `\
+` ...Hello, Maria?`@` What's wrong?" `\
 ;БГШOНј
 
 bg black,26
 bg off_1a,22
 
 ;БuВ§Б[БI@Б@Г}Г}Б[БI@Б@В®ОdОЦТЖВ…В≤ВяВсВЋБAВ®ОdОЦТЖВ…В≤ВяВсВЋБcБIБv\
-`"”-у!`@` ћама!`@` »звини, что звоню во врем€ работы! »звини, что во врем€ работы!.." `\
+`"Uu!`@` Mama!`@` Sorry for calling during work, sorry for calling during work!.." `\
 
 ;Б@ИкСћБAЙљВћЧpМПВЊВлВ§БH@Б@Р^ЧҐШ±ВћМыТ≤ВЌХВВ©ВкВйВжВ§В≈БAВ∆ВƒВаОdОЦПкВ…УdШbВрВµВ»ВѓВкВќВ»ВзВ»ВҐВжВ§В»БAЛўЛ}ОЦС‘В…ВЌКіВґВзВкВ»В©ВЅВљБB@ШOНјВћФыВ™БAВнВЄВ©В…ТёВиПгВ™ВйБB\
-` „то же ей нужно?`@` ” ћарии словно была празднична€ причина дл€ звонка, и не похоже, что что-то случилось.`@` –оза вскинула брови. `\
+` What on earth did she want?`@` Maria sounded like she had a festive reason for calling during work, and didn't seem like she was in an emergency.`@` Rosa raised her eyebrows a bit. `\
 
 ;БuБcБcР^ЧҐШ±БB@Г}Г}ВЌН°БAГvГМГ[ГУВ…МьВѓВƒСеЦZВµВ»ВћВжБH@Б@МЊВЅВљВ≈ВµВеБH@Б@Н°УъВ©ВзУЦХ™ВЌЛAВкВ»ВҐВ≠ВзВҐЦZВµВҐВЅВƒБcБIБv\
-`"...ћари€.`@` ћама сейчас очень зан€та подготовкой к презентации.`@` я уже говорила тебе, помнишь?`@` я так зан€та, что, наверное, пока не буду приходить домой!.." `\
+`"...Maria.`@` Mama is really busy preparing for a presentation right now.`@` I already told you, didn't I?`@` I'm so busy right now that I probably won't be coming home for a while!.." `\
 ;БГШOНј
 
 bg black,24
 bg "bmp\background\sbook\Ke_s2.jpg",24
 
 ;Б@ШOНјВћВїВћВвВиОжВиВрМ©В»В™ВзБAО–ИхВћГfГUГCГiБ[ВљВњВЌБAВ±ВїВ±ВїШbВрВµВƒВҐВйБB\
-` —о стороны слуша€ разговор –озы, сотрудницы начали перешЄптыватьс€. `\
+` While watching Rosa's side of the conversation, the designer employees started whispering among themselves. `\
 
 ;БuО–ТЈБAВ№ВљЙ∆В…ЛAВзВ»ВҐВ∆В©МЊВЅВƒВсВћБ`БcБHБv@
-`"ѕредседатель оп€ть не пойдЄт домой?.." `\
+`"Is the President saying she won't go home again?.." `\
 ;БuЦZВµВ≠В»ВсВ©СSСRВ»ВҐВћВ…ВЋВ•БB@ВљВ№В…ВЌР^Ц ЦЏВ…ЛAСоВµВƒБAЦЇВ≥ВсНFНsВЈВкВќВҐВҐВћВ…ВЋВ•БBБv\
-`"ќна же совсем не зан€та.`@` ≈й следовало бы хоть иногда оставатьс€ верной дочери и идти домой."`\
+`"She's not even busy at all.`@` Once in a while she should be faithful to her daughter and go home."`\
 ;БuВ№ВЯВљБAРVВµВҐФёОБВґВбВ»ВҐГbГXВ©Б`БH@/
-`"” неЄ, кажись, новый бойфренд? `@/
+`"She's got another new boyfriend, right? `@/
 se1 4
 
 ;Б@ВўГHВзБAЧбВћГfГUГCГУОЦЦ±ПКВћГ`Б[ГtГvГНГfГЕБ[ГTБ[ВћГAГLГqГgВ≥Г@ВсБфБv\
-`Ќу, знаете, главный поставщик того дизайнерского бюро, јкихитоЏ09834 " `\
+`You know, the chief producer of that design office, Akihito." `\
 
 ;БuВ†Б[БAВ†ВћВњВеВЅВ∆Н„ВҐКіВґВћГqГgВІБHБv@
 `"ј-а, такой малодушный парень?" `\
