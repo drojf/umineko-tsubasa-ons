@@ -13138,19 +13138,19 @@ se1 4
 `You know, the chief producer of that design office, Akihito." `\
 
 ;БuВ†Б[БAВ†ВћВњВеВЅВ∆Н„ВҐКіВґВћГqГgВІБHБv@
-`"ј-а, такой малодушный парень?" `\
+`"Aah, the wimpy guy?" `\
 ;БuВ≈ВаВ≥В≈ВаВ≥БAВ†ВћРlБAГqГQФZВ≠ВЋБH@Б@В¬В©БAЧ[ХыВ…ВЌВаВ§Р¬БXВЊВжВЋВ•Б`БBБv@
-`"” него така€ густа€ борода.`@` ¬сегда отрастает к вечеру." `\
+`"But you know, that guy's got a pretty thick beard, doesn't he?`@` I mean, it's always totally grown out by evening." `\
 
 ;БuГLГXВЈВйОЮБAГUГКГUГКВЈВйВ∆В©БAВ†ВиВ¶В»Б`ВҐБI @/
-`"—даЄтс€ мне, она колетс€, когда пытаешьс€ его поцеловать! `@/
+`"It's probably all prickly when she tries to go for a kiss, gross! `@/
 ;!s0Б@ВЂВбВЅВЂВбБA/
-!s0` ь€-кь€, `/
+!s0`Kyakya, `/
 se1 48
 quakey 2,500
 
 ;ВЂВбВЅВЂВбБIБv/
-`кь€-кь€!" `/
+`kyakya!" `/
 se1 48
 quakey 2,500
 
@@ -13162,35 +13162,35 @@ se3v 75,85
 ld l,ROS_IkariA2,63
 
 ;!s0БuВ§ВйВ≥ВҐВнВжГbБIБI/
-!s0`"«амолчите! `/
+!s0`"Shut up! `/
 
 se1 12
 se2 72
 quakey 3,600
 
 ;@Б@ОДМкВЈВйЙ…В™В†ВЅВљВзБAГtГНГУГgГXГКГbГgВћФТГПГУГsВћГЙГtВрПгВ∞ВƒВњВеВ§ВЊВҐБIБI@Б@ЛєВћГКГ{ГУВаЦYВкВ»ВҐВ≈ВжГbБIБHБv
-@`≈сли нашли врем€ сплетничать, покажите мне эскиз белого плать€ в разрез!`@` » не забудьте о фиолетовой ленточке на груди!" `
+@`If you have time to gossip, show me the rough design of that front slit white dres!`@` And don't forget about the purple ribbon on the chest!" `
 !sd\
 ;БГШOНј
 
 ;Б@ОуШbКнВрОиВ≈Н«ВҐВЊШOНјВ™БAММК«ВрХВВЂЧІВљВєВƒЛ©В‘БB\
-` ѕрикрыв рукой трубку, –оза крикнула во весь голос. `\
+` Covering the receiver with her hand, Rosa yelled with a blood vessel popping up. `\
 ld l,ROS_nayamuA1,80
 
 ;БuВ†ВЯБAВ≤ВяВсВ»В≥ВҐВЋБB@БcБcВ±ВсВ»КіВґВ»В≠ВзВҐБAГ}Г}ВћВ®ОdОЦВЌЦZВµВҐВћВжБB@ЧpМПВЌЙљБH@Б@ОиТZВ…ВЋБHБv\
-`"ј-а, извини.`@`  ...ѕросто у мамы столько дел.`@` „то тебе нужно?`@` ƒавай быстро, ладно?" `\
+`"Ah, I'm sorry about that.`@` ...Mama's just so busy with work.`@` What did you need?`@` Make it quick, okay?" `\
 ;БГШOНј
 
 mbg black,22
 
 ;БuВ§Б[БI@Б@ВҐВ¬ВаВ®ОdОЦВрВ™ВсВќВЅВƒБAЛAВиВ™ТxВҐГ}Г}ВћВљВяВ…ВЋБB@Н°УъБAВ®ТЛВ…ЛAВЅВƒВЂВљОЮБAГ}Г}ВћКУВ…ГvГМГ[ГУГgВрУьВкВљВћБBБv\
-`"”-у!`@` “ы так упорно трудишьс€, что опаздываешь домой, и € приготовила подарок.`@`  огда ты сегодн€ пришла домой на обед, € положила его тебе в сумку." `\
+`"Uu!`@` Mama always works so hard that she comes home late all the time.`@` Today, when you came home for lunch, I put a present in your bag." `\
 mcbg 22
 
 ld l,ROS_majimeA1,80
 
 ;БuВ¶БH@Б@КУВ…БHБv\
-`"Ё?`@` ¬ сумку?" `\
+`"Eh?`@` My bag?" `\
 ;БГШOНј
 
 bg black,2
@@ -13202,43 +13202,43 @@ ld r,ROS_KomaruA1,0
 ld l,MAR_WaraiA1,2
 
 ;Б@ШOНјВЌН°УъБAВљВ№ВљВ№О©СоЛяВ≠ВрКсВЅВљВћВ≈БAВ®ТЛВЊВѓВ≈ВаИкППВ…В∆БAР^ЧҐШ±В∆ТЛРHВрОжВЅВљВћВЊБB@
-` –оза случайно оказалась р€дом с домом и решила побыть с ћарией хот€ бы во врем€ обеда. `\
+` `Rosa happened to be near home that day, and had decided to be together with Maria at least for lunch. `\
 
 ;Б@Р^ЧҐШ±ВЌВїВ±В≈ГvГМГ[ГУГgВрУnВµВљВ©ВЅВљВћВЊВ™БA@/
-` ћари€ хотела дать ей подарок ещЄ тогда, `@/
+` Maria had wanted to give the present to her then, `@/
 ld r,ROS_AseruA1,80
 
 ;ШOНјВ™ХsЛ@МЩВ…БAВаВ§НsВ©В»В≠ВњВбНsВ©В»В≠ВњВбВ∆ШAМƒВµВљВћВ≈БAКУВ…ВїВЅВ∆РцВиНЮВ№ВєВƒВ®ВҐВљВћВЊБB\
-`но –оза была в плохом настроении и настаивала, что ей нужно идти, так что она втайне бросила его в сумку матери.`\
+`but Rosa was in a bad mood and kept insisting she had to leave, so she had secretly slipped it into her mother's bag.`\
 
 bg black,22
 mono off
 
 ;Б@БcБcОјНџВћВ∆В±ВлБAШOНјВ…В∆ВЅВƒВЌНяЦ≈ВЏВµВЁВљВҐВ»ЛAСоВЊВЅВљБB\
-` ...Ќа самом деле –оза вернулась домой в искупление. `\
+` ...In truth, Rosa had returned home as a way of atonement. `\
 bg Different_spiral_1a,28
 
 ;Б@РVВµВҐЧцРlВ∆РФУъИкППВ…ВҐВйВ±В∆В…В»ВЅВƒВйВћВ≈БAВїВкВ…СќВЈВйМКЦДВяВћВ¬ВаВиВ≈ВћУЋФ≠ВћЛAСоБB@БcБcВїВµВƒБAРФУъЛAСоВµВ»ВҐВ±В∆ВрИуПџХtВѓВйВ©ВћВжВ§В»БAЦZВµВҐЦZВµВҐВћШAМƒБB\
-` ќна собиралась следующие несколько дней провести с новым возлюбленным, поэтому вернулась домой, чтобы заполнить пробел во времени.`@`  ...» она внушила дочери, что пока не вернЄтс€, поскольку зан€та. `\
+` She was going to be with her new lover for the next few days, so he had intended to return home to fill in that gap of time.`@` ...And she had impressed upon her daughter that she wouldn't be returning for a few days because she was busy. `\
 
 bg black,22
 bg off_1a,22
 
 ;Б@БcБcВЌБ[БB@ОДВаО©Х™В™ИЂВҐГ}Г}ВЊВ∆ХSВаП≥ТmВЊВнБB@
-` ...’а-а.`@` ѕризнаю, € сто раз ужасна€ мать. `\
+` ...Haah.`@` I'll acknowledge that I'm a terrible mother a hundred times over. `\
 ;Б@ЦЇВрХћВлВ…ВµВƒБAВ±ВсВ»ФйЦІВћМрНџВрВµВƒВҐВйВ»ВсВƒБcБI@
-` ѕренебрегаю дочерью и втайне веду отношени€!.. `\
+`Slighting my daughter, and keeping secret relationships like this!.. `\
 
 ;Б@В≈ВаВЋБAР^ЧҐШ±БB@Г}Г}ВЌХкВЊВѓВ«БAВ№ВЊПЧВ≈ВҐВљВҐВћБI@
-` » всЄ же, ћари€.`@` я мать, но € хочу быть ещЄ и женщиной! `\
+` But you know, Maria?`@` I may be a mother, but I want to be a woman, too! `\
 ;Б@В№ВЊВ№ВЊФRВ¶ВйВжВ§В»ЧцВ™ВµВљВҐВћВжБHБI@Б@В†ВЯБAВїВкВрВ†В»ВљВ…ВнВ©ВкВ∆ВЌМЊВнВ»ВҐВнБB\
-` я ещЄ хочу испытать страстную любовь!`@` ј-а, € не прошу теб€ пон€ть мен€. `\
+` I still want to experience passionate love, alright?!`@` Aah, I'm not telling you to understand that. `\
 
 ;Б@ГAГLГqГgВ≥ВсВ∆ВҐВйВ∆ВЋБAРhВҐВ±В∆ВрВЁВсВ»ЦYВкВƒБAИкФ‘НKВєВЊВЅВљУъБXВрОvВҐПoВєВйВћБI@
-` — јкихито € забываю обо всех трудност€х и вспоминаю счастливые времена! `\
+` When I'm with Akihito, I forget all my hardships and remember all the happier times! `\
 
 ;Б@КmВ©В…ГqГQВЌФZВҐРlВЊВнБB@ИкУъВ…ОOЙсВЌГqГQВрТдВЅВƒВўВµВҐВнВжВЋБB@В†ВЯВ≈ВаБAГqГQВ™ФZВҐРlВЌБAТjРЂУIВ»И”Ц°В≈ВаЛ≠ВҐВЅВƒМЊВ§ВµВ°Б`БB\
-` ƒа, у него густа€ борода.`@` “ака€ густа€, что хотелось бы мне, чтобы он брил еЄ три раза в день.`@` ј, но ещЄ говор€т, что парни с густой бородой самые сильные. `\
+` It may be true that he has a thick beard.`@` It's so thick I'd like him to shave it three times a day.`@` Ah, but they also say that guys with thick beards can be the strongest men. `\
 
 E_A
 ME1v 5,30
@@ -13247,31 +13247,31 @@ bg black,1
 
 
 ;!s0БuБcБcБcБcР^ЧҐШ±БB/
-!s0`"......ћари€.`/
+!s0`"...Maria.`/
 se1 13
 quakey 2,500
 
 ;БcБcВ±ВкВЌБcБcБAБcБcБHБv/
-`  ...„то это...такое?.." `/
+` ...What is... this?.." `/
 !sd\
 
 ;БГШOНј
 
 ;БuР^ЧҐШ±В©ВзВћГvГМГ[ГУГgВЊВжБB@БcВЂВ–В–В–В–В–БBБv\
-`"ћой тебе подарок.`@`  ... и-хи-хи-хи-хи." `\
+`"It's your present from Maria.`@` ...Kihihihihi." `\
 
 fede 11,500
 bg Different_spiral_1a,28
 bgm1 96
 ;Б@ВїВкВЌБAБcБcВ«В§М©ВƒВаБB@ТjРЂЧpВћБAУdУЃХEТдВиБB\
-` Ёто была, ...с какой стороны ни посмотри,`@` мужска€ электробритва. `\
+` That thing was... no matter how you looked at it.`@` An electric shaver for men. `\
 
 bg black,22
 
 ;БuВ±ВкВЌБA/
 ;!d600БcБcВ«В§ВҐВ§И”Ц°В©ВµВзБcБcБH@Б@Г}Г}В…БAВ∆ВҐВ§В±В∆В»ВћБcБHБv\
-`" ак...`/
-!d600`это понимать?..`@` Ёто мне?.." `\
+`"What on earth...`/
+!d600` is this supposed to mean?..`@` You're saying this is for me?.." `\
 
 ;БГШOНј
 
@@ -13279,7 +13279,7 @@ bg black,22
 bg off_1a,22
 
 ;БuН°ВћГ}Г}В…БAИкФ‘В“ВЅВљВиВ»ГvГМГ[ГУГgВЊВ∆ОvВ§ВжБB@ВЋБHБ@КрВµВҐВ≈ВµВеВ§БH@Б@ОgВЅВƒБHБ@ОgВЅВƒБH@Б@Г}Г}В™КмВсВ≈В≠ВкВйВћВ™БAР^ЧҐШ±ВћИкФ‘ВћНKВєВ»ВћБB@ВЊВ©ВзВїВкВрОgВЅВƒБHОgВЅВƒБH@/
-`"я подумала, что сейчас это идеальный дл€ теб€ подарок.`@` ѕравда?`@` “ы ведь рада?`@` ѕользуйс€.`@` ѕользуйс€, ладно?`@` я счастлива радовать маму.`@` “ак что об€зательно пользуйс€, хорошо?`@` ѕользуйс€, ладно?`@` Ћадно? `@/
+`"I thought it might be the perfect present for Mama right now.`@` Right?`@` You're happy, aren't you?`@` Use it.`@` Use it, okay?`@` Making Mama happy is Maria's greatest pleasure.`@` So make sure you use it, alright?`@` Use it, okay?`@` Use it, okay? `\
 
 textoff
 se1 34
@@ -13290,7 +13290,7 @@ bgcopy
 nega 0
 
 ;Б@ВЂВ–БAВЂВ–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–В–БIБIБv\
-` и-хи, ки-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи- хи-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи!!!"`\
+`Kihihihiihihihiihihiihihihihiihihihihihihiihihihihihihihihihihihihihihihihihihihihihihihhihihihiihhi!"`\
 
 
 bg black,2
@@ -13298,14 +13298,14 @@ bg ros_o1aN,0
 ld r,ROS_KomaruA4,2
 
 ;Б@ГvГМГ[ГУГgВрВµВљВзВ†ВзХsОvЛcБB@
-` ќпределЄнно загадочный подарок. `\
+` That present certainly was mysterious. `\
 
 ;Б@ШOНјВЌВ†ВсВ»В…ВаЦZВµВҐЦZВµВҐВ∆МЊВЅВƒВҐВљВћВ…БA@ВїВћУъВ©ВзВЌВЂВЅВњВиВ∆ЛAСоВЈВйВжВ§В…В»ВЅВƒБAР^ЧҐШ±В∆ЦИУъБAВ®Ч[Ф—ВрРHВ„ВƒВ≠ВкВйВжВ§В…В»ВиВ№ВµВљВ∆В≥БB@
-` ’от€ –оза настаивала, что очень зан€та,`@` после того дн€ она приходила домой воврем€ и каждый вечер ужинала с ћарией.`\
+` Even though Rosa had insisted she was so busy,`@` she started coming home right on time after that day,`@` and ate dinner with Maria every night.`\
 
 se1 48
 ;Б@В∆ВЅВ“ВсВѕВзВиВћВ’В£БB\
-` » жили они долго и счастливо.`\
+` And they lived happily ever after.`\
 bg black,5
 
 se1 22
@@ -13315,38 +13315,38 @@ mov %MAR_isyou,2
 ld r,MAR_WaraiA2,24
 
 ;БuВ§Б[БI@Б@ГxГAГgВћВ®ШbВЈВ≤ВҐВЈВ≤ВҐБI@Б@ВњВбВсВ∆Р^ЧҐШ±НKВєВ…В»ВкВљБB@Г}Г}В™ЛAВЅВƒВЂВљБ[БI@Б@В§Б[В§Б[В§Б[БIБv@
-`"”-у!`@` ”дивительна€ истори€, Ѕеато!`@` я рада.`@` ћама вернулась домой!`@` ”-у, у-у, у-у!" `\
+`"Uu!`@` Beato's story is amazing!`@` Maria became happy.`@` Mama came home!`@` Uu, uu, uu!" `\
 ;БГЦВПЧР^ЧҐШ±
 
 ld l,BEA_WaraiA2,23
 
 ;БuВ»Б[БH@Б@ВЊВлБ[БH@Б@ВњВбВсВ∆В–В∆ФPВиУьВкВƒБAВҐВҐКіВґВ…В№В∆ВяВљВлБ[БHБIБv\
-`"¬от видишь, что € говорила.`@` я всЄ перемешала, но конец же счастливый, да-а?!" `\
+`"See?`@` Wasn't it great?`@` I mixed things up, but it all ended happily, riight?!" `\
 ;БГГxГAГg
 
 bg rose_3cp,0
 ld c,RON_WaraiA2,24
 
 ;БuЧLМшВ≈ВЈБB@ФPВиВрУьВкВ¬В¬ВаБAВњВбВсВ∆Х®МкВ∆ВµВƒРђЧІВµВљВ©В∆БBБv@
-`"Ќедурно.`@` Ќесмотр€ на повороты, истори€ закончилась как положено." `\
+`"Quite well done.`@` Despite the added twist, you managed to conclude the story properly." `\
 ;БГГНГmГEГF
 
 ld r,WAL_FumanA1,24
 
 ;БuБcБcВ®БAВ®ВўВсБB@/
-`"... хм. `@/
+`"...Uhm. `@/
 
 ld r,WAL_KomaruA2,80
 
 ;В¬БAВ¬В№ВиВ≈ВЈВЋБB@Р^РSНЮВяВƒСIВсВЊВаВћВ»ВзБAВљВ∆В¶ХiВ™ИбВЅВƒВµВ№ВЅВƒВаВїВкВЌУЌВ≠БAБcВ∆ВҐВ§В®ШbВ≈ВЈБB@БcБcСеОЦВ»ВћВЌРSБAВ∆ВҐВ§В±В∆В≈ВЈВЋБcБBБv\
-`“-то есть...`@`мораль истории такова: Џ00171раз они искренне выбрали подарки, не имеет значени€, что к родител€м попали другие вещиЏ00187.`@`  ...√лавное - сердце..." `\
+`So the moral of the story is...`@` that it didn't matter that their parents got different gifts, as they were picked out with sincerity...`@` Meaning, the heart is the most important thing, right?" `\
 ;БГГПГЛГMГКГA
 
 ;Б@ГПГЛГMГКГAВЌБAШbВрВяВњВбВ≠ВњВбВ…В≥ВкВљВ…ВаВ©В©ВнВзВЄБAЛЎВ™Т ВЅВƒВйВЁВљВҐВ»Х]ЙњВрВ≥ВкВƒБAВњВеВЅВ“ВиЦ ФТВ≠В»ВҐБB@
-` ¬ергили€ оценила историю, не обраща€ внимани€ на то, что еЄ испортили. `\
+` Virgilia evaluated the story as though it made sense, without worrying about how messed up it had become. `\
 
 ;Б@ЙчВµВҐВћВ≈Н≈МгВ≠ВзВҐБAВҐВҐШbВћВжВ§В…ГVГБВƒВЁВљВҐБB\
-` ’оть истори€ и была местами невыносима, по крайней мере, она хорошо закончилась. `\
+` She acted satisfied that although the story had been a bit unbearable, at least it had ended nicely. `\
 bg rose_3aP,0
 ld c,BEA_DefB1,23
 ld c,BEA_waraiA1,80
@@ -13355,88 +13355,88 @@ fede 0,1000
 E_A
 
 ;Б@ВЈВйВ∆БAЛ}В…ГxГAГgВ™ИЎВ№ВиБAВ«В±В©ВзВ∆ВаВ»В≠БAГvГМГ[ГУГgГ{ГbГNГXВрОжВиПoВµВљБB\
-` “огда Ѕеато вдруг выпр€милась и достала из воздуха подарочную коробку. `\
+` Right then, Beato suddenly sat upright, and conjured a present box out of thin air. `\
 
 se1 4
 ld c,BEA_AkuwaraiA3,80
 
 ;БuВґВбВґВбБ[ВсБф/
-`"“а-да!Џ09834 `/
+`"Tadah!~ `/
 wait 500
 bgm1 60
 ;Б@В∆ВҐВ§ВнВѓВ≈БAВ±ВкВЌП®В©ВзВ®ОtП†ЧlВ…ВЊБB@П®ВаЛќШJКіО”ВћУъВ…БAХБТiРҐШbВ…В»ВЅВƒВҐВйБAГНГmГEГFВвВ®ОtП†ЧlВ…ГvГМГ[ГУГgВрС°ВиВљВҐВ∆ОvВЅВƒВ»БIБv\
-` ј теперь мой подарок вам, наставница.`@` я подумала, что на ƒень благодарности мне стоит что-нибудь подарить –онове и наставнице за то, что они всегда пригл€дывают за мной!" `\
+` Alright, here is my present to you, Teacher.`@` I thought that on Thanksgiving Day, perhaps I should give gifts to Ronove and Teacher for always looking after me!" `\
 ;БГГxГAГg
 
 bg rose_3bp,0
 ld r,WAL_KomaruA2,24
 
 ;БuВ№БAБcБcВ№ВЯБcБB@В№В≥В©В†В»ВљВ™БAГvГМГ[ГУГgВрС°ВлВ§В»В«В∆ВҐВ§ЛCОЭВњВ…В»ВйВ∆ВЌБcБB@БcБcВ§БAКрВµВ≠ВƒМЋШfВЅВƒВµВ№ВҐВ№ВЈВжБBБv@
-`"...„-что ж...`@` Ќикак не ожидала от теб€ подарка...`@`  ...я-€ и счастлива, и в недоумении." `\
+`"....W-well...`@` I certainly never expected you to give out presents...`@` ...I-I am both happy and concerned." `\
 ;БГГПГЛГMГКГA
 
 ld l,RON_DefA1,23
 
 ;БuОДВаРжВўВ«БAВ®ПмЧlВжВиТЄС’ВҐВљВµВ№ВµВљБB@В№ВЊКJВѓВƒВЌВ®ВиВ№ВєВсВ™БBБv\
-`"ћиледи и мне дала подарок.`@` ’от€ € ещЄ не открыл." `\
+`"I also received one from Milady earlier.`@` Although I still have not opened it." `\
 ;БГГНГmГEГF
 
 cl r,23
 ld r,BEA_WaraiA2,24
 
 ;БuВ§ВёБB@ГНГmГEГFВ…ВЌВаВ§УnВµВљБB@ЛCВ…ВєВЄБAВ®ОtП†ЧlВаКJВѓВƒЧ~ВµВҐБI@Б@ВўВкВўВкВўВкБBБv\
-`"ƒа.`@` я уже дала –онове подарок.`@` Ќе о чем беспокоитьс€, откройте, наставница!`@` Ќу же, давайте, давайте." `\
+`"Yes.`@` I have already given Ronove his.`@` Open it without worries, Teacher!`@` Come on, come on, come on." `\
 ;БГГxГAГg
 
 bg rose_3cP,0
 ld l,WAL_WaraiA1,24
 
 ;БuБcБcБcВ»ВйВўВ«БB@ГxГAГgБAГIГ`В™У«ВяВ№ВµВљВжБHБv@
-`"...¬сЄ €сно.`@` Ѕеато, € уже знаю, чем это закончитс€." `\
+`"...I see.`@` Beato, I already know how this is going to end." `\
 ;БГГПГЛГMГКГA
 
 ld r,BEA_AkuwaraiA1,24
 
 ;БuВ÷Б`БH@Б@ЙљВћШbВвВзБHБv\
-`"’м?`@` ¬ы о чЄм?" `\
+`"Hm~?`@` What are you talking about?" `\
 ;БГГxГAГg
 
 ld l,WAL_WaraiA2,80
 
 ;БuОДВ∆ГНГmГEГFВ…С°ВЅВљГvГМГ[ГУГgВ™ЛtВ…В»ВЅВƒВҐВйВћВ≈ВµВеВ§БB@ОДВ…БAТjРЂЧpВћГvГМГ[ГУГgВ™ПoВƒВЂВƒВ—ВЅВ≠ВиЛ¬УVБB@В«ВЅВљВсВќВЅВљВсБAВ«ВЅВ∆ВЌВзВҐБB@/
-`"ѕодарки дл€ мен€ и –онове, очевидно, помен€лись местами.`@` “ы ожидаешь, что € буду потр€сена, получив подарок, предназначенный дл€ мужчин.`@` » всЄ закончитс€ с треском."`\
+`"The presents given to me and Ronove must have been switched.`@` You expect me to be shocked when I receive a gift meant for him.`@` Ending things with a bang."`\
 se1 4
 
 ;БcБcВ∆ВҐВ§В∆В±ВлВ≈ВµВеВ§БH@Б@В†В»ВљВћНlВ¶ВйВ±В∆ВЌТPПГВ≈БAВҐВ¬ВаРжВ™У«ВяВ№ВЈВжБB@БcБcВ№ВЯБAВ≈ВаБBБv\
-`"...Ёто ведь ты задумала?`@` “вои мысли до того просты, что € с лЄгкостью могу читать их.`@` Ќо всЄ же..."`\
+`"...That is what you're aiming for, is it not?`@` The things you think of are so simple that I can always see right through them`@`. ...Well, still..."`\
 ;БГГПГЛГMГКГA
 
 
 ;Б@ВїВ§ВҐВ§В≥В≥ВвВ©В»ГCГ^ГYГЙВ™ОdНЮВ№ВкВƒВҐВљВ∆ВµВƒВаБB@
-` ƒаже с такой скромной шалостью... `\
+` But disregarding this modest prank... `\
 ;Б@ГxГAГgВ™ГvГМГ[ГУГgВрС°ВЅВƒВ≠ВкВљВ∆ВҐВ§ЛCОЭВњВ™БAЙљВжВиВаСеОЦБB@
-` ¬ажны чувства Ѕеато, вложенные в подарок. `\
+` Beato's feelings put into the presents were the important thing. `\
 
 ;Б@КіО”ВћЛCОЭВњВїВћВаВћВ…ПЯВйС°ВиХ®ВЌВ»ВҐВћВЊВ©ВзБB@В№В≥В…ВљВЅВљН°БAО©Х™ВЌВїВкВрУ`В¶ВљВЌВЄВ»ВћВЊВ©ВзБB\
-` Ќет подарка ценнее самих чувств благодарности.`@` ≈й просто нужно было убедить себ€ в этом. `\
+` There was no kind of gift that could be more precious than the feelings of gratitude themselves.`@` She had even just said that herself. `\
 ld l,WAL_DefA1,80
 
 ;БuБcБcВ№ВЯГIГ`ВЌУ«ВяВƒВ№ВЈБB@ГНГmГEГFЧpВ…С°ВЅВљБAР‘ВҐГtГУГhГVВ≈ВаПoВƒВ≠ВйВ∆В©БAВїВ§ВҐВ§ГIГ`В≈ВµВеВ§БB@/
-`"...я знаю, что будет.`@` ”верена, € получу нечто вроде красной набедренной пов€зки дл€ –онове.`@/
+`"...Well, I know what is going to happen.`@` I'm sure I will find a red loincloth meant for Ronove or some such.`@/
 
 se1 1010
 ld l,WAL_FumanA1,80
 
 ;БcБcБcБcВ±ВкВЌБH/
-`  ...„то? `/
+`  ...W-what's this? `/
 ;!d800Б@Ц{БHБv\
-!d800?` нига?"`\
+!d800?`A book?"`\
 ;БГГПГЛГMГКГA
 
 bg black,26
 
 ;Б@ГuГbГNГJГoБ[В™К|В©ВЅВƒВҐВйВћВ≈БAГ^ГCГgГЛВЌВнВ©ВзВ»ВҐБB@
-`  нига была в обложке, и она не видела название. `\
+` Because there was a cover on it, she couldn't see what the title was. `\
 
 se1 1010
 mono 1
@@ -13445,7 +13445,7 @@ bgcopy
 mono off
 
 ;Б@ВµВ©ВµБAВѕВзВиВ∆ТЖРgВрКJВ≠В∆БAГВГmГNГНВћБAГXГeГУГhГOГЙГXГAБ[ГgВћВжВ§В»ГCГЙГXГgВ™ВљВ≠В≥ВсНЏВЅВƒВҐВљБB@БcБcБcВ±ВкВЌБcБcБA\
-` ќднако, открыв, она увидела различные чЄрно-белые иллюстрации, напоминающие арт художественного стекла.`@`  ...Ёто... `\
+` However, when she opened it, she saw various monochrome illustrations that looked like stained glass art inside.`@` ...This was... `\
 
 bg black,22
 bg rose_3ap,0
@@ -13454,62 +13454,62 @@ ld l,WAL_DefA2,22
 ld l,WAL_WaraiA1,80
 
 ;БuБcБcУhВиКGБAВћЦ{В≈ВЈВ©БBБv@
-`"...–аскраска?" `\
+`"...A coloring book?" `\
 ;БГГПГЛГMГКГA
 
 ld r,BEA_WaraiA2,24
 
 ;БuВїВ§ВїВ§БB@ОqЛЯЧpВћВґВбВ»ВҐВЇГFБH@Б@СеРlЧpВћБAВµВЅВ©ВиОиЙЮВ¶ВћВ†ВйБAМ√Н°ВћЦЉЙжВћУhВиКGВЊБB@ЛвНјВћИ…У°ЙЃВ≈ФГВЅВƒВЂВљРЕН РFЙФХMГZГbГgХtВЂВжБcБIБv\
-`"ƒа, именно.`@` ќна не дл€ детей, если что.`@` Ёто раскраска дл€ взрослых с шедеврами всех времЄн.`@` я и акварельные карандаши приложила!.." `\
+`"Yeah, that's right.`@` It's not one for kids, alright?`@` It is a coloring book for adults, featuring masterpieces from all the ages.`@` I even bought watercolor pencils for you as well!.." `\
 ;БГГxГAГg
 
 ld c,RON_WaraiA1,24
 
 ;БuВ®ВвБAВ±ВкВЌСAВ№ВµВҐБB@ОДВ™И»СOВ©ВзЧ~ВµВ™ВЅВƒВҐВљВаВћВ≈ВЈБBБv@
-`"ќ, ну и ну, € завидую.`@` ƒавно хотел такую." `\
+`"Oh my, I'm jealous.`@` I have wanted that for a long while." `\
 ;БГГНГmГEГF
 
 ;Б@ГНГmГEГFВ™В…ВЅВ±ВиВ∆ФчПќВёБB\
-` –онове улыбнулс€.`\
+` Ronove smiled.`\
 
 bg black,22
 bg rose_1ep,22
 
 ;Б@ГxГAГgВћВ±В∆ВЊВ©ВзБAВ«В§ВєХѕВ»ГIГ`ВрХtВѓВƒВ≠ВйВЊВлВ§В∆РgН\В¶ВƒВҐВљВћВ™БAЛ}В…Р\ВµЦуВ»В≠В»ВЅВƒВµВ№В§БcБB@
-` ќна вдруг испытала чувство вины за то, что подозревала Ѕеато, наверн€ка что-то задумавшую, и сохран€ла бдительность... `\
+` She suddenly felt guilty for suspecting Beato must have had something up her sleeve and keeping up her guard... `\
 
 ;Б@ГПГЛГMГКГAВЌУ™ВрЙЇВ∞БAКіО”В∆О”НяВрУѓОЮВ…О¶В≥В»ВѓВкВќВ»ВзВ»В©ВЅВљБB\
-` ¬ергили€ могла лишь опустить голову, извин€€сь и выража€ благодарность. `\
+` Virgilia could do nothing but lower her head in a way that denoted both gratitude and apology. `\
 
 bg rose_3cp,0
 ld r,WAL_MajimeA1,24
 ld r,WAL_WaraiA1,80
 
 ;БuВ†БAВ†ВиВ™В∆В§БcБB@В†В»ВљВзВµВҐС°ВиХыВ≈ВЈВЋБB@БcБcВ®В©ВµВ»Х®В™ГvГМГ[ГУГgВ…ИбВҐВ»ВҐВ∆ОvВнВєВƒВ®ВҐВƒБAВ±ВсВ»Й§УєВ»СfУGВ»ГvГМГ[ГУГgБB@БcБcВЈВЅВ©ВиБAВ†В»ВљВћГVГiГКГIВ…йxВ≥ВкВƒВµВ№ВҐВ№ВµВљБcБBБv\
-`"—-спасибо...`@` ƒа, похоже на теб€.`@`  ...“ы навела мен€ на мысль, что подарок - непон€тна€ штуковина, и затем дала мне этот чудесный подарок.`@`  ...я попалась на твой сценарий..." `\
+`"T-thank you...`@` Yes, this seems like something you would do.`@` ......You made me think that the present must be some odd object, then gave me this wonderful gift instead.`@` ...I was completely fooled by your scenario.." `\
 ;БГГПГЛГMГКГA
 
 ld l,BEA_AkuwaraiA2,23
 
 ;БuВ§ВЅВ–ВЅВ–БB@ЦJВяЙяВђВЊВЇБAВ®ОtП†ЧlВЯБB@ГНГmГEГFВ÷ВћГvГМГ[ГУГgВ™К‘ИбВЅВƒВ®ОtП†ЧlВ…НsВЅВњВ№ВЅВљВЊВѓВ»ВсВЊВ©ВзВ≥Г@БBБv\
-`"”хи-хи.`@` Ќе захвалите мен€, наставница.`@` я просто по ошибке дала вам подарок –онове." `\
+`"Uhihi.`@` You give me too much credit, Teacher.`@` I merely gave you Ronove's present by mistake." `\
 ;БГГxГAГg
 
 ld r,WAL_WaraiA2,80
 
 ;БuВ†ВиВ™В∆В§БAГxГAГgБB@БcБcВ±ВћУhВиКGБAВдВЅВ≠ВиВ∆КyВµВёВ±В∆В…ВµВ№ВЈВЋБB@БcБcБcБcВсБHБv\
-`"—пасибо, Ѕеато.`@`  ...я с радостью буду использовать эту раскраску.`@`  ......’м?" `\
+`"Thank you, Beato.`@` ...I will enjoy working in this coloring book.`@` ...Hm?" `\
 ;БГГПГЛГMГКГA
 
 bg book1,22
 
 ;Б@ВѕВљВиВ∆Ц{ВрХ¬ВґВљОЮВћФПОqВ≈БAХ\ОЖВћГuГbГNГJГoБ[В™КOВкВƒВµВ№В§БB@
-`  огда она закрыла книгу, обложка соскользнула.`\
+` When she closed the book, the cover slipped off.`\
 
 se1 1010
 
 ;Б@ВїВ±В…ВЌБAВ±ВћЦ{ВћГ^ГCГgГЛВ™БAВ±В§ЛLВ≥ВкВƒВҐВљБB\
-` » книга называлась так: `\
+` And she saw the book's title: `\
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 E_A
 Se1v 48,100
@@ -13517,8 +13517,8 @@ Se1v 48,100
 locate 0,6
 ;!s0БgКyВµВ≠Ф]ВрКИРЂЙїБIБI/
 ;!d900Б@ПnФNВ©ВзВћУhВиКGБBГ{ГPЦhО~В≈ВҐВ¬В№В≈ВаОбВ≠БIБh/
-!s0`Џ00171”влекательна€ де€тельность мозга! `/
-!d900`–аскраска дл€ людей среднего возраста. ќставайтесь вечно молодыми!Џ00187`/
+!s0`"Fun Brain Activities! `/
+!d900`A Coloring Book for the Middle-Aged. A Way to Always Stay Young!"`/
 
 se1v 47,100
 !sd\
@@ -13528,33 +13528,33 @@ bg rose_3ap,0
 ld c,WAL_WaraiA1,22
 
 ;БuБcБcБcБcБcБcБcБcБcБcБcБcБcБcБcБcБcБcБcБcБcБcБcБcБBБv@
-`"...................................." `\
+`"..." `\
 ;БГГПГЛГMГКГA
 
 ;Б@ГПГЛГMГКГAВћЧЉКбВ™ТњВµВ≠БAБcБcК£ВҐВƒКJВ≠БB\
-` „то бывает крайне редко, оба глаза ¬ергилии... открылись. `\
+` In a rare occurrence, both of Virgilia's eyes... opened. `\
 ME1v 5,30
 se1 2
 bg rose_3an,0
 ld c,WAL_WaraiA1,6
 ;Б@ПdВ≠РґЙЈВҐХЧВ™РБВЂФ≤ВѓБA/
-` ѕодул сильный, тЄплый ветер, `/
+` A strong, lukewarm breeze blew through, `/
 SE1 21
 wait 300
 ;Й©ЛаЛљВћЛуВ…ЧЛЙ_В™В§ВЋВЅВљБcБcБB\
-`и в небе «олотой земли прогремел гром... `\
+`and thunderclouds rolled into the sky of the Golden Land... `\
 
 bg rose_3bn,0
 ld r,BEA_WaraiA1,24
 ld r,BEA_AkuWaraiA4,80
 
 ;БuВ®ОtП†ЧlГ@БAК®ИбВҐВЈВйВ»ВжГHБH@Б@В±ВкВЌГНГmГEГFВ…С°ВЅВљГВГУВ»ВсВЊВ©ВзВ»ВЯБH@Б@Х В…В®ОtП†ЧlВ…С°ВЅВљВнВѓВґВбВЋВ•ВсВЊВЇВ•В¶В¶В¶В•В¶БH@/
-`"Ќаставница-а, не поймите неправильно.`@` я собиралась дать еЄ –онове.`@` Ќе скажу, что она была дл€ ва-а-ас.`@/
+`"Teacher, don't get me wrong, ookay?`@` That was what I intended to give to Ronove.`@` It's not like I really gave it to yooooooooou.`@/
 
 ld r,BEA_AkuwaraiA2,80
 
 ;Б@В®ОtП†ЧlБAМЊВЅВљВаВсВ»ВЯБH@Б@ГvГМГ[ГУГgВ™УьВкС÷ВнВЅВњВ№ВЅВƒВаБAР^РSНЮВяВљГВГУВ»ВзБAВњВбВсВ∆ЛCОЭВњВЌУ`ВнВйВЅВƒМЊВЅВљВаВсВ»Г@Б`/
-` ¬ы же сами сказали.`@` ƒаже если подарки перепутались, пока они подобраны с искренностью, чувства всЄ равно передадутс€`/
+` Teacher, didn't you say it yourself?`@` Even if the presents are switched, as long as the gifts were picked out with sincerity, the feelings will still be passed on~`/
 SE1 37
 ;БЩБv\
 `Џ09734 "`\
@@ -13563,23 +13563,23 @@ SE1 37
 ld l,WAL_DefA2,23
 
 ;БuБcБcБcВ∆В±ВлВ≈ГНГmГEГFБB@В†В»ВљВћГvГМГ[ГУГgВћТЖРgВЌБHБv@
-`"...  слову, –онове.`@` „то ты получил?" `\
+`"...By the way, Ronove.`@` What did you receive?" `\
 ;БГГПГЛГMГКГA
 
 ld c,RON_AkuwaraiA1,24
 
 ;БuВЌВƒБAЙљВ≈ВµВеВ§В©БB@/
-`"„то ж, посмотрим...`@/
+`"Well, let's see here...`@/
 
 se1 1010
 
 ;БcБcВ®ВвВ®ВвВ±ВкВЌВ±ВкВЌБB@Н°БAЧђНsВћИщВёГqГAГЛГНГУО_БAЙ§ПБВ≈ВЈВ»БB@/
-` O, те самые напитки с гиалоурановой кислотой, которые сейчас так попул€рны. `@/
+` Oh my. If isn't those hyaluronic acid drinks that are so popular right now. `@/
 
 ld c,RON_WaraiA1,80
 
 ;В≠ВЅВ≠В≠В≠В≠В≠В≠БAВ±ВкВЌВ±ВкВЌВ†ВиВ™ВљВҐБB@Н≈ЛяБAКKТiВћПгВиЙЇВиВ≈ХGВ™Т…ВсВ≈В®ВиВ№ВµВљВаВћВ≈БAВ®ФNКсВиВ…ВЌМЗВ©ВєВ№ВєВсВ»БAВ’Б[ВЅВ≠ВЅВ≠ВЅВ≠БIБv\
-`’е-хе-хе-хех, премного благодарен.`@` ¬ последнее врем€ у мен€ бол€т колени, когда € хожу по лестницам, пу-ку-ку-ку!" `\
+`Pukukuku, I am most grateful.`@` Lately, my knees have been aching when I go up and down the stairs, pukukuku!" `\
 ;БГГНГmГEГF
 
 textoff
@@ -13595,19 +13595,19 @@ ld r,BEA_AkuwaraiA1,2
 ld l,WAL_DefA1,22
 
 ;БuБcБcБcБcГxГAГgГКБ[Г`ГFБBБv@
-`"...Ѕеатриче."`\
+`"...Beatrice."`\
 ;БГГПГЛГMГКГA
 
 ld r,BEA_AkuwaraiA5,80
 
 ;БuВ»Г@В…Б[БAВ®ОtП†ЧlГ@БBБv\
-`"„то-о-о, наставница?"`\
+`"What is iiit, Teacher?"`\
 ;БГГxГAГg
 
 ld l,WAL_WaraiA1,80
 
 ;БuВ≥ВЯВ≥БAОvВҐПoВµВƒМдЧЧВ»В≥ВҐБBБv@
-`"Ќу же, вспомни." `@
+`"Come, come, try to remember." `@
 ;БГГПГЛГMГКГA
 
 ld r,BEA_AkuwaraiA2,80
@@ -13615,7 +13615,7 @@ bgcopy
 cl a,0
 
 ;БuМhШVВћЛCОЭВњГBБHБv\
-`"ќб уважении к старшим?"`\
+`"About respect for the elderly?"`\
 ;БГГxГAГg
 
 E_A
@@ -13631,7 +13631,7 @@ csp2 3
 
 
 ;!s0БuВ†В»ВљВ™В«В§ВвВЅВƒОEВ≥ВкВйВ©В≈ВЈГbБIБI/
-!s0`" ак ты была убита?! `/
+!s0`"In what way were you killed? `/
 se2 72
 se1 12
 quakey 4,800
@@ -13645,7 +13645,7 @@ bgcopy
 csp2 3
 
 ;Б@ПoВ≈ВжЛРРlВћРнЧсБAХјВ„ВжН|ВћМDГbБAТnХљВ№В≈ЦДВяРsВ≠ВєР_В»ВйСДБIБI/
-`явитесь, гигантские фронтовые солдаты.`@` ¬ р€д, стальные частицы.`@` ѕохорони еЄ в земле, божественное копьЄ!"`\
+`Come forth, Giant Soldier Battle Line. Line up, Bits of Steel. Bury her into the ground, Divine Spear!"`\
 
 textoff
 
@@ -13654,7 +13654,7 @@ bg Armor7,1
 quakey 2,500
 
 ;@Б@РъВњВƒОUВзВµБAЧфВЂВƒВЌПƒВЂХ•В¶БIБI@Б@ПoВ≈ВжГVГGГXГ^ЛяЙqШAСаБAХSВћЙ©ЛаЛ|В≈В±ВћЦ≥ЧзВ»ВйТнОqВрЦDВҐТ„ВµВƒВµВ№ВҐВ»В≥ВҐГbБIБI@Б@ВёВђВ°ВҐВҐВҐВҐВҐВҐВҐВҐВҐВ°ВҐВҐВҐВҐВҐВ°ВҐВҐВҐВҐВ°В°БIБIБv/
-`"ѕросверлите еЄ, разорвите и обратите в пепел!`@` явитесь, отр€д —иест императорской гвардии, проколите эту грубую ученицу сотней стрел!`@` ”гь€-а-а-а-а-а!" `/
+`"Drill her into nothing, tear her apart and reduce her to ashes!`@` Come forth, Chiester Imperial Guard Corps, sew this rude disciple to nothing with your 100 golden arrows!`@` Ugyaaaaaa!" `/
 
 se1 1006
 se2 57
@@ -13676,13 +13676,13 @@ csp2 4
 
 !s0
 ;БuПгУЩВЊГ@БA/
-`"ќтлично, `/
+`"Bring it on, then, `/
 se1 4
 se2 58
 quakex 3,800
 
 ;Х‘ВиУҐВњВжВІВ®В®В®В®В®БI@/
-`просто убью вас первой! `@/
+`I'll just kill you fiiiiirst! `@/
 
 bg black,0
 bg "bmp\background\sbook\zoom\8.png",0
@@ -13691,7 +13691,7 @@ bgcopy
 csp2 4
 
 ;Б@В§В®ВиВбВЯВ†В†В†В†В†В†В†В†В†В†В†В†В†В†В†В†В†В†ВЯВ†В†БIБIБIБIБv/
-`ќрь€-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а!!!"`/
+`Uworyaaaaaaaaaaaaaaaaaaaa!"`/
 !sd\
 ;БГГxГAГg
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
@@ -13735,19 +13735,19 @@ quakey 3,500
 locate 4,7
 
 ;!s0Б@ГhГbГ^ГУ/
-!s0` » всЄ `/
+!s0` And so, things `/
 se1 12
 quakex 3,800
 se2v 36,100
 
 ;ГoГbГ^ГУБB/
-`закончилось `/
+`ended `/
 se3 72
 se1 73
 se1 13
 quakex 3,600
 ;В«ВЅВ∆ВЌВзВҐБB/
-`с треском.`/
+`with a bang.`/
 se3 3
 
 !sd\
