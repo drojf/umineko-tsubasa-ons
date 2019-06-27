@@ -19647,53 +19647,53 @@ bgm1 42
 
 
 ;БuВЂВбБ[ВсБф@Б@ВҐВжВҐВжС“ВњВ…С“ВЅВљГzГПГCГgГfБ[БI@/
-`" ь€-а-аЏ09834 ,`@` Ѕелый день наконец настал! `@/
+`"Kyaaa,`@` White Day is finally here! `@/
 ;!s0Б@ЙљВ™ВаВзВ¶ВйВ©В»ВЅБA/
-!s0`„то же € получу, `/
+!s0`I wonder what I'm getting, `/
 
 ;ЙљВ™ВаВзВ¶ВйВ©В»ВЅБA/
-`что же € получу, `/
+`I wonder what I'm getting, `/
 
 se2 48
 quakey 2,500
 
 ;!sdВљБ`ВћБ`ВµБ`ВЁБ`Б`БIБIБv@
-!sd`€...так...взволнованна!"`\
+!sd`I'm~ so~ excited!"`\
 ;БГГAГXГВ
 
 ;Б@ОOУxВћФ—ВжВиРFЧцНєСњВ™СеНDВЂВ»ГAГXГВГfГEГXВ…В∆ВЅВƒБAС“ВњВ…С“ВЅВљУъВЊВЅВљБB\
-` Ётот день јсмодей, предпочитающа€ любовные интриги трЄм приЄмам пищи, ждала с большим нетерпением.`\
+` This was a day that Asmodeus, who'd rather have love affairs over food, had been looking forward to with much anticipation.`\
 
 
 bg G1F_s1cp,0
 ld r,RG4_fumanA2,24
 
 ;БuГzГПГCГgГfБ[В∆ВЌВ¬В№ВиБAГoГМГУГ^ГCГУГfБ[ВћВ®Х‘ВµВ»ВнВѓВ©БBБv\
-`"“ак на этот Ѕелый день получаешь отданное в ƒень св€того ¬алентина?"`\
+`"So, on White Day, you get back what you've given away on Valentine's Day?"`\
 
 ;БГГxГЛГtГF
 
 ;Б@ГxГЛГtГFГSБ[ГЛВ™БAЧЭЛьВ≈ВЌТmВЅВƒВҐВйВ™БAОјНџВ…ВЌВ«ВћВжВ§В»ВаВћВ©ВнВ©ВиВ©ВЋВйВ∆ВҐВ§ОdСРВ≈ХЈВ≠БB@
-` —просила Ѕельфегор, кое-что понимающа€ в теории, но не столько на практике.`\
+` Belphegor asked that. She understood something in theory, but not so much in practice.`\
 
 ;Б@В±ВћОЮВќВ©ВиВЌБAЦЦВЅОqВћГAГXГВВаРґВЂРґВЂВµВƒОoВћЦвВҐВ…УЪВ¶ВйВћВЊБB\
-` ¬первые јсмодей - младший ребЄнок - взволнованно ответила на вопрос старшей сестры.`\
+` For once, Asmodeus, the youngest child, answered her older sister's question excitedly.`\
 
 se1 20
 ld l,RG7_AkuWaraiA1,63
 ;!s0БuГzГПГCГgГfБ[ВЌВЯБф@/
-!s0`"Ѕелый день - этоЏ09834 `@/
+!s0`"White Day is... `@/
 se1 4
 se2 4
 
 ;Б@ГoГМГУГ^ГCГУВћВ®Х‘ВµВ…В®ЙўОqВрВаВзВ§ВЊВѓВћУъВґВбВ»ВҐВсВ≈ВЈБI/
-` Ѕелый день - не просто день, когда получаешь какую-то конфетку в ответ на подаренное в ƒень ¬алентина!`@/
+` White Day isn't just some day you get some candy in return for Valentine's Day!`@/
 
 se3 72
 quakex 2,400
 
 ;@Б@С°ВЅВљИ§ПоВ…В«ВкВЊВѓЙЮВ¶ВƒВ≠ВкВйВ©БAСКОиВћИ§ПоВћР[В≥ВвЦђБA/
-` Ёто ответ на любовь, `/
+` It's a response to the love you've given your partner, so you can feel it deepen, `/
 
 @/
 
@@ -19701,24 +19701,24 @@ se1 5
 se2 5
 
 ;ВїВћСЉВаВлВаВлБAГПГrВ∆ГTГrВрКyВµВёБAМ√ОЃВдВ©ВµБ`ВҐНsОЦВ»ВсВ≈ВЈВЅБI/
-`глубина любви партнЄра и надежда тихо провести врем€ вместе; событие как древнее, так и изысканное!"`/
+`and look forward to quiet and peaceful time together with them, an event that's both ancient and refined!"`/
 se1 12
 
 \
 
 ld l,RG7_AkuWaraiA4,80
 ;Б@ВаВњВлВсБAС°ВЅВƒВаВзВ§ВаВћВћТlС≈ВњВ≈ВаИ§ПоВЌС™ВкВ№ВЈВ™Б[БAВїВкВЊВѓВ≈НЈВрВ¬ВѓВйВћВЌВ¬В№ВзВ»Б[ВҐБI/
-`"», конечно же, речь идЄт не только о значимости вашей любви, иначе было бы ску-у-учно!`/
+`"And, of course, it's not just about weighing the value of the love you've exchanged, that would be boooring!`/
 
 ;@Б@ВжВиГZГУГXВћВҐВҐВ®Х‘ВµВЌБAОЮВ…ВЌТlТiВвЙњТlВ≈ВЌС™ВкВ»ВҐПкНЗВаВ†ВиВ№Б[ВЈБI@/
-@` –ечь идЄт о выборе стильного ответа соответствующей стоимости и ценности! ¬от почему это так здорово!"`\
+@` It's about choosing a stylish response with the proper cost and value. That's why it's so awesome!"`\
 se1 20
 wait 200
 se2 20
 ld l,RG7_WaraiA1,80
 
 ;Б@ВїВ±ВзХ”ВрКyВµВЁВ»В™ВзБAСКОиВћЛCОЭВњВ∆О©Х™ВћЛCОЭВњВћЙЈУxВрС™ВЅВƒБAВжВиРeЦІВ…В»ВЅВƒБA@РVВµВҐЧцВћПoЙпВҐВрТTВЈРЎВЅК|ВѓВ…ВЈВйВћВ™БAГzГПГCГgГfБ[В∆ВҐВ§ВаВћВ»ВсВ≈В•ВЈБI/
-`"“ы измер€ешь температуру своих чувств по сравнению с его чувствами, вы остаЄтесь наедине,`@` и можно воспользоватьс€ внезапной любовной встречей.`@` ¬от что такое Ѕелый день!`/
+`"You get to gauge the heat of your feelings against theirs, become more intimate,`@` and take advantage of the sudden meeting with your beloved, that's what White Day is about!`/
 
 se1 72
 se2 74
@@ -19732,28 +19732,28 @@ mbg white,1
 mcbg 2
 
 ;Б@ГhГDВxВnВtГIБ[ГPБ[БAВ®ОoЧlГ@БHБv/
-` ѕон€ла, сестра?"`/
+` <Do you OK>, sis?"`/
 !sd\
 ;БГГAГXГВ
 
 ld r,RG4_KomaruA2,80
 
 ;БuБcБcВїБAБcВїВ§В©БB@ВїВкВЌЙљВ∆ВаЦ°ВнВҐР[ВҐНsОЦВЊВ»БcБBБv\
-`"...ѕ-пон€тно.`@` ¬ижу, у этого событи€ глубокий смысл..."`\
+`"...I see.`@` It seems to be an event with deep significance..."`\
 ;БГГxГЛГtГF
 
 bg G1F_S1bp,23
 ld l,RG6_WaraiA2,23
 ;БuГxГЛГ[ВЌВЯБI@Б@ЛљУcВ≥В№ВћВ®Х‘ВµВ™ВЈВЅВ≤ВҐКyВµВЁВ≈Б`ВЈБI@Б@ГxГЛГMБ[В…В№В≈Г`ГЗГRВћПCНsВ…НsВ©ВкВљВїВ§В≈ВЈВµБ[БI@/
-`"я та-ак взволнованна!`@` Ќе терпитс€ посмотреть, что же мистер √оуда мне подарит!`@` ќн отправилс€ на обучение в Ѕельгию, чтобы сделать шоколад!`@/
+`"I'm sooooo excited!`@` I can't wait to see what Gohda gives me~!`@` As far as I know, he went to learn how to make chocolate to Belgium!`@/
 
 ;!s0Б@ВвВЅВѕВиВ®Х‘ВµВЌГzГПГCГgГ`ГЗГRВ©ВµВзГ@ВсБI/
-!s0` ѕоэтому € уверена, что он даст мне в ответ белый шоколад!"`\
+!s0` So I'm sure he'll give me white chocolate in return!"`\
 se1 48
 quakey 2,600
 
 ;@Б@И§ПоВ»ВсВ©ВґВбВ»В≠ВƒБAГ`ГЗГRВћК√В≥В≈В∆ВлВѓВ≥ВєВƒВ•В¶В•ГУБЩ@Б@ВёВЂВбБ`Б`Б`БфБv/
-`"«абудьте о любви, сладость шоколада куда более завораживающа€Џ09734  ћь€-а-аЏ09834 "`/
+`"Forget about love, the sweetness of chocolate is much more bewitching~ Nnnooommm~~ "`/
 se2 5
 
 !sd\
@@ -19762,28 +19762,28 @@ se2 5
 se1 5
 ld r,RG7_WaraiA2,64
 ;БuГAГXГВВЌВЯБI@Б@УVСРВ≥В№ВћВ®Х‘ВµВ™ВЈВЅВ≤ВҐКyВµВЁВ≈Б`ВЈБI/
-`"я та-ак взволнованна!`@` я тоже с нетерпением жду подарка мистера јмакусы~!`/
+`"I'm soooo excited!`@` I'm looking forward to what Amakusa got me, too~!`/
 
 ;@Б@В†ВћХыБAВЈВЅВ≤ВҐГCГPВƒВƒВ•БAГZГУГXВаЧ«В≥ВїВ§ВЊВµБ`БI@Б@В®ЙўОqВ»ВсВƒВ®ОqЧlВЅВџВҐВаВћВґВбВ»В≠ВƒБ`БI@/
-@` ќн та-а-ак крут, и у него такой хороший вкус~!`@` ¬р€д ли это жалка€ конфетка~!`@/
+@` He's soooo cool, and has such good taste~!`@` It's not gonna be something lame like candy~!`@/
 ld r,RG7_WaraiA1,80
 
 ;Б@ГAГNГZГTГКВ∆В©Б[БA/
-` ћожет, ожерелье, `/
+` Maybe it's jewelry? `/
 
 ;ГRГXГБВ∆В©Б[/
-`или косметика, `/
+`Make-up? `/
 
 ;ГAГНГ}В∆В©Б[БI/
-`или парфюм!`/
+`Or perfume?!`/
 
 ;@Б@ВЂВбБ`ВсБA/
-@`  ь€-а, `/
+@` Kyaa, `/
 se1 48
 quakey 2,200
 
 ;ЙљВрВ®Х‘ВµВµВƒЙЇВ≥ВйВћВ©КyВµВЁВ°Б`БЩБv\
-`не терпитс€ увидетьЏ09734 "`\
+`I can't wait! "`\
 ;БГГAГXГВ
 
 ;Б@ГAГXГВВ∆ГxГЛГ[ВЌБAОoЦЕВћЦЦВЅОqУсРlСgВ≈В∆ВƒВаТЗВ™ВҐВҐБB@
