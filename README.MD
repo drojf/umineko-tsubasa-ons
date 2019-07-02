@@ -20,7 +20,7 @@ Current progress:
 |7|Yes|Yes|v0.50.0|
 |8|Yes|No|Not yet released|
 |9|Yes|No|Not yet released|
-|10|In progress|No|Not yet released|
+|10|Yes|No|Not yet released|
 |11|No|No|Not yet released|
 |12|No|No|Not yet released|
 |13|No|No|Not yet released|
