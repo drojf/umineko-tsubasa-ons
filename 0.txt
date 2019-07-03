@@ -22973,10 +22973,10 @@ mov %r_hyouji_cha_ma,ma5_k
 bgm1 90
 
 ;Б@УаОЌОЈНsЛ@К÷ВЌБAУVКEСеЦ@Й@ВћЙЇВЈВ†ВзВдВйЦљЧяВрБAКmОјВ©В¬РЄЦІВ…ОЈНsВЈВйБB@
-` ¬ апостольском правоохранительном органе строго соблюдались законы Ќебесного суда.`\
+` Within the Repentance Enforcement Agency, the laws of the Great Court of Heaven are strictly enforced.`\
 
 ;Б@ВїВ±В…ПКСЃВЈВйИўТ[РRЦвКѓВЌЦ@ВћЛRОmВ∆МƒВќВкВƒО]В¶ВзВкБA@Р≥Л`В…ФRВ¶ВйОбО“В™ЦЏОwВЈПЂЧИВћЦ≤ВћИкВ¬В…РФВ¶ВзВкВƒВҐВйБB\
-` »нквизиторов почитали как блюстителей пор€дка,`@` и многие молодые люди мечтали вступить в их р€ды.`\
+` Its Inquisitors of Heresy are praised as Knights of the Law,`@` and countless virtous youths dream of nothing but joining their ranks.`\
 
 mono 1
 
@@ -22987,10 +22987,10 @@ cl c,0
 mono off
 
 ;Б@ВЊВ©ВзБAГRБ[ГlГКГAВ™ИўТ[РRЦвХвН≤КѓВ∆В»ВЅВљОЮБA@ФёПЧВрВжВ≠ТmВйО“ВљВњВЌБAВ±ВкВЅВџВЅВњВаВїВкВрЛЅВ≠В±В∆ВЌВ»В©ВЅВљБB@
-` ѕоэтому, когда  орнели€ стала помощником инквизитора, никто из тех, кто знал еЄ, не удивилс€.`\
+` So when Cornelia became an Inquisitor Aide, no one that knew her was surprised in the slightest.`\
 
 ;Б@ФёПЧВЌЛрТЉВ…БAПђКwНZВћС≤Л∆ГAГЛГoГАВ…ПСВҐВљПЂЧИВћЦ≤ВрОјМїВµВљВћВ≈В†ВйБB\
-` »сполнилась еЄ мечта о будущем, о которой она писала в ежегоднике ещЄ в начальной школе.`\
+` It was the dream of the future that she had written in her grade school yearbook, and now she had simply made it a reality.`\
 
 textoff
 bg white,2
@@ -23005,19 +23005,19 @@ me1 5
 bg BUI_o1a,2
 
 ;Б@ФёПЧВ™УьЛ«ВµВƒН≈ПЙВ…ЛЅВҐВљВћВЌБB@
-` ќднако кое-что после вступлени€ еЄ удивило. `\
+` There were things that surprised her upon entry, though. `\
 
 ;Б@СzСЬВрРвВµВƒБA/
 ;!d900БcБcЙ…В»ОdОЦВ≈В†ВЅВљВ±В∆В≈В†ВйБB\
-` » в первую очередь...`@/
-!d900`свобода в исполнении работы.`\
+` The first and foremost was...`@/
+!d900` the amount of free time the job had.`\
 
 
 ;Б@ОјНџВ…ИўТ[ВрРRЦвВЈВйГGБ[ГXВљВњВЌСљЦZВрЛ…ВяВйВћВЊВлВ§В™БA@БcБcГRБ[ГlГКГAВ™ФzСЃВ≥ВкВљХФПРВЌБAВ∆ВƒВаЙ…В»ОdОЦВЊВЅВљБB@
-` ’от€ инквизиторов и вправду загружали работой,`@` ...в отделе, куда направили  орнелию, была совсем не така€ рабоча€ нагрузка.`\
+` While it's true that the top Inquisitors are incredibly busy,`@` the department Cornelia had been assigned to was much slower in regards to workload.`\
 
 ;Б@ВїВµВƒВ≥ВзВ…СzСЬВрЧ†РЎВЅВƒБA@БcБcБcБcГЛБ[ГYВ≈В†ВЅВљБB/
-` ¬опреки еЄ ожидани€м,`@` ......атмосферу там можно было описать только словом Џ00171свободна€Џ00187.`/
+` And further betraying her expectations...`@` the atmosphere could only be described as "loose".`/
 E_A
 
 \
@@ -23032,14 +23032,14 @@ bgm1 137
 
 ;БuЛёМ[БAЛёВсВ≈Р\ВµПгВ∞ХтВйВЅБB@ГRБ[ГlГКГAОOУЩОiН’БAТЕФCВЈВйВаВћЦзБI@Б@ПгОiРжФyПФМЂБAЙдВ…ФCЦ±ВрЧ^В¶ЛЛВ¶ГbБBБv@
 ;БuБcБcБcВҐВвБAУЅВ…В»ВҐВжБB@БcВ†БAВ®ТГВћВ®СгВнВиБAВ®КиВҐВ≈ВЂВйБH@Б@В†В∆БAХљОЮВЌЦ≥ЧЭВ…Ц@МкВрОgВнВ»В≠ВƒВаСеПдХvВЊВ©ВзБcБBБv\
-`"ѕозвольте сказать.`@`  орнели€, св€щенник третьего класса, сообщает о прибытии!`@` ”важаемые офицеры, почту за честь исполнить ваши приказы!"`\
-`"......ƒа сейчас особо нечего приказывать.`@`  ...ј, хот€ нет, не могла бы ты налить мне ещЄ ча€?`@` » кстати, в обычное врем€ можешь не разговаривать на €зыке суда."`\
+`"Please, allow me to speak. Cornelia, Minister Third Class, reporting for duty!`@` Senior officers, if you would give me the honor of your orders!"`\
+`"...I don't think there's anything right now.`@` Oh, wait, could you get me a refill on my tea?`@` And you don't need to use court language all the time."`\
 
 bg black,0
 ld r,COR_MajimeA2,22
 
 ;Б@ПЙВяВƒВћПoЛќУъВ…ЛєВрТ£ВЅВƒБA@РжФyХвН≤КѓВ…ОdОЦВЌВ»ВҐВ©В∆ЦвВҐК|ВѓВљФёПЧВ÷ВћРжФyВћХ‘ОЦВ™БAВїВкВЊВЅВљБB\
-` ¬от что ответил  орнелии старший по званию офицер в еЄ первый рабочий день,`@` когда она встала по стойке смирно, готова€ исполнить свои об€занности.`\
+` That was the answer given to Cornelia by her senior officer on her first day of work, as she stood at attention, ready to fulfill her duties.`\
 
 cl r,0
 bg "bmp\background\sbook\Ke_S3.jpg",0
@@ -23047,65 +23047,65 @@ ld c,COR_OdorokiA1,24
 
 ;БuЛёВсВ≈Р\ВµПгВ∞ХтВйБB@ЛќЦ±ТЖВЌЦ@МкВрОgЧpВЈВйВаВћЦзВ∆ХЮЦ±ЛKТцВ…ЛLВ≥ВкВƒВҐВйВаВћВ∆ТmВиЛЛВ¶БcБIБv@
 ;БuВ№Б[БAИкЙЮВїВ§ВҐВ§В±В∆В…В»ВЅВƒВйВѓВ«БB@ОµК«ВЌСgНЗВ∆ВћР№П’В≈БAКOЦ±И»КOВ≈ВЌЦ≥ЧЭВ…ОgВнВ»В≠ВƒВаВҐВҐВ±В∆В…В»ВЅВƒВсВћБB@Ц@МкВґВбМШЛкВµВҐВ≈ВµВеБH@Б@БcВ†БAХЮЦ±ЛKТцВћШbВ™ПoВљВ©ВзЛ≥В¶В∆В≠ВѓВ«БAТЛЛxВЁВаВPВQОЮВ©ВзВPОЮВ№В≈ВґВбВ»В≠ВƒБAВPВPОЮВSВTХ™В©ВзВPОЮВ№В≈ВЊВ©ВзБBБv\
-`"ѕозвольте сказать.`@` —миренно обращаю ваше внимание на то, что использование судебного €зыка прописано в официальных положени€х!.."`\
-`"ƒа, раньше так и было,`@` но ёрисдикци€ семи переговорила с профсоюзом, и теперь это об€зательно только вне офиса.`@` –азве не напр€гает посто€нно разговаривать на судебном €зыке?"`\
-`"...я бы с радостью продолжил разговор о правилах о положени€х, но хочу, чтобы ты знала, что обед на самом деле с 11:45 до 13:00, а не с 12:00 до 13:00."`\
+`"May I humbly bring to your attention that the usage of court language while on duty is mandated in the official service regulations!.."`\
+`"Oh, well, it used to be like that, but the Seventh District negotiated with the union, and now, it only has to be used outside the offices.`@` Don't you think court language is way too stiff?"`\
+`"...Ah, as much as I'd just love to keep talking about rules and regulations, I wanted to let you know that lunch break is actually from 11:45 AM to 1 PM, instead of 12 PM to 1 PM."`\
 
 bg "bmp\background\sbook\Ke5.jpg",26
 
 ;БuВЂБAЛёМ[БcБI@Б@ТЛЛxВЁВЌВPВQОЮВ©ВзВћВPОЮК‘В∆ТиВяВзВкВƒВҐВйВаВћВ∆ТmВкБcБIБv@
 ;БuВўВзБAВRОЮВ…ВPВTХ™ЛxВЁВ™В†ВйВ≈ВµВеБB@ВїВкВрТЛЛxВЁВ∆ШAМЛВµВƒОжУЊВµВƒВаВҐВҐВЅВƒВ±В∆В≈БAСgНЗВ™Р№П’ВµВљВћБB@РжФyХыВ™ПЯВњОжВЅВљМ†ЧШВ»ВсВЊВ©ВзБAВ≤ВњВбВ≤ВњВбМЊВнВ»ВҐВжВ§В…ВЋБBБv\
-`"ѕ-позвольте сказать!..`@` ћне сообщили, что наше обеденное врем€ - с 12:00 до 13:00!"`\
-`"¬ 15:00 у нас должен быть 15-минутный перерыв, так?`@` ћы лишь перенесли это врем€ на обед, профсоюз не против.`@` “вои старшие коллеги, которые труд€тс€ здесь не поклада€ рук, имеют такое право, так что брось жаловатьс€."`\
+`"M-madam!`@` I was informed that our lunchtime was from 12 to 1!"`\
+`"At 3 PM, we're supposed to have a fifteen minute break, right? All we did was add that time to lunch instead; the union said it was fine. This is a right your seniors in this office worked hard to get you, so stop complaining."`\
 
 bg black,22
 
 ;БuВ†В∆БAСgНЗВ™МИВяВљВнВѓВґВбВ»ВҐВѓВ«БAРVРlВЌВRВOХ™СБВ≠ПoЛќВµВƒБAВЁВсВ»ВћКчВћС|ПЬВ∆В®ТГВћФzСVВрВµВ∆В≠ВћВ™КµЧбВЊВ©ВзБB@В№БAПЙУъВЊВµБAВ†ВсВ№ВиНdВ≠В»ВзВ»ВҐВ≈БAВЋБB@ВжВлВµВ≠ВЋБAГRБ[ГlГКГAВњВбВсБB@В†Б[БAВ†В∆БAН°УъВћВUОЮВ©ВзЧ„ВћГXГXГLЙЃВ≈СgНЗВћРVРlКљМ}ЙпВ†ВйВ©ВзПoВƒВжВЋБB@УSЙќШ•ПoВйВжБAУSЙќШ•БBБv@
 ;БuВжБA/
 ;!d800ВжВлВµВ≠Р\ВµПгВ∞ХтВйБAУѓОmУсУЩОiН’БcБBБv\
-`"» ещЄ кое-что, это не решение профсоюза, но традиционно новобранцы приступают к работе на 30 минут раньше, чтобы убрать столы и сделать чай.`@` ѕолагаю, это твой первый день, так что не будь такой каменной.`@` Ѕыло при€тно пообщатьс€,  орнели€."`\
-`"ƒа, и ещЄ, сегодн€ в 18 часов профсоюз устраивает приветственный праздник дл€ всех новобранцев.`@` “ы ведь придЄшь?`@` Ѕудет тунец с рисом!"`\
+`"Another thing, this wasn't decided by the union or anything, but traditionally, new recruits get to work thirty minutes early in order to clean all the desks and set out the tea.`@` Well, I suppose it is your first day, so don't feel too bad.`@` It's been nice talking to you, Cornelia."`\
+`"Oh, and one more thing, the union is throwing a welcome party for all the new recruits today at 6:00.`@` Will you come?`@` There's gonna be food there!"`\
 `"Ѕ-`@/
-!d800`благодарю за внимание, св€щенник второго класса..."`\
+!d800`I'm honored by your consideration, Second Class Minister..."`\
 
 bg Wsan_1c,22
 
 
 ;Б@Ц@МкВЌБAГRБ[ГlГКГAВ™ШbВЈМ√МкВћВ±В∆БB@
-` Џ00171язык судаЏ00187 - устаревша€ манера разговора, используема€  орнелией.`\
+` "Court language" is the archaic way of speaking that Cornelia uses.`\
 
 ;Б@М√МкВ≈ПСВ©ВкВљЦ@ХґВрУKР≥В…ОgЧpВЈВйВљВяБA@Ц@ВћФ‘РlВ≈В†ВиОЈНsО“В≈В†ВйФёВзВ…ВЌБAЛќЦ±ТЖВ…ВЌЦ@МкВ≈ШbВЈВ±В∆В™БAЦ{ЧИБAЛ`Ц±ХtВѓВзВкВƒВҐВй\
-` ѕоскольку в тексте закона много устарелых терминов,`@` те, кто поддерживает его, об€заны при исполнении служебных об€занностей следовать этому €зыку.`\
+` Since the texts of the law use many archaic terms,`@` those that uphold it must use this language while on duty as well.`\
 
 ;Б@ВµВ©ВµБAШbВµМЊЧtВ©ВзВ†В№ВиВ…К|ВѓЧ£ВкВљВїВкВрИкУъТЖЛ≠ВҐВзВкВйВћВЌБAКyВ»В±В∆В≈ВЌВ»ВҐБB\
-` ќднако он так отличаетс€ от повседневной речи, что говорить на нЄм весь день не так-то просто.`\
+` But since it's so different from usual speech, using it all day isn't easy.`\
 
 ;Б@КeК«ЛжВћРEИхСgНЗВЌБAСББXВћВ§ВњВ©ВзПгСwХФВ∆ТcСћМрП¬ВµБA@КOЦ±И»КOВћПкВ≈ВЌЦ@МкВћОgЧpВ…НSВзВ»В≠ВƒВаЧ«ВҐВ∆ВҐВ§М†ЧШВрПЯВњОжВЅВƒВҐВљБB@
-` ѕоэтому профсоюз рабочих от каждой юрисдикции сумел упростить правила его использовани€ в отделах`@` и получил право разговаривать формально только за пределами офисов.`\
+` That's why the worker union was able to lobby for simplification of the language in the internal districts`@` and limit its usage only to interacting with the outside.`\
 
 ;Б@ВїВћИ„БAФёВзВ™МрВнВЈЙпШbВЌСSВƒБAХБТ ВћМыМкВЊВЅВљВћВЊБB\
-` “ак что в обычных разговорах они использовали повседневную речь.`\
+` Thus, their everyday conversations were held in the usual colloquial language.`\
 
 bg white,2
 
 bg "bmp\background\sbook\Ke_S2.jpg",2
 
 ;БuГRБ[ГlГКГAВњВбВсВЌВїВ±ВћР»ВЋБB@ГfГXГNГ}ГbГgБAРVВµВҐВћВ†ВйВ©ВзОgВЅВƒВЋБBБv@
-`" орнели€, твоЄ место здесь.`@` —тол новый, так что будь аккуратнее."`\
+`"Cornelia, your seat is over here. Your desk is new, so be careful with it."`\
 
 ld c,COR_DefA1,22
 ld c,COR_odorokiA1,80
 
 ;БuКіО”Р\ВµПгВ∞ХтВйБcБBБv\
-`"ѕримите мою благодарность..."`\
+`"You have my deepest gratitude!.."`\
 
 ;БuВнВЌВЌБA@СеПдХvВЊВжБAЦ≥ЧЭВ…Ц@МкОgВнВ»В≠ВƒВаУ{ВзВкВ»ВҐВжБBБv@
-`"’а-ха-ха,`@` не нужно так официально, никто на теб€ не разозлитс€!"`\
+`"Hahaha,`@` there's no need to be so formal, we're not gonna get mad at you!"`\
 
 ld c,COR_komaruA2,80
 
 ;БuБcБcБcВсБcБcБBБv\
-`"......ћ-м..."`\
+`"...Mm..."`\
 
 
 textoff
@@ -23113,62 +23113,64 @@ mono 1
 print 22
 
 ;Б@ГRБ[ГlГКГAВ…В∆ВЅВƒБAПЙПoЛќУъВћИкФ‘Н≈ПЙВћГVГЗГbГNВ™БAВїВкВЊВЅВљБB@
-` Ёто был первый шок первого рабочего дн€  орнелии.`\
+` That was the biggest shock of Cornelia's first day.`\
 
 ;Б@ПЂЧИВЌХKВЄИўТ[РRЦвКѓВ…В»ВЅВƒБAИЂВржnВµВљВҐВ∆КиВЅВƒВЂВљФёПЧВ…В∆ВЅВƒБAЦ@МкВЌВїВћН≈СеВћПџТ•ВЊВЅВљБB\
-` язык суда был дл€ неЄ самым большим символом еЄ надежды несмотр€ ни на что стать инквизитором и желани€ приговаривать зло к смерти.`\
+`  To a girl who had hoped to join the Inquisitor Section no matter what, whose fervent desire was to mete out the death penalty to evil,`\
 
 ;Б@РґКUВрХщВ∞ВљВҐРEЦ±БAИўТ[РRЦвКѓБB@ВїВкВЌВ¬В№ВиБAРґКUВрЦ@МкВ≈ЙяВ≤ВЈВ∆ВҐВ§В±В∆БB@
-` ќна хотела посв€тить всю свою жизнь отделу инквизиции,`@` а значит, и судебному €зыку.`\
+` court language was the largest symbol of all of those hopes.`\
+
+` The Inquisitor Section was the duty she wanted to devote the entirety of her life to.`@` That meant equal devotion to using court language.`
 
 ;Б@ВЊВ©ВзБAФёПЧВЌЦ@МкВ…П≠ВµВ≈ВаКµВкВжВ§В∆БAХnВµВ©ВЅВљЧЉРeВ…ЙљУxВаСiВ¶БA@В®ПђМ≠ВҐВЌВҐВзВ»ВҐВ©ВзБAЦ@МкЙпШbЛ≥ОЇВ…ПTВPЙсБAТ ВнВєВƒВаВзВЅВƒВҐВљБB\
-` „тобы научитьс€ ему,`@` она со словами Џ00171ћне не нужны карманные деньгиЏ00187 умол€ла своих бедных родителей отправить еЄ на курсы изучени€ судебного €зыка.`\
+` In order to use it properly, she had begged her poor parents,`@` insisting she "didn't need an allowance", to let her attend a weekly court language class.`\
 
 ;Б@Ц@МкВ™ОgВ¶В»ВѓВкВќИўТ[РRЦвКѓВ…В†ВзВЄБB@
-` Ѕез него отдел инквизиции не назовЄшь таковым.`\
+` Without the court language, the Inquisitor Section doesn't even deserve that name.`\
 
 ;Б@ГRБ[ГlГКГAВЌБAУъБXВћЙпШbВаСSВƒЦ@МкВ…ВµБAЧcВҐУаВ©ВзБAРґКUВрЦ@МкВ≈ЙяВ≤ВЈКoМеВрМ©ВєБA@ПЂЧИВЌИўТ[РRЦвКѓИ»КOВћЙљО“ВаЦЏОwВ≥В»ВҐВ∆БAВЌВЅВЂВиО¶ВµВƒМ©ВєВљВћВЊВЅВљБB\
-` — целью продемонстрировать решимость вступить в отдел инквизиции`@`  орнели€ ещЄ с детства использовала судебный €зык в повседневных беседах.`\
+` In order to show her stalwart, singleminded devotion towards entering the Inquisitor Section,`@` Cornelia had used court language in day to day conversation ever since she was a child.`\
 
 bg black,5
 mono 0
 bg Wsan_2a,2
 
 ;Б@ВїВсВ»БAР^Ц ЦЏЙяВђВƒЛќХ„В»ФёПЧВЊВЅВљВ©ВзБA@ИўТ[РRЦвКѓВ…ЛБВяВзВкВйКwЦвВћСSВƒВ∆Ц@МкВ≈БAЧDПGВ»РђР—ВрОыВяВљБB@
-` ќна была до того усердна в учЄбе, что получила высшие оценки за €зык суда на вступительных экзаменах.`@` “акже ей дали первый приз за использование этого €зыка в школьном ораторском конкурсе.`\
+` She'd been so unnecessarily diligent in her studies, she had recieved top marks in court language on the Inquisitor entrance examination.`@` She'd also recieved first prize for her usage of the language in an oratorial contest at her school.`\
 
 
 ;Б@Ц@МкВ…ОКВЅВƒВЌБAКwНZХўШ_СеЙпВ≈ЛаП№ВаВаВзВЅВƒВҐВйБB\
-` ”читыва€ еЄ исключительно высокие оценки по итогам рассмотрени€ комиссией ¬ерховного суда, вз€ть еЄ в организацию было естественно.`\
+` Because of her exceptionally high marks on the personnel examination of the Great Court, accepting her into the organization was simply a matter of course.`\
 
 ;Б@ВЊВ©ВзВїВкВЌБAСеЦ@Й@РEИхООМ±ВћНџВ…БAФёПЧВрВЄВќФ≤ВѓВљРђР—В≈НћЧpВрМИТиВ≥ВєВƒВ≠ВкВљБB\
-`  ак правило, в министерстве таким выпускникам позвол€ют выбрать отдел.`\
+` In the ministry, usually those with exceptional marks got their choice of department.`\
 
 ;Б@В»ВзВќБAГRБ[ГlГКГAВЌЦ]ВЁВ«В®ВиВћХФПРВ…ФzСЃВ≥ВкВљВЌВЄБB\
-` ќднако  орнелию не отправили в тот отдел, в который она хотела.`\
+` However, Cornelia had not been assigned to the department she wanted.`\
 
 bg black,2
 
 ;Б@ВµВ©ВµБAЦ РЏВ≈ВћХ]ЙњВ™БAЙљВ©В…ЙeЛњВрЧ^В¶ВљВћВ©ВаВµВкВ»ВҐБB@
-` ¬озможно, это как-то св€зано с собеседовани€ми.`\
+` It might have had something to do with her interviews.`\
 
 
 ;Б@ФёПЧВЌКmВ©В…КуЦ]Т ВиБAУаОЌОЈНsВ…В©В©ВнВйХФПРВ…ФzСЃВ≥ВкВљВ™БA@ВїВ±ВЌОЈНsЛ@К÷В≈ВЌВ»В≠БAСНЦ±ХФЦеВ≈В†ВЅВљБcБB\
-` “ак или иначе, еЄ отправили не в апостольский отдел, как она наде€лась,`@` а в департамент по общим вопросам...`\
+` Whatever the case, the truth of the matter was that she hadn't been assigned to Repentance Enforcement, as she'd hoped,`@` but instead to the General Affairs Department...`\
 
 ;Б@СНЦ±ХФЦеВЌБAЧlБXВ»ПСЧёОЦЦ±ВрПWЦсВµВƒВҐВйХФПРВ≈В†ВйБB@
-` »х об€занность - обрабатывать различные типы документов.`\
+` The duty of General Affairs was to process various types of paperwork.`\
 
 
 ;Б@В∆ВƒВаПdЧvВ»ХФПРВ≈В†ВйВ±В∆ВЌК‘ИбВҐВ»ВҐВ™БAИЂВ∆СќЫ≥ВµБAВїВкВрНўВ≠ВћВЌХ ХФПРВћТSУЦВЊВЅВљБB@
-` –азумеетс€, этот департамент тоже был важен в борьбе со злом, но ими управл€л другой департамент.`\
+` Of course, it was still an important department, but confronting and smiting evil was under the purview of other departments.`\
 
 ;Б@П≠В»В≠В∆ВаБAФёПЧВћФzСЃВ≥ВкВљХФПРВ≈ВЌВ»ВҐБB\
-` » не тот, в который она хотела.`\
+` Departments that she hadn't been assigned to.`\
 
 
 ;Б@ФёПЧВћСжИкКуЦ]ВЌБAСжФ™К«ЛжВћВrВrВuВcВЊВЅВљБB@
-` —начала еЄ выбор пал на 8-й округ, SSVD.`\
+` Her first choice had been the Eight District, the SSVD.`\
 
 
 textoff
@@ -23216,12 +23218,12 @@ wait 1000
 
 
 ;Б@МµКiВ»ОјЧЌФhВ∆ТmВзВкВйГEГBГUБ[ГhГnГУГeГBГУГOБEГЙГCГgЧ¶ВҐВйБAРЄЙsВћЦВПЧОлВиПWТcБB\
-` Ёлитные охотники на ведьм под командованием ћастера охоты на волшебников, известного за суровую оперативность.`\
+` They were an elite band of Witch Hunters, under the command of Wizard-Hunting Wright, known for his rigid efficiency.`\
 
 bg black,2
 
 ;Б@В≥ВаВ»В≠ВќСжУсКуЦ]ВЌБAСжОµК«ЛжВћГAГCГ[ГЛГlБEГЖГУГOГtГЙГEБB@
-` ј если не туда, ещЄ есть 7-й округ, јйзерн ёнгфрау.`\
+` If that wasn't possible, her second choice would have been the Seventh District, the Eiserne Jungfrau.`\
 
 
 textoff
@@ -23269,28 +23271,28 @@ quakex 9,700
 wait 1000
 
 ;Б@П\ВћЮґВћИўЦЉВрОЭВ¬ГhГЙГmБ[ГЛБEВ`БEГmГbГNГXВаЧLЦЉВЊБB\
-` “ам работала ƒланор ј. Ќокс, известна€ за свои дес€ть клиньев.`\
+` That's where Dlanor A. Knox, famous for her ten wedges, resided.`\
 bg black,2
 bg cit_1a,5
 
 
 ;Б@БcБcБcБcБcВїВћВ«ВњВзВаВ«В±ВлВ©БAПСЧёОЦЦ±ВћСНЦ±ХФБB@
-` .........Ќо вместо этого она оказалась в департаменте по общим вопросам.`\
+` ...But instead of either of them, she ended up in the General Affairs paperwork department.`\
 
 
 ;Б@ГRБ[ГlГКГAВЌО©ВзВ…МЊВҐХЈВ©ВєВйБB@РSВћТЖВ…В®ВҐВƒВаБAВаВњВлВсЦ@МкВ≈БB\
-`  орнели€ сказала про себ€.`@` —амо собой, думала она тоже на €зыке суда.`\
+` Cornelia thought to herself. Of course, even inside her head, she used court language.`\
 
 bg black,22
 
 ;Б@ЧОВњТЕВЂЛЛВ¶БAЙдВ™РSБB@ОбФyБAГRБ[ГlГКГAВжБB@
-` —лушай внимательно, юна€  орнели€.`\
+` Be still, my heart. Listen closely, young Cornelia.`\
 
 ;Б@РзЧҐВћУєВаИкХаВ©ВзБB@
-` ѕутешествие в тыс€чу миль начинаетс€ с одного шага.`\
+` A journey of a thousand miles still begins with a single step.`\
 
 ;Б@ЙдВ™ЦЏХWВћВљВяВћУєВћВиВЌТЈВ≠МѓВµВҐВаВћВ∆ТmВиЛЛВ¶ВЅБB\
-` ѕойми, что нас ждЄт долгий и трудный путь к достижению цели.`\
+` Know that this journey we've undertaken will be long and arduous until we reach our goal.`\
 
 bg white,2
 
@@ -23302,50 +23304,49 @@ wait 1000
 bg "bmp\background\sbook\Ke_S2.jpg",24
 
 ;Б@ФёПЧВЌНЅВѓВ»ВҐБB@
-` ќна не будет обескуражена.`\
+` She wouldn't be discouraged.`\
 
 ;Б@Н°ВћО©Х™В…ВЌБAВ№ВЊВ№ВЊСеВЂВ»ФCЦ±В™ЛќВ№ВзВ»ВҐВ©ВзВ±ВћХФПРВ…ФzСЃВ≥ВкВљВћВЊВлВ§В∆О©Х™В…МЊВҐХЈВ©ВєВйБB\
-`  орнели€ сказала себе, что пока ещЄ не подходит дл€ тех отделов, поэтому еЄ направили сюда.`\
+` She told herself that she had been posted here because she wasn't yet ready for the more important departments.`\
 
 ;Б@ВµВЅВ©ВиОјР—ВрТzВЂБAФFВяВзВкВкВќБA@ВҐВ¬В©ХKВЄБAОЈНsХФЦеВ…ИўУЃВ≈ВЂВйБB@
-` Ќо со временем, когда она добьЄтс€ успеха и признани€,`@` еЄ об€зательно переведут в правоохранительный департамент.`\
+` But by building up achievements and recognition, the day would surely come that she could transfer to an enforcement department.`\
 
 ;Б@ВїВµВƒИўТ[РRЦвХвН≤КѓВ∆ВµВƒВ≥ВзВ…Х„Л≠ВрПdВЋБA@ВвВ™ВƒВЌВЂВЅВ∆РRЦвКѓООМ±В…НЗКiВµБAИўТ[РRЦвКѓВ∆ВµВƒКИЦфВµВƒВвВйВЅБB@
-` Ѕлагодар€ еЄ безмерным усили€м стать помощником инквизитора она прошла собеседование,`@` так что дл€ становлени€ полноправным инквизитором потребуютс€ аналогичные усили€.`\
+` Through her immense effort in studying to become an Inquisitor Aide, she'd passed the examination,`@` so it would take similar effort to become a fully fledged Inquisitor of Heresy.`\
 
 ;Б@В≥ВЯБAГhГУВ∆ЧИЛЛВ¶БAВ®ПoВ≈ХтВкБAЙдВ™ЛќЦ±ВЅБI\
-` ј посему примем гр€дущее и приложим все усили€!`\
+` Now, let us put forth our utmost effort, come what may!`\
 
 ;Б@ВїВ§И”ЛCНЮВЁБAГfГXГNВћИшВЂПoВµВрКJВѓВйБB@
-` — этими мысл€ми она распахнула €щик стола.`\
+` With that enthusiasm in mind, she pulled open her desk drawer in order to see what materials her predecessor had left her.`\
 
 
 ;Б@СOФCО“ВћОcВµВљВЊВлВ§ОСЧњВрКmФFВЈВйВљВяВ…БB\
-` ’отела посмотреть, что ей оставил предшественник.`\
 
 bg black,26
 
 ;Б@ВїВ±В…ВЌОСЧњВрХ¬ВґВљПdВїВ§В»ГtГ@ГCГЛВ™ВђВЅВµВиЛlВяВзВкВƒВҐВљБB@
-` ¬ €щике лежала папка с документами.`\
+` There was a heavy folder packed full with documents.`\
 
 
 ;Б@ВїВµВƒВїВкВзВћИкФ‘ПгВ…БAВїВћЦ{В™ТuВ©ВкВƒВҐВљБB\
-` Ќа ней была книжка.`\
+` On top of them all, there was a book.`\
 
 ;Б@ИкФ‘ПгВ…ТuВ©ВкВƒВҐВљВ∆ВҐВ§В±В∆ВЌБAИкФ‘ПdЧvВ»ОСЧњВЊВ∆ВҐВ§В±В∆ВЊБB\
-` Ќаверн€ка там самые важные данные.`\
+` Being on top, it must have been the single most important one.`\
 
 se1 27
 bg "bmp\background\sbook\Ke_kuro.jpg",1
 quakey 3,500
 
 ;Б@Б@Б@Б@БuБcБcБcБwВ≠ВлВЈВнБIБxБBБv\
-`".........Џ00171 россво!Џ00187."`\
+`"...'Crosswo!'"`\
 
 
 se1 4
 ;Б@ВнВ≠ВнВ≠МЬП№БAГNГНГXГПБ[ГhГpГYГЛГ}ГKГWГУБB@/
-` ∆урнал с кроссвордами, известный за потр€сающие призы.`@/
+` It was the crossword magazine known for its fabulous prizes.`@/
 
 se2 3
 
