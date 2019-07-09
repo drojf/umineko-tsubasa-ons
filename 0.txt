@@ -24166,20 +24166,20 @@ br
 br
 br
 ;Б@Б@Б@Б@ВіВн
-`       blah`
+`       *chatter*`
 
 br
 br
 br
 wait 500
 ;Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@ВіВн
-`                            blah`
+`                            *chatter*`
 br
 br
 br
 wait 500
 ;Б@Б@Б@Б@Б@Б@Б@Б@ВіВнБB\
-`              blah.`\
+`              *chatter*`\
 bg black,25
 bg "bmp\background\sbook\Ka4.jpg",25
 
@@ -24256,7 +24256,7 @@ bg "bmp\background\sbook\Ke6.jpg",2
 Me2v 24,100
 
 ;БuВіВнВіВн\
-` Blah, blah, blah.`\
+` *chatter*, *chatter*, *chatter*`\
 
 ;Б@РEИхВЌКоЦ{УIВ…ГwГrБ[ГXГВБ[ГJБ[В™СљВҐБB@В≥ВзВ…ОрИщВЁВаСљВҐБB@
 ` Simply put, most of the staff was heavy smokers.`@` People who were more or less heavy drinkers weren't a small part of the staff, either.`\
@@ -24285,7 +24285,7 @@ me1v 16,70
 ;БuБcБcВ†Б[БAЙџТЈВћМИНўВ™ПoВƒВ№ВЈБB@КFВ≥ВсБAВжВлВµВ≠В®КиВҐВµВ№ВЈБBБv@
 `"...Ah, yeah, the section chief approved that. Thanks for your cooperation, everyone."`\
 ;БuВіВнВіВнВіВнВіВнБIБv@
-`"Blah, blah, blah!"`\
+`"*chatter*, *chatter*, *chatter*!"`\
 
 ;Б@МWТЈВ™ВїВ§НРВ∞ВйВ∆БAФёВзВЌНƒВ—ВіВнВяВЂПoВЈБB\
 ` Hearing those words, the crowd had once again started chattering.`\
@@ -24293,7 +24293,7 @@ me1v 16,70
 me2 24
 
 ;БuВ†ВћБ[БAСgНЗВћВ®МОМ©В™ЧИПTВ†ВйВсВ≈ВЈВ™БcБB@В±ВкВЌГRБ[ГlГКГAВњВбВсВћГvГНГWГFГNГgВжВиСOВ©ВзМИВ№ВЅВƒВйВ©ВзЧбКOВ≈ВЈВжВЋБcБHБv\
-`"’м... я на следующей неделе собиралс€ на ÷укими...`@` ћы договорились ещЄ до проекта  орнелии, так что сделаем исключение, да?.."`\
+`"'Scuse me, there's that moon viewing party that the union's throwing next week, though...`@` It was decided before Cornelia's project, so we get an exception for that, right?.."`\
 
 mbg white,1
 E_A
@@ -24304,25 +24304,25 @@ ld r,COR_OdorokiA1,0
 mcbg 22
 
 ;БuЛёМ[ВЅБAЛёВсВ≈Р\ВµПгВ∞ХтВйБB@УЦГvГНГWГFГNГgВ…ВЌИкРЎВћЧбКOВЌЦ≥ВЂВаВћВ∆ТmВиЛЛВ¶ВЅБB@ИщОрБAЛiЙМВћЛЦЙ¬ВЌБAВїВћИкМПЦИВ…ХФТЈВ…ПСЦ В…ВƒЛЦЙ¬В™ХKЧvВ»ВаВћВ∆ТmВиЛЛВ¶ВЅБBБv\
-`"ѕозвольте сказать.`@` «найте, что никаких исключений.`@` „тобы пить и курить, вам потребуетс€ письменное разрешение директора."`\ 
+`"With all due respect, know that no exception from this project shall be made.`@` To receive permission for drinking or smoking, it is required to individually submit a written application to the head of the department."`\ 
 
 Me1v 24,100
 bg "bmp\background\sbook\Ke6.jpg",22
 
 ;БuВіВнВіВнВіВнВіВнВіВнБIБv\
-`"*бла*бла*бла*бла*бла*!"`\
+`"*chatter*, *chatter*, *chatter*, *chatter*!"`\
 bg moon_2a,25
 
 ;Б@НPЧбВћВ®МОМ©ЙпВЌБAРаЦЊВЈВйВ№В≈ВаВ»В≠БAРeЦrВрЦЏУIВ∆ВµВљПHВћИщВЁЙпВЊБB\
-` ƒаже не нужно объ€сн€ть, что типичный ÷укими состоит главным образом из пь€нства и общени€.`\
+` It should be obvious to anyone that these "moon-viewing" parties consist primarily of drinking and socialising over that.`\
 
 
 ;Б@М«ЧІВµВƒВҐВйГRБ[ГlГКГAВ…ВЌВнВ©ВзВ»ВҐВЊВлВ§В™БA@СЉВћРEИхВљВњВ…В∆ВЅВƒВЌИкЙЮБAПБККЦыВ∆В»ВЅВƒВҐВйВаВћВЊВЅВљБB@
-`  орнелии было не пон€ть,`@` но дл€ других сотрудников это был способ расслабитьс€.`\
+` Obvious to anyone but Cornelia, that is.`\` For the other staff members, it was a necessary way to relax,`@
 
 
 ;Б@ВµВ©ВµФёПЧВ…ВЌБAВЌВяВрКOВµХsУєУњВ…СЦВйЙ¬Ф\РЂВрРґВЁПoВЈБAИЂВћЙЈП∞В∆ВµВ©ОvВ¶В»ВҐБB\
-` ќна расценивала такое только как вспышку зла, ведущую к безнравственности и аморальному поведению.`\
+` but to her, it was nothing but impulsive and amoral behaviour.`\
 
 mbg white,1
 mcbg 0
@@ -24333,25 +24333,25 @@ bg "bmp\background\sbook\Ka3.jpg",0
 ld r,COR_OdorokiA1,22
 
 ;БuВїВ±В№В≈ВћЦЌФЌВрРsВ≠ВµВљПгВ≈БAУЦМWРEИхИкУѓВЌЦ{ЧИЛќЦ±ОЮК‘И»Н~БAЙwСOБAФ…ЙЎКXУЩВ≈БAМ[Ф≠ГOГbГYФ–ХzВ…П]ОЦБA@ИкФ В…ГnГНГEГBГУКъК‘ТЖВћНjЛIПlР≥ВћЧЭЙрВрЛ¶ЧЌВрЛБВяВйВаВћЦзВЅБBБv\
-`"¬ дополнение к тому, что вы будете подавать хороший пример, все сотрудники департамента будут во внерабочее врем€ сто€ть на станци€х или же в общественных районах,`@` раздава€ пачки салфеток с напоминанием об осторожности и прос€ горожан поддерживать пор€док в период ’эллоуина."`\
+`"In addition to serving as an example, staff members are also expected to engage in the distribution of materials pertaining to raising public awareness at train stations, shopping districts and other such places.`\` The purpose of this is to seek cooperation and promote the Project: Law and Order during Halloween among the general public."`\
 
 
 Me2v 17,85
 bg "bmp\background\sbook\Ke6.jpg",22
 
 ;БuВіВнВіВнВіВнВіВнВіВнБIБv@
-`"*бла*бла*бла*бла*бла*!"`@
+`"*chatter*, *chatter*, *chatter*, *chatter*, *chatter*!"`\
 ;БuВїВкБAБcБcОcЛ∆В≈ВЈВжВЋБHБ@ГnГНГEГBГУКъК‘ТЖБAВЄВЅВ∆БHБv@
-`"—верхурочные часы, значит? ¬ ’эллоуин?"`@
+`"So, overtime? During the entire Halloween?"`\
 ;БuОcЛ∆СгПoВйВсВ≈ВЈВ©БcБHБv\
-`"Ќам хоть заплат€т?.."`\
+`"Are we at least getting paid for this?.."`\
 
 bg "bmp\background\sbook\Ka1.jpg",24
 
 ;БuЙџТЈВ©ВзБAОcЛ∆СгВћСќПџВ…ВµВƒВаЧ«ВҐВ∆ОwО¶В™ПoВƒВҐВ№ВЈБB@ВљВЊВµБAН°КъВЌВЈВ≈В…ОcЛ∆СгВ™ГLГcГLГcВ≈ВЈВћВ≈БAВїВћБcБcБBБv@
-`"¬сЄ зависит от начальника департамента.`@` »бо, как все вы знаете, плата за сверхурочное врем€ ограничена..."`\
+`"Section chief said it's okay to file it under overtime pay, although the current term is already kind of overpacked, so..."`\
 ;БuВ†ВћБAОДБAОqЛЯВћМ}В¶В∆В©В†ВйВсВ≈ОcЛ∆БAНҐВйВсВ≈ВЈВѓВ«БBБv\
-`"Ё-э, € не смогу, мне нужно детей забрать из школы..."`\
+`"Umm, I gotta pick up my kids and whatnot, so doing overtime would cause me all kinds of problems..."`\
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 bg "bmp\background\sbook\Ke6.jpg",22
 br
@@ -24363,18 +24363,18 @@ br
 br
 Me3v 3,85
 ;Б@Б@Б@Б@БuВіВнВіВнВіВнВіВнВіВнБIБv\
-`           "*бла*бла*бла*бла*бла*!"`\
+`"*chatter*, *chatter*, *chatter*, *chatter*, *chatter*!"`\
 
 bg black,2
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 ;Б@ПоФMУIВ»СfР∞ВзВµВҐГvГНГWГFГNГgВћВ¬ВаВиВЊВЅВљБB@
-` ¬роде бы замечательный проект.`\
+` It was supposed to have been a wonderful, passionate project.`\
 
 ;Б@СЉРlВ…НjЛIПlР≥ВрЛБВяВйВ»ВзБAВ№ВЄВЌО©Х™ВљВњВ©ВзБB@К‘ИбВЅВƒВ»ВҐВЌВЄВЊБB\
-` –аз они требуют от других соблюдени€ пор€дка, им нужно и самим его соблюдать.`@` ¬ общем-то, всЄ верно.`\
+` If we want to demand law and order from others, we must first demand it from ourselves.`@` Right?`\
 
 ;Б@ГRБ[ГlГКГAВЌОбБXВµВҐПоФMВрФйВяВљЛєВрБAМ÷ВзВµВ∞В…Т£ВйВ™БAРEИхВљВњВћВіВнВяВЂВ∆ЙAМыВЌОыВ№ВзВ»В©ВЅВљБcБB\
-`  орнели€ была полна энтузиазма, однако остальные работники не переставали шуметь и жаловатьс€...`\
+` Cornelia's chest may have puffed with youthful passion and pride, but that didn't lessen the pain of having to hear the nasty whispering and chattering of the other staff members...`\
 fede 0,2000
 E_A
 
@@ -24384,91 +24384,91 @@ bgm1 167
 bg BUI_o1a,5
 
 ;Б@ВїВћУъВћЧ[ХыВ…ВЌВЈВЃБAРEИхШJУ≠СgНЗВћПСЛLТЈЛЙВ™ХФТЈВрТЉМВБB@
-` “ем вечером глава профсоюза рабочих переговорил непосредственно с директором.`\
+` Immediately that same evening, the chief secretary of the labor union had gone to talk directly to the head of the department.`\
 
 
 ;Б@В®МОМ©ВћТЖО~УPЙсВ∆БAИщОрБEЛiЙМЛ÷О~ВћУPЙсБB@
-` ћало того, что запретили ÷укими, так ещЄ и курение со спиртным.`\
+` He demanded the withdrawal of the cancellation of the moon viewing party and the bans on drinking and smoking.`\
 
 
 ;Б@ВїВµВƒОЮК‘КOШJУ≠Л≠РІВћУPЙсВ…В¬ВҐВƒБAРvСђВ»ЙсУЪВрЛБВяВљБB\
-`   тому же, нужно было срочно уточнить число сверхурочных часов.`\
+` He also wanted a swift response to the matter of withdrawing overtime work compensation.`\
 
 bg "bmp\background\sbook\Ke_s3.jpg",22
 
 ;Б@ИщОрБEЛiЙМВЌМЫЦ@В™ФFВяВљМ¬РlВћМ†ЧШВ≈В†ВиБAВїВкВрЛ÷О~ВЈВкВќРlМ†РNКQВћЛ∞ВкВ™Л…ВяВƒНВВҐБB@"Л÷О~"В≈ВЌВ»В≠БA?gЛ÷О~В…МьВѓВљУwЧЌ?hВ…ВЈВ„ВЂВ≈В†ВйВ∆ОеТ£ВµВљБB\
-`  урение и распитие спиртных напитков - личное право граждан, и запрет означает нарушение прав человека.`@` Ќо, оказываетс€, это не *запретили*, а *ограничили*.`\
+` With drinking and smoking being individual rights outlined in the Constitution, prohibiting them is exceedingly likely to be considered a human rights violation.`@` He requested rewording the ban from 'prohibited' to 'restricted'.`\
 
 ;Б@ОЮК‘КOШJУ≠ВћЛ≠РІВ…В¬ВҐВƒВаБA@ХЮЦ±ЛKТцВ∆БAСgНЗОЦЦ±ОЇВ…ГXГgГbГNВ≥ВкВƒВҐВйЧёОЧНўФїВћФїЧбПWВ©ВзБAУЮТкФFВяУпВҐВ∆ОеТ£БB@В±ВкВ…В¬ВҐВƒВаБAЛ≠РІВ≈ВЌВ»В≠БAКeРEИхВћО©ОеФїТfВ…ФCВєВйВ„ВЂВ≈БA@"Л…ЧЌОQЙЅВЈВйВжВ§УwЧЌ"В…ВЈВ„ВЂВ∆ВµВљБB\
-` „то касаетс€ сверхурочных часов, директор сказал, что, согласно положени€м о государственной службе и прецедентам подобных случаев, добитьс€ их одобрени€ было бы очень трудно.`\
-` ќп€ть же, их не сделали об€зательными,`@` но людей насто€тельно просили Џ00171постаратьс€ про€вить инициативуЏ00187.`\
+` Regarding mandatory overtime work,`@` he voiced a strict disapproval, citing public service regulations as well as reports of related court cases that had been stocked in the union office.`\
+` He argued that in this case overtime work must not be mandatory but should be left up to each staff member's judgement,`@` and suggested rewording the proposal as to 'encourage everyone to show their inititive'.`\
 
 ;Б@В№ВљБAНPЧбВћПHВћВ®МОМ©ЙпВ…В¬ВҐВƒВЌБAКѓЦ[ОЇТЈВ©ВзВаЛаИкХХВ™ПoВƒВ®ВиБAКѓЦ[ОЇВ…Ц≥ТfВ≈ВаВЌВвТЖО~В≈ВЂВйВаВћВ≈ВЌВ»ВҐБB@ИкСwВћНjЛIПlР≥ВрРSВ™Вѓ@"УwЧЌВЈВйВ±В∆В∆"В∆ВµБAХљФNВ«В®ВиВ…КJН√ВЈВ„ВЂВ≈В†ВйВ∆ВµВљБB\
-` „тобы сохранить традицию проведени€ осеннего ÷укими, начальству даже стали предлагать вз€тки, так что они не могли вот так вз€ть и отменить еЄ.`\
-` ѕообещав приложить все усили€ ради укреплени€ дисциплины в верхних р€дах,`@` директор одобрил проведение привычного ÷укими.`\
+` And as for the already planned moon viewing event, General Secretariat had already sent a donation and the event could not be suspended without informing the Cabinet.`\
+` It would be quite enough to simply uphold law and order and simply proceed with Halloween as usual.`\
 
 bg black,22
 ;Б@ХФТЈВЌБAН°МгВћЙ~ККВ»СgНЗР№П’ВћВљВяБAВ±ВкВзВћСSВƒВрЧєП≥БB@
-` ќн всЄ решил так, чтобы будущие переговоры с профсоюзами были как можно более мирными.`\
+` To ensure smooth negotiations with the union in the future, head of the department approved of all the demands.`\
 
 
 ;Б@ГRБ[ГlГКГAВћГvГНГWГFГNГgВћВ†ВзВдВйНАЦЏВ…БA@"УwЧЌ"В∆ВҐВ§ТPМкВ™ХtВѓЙЅВ¶ВзВкБAИкРЎВћЛ≠РІЧЌВ™ОЄВнВкВљБB\
-`   каждому пункту в плане  орнелии добавили слова Џ00171приложить максимум усилийЏ00187, и на этом об€занности закончились.`\
+` The word 'endeavor' was added to every point of Cornelia's project, effectively defanging the whole proposal from all enforceability.`\
 
 ;Б@ВµВ©ВµБAГRБ[ГlГКГAВЌБuУwЧЌБvВ∆ВҐВ§МЊЧtВ™СеНDВЂВЊВЅВљВћВ≈БAУЅВ…ЙљВ∆ВаОvВнВЄБAВ±ВћПCР≥ВрОуВѓУьВкВљБcБB\
-` Ќо  орнелии понравились эти слова, и она особо не задумалась обо всЄм остальном...`\
+` However, Cornelia happened to love the word 'endeavor', so without giving it much thought she agreed to all the amendments...`\
 
 bg "bmp\background\sbook\Ke_S2.jpg",2
 
 me1v 11,90
 
 ;Б@ЧВУъБB@
-` Ќа следующий день`@/
+` The next day...`@/
 ;br
 
 ;Б@РEПкВ…ВљВ»В—В≠ОЗЙМВ™БAВҐВ¬ВаВ∆В№ВЅВљВ≠ХѕВнВзВ»ВҐВћВрМ©ВƒБAГRБ[ГlГКГAВЌЬ±СRВ∆ВЈВйБB@
-`  орнели€ застыла, заметив, что весь офис, как обычно, пропах табачным дымом.`\
+` Cornelia was astonished to see that the clouds of tobacco smoke hanging over the workplace had not lessened in the slightest from yesterday.`\
 
 ;Б@ГnГНГEГBГУКъК‘ТЖВЌЛ…ЧЌЛ÷ЙМВрВЅБAВ∆СiВ¶ВйВ∆БcБcБB\
-` » это когда она пыталась донести до всех, что в период ’эллоуина нужно старатьс€ курить как можно меньше...`\
+` When reminding her co-workers that they should have been making every effort to abstain from smoking at Halloween, they told her:`\
 
 bg "bmp\background\sbook\Ke5.jpg",22
 
 se1 47
 ;БuВҐВвВЯБAЙљУxВаЛ÷ЙМВµВжВ§В∆ВЌВµВƒВйВсВЊВѓВ«БAУпВµВ≠ВƒВЋВ•БB@УwЧЌВЌВµВƒВсВЊВѓВ«ВЋВ•БcБBБv@
-`"Ё-э, знаешь, сколько ему ни говори, он всЄ равно не перестанет.`@` Ќо, увер€ю теб€, € делаю всЄ возможное..."`\
+`"Yeeeah, I've tried that many times already but it's not so easy, you know. I'm endeavoring to stop, though..."`\
 
 se2 48
 ;БuЛzВ§В∆В≥БAФ\Ч¶В™ПгВ™ВйВсВЊВжБB@В±ВкБAН°УъТЖВ…МИНўВ…ЙсВ≥В»ВҐВ∆ВҐВѓВ»ВҐВµБBБv@
-`"” мен€ от курени€ голова лучше работает,`@` а ведь сегодн€ столько дел."`\
+`"I work better when I smoke. Look, I've got to finish writing up this settlement by today."`\
 
 se3 41
 ;БuВµВƒВйВжБAЛ÷ЙМВћУwЧЌВЌБB@/
-`"ƒа, € стараюсь не курить.`@/
+`"But I reaaally am trying to stop.`@/
 
 ;УпВµБ[ВсВЊВѓВ«ВЋВ•БAВнВЌВЌВЌБcБcБBБv\
-` Ќо это же трудно, ва-ха-ха-ха..."`\
+` It's just so hard, you know, wahahaha..."`\
 
 ;Б@ВїВсВ»Х‘ОЦВќВ©ВиБB@ЛzВнВ»ВҐРlК‘В…ВЌВнВ©ВзВ»ВҐВжБAВЁВљВҐВ»В±В∆ВќВ©ВиМЊВнВкБAТ«ВҐХ•ВнВкВƒВµВ№В§БB\
-` » так далее.`@` ≈й говорили, что некур€щим не пон€ть, и прогон€ли.`\
+` Same answers every time.`@` Non-smokers wouldn't understand, now off you go.`\
 
 bg black,22
 
 bg "bmp\background\sbook\Ke_s3.jpg",22
 
 ;Б@В»ВзВќВєВяВƒИщОрВЌБB@В®МОМ©ЙпВЌО©ПlВµВƒВ≠ВкВйВЊВлВ§В©В∆ОvВЅВљВ™БAХФУаСSИхВћПoР»ВЌСКХѕВнВзВЄВ≈БAТNВаОЂСёВрР\ВµПoВљО“ВЌВҐВ»В©ВЅВљБB\
-` Ќу хот€ бы никто не пь€н.`@` ѕока что, ведь в ÷укими участвуют все работники.`@` Ќикто и не думал отказыватьс€.`\
+` Then what about abstaining from drinking at least?`@` I thought they could at least apply self-discipline during the moon viewing party, but not a single member of the department staff present agreed to that either.`\
 
 bg "bmp\background\sbook\Ke_s2.jpg",24
 
 ;Б@ВїВµВƒБAУЅВ…Р\ВµПoВљВнВѓВ≈ВЌВ»ВҐВ™БA@БcБcБcВаВ§ОДВћЦЉСOВ…УсПdЦTРьВ™УьВкВƒВ†ВиБAО©Х™В–В∆ВиВ™МЗР»ИµВҐВ…В»ВЅВƒВҐВљБB\
-`  роме того, € не просила, но...`@`лишь моЄ им€ перечеркнули двум€ лини€ми, а значит, € единственна€ не участвую.`\
+` nd although I hadn't explicitly said anything...`@` my name had already been marked on the party attendance list as the sole absentee.`\
 
 ;Б@ОЂСёВрР\ВµПoВйОиК‘В™П»ВѓВƒБA/
-` ѕовезло, что мне не пришлось отказыватьс€,`@/
+` It did save me the effort of turning the invitation down myself. `@/
 wait 500
 ;БcСљХ™БAЧ«В©ВЅВљБB\
-` ...ведь в таких случа€х обычно начинают уговаривать.`\
+` ...Perhaps, that was for the best.`\
 
 bg black,2
 
@@ -24476,24 +24476,24 @@ me1 24
 bg "bmp\background\sbook\Ke2.jpg",24
 
 ;БuВњВнБ[БB@Ц@Й@СOПРВ≈В≤ВіВҐВ№ВЈБ[БB@ГRБ[ГlГКГAОiН’ВЌВ®ВзВкВ№ВЈВ©БBБv@
-`"ƒень добрый.`@` ћы из полицейского участка.`@` —в€щенник  орнели€ на месте?"`\
+`"Hello. We're from the court department.`@` Is Minister Cornelia here?"`\
 
 ld r,COR_DefA1,22
 
 ;БuЛёМ[БAЛёВсВ≈Р\ВµПгВ∞ВйБB@О©Х™В™ГRБ[ГlГКГAВ≈В†ВйВ∆ТmВиХтВкБBБv\
-`"ѕозвольте сказать.`@` «найте, что  орнели€ - это €."`\
+`"Sir, may I humbly inform you that I am Cornelia."`\
 
 ;БuМ[Ф≠ЧpВћГeГBГbГVГЕБAОЭВЅВƒЧИВ№ВµВљБB@В±В±В…РѕВЁВ№ВЈВжБB@В®ВзБAВ®СOВзБAВ±В±В…Й^В„Й^В„ВЅБBБv@
-`"ћы привезли пачки салфеток.`@` ѕоставим сюда.`@` Ќу, заноси, заноси!"`\
+`"We brought the public awareness tissues.`@` They're all packed right here.`@` Hey, guys, put 'em over there!"`\
 
 ;Б@МxО@ВћОбВҐРEИхВ™БAГhГJГhГJВ∆СеВЂВ»Г_ГУГ{Б[ГЛВрРѕВсВ≈ВҐВ≠БB\
-` ћолодой полицейский с т€жЄлым стуком поставил большие коробки.`\
+` They were young police officers, and they made a lot of noise moving a bunch of large cardboard boxes.`\
 
 ;Б@ГnГНГEГBГУКъК‘ТЖВћНjЛIПlР≥ГLГГГУГyБ[ГУВЌБAМxО@В≈ВаСеБXУIВ…НsВ»В§БB@ВїВћИ„БAМ[Ф≠ГOГbГYВаВљВ≠В≥ВсНмВЅВƒВҐВљБB@
-` ѕолици€ тоже в период ’эллоуина зан€лась поддержанием пор€дка.`@` —делали множество пачек салфеток с напоминанием об осторожности.`\
+` The police were a large part of the Law and Order during Halloween campaign, so they had procured a lot of goods to distribute.`\
 
 ;Б@В±ВкВЌБAБuУKУxВ»ИщОрВ≈КyВµВҐГnГНГEГBГУБBВ®ОрВЌИщВсВ≈ВаИщВ№ВкВ»ВҐБvВ∆ХWМкВћУьВЅВљБA@М[Ф≠ГeГBГbГVГЕВЊБB\
-` Џ00171¬ ’эллоуин будьте скромны в употреблении алкогол€.`@` Ќе сдавайтесь спиртному!Џ00187`\
+` These goods were tissues for raising public awareness, with the slogan "Drink moderately for a fun Halloween! Don't let alcohol swallow you!" printed on them.`\
 
 bg black,22
 
@@ -24502,31 +24502,31 @@ fede 10,1000
 bg cit_1a,22
 
 ;Б@ЙwСOВвФ…ЙЎКXВ≈ШAУъФzВйВ…ВЌВ©В»ВиВћРФВ™ХKЧvВЊБB@ВЊВ©ВзРФЦЬМ¬ВрВнВѓВƒВаВзВ§ВжВ§МрП¬НѕВЁВЊВЅВљВћВЊБB\
-` “ребовалось много людей дл€ того, чтобы каждый день раздавать их на станции и в общественных районах.`@` ѕоэтому было решено разделить дес€тки сотен пачек.`\
+` Distributing goods daily in the station and in the shopping district adds up to a considerable number,`@` so upwards of tens of thousands of items had already been arranged.`\
 
 bg black,22
 bg "bmp\background\sbook\Ke5.jpg",25
 
 ;БuБcБcГRБ[ГlГКГAВњВбВсБB@В±ВкБAФzВйВћБHБv@
-`"... орнели€.`@` “ы будешь раздавать?"`\
+`"...Cornelia,`@` are you going to give these out?"`\
 ;БuВїВ§В∆ТmВиЛЛВ¶ВЅБB@В±ВкВрСSВƒФ…ЙЎКXВ≈ФzВиБAСiВ¶ВƒВҐВ≠ВаВћЦзБBБv\
-`"ѕозвольте сказать.`@` я пойду в общественный район и донесу информацию до сведени€ граждан."`\
+`"That is indeed the case.`@` All of these shall be distributed in the shopping district."`\
 
 me1 24
 
 ;БuБcБcБc/
 ;ВіВнВіВнВіВнВіВнБBБv@
 `"...`@/
-`*бла*бла*бла*бла*."`\
+`*chatter*, *chatter*, *chatter*, *chatter*."`\
 ;БuВ†ВћБAВїВ±ВћГ_ГУГ{Б[ГЛТuВҐВљПкПКВ≥БB@ЧИПTВћФ[ХiХ®ВрТuВ≠ВљВяВ…ЛуВѓВљПкПКВ»ВсВЊВѓВ«В≥БB@ЧИПTВ№В≈В…В±ВкБAХ–ХtВ≠БHБv\
-`"Ё-э, вы всЄ тут зан€ли коробками...`@` „ерез неделю должны доставить товары.`@`   тому времени место освободитс€?"`\
+`"Actually, that place where the boxes are now, it was cleared out in advance for next week's deliveries, so...`@` Think you could get rid of them by next week?"`\
 
 ;БuВ±ВћТцУxВћРФБAВЁВсВ»В≈ФzВкВќВ†ВЅВ∆ВҐВ§К‘В…Х–ХtВ≠ЦзБIБ@@В№ВЅВљВ≠ЦвСиВ»ВҐВ∆ТmВиЛЛВ¶ВЅБBБv@
-`"Ѕудем раздавать салфетки все вместе - управимс€ в кратчайшие сроки!`@` ƒа будет известно, что проблем не возникнет."`\
+`"As long as everyone help with them, an amount such as this will be cleared out in a matter of moments!`@` Know that there will be absolutely no problems."`\
 
 
 ;БuВіВнВіВнБBБv@БuВ≠ВЈВ≠ВЈБBБv\
-`"*бла*бла*."`@` "*хи-хи*хи-хи*."`\
+`"*chatter*, *chatter*."`@` "*giggle*, *giggle*."`\
 
 ;БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БE
 
@@ -24537,29 +24537,29 @@ fede 10,1000
 bg "bmp\background\sbook\Ke2.jpg",2
 
 ;Б@Ч[ХйВкВћТ ЧpМыВ≈БAГRБ[ГlГКГAВЌСдО‘В…НЏВєВљМ[Ф≠ГeГBГbГVГЕВћГ_ГУГ{Б[ГЛВ∆ИкППВ…БA@В–В∆ВиБAВџВ¬ВсВ∆С“ВЅВƒВҐВљБB\
-` ¬ечером  орнели€ сто€ла одна с тележкой, нагруженной коробками салфеток.`\
+` As evening fell, Cornelia was waiting alone at the staff entrance with a cardboard box perched on a trolley and filled with promotional tissues.`\
 
 ;Б@ГeГBГbГVГЕФzВиВЌБAЧLОuВЊВѓВ≈НsВ»В§В±В∆В…В»ВЅВљБB@"Л…ЧЌОQЙЅВЈВйВжВ§УwЧЌ"ВЈВйВ±В∆В…В»ВЅВƒВҐВљБB@
-` Ѕыло решено, что раздавать салфетки будут только добровольцы.`@` ¬сем сказали Џ00171старатьс€ про€вить инициативуЏ00187.`\
+` Tissue distribution was to be done by volunteer employees only.`@` Staff was expected to 'endeavor to participate as much as possible'.`\
 
 
 ;Б@БcБcВµВ©ВµБAВаВ§ЙљВ∆В»В≠БAВнВ©ВЅВƒВµВ№ВЅВƒВҐВљБB\
-` ...Ќо  орнели€ всЄ пон€ла.`\
+` ...But, in her heart, she already knew.`\
 
 bg black,22
 
 ;Б@ВЊВ©ВзБAВїВкИ»ПгВЌС“ВљВЄБA@ИкРlВ≈СеВЂВ»Г_ГУГ{Б[ГЛВрРѕВсВЊСдО‘ВрЙЯВµВƒБAЙwСOВћФ…ЙЎКXВ…НsВЅВљБB\
-` ѕоэтому, перестав ждать,`@` она повезла тележку с коробками в общественный район перед станцией.`\
+` She decided to wait no longer and started pulling the trolley with the huge cardboard box towards the shopping district in front of the station,`@` all alone.`\
 
 bg black,22
 bg Sky_2b,2
 
 ;Б@Ч[ХыВћГIГМГУГWВћЛуВ™БAЦйВћОЗВ…ФьВµВҐГOГЙГfБ[ГVГЗГУВрМ©ВєВƒВҐВљБB@
-` ¬ечернее оранжевое небо стало смен€тьс€ на ночное фиолетовое.`\
+` The orange sky of the evening was beautifully blending into the purple of the night.`\
 
 
 ;Б@ЙƒВ™ВаВ§ПIВнВЅВƒВҐВйВ±В∆ВрОvВҐПoВ≥ВєВйВжВ§В…БAХЧВЌВўВсВћП≠ВµВЊВѓЧЅВµВҐБB\
-` Ќапомина€ об ушедшем лете, дул прохладный ветер.`\
+` A cool breeze was blowing,`@` as a reminder of the summer long gone.`\
 
 bg black,2
 bg PAR_1b,2
@@ -24571,60 +24571,60 @@ Me1v 24,50
 Me2v 29,70
 
 ;Б@ЙwВ÷В∆Л}ВЃРlБXВћОGУ•ВћТЖБAУKУЦВ»КXШHУФВрН™ПйВ…МИВяБAГ_ГУГ{Б[ГЛВрКJВ≠БB@
-` —реди толпы людей, спешащих перед станцией по своим делам, она встала возле подход€щего уличного фонар€ и открыла коробку.`\
+` Within the crowds of people rushing over to the station, she selected a suitable street lamp as her base of operations and opened the box.`\
 
 
 ;Б@ТЖВ…ВЌВђВЅВµВиВћБAМ[Ф≠ЧpГeГBГbГVГЕВ™ЛlВяНЮВ№ВкВƒВҐВљБB\
-`  оробка была забита пачками салфеток.`\
+` Inside, she found it crammed to brim with tissues for raising public awareness.`\
 
 ;Б@БcБcОuВћВ»ВҐРlВ™ФzВЅВƒВаБAРSВ™У`ВнВйВЌВЄВ»В«В»ВҐБB@
-` ...— ленивым отношением нельз€ заставить людей пон€ть.`\
+` ...An unwilling participant giving them out couldn't convey their intent anyway.`\
 
 
 ;Б@В»ВзВќВ»ВйВўВ«БAЧИВ»ВҐХыВ™Г}ГVВ∆ВҐВ§ВаВћБB@
-` ѕоэтому хорошо, что остальные не пришли.`\
+` That's right! In that case, it's better that they didn't come.`\
 
 
 ;Б@ВїВкВ…БAТNВаПХВѓВƒВ≠ВкВ»В≠ВЅВљВЅВƒБA@О©Х™В–В∆ВиВ≈ВвВиРЛВ∞ВйКoМеВЊБB\
-` ƒа и неважно, что мне не захотели помочь.`@` я готова завершить задание в одиночку.`\
+` Besides, I had already resigned myself to carry this out,`@` whether anyone helps me or not.`\
 
 ld r,COR_majimeA2,24
 
 ;БuЛёМ[ВЅБAЛёВсВ≈Р\ВµПгВ∞ВйВаВћЦзБcБIБ@@ГnБAГnГНГEГBГУКъК‘ТЖВћНjЛIПlР≥В…В≤ЧЭЙрВ≤Л¶ЧЌОТВиВљВ≠В±В±В…В®КиВҐР\ВµПгВ∞ХтВйВЅБBБv\
-`"ƒамы и господа, позвольте сказать!..`@` —-смиренно прошу понимани€ и сотрудничества в поддержании пор€дка в период ’эллоуина."`\
+`"Everyone present, I beg your apologies!`@` I-if it may please you, allow me to request your understanding and assistance in upholding law and order during this year's Halloween period!"`\
 
 ;Б@ХЈВЂКµВкВ»ВҐЦ@МкВ…БAУєНsВ≠РlВљВњВЌТњВµВїВ§В…КзВрМьВѓВйБB@РІХЮОpВаТњВµВҐВћВЊВлВ§БB@
-` ѕрохожие огл€дывались, слыша непривычную манеру разговора.`@` ƒаже мо€ форма - и то привлекала внимание.`\
+` For the people walking down the road unaccustomed to court language, my speech was unusual enough to turn their heads. My uniform must have seemed strange, as well.`\
 
 ;Б@ОДВЌОGУ•ВћМЦСЫВ…ХЙВѓВ»ВҐВжВ§В…БAСеВЂВ»РЇВрРUВиНiВЅВƒСiВ¶ВљБB\
-` я говорила как можно громче, чтобы мен€ услышали в шуме и суете толпы.`\
+` In order to get their attention through the hustle and bustle of the huge crowd, I had to speak loudly enough to strain my voice.`\
 
 bg black,22
 
 ;Б@ВµВ©ВµБAФёПЧВ™ЙљВрМЊВЅВƒВҐВйВћВ©БAВ»В©В»В©У`ВнВзВ»В©ВЅВљБB@
-` Ќо, так или иначе, мен€ не до конца пон€ли.`\
+` Even so, I had a lot of trouble distributing anything because people didn't seem to understand me.`\
 
 ;Б@ХФХ™УIВ…ВЌЧЭЙрВ≈ВЂВљВжВ§ВЊВ™БAСЂВрО~ВяВйВ…ВаТlВµВ»ВҐМШЛкВµВҐВаВћВЊВ∆ЧЭЙрВµБAФёВзВЌОЯБXВ…Т ВиЙяВђВƒНsВЅВљБB\
-` ќтчасти они понимали, однако проходили мимо, счита€, что это нечто формальное и останавливатьс€ не стоит.`\
+` Even when they somewhat understood me, what I was saying sounded so stiff that they didn't feel it was worth stopping their feet. One by one, they all passed me by.`\
 
 bg cit_3a,22
 
 ;Б@БcБcВвВЌВиБAЦ@МкВ≈ВЌС ЦЏВ»ВћВЊВлВ§В©БB@
-` ... ак € и думала, лучше не использовать официальный €зык.`\
+` ...Perhaps they were right about court language, after all.`\
 
 
 ;Б@ВµВ©ВµБAО©Х™ВћХsКµВкВ»МыМкВ≈БAУєНsВ≠ФёВзВ…У`В¶ВзВкВйВЊВлВ§В©БcБcБB\
-` я не привыкла говорить иначе, и неизвестно, смогу ли € так донести до них нужную информацию...`\
+` But even if I changed to regular speech now, I'm so unused to it that I probably still couldn't communicate with the people passing by...`\
 
 ld c,COR_defA1,23
 ld c,COR_KomaruA1,80
 
 
 ;БuГnБA@БcБcГnГНГEГBГУКъК‘ТЖВћБA/
-`"ѕ-`@`прошу вас...`/
+`"For... for law and order during... Halloween... `/
 wait 1000
 ;БcВћБAБcБcБB@НjЛIПlР≥В…В≤Л¶ЧЌВрВ®КиВҐВµБcБcВ№ВЯВЈ?c?cБBБv\
-`по-`@`помочь поддержать общественный пор€док в период ’эллоуина... —пасибо......"`\
+`Please,`@` your understanding and`@` assis...tance..."`\
 
 bg black,22
 
@@ -24635,25 +24635,25 @@ bg cit_2a,2
 
 ;Б@КµВкВ»ВҐБB@СеВЂВ»РЇВ≈МЊВ¶В»ВҐБB@БcБcВвВЅВѕВиС ЦЏВЊБB\
 ;Б@С ЦЏЦзБAСSСRС ЦЏЦзВвБIБ@Б@
-` я не привыкла.`@` Ќе могла говорить громко.`@`  ... ак € и думала, ничего не вышло.`\
+` I can't do it. I can't raise my voice. ...It's all useless.`\
 
 ;Б@В«В§ВµВƒБH@
-` ѕочему?`\
+` Why was that?`\
 
 
 ;Б@Ц@МкВ±ВїВ™Ц≤В≈В†ВиБAУ≤ВкВћПџТ•ВЊВЅВљВ©ВзВЊБB@
-` ќфициальный €зык олицетвор€л мою мечту, моЄ вдохновение.`\
+` Because, for me, court language itself was a dream, a symbol of my ambitions.`\
 
 
 ;Б@Р≥Л`ВрК—В≠ИўТ[РRЦвКѓВ…В»ВйВћВ™Ц≤ВЊВЅВљБB@ВЊВ©ВзВ«ВсВ»В±В∆В…ВаНЅВѓВљВ≠В»В©ВЅВљБB\
-` я хотела стать инквизитором, чтобы творить ещЄ большую справедливость.`@` “ак что € расстроилась не без причины.`\
+` It was my dream to become one of the Inquisitors of Heresy and protect justice.`@` I didn't want to let anything make me lose heart.`\
 
 ;Б@ВЊВ©ВзБB@
-` ѕоэтому...`\
+` Therefore...`\
 
 
 ;Б@В±В§ВµВƒМыМкВ≈ШbВ≥В»ВѓВкВќВ»ВзВ»ВҐВ±В∆В™БA/
-` Ќеобходимость говорить на обычном €зыке, словно в опровержение моих убеждений, печалила мен€.`\
+` Speaking colloquially vent against my beliefs, and saddened me.`\
 
 
 bg "bmp\background\sbook\cit_1N.bmp",2
@@ -24662,28 +24662,28 @@ Me1v 24,50
 Me2v 29,70
 
 ;Б@Й∆ШHВрЛ}ВЃРlБXВЌБAТњВµВҐРІХЮОpВ…ИкПuВћК÷РSВрО¶ВµВƒВЌВ≠ВкВљВ™БA@М[Ф≠ВћГeГBГbГVГЕВрОуВѓОжВЅВƒВ≠ВкВйВ©ВЌХ ЦвСиВЊВЅВљБB\
-` Ћюдей, спешащих домой, привлекала странна€ форма,`@` но никто из них не брал пачки салфеток.`\
+` The people hurrying home were momentarily curious about the unusual uniform,`@` but none of them bothered to take her tissues.`\
 
 ;Б@ОьВиВ≈ВвВЅВƒВҐВйБAИщВЁЙЃВвГJГЙГIГPГ{ГbГNГXВћГ`ГЙГVФzВиВЌЧvЧћВ™ВҐВҐБB@
-` ѕромоутеры баров и караоке-клубов на той же улице знали нужные хитрости.`\
+` The people promoting bars and karaoke clubs on the very same street knew certain tricks to attract people.`\
 
 
 ;Б@ВµВ©ВµГRБ[ГlГКГAВ…ВЌБAВїВсВ»ЧvЧћВаГRГcВаБAВнВ©ВйВнВѓВаВ»ВҐБB\
-` ј вот  орнели€ не знала и даже не представл€ла, что есть такие хитрости.`\
+` Unfortunately, Cornelia had no idea that there were tricks to it in the first place.`\
 
 ;Б@В»В©В»В©ОуВѓОжВЅВƒВаВзВ¶ВЄБA@БcБcН°ВћО©Х™ВЌБAЧcВҐН†В…У«ВсВЊБAГ}ГbГ`ФДВиВћП≠ПЧВїВћВаВћВ»ВћВЊВ∆ЛCХtВЂБAБcБcВ≥ВзВ…ФяВµВ≠В»ВЅВљБB\
-` Ќе сумев раздать салфетки,`@` она пон€ла, что похожа на девочку со спичками из прочитанного в детстве рассказа.`\
+` Her difficulties in giving out the tissues made her remember a story she had read in her childhood...`@` And when she realized that right now she was the very image of the little match girl, her depression only deepened.`\
 
 bg black,22
 
 ;Б@БcБcО©Х™ВЌБAЧcВҐН†ВћЦ≥О„ЛCВ»Ц≤ВЊВѓВ…ВЈВ™ВиВ¬ВЂБA@БcБcМїОјВрЙљВаТЉОЛВєВЄВ…БAВ±В±В№В≈ЧИВƒВµВ№ВЅВљВћВ≈ВЌВ»ВҐВЊВлВ§В©БcБB@
-` ...ћожет, она просто цепл€лась за невинную детскую мечту и игнорировала реальность?..`\
+` ...I've been clinging on to the same dream since I was a child...`@` Have I really come this far with my eyes blind to reality?..`\
 
 ;Б@Н°БAО©Х™В™ВµВƒВҐВйВ±В∆В™Й ВљВµВƒБAЧcВҐУъВ…У≤ВкВљИўТ[РRЦвКѓВћОpВ»ВћВЊВлВ§В©БcБH\
-` –азве сейчас € занимаюсь работой инквизитора, которым так хотела стать в детстве?`\
+` Is this the job of the Inquisitor, that I dreamt of for so long?`\
 
 ;Б@ИкУxЧђВкВрОЄВ§В∆БAТ НsРlВљВњВЌО¶ВµНЗВнВєВљВ©ВћВжВ§В…БAТNВаОуВѓОжВЅВƒВ≠ВкВ»В≠В»ВйБB\
-` “еперь, когда она утратила веру, прохожие вообще перестали брать салфетки, словно соглаша€сь.`\
+` Once she lost her faith, the people passing by stopped paying any attention to her whatsoever, as if agreeing with her thoughts.`\
 
 fede 10,1000
 
@@ -24691,51 +24691,51 @@ bg cit_3a,0
 ld r,COR_KomaruA2,22
 
 ;БuБcГnГНГEГBГУКъК‘ТЖВћБA?c?cНjЛIПlР≥В…?c?cБA@В≤Л¶ЧЌВрБcБcВ®КиВҐВµВ№ВЯВЈ?cБBБv\
-`"ѕомогите поддержать...пор€док...в период ’эллоуина......`@` —пасибо..."`\
+`"Law and order... during Halloween...`@` your assistance... please..."`\
 
 ;Б@БcБcТpВЄВ©ВµВҐЛCОЭВњВ…КђВ¶В»В™ВзБAМЬЦљВ…МыМкВ≈ОуВѓОжВЅВƒВ≠ВкВйВжВ§В…СiВ¶ВйБB@
-` ¬ынос€ неловкость, она изо всех сил старалась говорить на обычном €зыке и раздавать салфетки.`\
+` Struggling with embarrassment, I resorted to regular speech in order to be understood.`\
 
 ;Б@ВїВћУъВЌБAР[ЦйВ…В»ВйВ№В≈В™ВсВќВЅВƒВаБAГ_ГУГ{Б[ГЛФ†ВћФЉХ™ВрФzВйВћВ™ВвВЅВ∆ВЊВЅВљБB\
-` ѕод конец дн€, несмотр€ на все еЄ старани€, осталось полно пачек.`\
+` On that day, resolutely keeping at it until late at night, I had finally managed to distribute half a box of tissues.`\
 
 bg black,22
 bg "bmp\background\sbook\cit_1N.bmp",22
 
 ;Б@ВїВћГ_ГУГ{Б[ГЛФ†ВЌВ№ВЊВTФ†ВаБAРEПкВ…РѕВ№ВкВƒВҐВйВћВЊБB@
-` ¬ офисе ждало ещЄ п€ть коробок.`\
+` There was still a stack of five more boxes left at the office.`\
 
 ;Б@ВPУъВ…ВPФ†ВћГyБ[ГXВґВбВ»ВѓВкВќБAВ∆ВƒВаВPПTК‘В≈ВЌХ–ХtВѓВзВкВ»ВҐБcБB\
-` ≈сли не раздавать пачки по одной коробке в день, она ни за что не закончит к следующей неделе...`\
+` I have to distribute an entire box's worth a day, otherwise it'll be impossible to clear them all in just one week...`\
 
 ;Б@ВЄВЅВ∆ЧІВњВЅХъВµВ≈БAСЂВЌТ…ВёВ≠ВзВҐВ…В≠ВљВ≠ВљВЊВЅВљБB@
-` ќна столько сто€ла и так устала, что у неЄ заболели ноги.`\
+` I had kept standing the whole time, so my feet were now feeling painfully exhausted.`\
 
 ;Б@ЦЊУъВ©ВзВЌСЂВћТ…ВЁВрКђВ¶В»В™ВзВћЛќЦ±В∆ОcЛ∆В…В»ВйВЊВлВ§БB\
-` ј ведь завтра ей нужно будет работать в сверхурочные часы.`\
+` From tomorrow on, I'll have to endure both my regular and overtime work on aching feet.`\
 
 ;Б@БcБcБcМvОZВрВЈВйВ№В≈ВаВ»В≠БA@БcБcО©Х™ВPРlВ≈ВPПTК‘И»УаВ…СSВƒВрФzВиПIВ¶ВйВ»В«БAХsЙ¬Ф\ВЊВЅВљБcБB\
-` ......Ѕесполезно что-либо рассчитывать.`@`  ...–аздать все салфетки в одиночку невозможно...`\
+` ...It doesn't even need calculating...`@` It's impossible for one person to distribute everything within a week...`\
 
 bg black,22
 
 ;Б@УЦСRВЊБB@В†ВкВўВ«ВћРФВрБAОжВиКсВєВљВћВЊВ©ВзБB@
-`  онечно,`@` раз их так много.`\
+` Obviously.`@` There's far too many.`\
 
 ;Б@БcБcВ»ВЇБH\
-` ...Ќо почему так вышло?`\
+` ...But why did it come to this?`\
 
 mono 1
 bg "bmp\background\sbook\Ke_s3.jpg",22
 
 ;Б@Ч«ВҐНsВ»ВҐВ»ВћВЊВ©ВзБAУЦСRБAСеР®ВћО^УѓО“В™ПoВйВ∆ОvВЅВљБB@
-` я думала, что мы делаем хорошее дело и многие присоедин€тс€.`\
+` Because it was the right thing to do, so I obviously just assumed that a lot of people would want to help out.`\
 
 ;Б@В»ВзВќБAВЁВсВ»В≈ВљВ≠В≥ВсФzВкВйВжВ§БAВљВ≠В≥ВсОжВиКсВєВйХKЧvВ™В†ВйВ∆ОvВЅВљВ©ВзВЊБcБB\
-` ѕоэтому € посчитала, что нужно заказать несколько коробок, чтобы каждый смог раздать много пачек...`\
+` So, if there's many of us handing things out, I thought it was necessary to make an order large enough for all of us...`\
 
 ;Б@БcБcТNВаБA@БcБcБcОДВрОиУ`ВЅВƒВ»В«БAБcВ≠ВкВ»В©ВЅВљБB\
-` ...Ќо нет,`@` ......никто не помог мне.`\
+` ...But...`@` nobody came to help me.`\
 
 
 bg black,22
@@ -24743,20 +24743,20 @@ mono 0
 bg cit_2a,2
 
 ;Б@ВїВћМгВћВPПTК‘ВћБAШAУъВћР[ЦйВ№В≈ВћОcЛ∆ВЌБAОДВ…Ц≥МЊВ≈БAЙљВ©ВрЦвВҐК|ВѓВƒВ≠ВкВљБB@
-` ¬ сверхурочные часы на этих недел€х € спрашивала себ€.`\
+` After working overtime until late at night every day for an entire week, I wanted to silently ask myself something.`\
 
 
 ;Б@ОДВ™Ц{УЦВ…ВµВљВ©ВЅВљВ±В∆ВЅВƒБAЙљВЊВЅВѓБB@
-` „его € хочу на самом деле?`\
+` What do I really want?`\
 
 
 ;Б@ОДВ™Ц{УЦВЌВµВ»ВѓВкВќВ»ВзВ»ВҐВ±В∆ВЅВƒБAЙљВЊВЅВѓБB\
-` „то на самом деле мне нужно сделать?`\
+` What do I really have to do?`\
 
 bg black,22
 
 ;Б@СЉВћГ`ГЙГVФzВиВћРlВћЧvЧћВрКoВ¶БAИкУxВ…ВQВ¬ВRВ¬ВрФzВйВ»В«ВћГRГcВрТЌВЁБAСљП≠ВћГyБ[ГXГAГbГvВрР}ВкВљВ™БA@БcБcН≈МгВћЦйВрМ}В¶ВƒВаБAСSСћВћФЉХ™ВрВжВ§ВвВ≠ПIВ¶ВйВћВ™БAРЄИкФtВЊВЅВљБcБcБB\
-` — помощью хитростей, которым € научилась у других промоутеров, € попыталась в два-три раза увеличить скорость раздачи салфеток...`@`и прошлым вечером сумела в одиночку раздать половину всех пачек...`\
+` I had learned how to give out leaflets, I had picked up some tricks like handing out two or three at a time and I had gotten faster at the job, but...`@` despite all my efforts, I was still only halfway done as the final night approached...`\
 
 fede 0,2000
 E_A
@@ -24765,108 +24765,108 @@ bg "bmp\background\sbook\Ke_s3.jpg",42
 bgm1 25
 
 ;Б@Н°УъВЌХФВ≈ВћИщВЁЙпБAБuВ®МОМ©ЙпБvВ™В†ВйУъВЊВЅВљБB@
-` ¬ тот день весь отдел должен был собратьс€ на ÷укими.`\
+` Tonight was the night of the department's planned get-together, the "moon viewing party".`\
 
 
 ;Б@ВЊВ©ВзЛќЦ±ПIЧєВћГ`ГГГCГАВ∆УѓОЮВ…БA@/
-` ѕоэтому, как только рабочий день подошЄл к концу,`@/
+` Immediately after the chime had marked the end of the shift,`@/
 
 
 ;РжФyВљВњВЌКFБAГМГУГ^ГЛГoГXВ…ПжВЅВƒВ«В±ВЉВћЙЌРмХ~ВћНчХјЦЎВ…НsВЅВƒВµВ№ВЅВљБB\
-` старший работник, присматривающий за мной, сел на автобус и поехал к берегу реки, где цвели вишнЄвые деревь€.`\
+` all of my seniors got on a rental bus and went to see the cherry blossom trees by a riverbed somewhere.`\
 
 bg black,2
 bg cit_3a,2
 
 ;Б@БcБcОДИкРlВ™БAН°ЦйВаГ_ГУГ{Б[ГЛВрСдО‘В≈Й^В—БA@ЙwСOВ≈Р[ЦйВ№В≈БAГeГBГbГVГЕФzВиВрВµВƒВҐВйБB@
-` ...Ётим вечером € оп€ть в одиночку везла тележку с коробками и раздавала салфетки.`\
+` ...And tonight, I alone was moving a cardboard box on a trolley to the station, preparing to give out tissues until the night falls.`\
 
 ;Б@В§В£ВсБAН°ЦйВ…МјВЅВљВ±В∆ВґВбВ»ВҐБB@БcБcНрУъВаИкНрУъВаБAБcБcВ†ВйВҐВЌВ–ВеВЅВ∆ВЈВйВ∆БA@БcБcВ±ВћОdОЦВ…ПAВҐВƒВ©ВзБAВЄВЅВ∆В©ВаВµВкВ»ВҐБcБcБB\
-` ... ак вчера и позавчера,`@` ...точнее сказать, ...как всегда...`\
+` ...Just like yesterday, the day before,`@` ...just like always...`\
 
 bg black,2
 bg moon_2a,6
 
 ;Б@В®МОМ©ВрВЈВйВ∆ВҐВ§ВЊВѓВ†ВЅВƒБAВїВћЦйВЌБAКџВ≠ВƒНУФЦВ»В≠ВзВҐВ…Р^ВЅФТВ»БAЦЮМОВЊВЅВљБB@
-` », поскольку сегодн€ проводилось ÷укими, ночь освещала полна€, чисто-бела€ луна, что было почти жестоко.`\
+` Speaking of the moon viewing, I heard that tonight it was going to be an especially large, bright white full moon.`\
 
 ;Б@РEПкВћФёВзВЌБAВєВяВƒВ±ВћКъК‘ВЊВѓИщОрВрО©ПlВЈВйВ∆ВҐВ§В±В∆В…В≥В¶БAЛ¶ЧЌВµВƒВЌВ≠ВкВ»В©ВЅВљВћВЊБB\
-` я даже не смогла убедить коллег ограничитьс€ в спиртном хот€ бы в этот период.`\
+` I found myself thinking that maybe my coworkers would, just this once, cooperate by refraining from drinking.`\
 
 ;Б@БcБcБcВҐВвБA@ВїВсВ»В±В∆В…Л¶ЧЌВЈВйЛ`ЧЭВ»В«БAВвВЌВиВ»В©ВЅВљВЊВлВ§БB\
-` ......’от€ нет,`@` просто никто не считает своим долгом участие в подобной де€тельности.`\
+` ...No, they have no obligation to that, either.`\
 
 ;Б@ОДВћЦЏУIВЌБAВ±ВћОЮКъВ™ХљЙЄВ≈В†ВйВжВ§СеР®В…СiВ¶ВйВ±В∆В≈В†ВЅВƒБA@РEПкВћНІРeЙпВрТЖО~ВЈВйВ±В∆В≈ВЌВ»ВҐБB@
-` я поставила себе цель убедить как можно больше людей провести врем€ спокойно и скромно,`@` а не предотвратить попойку коллег.`\
+` My purpose here is to appeal to the crowd to spend the night peacefully,`@` not disturb my coworkers' social gatherings.`\
 
 
 ;Б@БcБcИўТ[РRЦвКѓВћОdОЦВЌБAИўТ[ВрРRЦвВЈВйВ±В∆В≈БAЦ@МкВрТЭВйВ±В∆В≈ВЌБAВ»ВҐБB\
-` ...ќб€занность инквизитора - искорен€ть ересь, а не разговаривать на €зыке суда.`\
+` ...An Inquisitor's duty is to destroy evil, not converse in court language.`\
 
 ;Б@ВїВкВ∆В№ВљБAВ№ВЅВљВ≠УѓВґШ_Ц@ВЊВЅВљВћВ≈ВЌВ»ВҐВ©БB@
 ;Б@В†ВћУъБAГKБ[ГgГЛБ[ГhПгЛЙХвН≤КѓВ…МЊВнВкВљВ±В∆ВрБAОДВЌЙљВ∆В»В≠ЧЭЙрВµВљЛCВ≈ВҐВљБB\
-` — этим всЄ точно так же?`@
-` ƒумаю, € пон€ла слова, которые мне в тот день сказала —тарший помощник √ертруд.`\
+` Doesn't this apply here too?`@
+` I feel like I finally understood what Senior Aide Gertrude was trying to tell me that day.`\
 
 ;Б@ВµВ©ВµБAВ№ВЅВљВ≠УѓВґУQВрНƒВ—БAУ•ВсВ≈ВҐВйБcБB\
-` » всЄ равно € лишь повтор€ю свои ошибки...`\
+` Even so, I'm still stuck in the same rut...`\
 
 
 ;Б@Н°В†ВйГ_ГУГ{Б[ГЛВћТЖРgВ≥В¶БAН°ЦйТЖВ…ВЌФzВиРЎВкВїВ§В…В»ВҐБB@
 ;Б@Ц≥Ш_БAЦҐВЊВ…РEПкВ…ВЌРФФ†ВћВђВЅВµВиЛlВ№ВЅВљГ_ГУГ{Б[ГЛВ™ОcВ≥ВкВƒВҐВйБB\
-` ¬р€д ли € смогу сегодн€ раздать все пачки.`@` », конечно же, в офисе ещЄ остались коробки.`\
+` I don't see any possible way to clear out this box by tonight.`@` And even if I did, there are still a few full ones left at work.`\
 
 
 ;Б@БcБcВ«В§ВµВжВ§БB@
-` ...„то делать?`\
+` ...What should I do?`\
 
 
 ;Б@ОћВƒВйВнВѓВ…ВЌНsВ©В»ВҐБB@БcБcМxО@В…БAЧ]ВЅВљВћВ≈В∆ШbВµБAИшВЂОжВЅВƒВаВзВ§В„ВЂВЊВлВ§БB\
-` Ќе выбрасывать же.`@`  ...ћожет, отдать полиции, сказав, что они были лишними?`\
+` I mustn't just throw them away.`@` ...I should probably ask if the police would take care of the leftover ones.`\
 
 ;Б@БcБcМxО@В…ВаБAВїВсВ»В…ВљВ≠В≥ВсХKЧvВ≈ВЈВ©ВЅВƒБAМЊВнВкВљВсВґВбВ»В©ВЅВљВЅВѓБB@
-` ...ћен€ как раз спрашивали, не много ли их.`\
+` ...Now that I think about it, even police told me I was ordering more than enough, didn't they?`\
 
 
 ;Б@ВїВкВрОДВ™УЊИ”ЛCВ…Ц@МкВ≈ЙЙРаВµВƒБAВїВћФ{ВрЧpИ”В≥ВєВљВсВЊБcБB\
-` Ќо ведь € гордо сказала им на судебном €зыке не сомневатьс€ в количестве...`\
+` I had proudly announced in clear court language that it was indeed the amount we required...`\
 
 E_A
 
 ;БuБcБcВ«В§В©БBБv\
-`"...Ќу и?"`\
+`"...How is it?"`\
 
 bg black,1
 
 ;БuВ¶БHБv@
-`"Ё?"`\
+`"Eh?"`\
 
 me1v 24,70
 
 ;БuБcБcТ≤ОqВЌБBБv\
-`"... ак справл€ешьс€?"`\
+`"...The thing you're doing, how is it?"`\
 
 bg cit_3a,0
 ld c,GER_KomaruA1,22
 
 ;Б@ГKБ[ГgГЛБ[ГhПгЛЙХвН≤КѓВЊВЅВљБB@
-` —тарший помощник √ертруд.`\
+` It was Senior Aide Gertrude.`\
 
 ;Б@В±ВћВPПTК‘БAФёПЧВрВ±В±В≈М©К|ВѓВљВ±В∆ВЌВ»ВҐБB\
-` Ќа этой неделе € еЄ ни разу не видела.`\
+` In the span of this entire week, I had not seen her even once.`\
 
 ;Б@В¬В№ВиБAФёПЧВЌВ±ВћЙwВћЧШЧpО“В≈ВЌВ»ВҐВћВЊБB@БcБcВнВіВнВіОДВћЧlОqВрМ©В…ЧИВƒВ≠ВкВљВћВЊБB\
-` ќна не часто приходит на эту станцию...`@`и пришла специально дл€ того, чтобы узнать, как у мен€ дела.`\
+` In other words, she doesn't normally use this station...`@` so she must have explicitly taken the time to come look at me here.`\
 
 ;Б@ФёПЧВЌВЈВЅВ∆ОиВрНЈВµПoВЈБB@
-` ќна вдруг прот€нула руку.`\
+` She offered her outstretched hand.`\
 
 
 ;Б@БcБcОДВЌБAВҐВ¬ВћК‘В…В©ИђВиТчВяВƒБAШcВяВƒВµВ№ВЅВƒВҐВљМ[Ф≠ГeГBГbГVГЕВрНЈВµПoВЈБB\
-` ...я неосознанно прот€нула ту руку, в которой держала салфетки.`\
+` ...Before I knew what was going on, I was giving her a tissue that I had twisted from gripping onto it so tightly.`\
 
 ;Б@ФёПЧВЌВїВкВрОуВѓОжВиБAБcГ_ГУГ{Б[ГЛВћТЖВ…БAВ№ВЊВљВ≠В≥ВсОcВЅВƒВҐВйВћВрЙ°ЦЏВ…М©ВљБB\
-` ќна вз€ла их...и увидела краем глаза, что в коробке ещЄ много таких.`\
+` She accepted it... and took a sidelong glance at the cardboard box with all the numerous tissues still remaining inside it.`\
 
 bg black,22
 
@@ -24875,50 +24875,45 @@ bg "bmp\background\sbook\cit_1N.bmp",6
 
 
 ;Б@БcБcБcЙљВаМЊВнВ»В©ВЅВљБB@
-` ......ќна ничего не сказала.`\
+` ...She said nothing.`\
 
 
 ;Б@ВҐВвБAВ†ВћУъВ∆УѓВґВ©ВаВµВкВ»ВҐБB@
-` ѕр€мо как в тот день.`\
+` It was just like the other day.`\
 
 ;Б@КЄВ¶ВƒМЊЧtВ≈МкВзВЄБAБcБcЦ≥МЊВ≈ОДВрЧ@ВїВ§В∆ВµВƒВҐВйБB\
-` ќна просто...молча подошла ко мне.`\
+` She just... silently approached me.`\
 
 ;БuБcБcОqЛЯВћН†В…Х`ВҐВљЦ≤ВЌБAОqЛЯВћЦ≤В≈ВµВ©БAВ»ВҐБBБv@
 ;БuБcБcБcБcБcБcБcБBБv\
-`"...ƒетские мечты всего лишь мечты."`@
-`".................."`\
+`"...The dreams and ideals you have as a child...`@` sometimes go against the state of the whole world."`@
+`"...I cannot deny that."`\
 
 ;Б@ОДВћЧЪЧрПСВрУ«ВсВЊВћВЊВлВ§В©БB@ФёПЧВЌОДВћОuЦ]УЃЛ@В™БAВїВкВ≈В†ВйВ±В∆ВрТmВЅВƒВҐВљБB\
-` ќна что, читала моЄ резюме?`@` ≈й были известны мои причины.`\
-
-;БuБcБcМїОјВЌВҐВ¬ВаБAЧЭСzВ∆ВЌИбВ§БBБv@
-;БuБcБcБcБcФљШ_ВћЧ]ТnБAЦ≥ВЂЦзВвБBБv\
-`"...¬ реальности всегда другие идеалы."`@
-`".........Ќе стану отрицать."`\
+` She must have read my resume.`@` She knew I had written about that on my job application.`\
 
 ;БuБcБcЧЭСzВрХѕВ¶ВйВ©БAО©Х™ВрХѕВ¶ВйВ©ВµВ©БAВ»ВҐБBБv@
 ;БuБcБcБcБcБcБcБcБcБBБv\
-`"...ќстаЄтс€ либо изменить эту утопию, либо изменить себ€."`\
-`".................."`\
+`"...You must either change the world... or give up, and let the world change yourself."`\
+`"..."`\
 
 ;Б@ОДВЌФzСЃВћПЙУъВ©ВзБAБcБcВЄВЅВ∆ВЄВЅВ∆Ч†РЎВзВкВƒВЂВљБB@
-` — моего первого дн€ на службе...мои ожидани€ посто€нно предавали.`\
+` Ever since the first day at work... my expectations had been betrayed.`\
 
 
 ;Б@У≤ВкВћОdОЦВ…ПAВҐВљВћВ…БA/
 ;БcБcВїВкВЌОqЛЯВћН†ВћЦ≤В∆В№ВЅВљВ≠ИбВЅВƒВҐВƒБB\
-` ’от€ € наконец попала туда, куда хотела,`/
-` ...всЄ оказалось совершенно не так, как € представл€ла в детстве.`\
+` Even though I got the job I always yearned for,`/
+` ...it was nothing like what I dreamed as a child.`\
 
 ;Б@ВЊВ©ВзВ±ВїБAВїВкВ≈ВаВ»В®БAВїВћЦ≤ВрКРВ¶ВљВ≠ВƒБA@БcБcМїОјВрЦ≥ОЛВµВљБB\
-` ѕоэтому даже сейчас € надеюсь на то, что мо€ мечта исполнитс€,`@` ...игнориру€ реальность.`\
+` For that very reason...`@` I ignored that reality, and kept chasing my dream.`\
 
 ;Б@БcБcВїВ§БB@ОДВћСzСЬВµВƒВҐВљОdОЦВ»В«БAБcБcВЂВЅВ∆ГeГМГrВћТЖВЊВѓВ»ВћВЊБB\
-` ...ƒа.`@` –аботу, о которой € мечтала, ...можно увидеть только по телевизору.`\
+` ...But,`@` the perfect job that I imagined... doesn't exist in this world.`\
 
 ;Б@ОqЛЯВћН†В…ГhГЙГ}В≈М©ВљИўТ[РRЦвКѓВ…У≤ВкБA@БcБcВїВћГhГЙГ}ВћРҐКEВрЦ≤СzВµБAМїОјВ©ВзИкРЎЦЏВрФwВѓВƒЧИВљБcБcБB\
-` я восхищалась инквизиторами, которых видела по телевидению,`@` ...и грезила о вымышленном мире, огородившись от реальности...`\
+` I was fascinated by the famous inquisitors I saw on TV,`@` and dreamt of a world with them that I myself made up...`\
 
 bg cit_3a,0
 ld r,GER_KomaruA1,5
@@ -24926,48 +24921,45 @@ ld r,GER_DefA2,80
 
 ;БuБcБcВQВ¬В†ВйБBБv@
 ;БuЙљВ™ЦзВвБcБBБv\
-`"...≈сть только два выхода."`@
-`" акие?.."`\
+`"...So, which one?"`@
+`"I beg your pardon?.."`\
 
 ld r,GER_DefA1,80
 
 ;БuБcБcРҐКEВрХѕВ¶ВйВ©БBБv@
 ;БuБcБcБcБcБcБcБBБv\
-`"...»зменить мир."`@
-`"..............."`\
+`"...Will you change the world?"`@
+`"..."`\
 
 ld r,GER_OdorokiA1,80
 
 ;БuБcБcО©Х™ВрХѕВ¶ВйВ©БBБv@
 ;БuЦ≥ЧЭВ∆БA@БcБcТmВиЛЛВ¶БcБBБv\
-`"...»ли же изменить себ€."`@
-`"«найте, что...`@`€ не могу..."`\
+`"...Or will you allow the world to change you?"`@
+`"Im... Know that doing that is impossible..."`\
 
 ld r,GER_komaruA1,80
 
 ;БuБcБcВ«ВЅВњВ™БHБv@
 ;БuВ«ВњВзВаБA@БcБcЦзВвБBБv\
-`"...„то именно?"`@
-`"» то,`@` ...и другое."`\
+`"...Which one?"`@
+`"...Both,`@` Madam."`\
 
 bg black,22
 
 ;Б@О©Х™В–В∆ВиВ™Р¬ПLВҐФсМїОјУIВ»ЧЭСzВрРUВиВ©ВіВµВљВ∆В±ВлВ≈БAТNВаУѓТ≤ВµВƒВЌВ≠ВкВ»ВҐБB@
-` Ќикто не согласитс€ с идеалами незрелого человека.`\
+` If you're trying to promote your ideals alone, nobody will sympathize with you.`\
 
 
 ;Б@ВїВµВƒБAБcБcВїВсВ»ЧЭСzВ∆ВҐВ§ЦЉВћБAОqЛЯВћЦ≤В∆ВҐВ§ЧhВиШUВ©ВзБAИкУxВаН~ВиВЄВ…В±В±В№В≈ЧИВƒВµВ№ВЅВљО©Х™ВрБA@БcБcН°В≥ВзХѕВ¶ВйВ±В∆В»В«ПoЧИВвВµВ»ВҐБB\
-` » так, ...с детскими мечтами, которые мы называем идеалами,`@` ...мы идЄм дальше, не в состо€нии изменитьс€ или вырасти.`\
+` The childhood dreams that grew and became stronger overtime, and became our ideals...`@` Those can no longer be changed.`\
 
 ;Б@РҐКEВ™СSВƒВ®В©ВµВҐВћВ∆БAО©Х™В™В®В©ВµВҐВћВЌУѓВґИ”Ц°ВЊБB@
-` Ќе только € така€ странна€ - весь мир странный.`\
-
-
-;Б@В®В©ВµВҐО©Х™ВрР≥ВЈВ±В∆ВЌБAРҐКEСSВƒВрР≥ВЈВћВ∆В№ВЅВљВ≠УѓВґВ±В∆БB\
-` „то исправл€ть себ€, что исправл€ть весь безумный мир...`\
+` That is true not only for me alone.`@` That is the same for everyone.`\
+` So, changing myself is no different from changing the entire world.`\
 
 ;Б@МИВµВƒПoЧИВвВµВ»ВҐБB\
-` » то, и другое невозможно.`\
+` Neither of those are possible.`\
 
 fede 10,1000
 
@@ -24975,29 +24967,28 @@ bg cit_2a,2
 
 ;БuБcБcЛMПЧВЌБAМьВҐВƒВҐВ»ВҐБBБv@
 ;БuЙљВ…БAБcБcЦзВвБBБv\
-`"...“ы не подходишь."`@
-`"ƒл€ чего...не подхожу?"`\
+`"...You are not cut out for this."`@
+`"What... are you referring to?"`\
 
 ;Б@В±ВћОdОЦВ…БH@Б@ЧЭСzВ…БH@Б@В†ВйВҐВЌМїОјВ…БH@
-` ƒл€ этой работы?`@` ƒл€ своего идеала?`@` »ли, может, дл€ самой реальности?`\
+` The job?`@` My ideals?`@` Or, perhaps, the entire world?`\
 
 
 ;Б@ПгЛЙХвН≤КѓВЌБA/
 ;БcБcУЪВ¶В»ВҐБB\
-` —тарший помощник...`/
-`не ответила.`\
+` The Senior Aide...`/
+` didn't reply.`\
 
 ;Б@В†ВћУъВ∆УѓВґВ…БAБcБcТЊЦўВрВаВЅВƒБAР√В©В…О©ЦвВрЛБВяВйВЊВѓВЊБB\
-`  ак и в тот день, ...она молча ждала, пока € сама пойму.`\
+` Just like back then,`@` she was waiting for me to understand it myself.`\
 
 ;БuБcБcР≥НјБBБv@
-`"...—€дь."`\
-;lett. seiza
+`"...Sit."`\
 
 bg black,1
 
 ;БuВ¶БHБv\
-`"Ё?"`\
+`"Eh?"`\
 
 bg cit_3a,0
 ld c,GER_KomaruA1,5
@@ -25005,45 +24996,44 @@ ld c,GER_DefA2,80
 
 ;БuБcБcНјВиВ»В≥ВҐБBБv@
 ;БuВ±БAБcВ±В±В≈ЦзВвБHБv\
-`"...—€дь, пожалуйста."`@
-`"ѕ-пр€мо здесь?"`\
+`"...Sit down, please."`@
+`"I... beg your pardon, do you mean right here?`@` On the floor?"`\
 
 ld c,GER_DefA1,80
 
 ;БuБcБcР≥НјБBБv\
-`"...—€дь."`\
+`"...Sit."`\
 
 cl c,5
 
 ;Б@ОGУ•ВћТЖВ≈БAГKБ[ГgГЛБ[ГhПгЛЙХвН≤КѓВЌБAВЎВљВиВ∆Р≥НјВЈВйБB@
-` —тарший помощник √ертруд села посреди дороги.`\
+` In the middle of the crowd, Senior Aide Gertrude folded her legs underneath her thighs and sat up straight on the ground.`\
 
 
 ;Б@ОДВЌБAОґВзВкВйВ„ВЂВ≈В†ВйВ∆ОvВҐБA@БcБcВїВкВ…ПKВҐБAР≥НјВµВљБB\
-` я подумала, что хочу, чтобы мен€ отругали,`@` ...и послушно села на колени.`\
-;fuckin seiza
+` Thinking I was about to get scolded as usual...`@` I followed her example.`\
 
 ;Б@ЙљВрВ«В§ОґВзВкВйВћВЊВлВ§В∆РgН\В¶ВљВ™БAЙљВаБAМыВ…ВµВ»ВҐБB@
-` я приготовилась к любым возможным упрЄкам, однако она ничего не сказала.`\
+` I braced myself for the scolding, whatever may come, but she stayed as quiet as ever.`\
 
 
 ;Б@Ц≥МЊВћТЊЦўВ≈БA/
 ;!d800БcБcОДВ…О©ЦвВрС£ВЈВЊВѓВЊБB\
-` » в этой тишине...`/
-!d800`€ думала.`\
+` And, in this silence...`/
+!d800` I pondered.`\
 
 ;Б@ВЈВйВ∆В®ВаВёВлВ…БAБcБcОwВрИкЦ{БAЧІВƒВљБB@
-` » так до тех пор, пока она медленно...не подн€ла палец.`\
+` But then... she abruptly held up a single finger.`\
 
 
 ;Б@ИкВ¬БAВ®ШbВ™В†ВйВ∆ВҐВ§И”Ц°БcБcБH\
-` ’очет мне что-то сказать?..`\
+` Did she want to tell me something?..`\
 
 ;Б@ИбВ§БB@БcБcОwНЈВЈХыВрМ©ВжБAВ∆ВҐВ§И”Ц°ВЊБB@
-` Ќет,`@` ...хочет, чтобы € посмотрела в том направлении.`\
+` Ah, no,`@` ...she wants me to look at what she was pointing at.`\
 
 ;Б@В«В±ВрОwНЈВµВƒВйБH@Б@БcБcБcПгБcБcБH\
-` Ќо куда?`@` ......Ќаверх?..`\
+` But where?`@` ...Above?..`\
 
 fede 0,1000
 E_A
@@ -25052,32 +25042,32 @@ bg moon_2a,6
 
 ;БuБcБcБcБcБcБBБv@
 ;БuБcБc/
-`"..............."`@
+`"..."`@
 `"...`/
 wait 1000
 bgm1 10
 ;В®МОМ©БBБv\
-`÷укими."`\
+`Moon."`\
 
 ;БuБcБcБcБcБcБcБcБcБcБBБv\
-`"....................."`\
+`"..."`\
 
 ;Б@Р^ВЅФТВ≈В№ВсКџВ»МОБB@
-` “ам была полна€ бела€ луна.`\
+` Indeed, there was a perfectly white, round moon.`\
 
 
 ;Б@СљХ™БAН°БAБcБcХФПРВћСSВƒВћУѓЧїВљВњВЌБAУѓВґМОВрМ©ВƒВҐВйБB\
-` ¬озможно, в этот самый момент...все мои коллеги тоже смотр€т на луну.`\
+` Perhaps... all of my coworkers from the department were also seeing the same thing right now.`\
 
 ;Б@ВЊВ©ВзСљХ™БAЦЊУъБB@Т©БB@
-` ѕоэтому, может, завтра...`@` «автра утром...`\
+` I could already imagine what tomorrow morning was going to be like...`\
 
 
 ;Б@НрУъВћМОВЌЦ{УЦВ…гYЧнВЊВЅВљВЋВ•БAВ∆БAНЗМЊЧtВћВжВ§В…МрВµНЗВ§ВћВЊВлВ§БB\
-` ¬се они скажут, до чего же прошлой ночью была прекрасна€ луна, словно слоган.`\
+` Their conversations would probably be filled with phrases like 'the moon sure was beautiful last night' and so on.`\
 
 ;Б@ОДВЌВ®МОМ©ВћЙпПкВ…ВЌВҐВ»ВҐВѓВкВ«БA@БcБcБcВїВћНЗМЊЧtВ…ВЊВѓВЌБAБcЙЅВнВкВйВ©ВаВµВкВ»ВҐБB\
-` я не пошла вместе с ними на ÷укими, но...`@`...может, благодар€ этому слогану мне покажетс€, что и € была там.`\
+` I may not be present at the moon viewing party, but...`@` perhaps I might be able to join those conversations, at least.`\
 
 bg black,22
 bg cit_3a,0
@@ -25086,69 +25076,69 @@ ld r,GER_DefA1,80
 
 
 ;БuБcБcЛёМ[БB@ЛёВсВ≈БAР\ВµПгВ∞ХтВйБBБv\
-`"...ѕожалуйста,`@` позволь сказать."`\
+`"...Please, allow me to speak."`\
 
 ;Б@ГKБ[ГgГЛБ[ГhПгЛЙХвН≤КѓВ™БAЦ@МкВ≈БAМкВйБB@
-` —тарший помощник √ертруд заговорила на официальном €зыке.`\
+` The Senior Aide Gertrude unexpectedly spoke on court language.`\
 
 ;Б@ОДВћРSВ…БAВаВЅВ∆ВаТЉРЏУ`ВнВйМЊЧtВ≈БAМкВйБB\
-` » она сказала то, что поразило мен€ в самое сердце.`\
+` She spoke using the words nearest to my heart.`\
 
 
 ld r,GER_defA2,80
 
 ;БuБcБcЦ≤ВаБAЧЭСzВаБB@ВїВћОјМїВаБB@БcБcШAС—В»В≠ВµВƒБAРђВиЧІВљВ»ВҐВ∆ТmВиЛЛВ¶БBБv@
-`"...ћечты, идеалы,`@` их осуществление.`@`  ...«най, что сама по себе ты ничего не добьЄшьс€."`\
+`"...Dreams and ideals...`@` Know that these are not things that you should seek out alone."`\
 
 ld l,COR_majimeA1,23
 ld l,COR_komaruA2,80
 ;БuБcБcБcБcБcБcБcБBБv\
-`"................."`\
+`"..."`\
 
 ld r,GER_defA1,80
 
 ;БuРlВЌБAЧЭСzВ…ВЌБAО®ВрСЁВ≥В»ВҐБBБv@
-`"Ћюди не прислушиваютс€ к хорошим мечтам."`\
+`"However, people won't listen and won't join someone who merely talk about their ideals and dreams."`\
 
 ld l,COR_majimeA1,80
 
 ;БuЛёМ[БAБcБcЛёВсВ≈В®РqВЋР\ВµПгВ∞ХтВйБB@БcБcВ»ВкВќБAФ@ЙљВ…ВµВƒЧЭСzВЌКРВ¶ВзВкВйВаВћЦзВвБcБBБv\
-`"ѕрошу, ...позвольте спросить.`@`  ... ак тогда исполнить мечту?.."`\
+`"Madam, my humble apologies, but if I may inquire...`@` If that is the case, in what way am I to fulfill my dreams?.."`\
 
 bg black,2
 
 ;Б@ВїВћЦвВҐВ…БAПгЛЙХвН≤КѓВЌБAР√В©В…УЪВ¶ВљБB\
-` —тарший помощник спокойно ответила на еЄ вопрос.`\
+` The Senior Aide answered calmly.`\
 
 ;Б@РlВЌБAЧЭСzВ…ВЌБAО®ВрСЁВ≥В»ВҐБB@
 ;Б@РlВЌБAСЉРlВ…ВЌБAО®ВрСЁВ≥В»ВҐБB@
 ;Б@РlВЌБAЧFРlВ…ВЌБAО®ВрСЁВ≥В»ВҐВ±В∆ВаВ»ВҐБB@
-` Ћюди не прислушиваютс€ к идеалам.`@
-` Ќе прислушиваютс€ к другим люд€м.`@
-` Ќе прислушиваютс€ даже к друзь€м.`\
+` People don't listen when someone talks about their ideals.`@
+` People don't listen when someone talks about their dreams.`@
+` However, people do listen to their friends.`\
 
 ;Б@ВїВµВƒЧFРlВ™ЧЭСzВрМкВЅВљВ»ВзБA@ЧЌВрСЁВ≥В»ВҐВ±В∆ВаВ»ВҐБAВ©ВаВµВкВ»ВҐБB\
-` », наверное, они не предлагают помощь даже когда их друзь€ говор€т о своих мечтах.`\
+` So if you talk to your friends about your ideals,`@` they might offer you their help.`\
 
 ;bg black,22
 bg cit_2a,22
 
 ;Б@В«ВсВ»СеСwВ»ЧЭСzВаБA@ТNВћРSВ…ВаУЌВ©В»ВѓВкВќСеМЊСsМкБB\
-` ƒаже высокий идеал будет всего лишь красивыми словами, если никого не достигнет.`\
+` No matter how grand your ideals may be, if your words cannot convince anybody, you may as well be blowing hot air.`\
 
 ;Б@РSВ…УЌВ≠В…ВЌБAВ«В§ВЈВкВќВҐВҐБcБcБH@
-` “ак как донести его до других?..`\
+` How does one convince others, then?..`\
 
 
 ;Б@РSВ∆РSВ™БAМрЧђВµВƒВҐВ»В≠ВƒВЌВ»ВзВ»ВҐБB\
-` Ќужно обмениватьс€ мнени€ми.`\
+` There is no way other than for your hearts and minds to interact.`\
 
 
 ;Б@В«ВсВ»ЧЭСzВаБAВїВћСOВ…БB@
-` Ёто касаетс€ любого идеала.`\
+` Regardless of your ideals, that comes always first.`\
 
 ;Б@БcБcГRГ~ГЕГjГPБ[ГVГЗГУВ™В»ВѓВкВќБAУ`ВнВйВнВѓВаВ»ВҐВћВЊБB\
-` ...Ѕез общени€ ничего не передастс€.`\
+` ...Without communication, nothing can be conveyed.`\
 
 bg black,22
 bg moon_2a,6
@@ -25156,75 +25146,75 @@ bg moon_2a,6
 me1v 24,50
 
 ;Б@ОДВљВњВЌЦйВћЙwСOВћОGУ•ВћТЖВ≈УсРlБAБcБcР≥НјВµБAМОВрМ©ПгВ∞ВƒВҐВйБB@
-` ћы просто сидели вечером посреди станции, ...смотр€ на луну.`\
+` There we were, the two of us, in the middle of the nighttime crowd in front of the station... sitting straight up on the ground and looking up at the moon.`\
 
 
 ;Б@ОGУ•ВрНsВЂМрВ§РlБXВ∆ВҐВ§Ч—ВћТЖВ≈БA@В»ВЇВ©В∆ВƒВаР√В©В…КіВґВзВкВйБAВ®ОрВаВ®ТcОqВаВ»ВҐБA/
 ;!d900БcБcХsОvЛcВ»В®МОМ©ВЊВЅВљБB\
-` ¬ лесу людей, спешащих туда-сюда,`@` почему-то стало спокойно и мирно.`@` Ѕез алкогол€ и данго...`/
-!d900`это было странное ÷укими.`\
+` Somehow, despite the lack of sake and dango, and while feeling oddly calm in this congestion of people moving back and forth, numerous enough to be called a veritable forest...`/
+!d900` we were having this strange moon viewing party.`\
 
 
 ;Б@ОДВЌО–ЙпРlВ∆ВµВƒБAЦҐПnВ©ВаВµВкВ»ВҐБB@
-` ћожет, как член общества, € всЄ ещЄ неопытна.`\
+` It's true that I may be inexperienced as a member of the society.`\
 
 
 ;Б@Л¶Т≤РЂВћВ»ВҐБAУTМ^УIВ»"ОбО“"В∆ВҐВ§ВаВћВ»ВћВ©ВаВµВкВ»ВҐБB@
-` ¬озможно, € типична€ Џ00171девочка со спичкамиЏ00187, не умеюща€ работать в команде.`\
+` Perhaps, I could be called one of those typical, uncooperative "youngsters".`\
 
 
 ;Б@ВїВкВрБAНВВҐОuВ≈РUВиВ©ВіВЈХ™ВЊВѓБAВ≥ВзВ…РЂОњВ™ИЂВҐВћВ©ВаВµВкВ»ВҐБB@
-` ¬озможно, мой плохой нрав затмевает мои высокие намерени€.`\
+` Perhaps, my bad manners eclipse my shining ideals.`\
 
 ;Б@БcБcОДВ™БAСљХ™БAВЄВЅВ∆РћВ©ВзБAЙљВ©ВрК‘ИбВ¶ВƒВҐВйБB\
-` ...Ѕыть может, € с самого начала ошибалась.`\
+` ...Perhaps, I was mistaken from the very start...`\
 
 
 bg cit_2b,23
 
 ;Б@ОЂВяВйБH@
-` ћне уволитьс€?`\
+` Should I quit?`\
 
 ;Б@В±ВћВ≤ОЮРҐВ…БAОЂВяВƒВ«В±В…НƒПAРEВрБH@
-` » куда € потом смогу устроитьс€?`\
+` But then where and how will I get employed again?`\
 
 ;Б@ВєВЅВ©В≠МШВҐВ∆В±ВлВ…ПAРEВ≈ВЂВљВћВ…БcБcБB\
-` я наконец нашла стабильную работу...`\
+` I finally found a stable job...`\
 
 
 ;Б@В±В±ВрОЂВяВƒБAРlРґВрНƒРЁМvВ≈ВЂВйОЮК‘В»ВсВƒБAВ∆ВЅВ≠В…В»ВҐБB@
-` —ейчас мне как раз нужно обустраивать свою жизнь.`\
+` Now is the time for me to build my life.`\
 
 
 ;Б@РlРґВ™НƒРЁМvВ≈ВЂВйОЮК‘В»ВсВƒСљХ™БAТЖКwНZВрС≤Л∆ВµВљХ”ВиВћН†В≈БAВ∆ВЅВ≠В…ОЄВнВкВƒВҐВйВћВЊБB\
-` Ѕыть может, мой энтузиазм исс€к, когда € закончила среднюю школу.`\
+` Perhaps, my enthusiasm has expired by the time I graduated school.`\
 
 ;Б@В≈ВаБAБcБcОДВћПоФMВЅВƒБAВїВсВ»ВаВћВЊВЅВљВћВ©В»БcБcБB@
-` «начит...вот и вс€ мо€ страсть?..`\
+` Is that... really all I was good for?..`\
 
 
 ;Б@К®ИбВҐВµВƒВҐВйВ∆ВµВљВЅВƒБA@БcБcРMВґВљЧЭСzВћВљВяВ…БAВ±В±В№В≈ЧИВљВсВґВбВ»В©ВЅВљВЅВѓБcБcБB\
-` я здесь не дл€ того, чтобы боротьс€ за свои идеалы,`@` хоть они и были ошибочными?..`\
+` Can I no longer fight for my dreams and ideals?`@` Have I made a mistake?..`\
 
 bg black,22
 bg cit_3a,2
 
 ;Б@ГKБ[ГgГЛБ[ГhПгЛЙХвН≤КѓВ™БAРEПкВ…ОcВЅВљГ_ГУГ{Б[ГЛВрИшВЂОжВЅВƒВ≠ВкВйВ±В∆В…В»ВЅВљБB@
-` —тарший помощник √ертруд вз€ла коробки, оставшиес€ в офисе.`\
+` It turned out that Gertrude had taken care of the cardboard boxes still left at the workplace.`\
 
 ;Б@В±ВкВ≈БAРEПкВ÷ВЌЦјШfВрК|ВѓВЄВ…НѕВёБB\
-` “ак всЄ закончитс€, и ни у кого не возникнет непри€тностей.`\
+` Now they didn't have to be in the way at work anymore.`\
 
 ;Б@ФёПЧВЌВ«В§ВҐВ§ВнВѓВ©БAВ†ВзВдВйМoИ№ВрВЈВ„ВƒТmВЅВƒВҐВљВћВЊБB@
-` ќна откуда-то знала все подробности истории.`\
+` I didn't know how, but it seemed she was aware of all the circumstances surrounding me.`\
 
 ;Б@МгВ…БAМWТЈВ™ФёПЧВћТmРlВ≈БAВїВћРgВрИƒВґВƒБAСКТkВ…ПжВйВжВ§В…ЧКВсВ≈ВҐВљВ±В∆ВрТmВйБB\
-` ѕозже € узнала, что начальник нашего отдела знал еЄ, и попросила его рассказать о ней.`\
+` Later on, I learned that she was an acquaintance of the chief clerk, who had some concerns and asked her for advice.`\
 
 ;Б@ФёПЧВаХѕВнВиО“В≈БAРVРlВћУЦОЮВ…БAСКУЦВћЛкШJВ™В†ВЅВљВ∆ВҐВ§БB@
 ;Б@ВїВсВ»ФёПЧВ≈В»ВѓВкВќБAОДВћРSВ…МЊЧtВЌУЌВ©В»ВҐВ∆ОvВЅВљВћВЊВлВ§БcБB\
-` ќна была не такой, как остальные, и поначалу ей тоже было трудно.`\
-` ≈сли бы речь шла не о ней, слова, наверное, не достигли бы мен€...`\
+` As a newcomer, Gertrude had been similarly eccentric and suffered her share of hardships as well.`\
+` The chief clerk must have thought that without it coming from another girl like that, I wouldn't take their words to heart...`\
 
 bg black,22
 fede 0,2000
@@ -25235,49 +25225,48 @@ bg cit_2b,2
 bgm1 82
 
 ;Б@ЧЭСzВаБAМїОјВаБB@О©Х™ВаБAРҐКEВаБB@
-` »деалы, реальность.`@` я сама, весь мир.`\
+` Ideals, dreams,`@` myself and the world.`\
 
 
 ;Б@СSВƒВрХєВєУџВёКнЧ В™В»ВѓВкВќБAБcБcЙљИкВ¬БAРђВµРЛВ∞ВзВкВ»ВҐБB@
-` ≈сли не можешь сотрудничать и соглашатьс€ со всем, ...то ничего не добьЄшьс€.`\
+` Unless I made them all work together... I wouldn't accomplish anything.`\
 
 
 ;Б@ВїВкВ™СљХ™БAСеРlВ∆ВҐВ§ВаВћВ»ВћВЊБB\
-` ћожет, это и значит быть взрослым человеком.`\
+` Perhaps that is what being an adult is about.`\
 
 
 ;Б@ВїВ±В№В≈КЃРђВ≥ВкВƒБAВжВ§ВвВ≠В»ВкВйВћВ™БAИўТ[РRЦвКѓВ∆ВҐВ§ВаВћВ»ВћВЊВлВ§БB@
-` ƒойти до такого совершенства и привыкнуть к нему, возможно, и значит быть инквизитором.`\
+` Perhaps, I needed to reach that level and get used to it to become an Inquisitor.`\
 
 
 ;Б@БcБcВїВµВƒВїВкВЌБAОДВћВжВ§В»ЦҐКЃРђВ»РlК‘В…ВЌБAВ∆ВƒВаСКЙЮВµВҐВаВћВ≈ВЌВ»ВҐБB\
-` ...я несовершенна и не подхожу.`\
+` ...I haven't reached it yet, so this job isn't suitable for me.`\
 
 
 ;Б@ОДВЌБA@БcБcБcБcОqЛЯВћН†ВћЦ≤ВћБAИкФ‘ПГРИВ≈ЦҐПnВЊВЅВљХФХ™В…ВїВћУъБA/
 ;!d900БcБcВжВ§ВвВ≠МИХ ВрВЈВйВ±В∆В™ПoЧИВљБB\
-` Ќо всЄ же,`@` .........сегодн€ мне удалось отделитьс€ от наивной и детской мечты,`/
-!d900` ...преследовавшей мен€ с детства.`\
+` However, on that day,`@` I was finally able to part with the most immature part of myself.`\
 
 ;Б@ВҐВвБAМИХ В∆ВЌМЊВҐВљВ≠В»ВҐБB@
-` ’от€ мне не нравитс€ слово Џ00171отделитьс€Џ00187.`\
+` Well, I didn't exactly "part" with it.`\
 
 ;Б@НƒПoФ≠ВЊВ∆БAВїВ§О©Х™В…МЊВҐХЈВ©ВєВљБB\
-` я уверена, что это скорее новое начало.`\
+` I just put on the backburner for now.`\
 
 bg moon_2a,5
 
 ;Б@ИўТ[РRЦвКѓВрЦЏОwВµВЌВЈВйБB@В≈ВаБAВ»ВкВ»В≠ВƒВаВҐВҐБB@
-` ћо€ цель - стать инквизитором.`@` Ќо уже потом.`\
+` My goal is still to become an Inquisitor.`@` However, that comes later.`\
 
 ;Б@ВїВкВжВиВаСOВ…БAБcБcСеРlВ∆ВµВƒБAО©Х™ВрКЃРђВ≥ВєВљВҐБB\
-` ƒл€ начала...мне нужно повзрослеть.`\
+` Before that... I want to become an adult.`\
 
 ;Б@ВїВµВƒБAВаВµВїВкВрРђВµРЛВ∞ВзВкВљВ»ВзБA@БcБcВҐВ¬В©ВЌНƒВ—БAЧcВҐУъВћЦ≤ВрВаВ§ИкУxОvВҐПoВµВƒВаВҐВҐВЊВлВ§БB@
-` » если мне удастс€,`@` ...однажды € вспомню о своей мечте.`\
+` And, once I accomplish that,`@` ...I'll start working toward my goal again.`\
 
 ;Б@ОДВЌВїВкВрФёПЧВ…НРВ∞БAВїВћЦйВрПIВ¶ВљБB\
-` Ќа этом мы разошлись.`\
+` And so, our conversation ended there.`\
 
 
 
@@ -25293,81 +25282,81 @@ bg "bmp\background\sbook\Ke_S3.jpg",2
 bgm1 60
 
 ;БuВ®Б[БAВЈВ≤ВҐВЋБB@В†ВћГ_ГУГ{Б[ГЛБAИкРlВ≈СSХФФzВиВЂВЅВљВћБBБv@
-`"ќ-о, прекрасно!`@` –аздала все пачки в одиночку?"`\
+`"Wow, would you look at that.`@` Did you hand out all the stuff from those cardboard boxes all by yourself?"`\
 
 ld r,COR_defA1,24
 ld r,COR_komaruA2,80
 
 ;БuБcБcВёБAБcЦ≥ЧЭБAВ≈ВµВљБBБv\
-`"......Ќ-нет, ...конечно нет."`\
+`"...N-no, of course not..."`\
 
 ;БuВ®БAМыМкБHБv@
-`"ќ, теперь говоришь как все?"`\
+`"Woah, you dropped the court language?"`\
 
 ld r,COR_KomaruA1,80
 
 ;БuБcБcБcБcКµВкВ»ВҐВћВ≈БAТpВЄВ©ВµВҐБcЦзВвБcБBБv\
-`"......я не привыкла, и мне немного...неловко..."`\
+`"...I'm not used to this yet... it's a bit awkward.."`\
 
 bg "bmp\background\sbook\Ke5.jpg",25
 
 ;Б@ФчПќВёМWТЈВЌСљХ™БAПгЛЙХвН≤КѓВ©ВзУ^ЦЦВрХЈВ©В≥ВкВƒВҐВйБB@
-` ƒолжно быть, —тарший помощник рассказала улыбающемус€ руководителю подробности.`\
+` The chief clerk was smiling. Senior Aide must have told her about everything.`\
 
 
 ;Б@ФёПЧВ…ШbВµВљОДВћЧcВҐЦ≤В∆БAМїОјВ∆ВћзaзАБAВїВµВƒНƒПoФ≠ВћМИИ”ВаБAТmВЅВƒВҐВйВЊВлВ§БB@
-` ќ моих детских мечтах, трудност€х в жизни и о решении начать с нул€.`\
+` She probably knew all about my childhood dream, the difficulties in my life, and my decision to start anew.`\
 
 
 ;Б@О©Х™ВћЛєТЖВрСSВƒУІВ©ВµМ©ВзВкВƒВҐВйЛCВ™ВµВƒБAВ∆ВƒВаТpВЄВ©ВµВ©ВЅВљБB\
-` я будто открыта€ книга, что очень смущает.`\
+` I felt like I was an open book, which was very embarassing.`\
 
 bg "bmp\background\sbook\Ke_S3.jpg",26
 
 ;БuРlВЌВЋВ•БB@ФNЧоВвПAРEВ≈СеРlВ…В»ВйВсВґВбВ†ВиВ№ВєВсБB@ВїВћМгВћРlРґВрВЋБAВґВЅВ≠ВиВ©ВѓВƒБBЙ~ПnВ≥ВєВƒНsВЅВƒБB@СеРlВ∆ВҐВ§ВаВћВрТTВЈВаВћВ»ВсВ≈ВЈБB@БcБcГRБ[ГlГКГAВњВбВсВЌОбВҐВ©ВзБAВҐВ¬ВаЙљВ©В…К‘В…НЗВнВ»ВҐВ©ВћВжВ§В»П≈СЗКіВ…ЛЇВ©В≥ВкВƒВйВ©ВаВµВкВ»ВҐВѓВкВ«БB@ВїВсВ»В±В∆ВЌВ»ВҐВжБH@Б@РlРґВ»ВсВƒБAГzГУГgВ…ТЈВҐВсВЊВ©ВзБBБv\
-`"«наешь,`@` люди не взрослеют с возрастом или когда наход€т работу.`@` ѕовзрослеют они или нет - зависит от их жизни.`@` Ќе торопись с этим.`@` ¬зрослеть нужно постепенно."`\
-`"Ќо ты молода,  орнели€, и, наверное, посто€нно боишьс€ не успеть что-то сделать.`@` Ќе бойс€.`@` ∆изнь очень длинна€."`\
+`"You know,`@` people don't become adults with age or employment.`@` Some are mature as children, and some never grow up at all.`@` Don't rush this.`@` Maturing is a slow process."`\
+`"You're young, Cornelia. You seem afraid to miss some deadline.`@` But there's no such thing, you see?`@` You have all the time in the world."`\
 
 bg black,22
 
 ;БuБcБcБcБcБcБBБv\
-`"............"`\
+`"..."`\
 
 ;БuВҐВ¬В©БB@МNВћВ»ВиВљВҐО©Х™В…В»ВкВйВ∆ВҐВҐВЋВ•БBБv@
-`"¬от увидишь,`@` однажды ты станешь той, кем хочешь стать."`\
+`"You'll see,`@` one day, your dreams will come true."`\
 
 
 ;БuБcБcБcБcВЌВҐБBБv\
-`".........Ѕ-благодарю вас."`\
+`"...Thank you."`\
 
 bg white,22
 bg "bmp\background\sbook\Ke_S3.jpg",2
 
 ;Б@ВҐВ¬ВаВ∆ЙљВаХѕВнВзВ»ВҐБAСёЛьВ≈КуФЦВ»РEПкВ™БA/
 ;!d900БcБcВўВсВћП≠ВµВЊВѓБAШaВзВҐВ≈М©В¶ВљБB\
-` ¬ этом вечно скучном и угнетающем офисе...`/
-!d900`стало как-то светлее.`\
+` The tedious, woefully inadequate and unchanging workplace...`/
+!d900` seemed just a little more relaxing than usual.`\
 
 ;БuМNВЌВ®ХўУЦВ≈ВµВљВЅВѓБHБ@@ЦЊУъВћВ®ТЛВЌБAМWВћВЁВсВ»В≈БAЛяПКВћВ®ОхОiЙЃВ≥ВсВ…В≈ВаНsВЅВƒВЁВ№ВєВсВ©БBБv@
-`"ѕолагаю, ты сегодн€ принесла себе обед?`@` Ќе хочешь завтра вместе с остальными пойти в суши-бар?"`\
+`"Did you bring your lunch from home again today?`@` Tomorrow, let's get everyone on the shift and have lunch at the local sushi place. What do you say?"`\
 
 ld r,COR_komaruA1,24
 
 ;БuБcБcБcВ•БAБcБcВЯБcБBБv\
-`".........Ё, ......a..."`\
+`"...Uhm, I..."`\
 
 ;БuВґВбВ†БAМИВ№ВиВ≈БB@ЦЊУъВЌВ®ХўУЦБAОЭВЅВƒЧИВњВбС ЦЏВ≈ВЈВжБB@В†В∆БAГvГНГWГFГNГgВћВ№В∆ВяВрБAЙџТЈВ…ПoВµВƒВ®ВҐВƒВЋБB@В†В∆БAВ®ТГВрВаВзВ¶ВйБHБv\
-`"“огда решено.`@` «автра не приноси обед из дома.`@` Ќе забудь доложить директору о своЄм проекте.`@` ќ, будешь?"`\
+`"Great! It's decided!`@` Don't cook anything for tomorrow!`@` And don't forget to report to the section chief about the results of your project.`@` Oh, hey, do you want some tea?"`\
 
 
 
 ld r,COR_ODorokiA1,80
 
 ;БuВЌБAВЌВҐБcБcБA/
-`"ƒ-да, `/
+`"Y-yeah, `/
 wait 1000
 ;БcБcЦзВвВЅБBБv\
-`......с радостью."`\
+`...thank you."`\
 
 textoff
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
@@ -25386,7 +25375,7 @@ br
 br
 
 ;Б@В±ВкВЌБAГRБ[ГlГКГAВ™ГAГCГ[ГЛГlБEГЖГУГOГtГЙГEВ…ФzСЃВ…В»ВйВжВиБA@ВЄВЅВ∆ВЄВЅВ∆СOВћХ®МкБcБcБcБB\
-` » вот истори€ о  орнелии задолго до того, как она присоединилась к јйзерн ёнгфрау...`\
+` This was a story from long, long before Cornelia became a member of the Eiserne Jungfrau...`\
 
 
 ;<В®ВµВ№ВҐ>
@@ -25420,36 +25409,36 @@ bgm1 3
 ld l,DLA_komaruA1,26
 
 ;БuБcБcВ±ВсВ»В…СеЧ ВћГeГBГbГVГЕБAВҐВзВ»ВҐГfГXБBБv\
-`"...ћне не нужно столько салфеток."`\
+`"...This abundance of tissues is UNNECESSARY."`\
 
 
 ;Б@ГhГЙГmБ[ГЛВћМИНўФ†В…БAОRВўВ«ВћГeГBГbГVГЕВ™РѕВЁПгВ∞ВзВкВƒВҐВйБB@
 ;Б@ГKБ[ГgГЛБ[ГhВ™УѓЧїВљВњВ…СеЧ В…ОRХ™ВѓВµВљБAВїВћВ®РЮХ™ВѓВћИкХФВЊБB\
-` Ќа кипах документов, ожидающих одобрени€ ƒланор, были навалены пачки салфеток.`\
-` √ертруд разделила их среди всех коллег, и это была еЄ часть.`\
+` There was a heap of tissues piled up on Dlanor's paper tray.`\
+` Gertrude had divided the tissues between her colleagues, and that heap was Dlanor's portion of it.`\
 
 ld r,GER_DefA1,24
 ld r,GER_DefA2,80
 
 ;БuБcБcВ®РЮХ™ВѓВ≈ВЈБB@В†ВкВќЦрЧІВњВ№ВЈБB@БcБcВ®ТГВрЧлВµВљОЮБAР@ВҐВљВиБAЧлВµВљВ®ЙўОqВћГNГYВрР@ВҐВљВиБA@Х@ВрГ`ГУВµВљВиБAВўВЅВЎВ…В¬ВҐВљГPГ`ГГГbГvВрР@ВҐВљВиБB@ВҐВЄВкВаПгОiГhГЙГmБ[ГЛВ…ВЌХKЧvВ≈ВЈБBБv\
-`"...Ёто ваша часть.`@` ƒумаю, они вам пригод€тс€...`@`когда вы испачкаетесь сладким,`@` будете сморкатьс€ или испачкаете щеку кетчупом.`@` ѕосмотрите, сколько пользы, командир ƒланор."`\
+`"...That's your portion.`@` They're very useful...`@` like for drying up spilled tea,`@` cleaning a dropped piece of candy`@`, wiping your nose,`@` wiping ketchup from your cheek...`@` All very relevant for you, miss Dlanor."`\
 
 ld l,DLA_majimeA2,80
 
 ;!s0БuХKЧvВ»ВҐГfГXБB@/
-!s0`"я обойдусь.`@/
+!s0`"They are UNNECESSARY.`@/
 
 se1 12
 quakey 2,300
 
 ;В®ОqЧlИµВҐГfГXБB@/
-` Ќе относись ко мне как к ребЄнку.`@/
+` Do not treat me like a CHILD.`@/
 
 se1 6
 quakey 2,300
 
 ;ВҐВзВ»ВҐГfГXБB@/
-` Ќе нужно.`@/
+` Take them AWAY.`@/
 
 se2 7
 quakey 2,300
@@ -25460,7 +25449,7 @@ cl l,0
 ld c,DLA_ikariA1,23
 
 ;СеВЂВ»В®РҐШbВДВЕВБВФВИБBБv/
-` ƒерзость караетс€ смертью."`/
+` This impudence is punishable by <DEATH>!"`/
 
 se1 72
 se2 12
@@ -25476,11 +25465,11 @@ bg "bmp\background\sbook\Ke5.jpg",26
 
 
 ;БuБcБcВ»ВзБAВїВкВЌГeГBГbГVГЕВ≈ВЌВ»В≠БAПСЧёВ≈ВЈБB/
-`"...“огда вместо салфеток поговорим о документах. `@/
+`"...Then, let us talk about these documents instead. `@/
 
 
 ;@В≈ВЈВ©ВзВ≤МИНўВрВ®КиВҐР\ВµПгВ∞ХтВйБB@СSХФВћГeГBГbГVГЕИкЦЗВЄВ¬СSВƒВ…ГnГУГRВрВ®КиВҐВЈВйВаВћЦзБBБv\
-`«найте, что все они ожидают одобрени€.`@` ѕрошу вас поставить штамп на каждом из них."`\
+`Know that they are all waiting for your approval.`@` Please stamp each of these."`\
 
 textoff
 
@@ -25495,7 +25484,7 @@ mcbg 0
 ld c,DLA_akuwaraiA1,80
 
 ;!s0БuГnГУГRГbБI/
-!s0`"ќп€ть штамповать?!`/
+!s0`"Stamping AGAIN?`/
 
 quakex 2,150
 
@@ -25506,7 +25495,7 @@ cl c,1
 quakey 3,400
 
 ;Б@МЩГfГXБAГfГXГfГXБB/
-` Ќе хочу, смерть документам.`/
+` I don't want to do THAT. Upon each of these documents, I wish <DEATH>.`/
 
 se1 12
 quakex 2,300
@@ -25518,7 +25507,7 @@ quakey 2,300
 se1v 75,100
 
 ;ГfГXГfГXГfГXБcБIБIБv/
-` —ћ≈–“№, —ћ≈–“№, —ћ≈–“№!.."`/
+` <DEATHDEATHDEATH>!.."`/
 
 se1 73
 se2 12
@@ -25539,11 +25528,11 @@ quakex 2,200
 
 
 ;Б@ГhГЙГmБ[ГЛВЌСSРgВћЦ—ВрЛtЧІВƒВƒВйБB@СSРgВ…ГWГУГ}ГVГУБB@
-` ” ƒланор побежали мурашки по коже.`@` ѕр€мо как сыпь.`\
+` Every hair on Dlanor's body was standing on end.`\
 
 
 ;Б@ГhГЙГmБ[ГЛВЌК«ЧЭРEВћВ≠ВєВ…БAГnГУГRЛ∞Х|П«ВЊБB@ИкУъБAГnГУГRВрЙЯВЈВ±В∆В»В«БAЛкНsВрТ ВиЙzВµВƒНЙЦвВЊБB\
-` ” неЄ была бо€знь штамповани€.`@` ƒл€ ƒланор это самое худшее наказание, насто€ща€ пытка.`\
+` Despite being in the management, Dlanor had a phobia of stamps.`@` This was a torture, inflicted in order for her to get over it and start stamping things.`\
 
 
 bg black,22
@@ -25553,19 +25542,19 @@ ld r,GER_DefA1,22
 
 
 ;Б@ГKБ[ГgГЛБ[ГhВЌБAВ†ВћОбВҐРVРlВрОvВҐПoВµВƒВҐВйБB@
-` √ертруд вспомнила юную новобранку.`\
+` That young newcomer came to Gertrude's mind.`\
 
 ;Б@ВїВµВƒБAО©Х™В…ВаВїВ§ВҐВ§УъВ™В†ВЅВљВ±В∆ВрБAВўВлЛкВ≠ОvВҐПoВµВƒВҐВйБB\
-` Ќедавние дни дл€ неЄ были горько-сладкими.`\
+` It made her remember her own time as a newbie. Such bittersweet memories.`\
 
 ;Б@ПоФMВрБAО©Х™ВЌВҐВ¬ВћК‘В…В©ЦYВкВƒВµВ№ВЅВƒВҐВљВЊВлВ§В©БB@
-`  то знает, забыла она или нет о той страсти, что мотивировала еЄ.`\
+` Who knows if she had forgotten the passion that motivated her.`\
 
 ;Б@О©Х™ВЌВҐВ¬ВћК‘В…БA/
-` » кто знает, когда...`/
+` And who knows whether that...`/
 wait 500
 ;СеРlВ∆ВҐВ§ВаВћВ…В»ВЅВƒВµВ№ВЅВљВћВЊВлВ§В©БcБcБB\
-`она повзрослеет...`\
+` made her an adult...`\
 
 bg "bmp\background\sbook\Ke_S1.jpg",23
 
@@ -25575,7 +25564,7 @@ ld r,DLA_komaruA1,66
 quakey 2,100
 
 ;БuХtВҐВƒВ»ВҐГfГXБB@/
-`"» не надейс€.`@/
+`"Let me out of HERE.`@/
 
 se1 75
 
@@ -25592,7 +25581,7 @@ mcbg 0
 ld c,DLA_majimeA2,22
 
 ;Н°УъВЌГPГ`ГГГbГvВаР¬КCСџВаСеПдХvГfГXБIБv\
-` —егодн€ у мен€ не будет блюда с кетчупом!"`\
+` Today, nothing involving ketchup shall be EATEN!"`\
 
 textoff
 
@@ -25604,7 +25593,7 @@ se1v 47,100
 ld l,GER_DefA1,22
 
 ;Б@ВҐВ¬В№В≈ВаОqЛЯВ»ПгОiВћУ™ВрБA@В¬ВҐБAВнВµВнВµВ∆ХПВ≈ВƒВµВ№В§ГKБ[ГgГЛБ[ГhВ≈В†ВЅВљБB\
-` √ертруд рассе€нно погладила по голове своего по-детски себ€ ведущего командира.`\
+` Without realizing, Gertrude had been absentmindedly patting the head of her ever-youthful superior.`\
 
 textoff
 
@@ -25614,11 +25603,11 @@ print 2
 wait 1000
 
 ;Б@БcБcБcБcБB@
-` ............`\
+` ...`\
 
 
 ;Б@ИўТ[РRЦвКѓВћОеР»В™БAИкФ‘БAСеРlВ©ВзТцЙУВҐВжВ§В»БcБcБB\
-` ѕрежде всего повзрослеть нужно их главному инквизитору...`\
+` The Head Inquisitor herself seems the least adult of us all...`\
 
 cl c,0
 bg black,5
