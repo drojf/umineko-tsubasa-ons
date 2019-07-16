@@ -26007,10 +26007,10 @@ csp 785
 lsp 785,":a;bmp2\TATI\RG6\1\RG6_defA1.bmp",270,0,150
 print 80
 ;Б@Х√ЙЇВ…ОЄЧзВ»Г`ГЗГRВрС°ВЅВƒВЌВ»ВзВ»ВҐВ∆ОvВҐБAООРHВ…ООРHВрПdВЋБAВаВЅВ∆ВаФьЦ°В»Г`ГЗГRВрТTВµВ№ВµВљБB@
-` ƒумаю, ваше величество заслуживает лучшего шоколада из лучшего, поэтому € долго искала подход€щий и после множества попыток нашла лучший. `@
+` I thought that Your Majesty deserved only the best chocolate, so I taste-tested countless varieties in search of the greatest chocolate delicacy. `@
 br
 ;Б@ДЯДЯДЯЧщНЦВћОµОoЦЕБAШZПЧБAГxГЛГ[ГuГuВжВиБAИ§В∆ГJГJГIВрНЮВяВƒБB\
-` Џ08213Џ08213 ¬тора€ младша€ сестра из —еми сестЄр чистилища: ¬ельзевул, с любовью и какао.`\
+` -- From the sixth eldest of the Seven Sisters of Purgatory, Beelzebub, with love and cocoa.`\
 
 for %Free3 = 90 to 232
 resettimer
@@ -26027,13 +26027,13 @@ print 80
 ;Б@ИкФ‘ФьЦ°В»Г`ГЗГRВЌЦ{УЦВ…ФьЦ°ВµВ©ВЅВљВ≈ВЈБB@РHВ„ПoВµВљВзО~В№ВиВ№ВєВсВ≈ВµВљБB@
 ;Б@СSХФРHВ„ВƒВµВ№ВЅВљВћВ≈БAХ√ЙЇВ…ВЌВQФ‘ЦЏВ…ФьЦ°ВµВ©ВЅВљГ`ГЗГRВрС°ВиВ№ВЈБB@
 
-` Ћучший шоколад из лучшего и впр€мь лучший.`@` ќн был так восхитителен, что € не смогла остановитьс€.`@` я случайно его съела, так что вот, второй лучший по вкусу шоколад.`@ 
+` The greatest chocolate was truly amazing. After tasting it, I just couldn't help myself.`@` I ate the whole thing, so the chocolate I've sent here is the second most delicious variety.`@ 
 csp 785
 lsp 785,":a;bmp2\TATI\RG6\1\RG6_NakuA1.bmp",270,0,150
 print 80
 br
 ;Б@БcБcВ≤ВяВсВ»В≥ВҐБB\
-` ...ѕростите.`\
+` ...Sorry about that.`\
 csp bgsp
 csp -1
 print 1
@@ -26066,7 +26066,7 @@ print 1
 next
 locate 0,3
 ;ГQБ[ГАФ’ВћОеВ…ВµВƒБAИћСеВ»ВйЧћОеХ√ЙЇВ÷БB\
-` ¬ладельцу игровой доски, благородному великому лорду.`\
+` To His Majesty, the Territory Lord and the Master of the Game Board.`\
 for %Free3 = 90 to 140
 resettimer
 msp bgsp,0,-2,0
@@ -26075,16 +26075,16 @@ print 1
 next
 locate 0,3
 ;Б@ОДВћГnБ[ГgВрЧnВ©ВµВƒГ`ГЗГRВ…ВµВ№ВµВљБB@
-` ¬ этом шоколаде мо€ расплавленна€ любовь. `@
+` I have melted my heart into this chocolate. `@
 csp 785
 lsp 785,":a;bmp2\TATI\RG7\1\RG7_waraiA2.bmp",270,0,150
 print 80
 
 ;ВҐВ¶БAВ»ВкВйВаВћВ»ВзХ√ЙЇВћГ`ГЗГRВ…В»ВиВљВ©ВЅВљВ≈ВЈБB@
-` ’от€ нет, если позволите, € сама хочу стать шоколадом вашего величества. `@
+` In fact, had it been possible, I would have wanted to become Your Majesty's chocolate myself. `@
 br
 ;Б@ВаВµВ»ВкВљВ»ВзБAХ√ЙЇВ…РHВ„ВƒВаВзВЅВƒБAВ®МыВћТЖВ≈БAВїВћВвВнВзВ©В≈ЙЈВ©В»РгВћПгВ≈РQВїВ„ВЅВƒБAЛMХыВћМыТЖВрВљВЅВ’ВиВ∆КyВµВ№ВєВйВ±В∆В™ПoЧИВйВћВЊВ©ВзБcБcБB\
-` я могу лечь на ваш тЄплый и м€гкий €зык, на полную наслажда€сь ощущением вашего рта... `\
+` Because in that case, when Your Majesty would've eaten me, I could've entered your mouth and rolled around on your soft, warm tongue, filling your mouth with ample pleasure... `\
 
 for %Free3 = 140 to 232
 resettimer
@@ -26094,7 +26094,7 @@ print 1
 next
 locate 0,3
 ;Б@ДЯДЯДЯЧщНЦВћОµОoЦЕБAОµПЧБAГAГXГВГfГEГXВжВиБAИ§В∆ЧцВ∆РЎВ»В≥ВрНЮВяВƒБB\
-` Џ08213Џ08213 ћладша€ из —еми сестЄр чистилища: јсмодей, с любовью, страстью и страстным желанием. `\
+` -- From the youngest of the Seven Sisters of Purgatory, Asmodeus, with love, passion and melancholy. `\
 csp bgsp
 csp -1
 print 1
@@ -26143,10 +26143,10 @@ bg G1F_S1aP,0
 ld l,RON_WaraiA2,0
 ld r,BUT_waraiA1,23
 ;БuВҐВЅВ–ВЅВ–БIБ@ИЂВ°ЛCВЌВµВЋВ•В»В†БIБv\
-`"»хи-хи! я чувствую себ€ плохим!"`\
+`"Ihihi! This is making me feel bad!"`\
 ld l,RON_WaraiA1,24
 ;БuВ№ВЊВ№ВЊСтОRВћОиОЖВ™УЌВҐВƒВ®ВиВ№ВЈВжБBВ’ВЅВ≠ВЅВ≠БBБv\
-`"ќсталось ещЄ много писем. ѕу-ку-ку."`\
+`"There's still a lot of letters left. Pukuku."`\
 
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 
@@ -26180,8 +26180,8 @@ next
 ;Б@ИґГJГPГЙСжБЦБЦБЦБЦБЦБЦБЦБЦБЦФ‘ЧћОеХ√ЙЇ@
 ;Б@Ф≠ГVГGГXГ^ОoЦЕЛяЙqСаСжВSВOВXВUРнСаЦ{ХФ\
 locate 0,3
-` ¬ладельцу ќсколка #********* `@
-` ќт 4096-го отр€да √вардии сиест `\
+` To His Majesty, the Territory Lord of Fragment #***, `@
+` from the 4096th Infantry of the Chiester Sisters Imperial Guards. `\
 
 for %Free3 = 90 to 130
 resettimer
@@ -26191,11 +26191,11 @@ print 1
 next
 locate 0,3
 ;Б@ГoГМГУГ^ГCГУГfБ[ВрПjХЯВЈВйВ∆В∆ВаВ…БAХ√ЙЇВ÷ВћМhИ§ВћФOВрНЮВяВƒБAЦ{ПуВрСЧХtВЈВйВаВћВ≈В†ВиВ№ВЈБB@
-` ¬месте с поздравлением € включаю в письмо любовь и уважение к вашему величеству. `@
+` The purpose of this letter is not only to celebrate Valentine's Day but also to express my deep respect and affection for Your Majesty. `@
 br
 ;Б@УѓХХВћГ`ГЗГRВЌБAОoЦЕЛяЙqСаВћЙqРґХФЦеВ…ВƒМЯЙuВрОуВѓВƒВ®ВиВ№ВЈБB@
 ;Б@В«В§ВЉИјРSВµВƒВ®ПҐПгВ™ВиЙЇВ≥ВҐБB@
-` Ўоколад, приложенный к письму, прошЄл проверку департамента.`@` ѕрошу, наслаждайтесь без забот. `@
+` The enclosed chocolate has passed the inspection of the Medical Team of the Imperial Guards.`@` Please, enjoy it at ease. `@
 br
 for %Free3 = 130 to 180
 resettimer
@@ -26204,7 +26204,7 @@ waittimer 4
 print 1
 next
 ;Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@ДЯДЯГVГGГXГ^ВOВO\
-`                       Џ08213Џ08213 —иеста 00`\
+`                       -- Chiester 00`\
 csp bgsp
 csp -1
 print 1
@@ -26235,8 +26235,8 @@ next
 ;Б@ИґГJГPГЙСжБЦБЦБЦБЦБЦБЦБЦБЦБЦФ‘ЧћОеХ√ЙЇ@
 ;Б@Ф≠ГVГGГXГ^ОoЦЕЛяЙqСаСжВSВOВXВUРнСаЦ{ХФ\
 locate 0,3
-` ¬ладельцу ќсколка #********* `@
-` ќт 4096-го отр€да √вардии сиест `\
+` To His Majesty, the Territory Lord of Fragment #***, `@
+` from the 4096th Infantry of the Chiester Sisters Imperial Guards. `\
 
 for %Free3 = 90 to 140
 resettimer
@@ -26246,7 +26246,7 @@ print 1
 next
 locate 0,3
 ;Б@ВќВзО™В≠Л`ЧЭГ`ГЗГRВЌБAГoГМГУГ^ГCГУВћГVГЗГbГgГKГУБB@
-` Ўоколадные розы в знак дружбы - ружьЄ св€того ¬алентина. `@
+` Chocolate roses given to friends are like a shotgun. `@
 for %Free3 = 140 to 155
 resettimer
 msp bgsp,0,-2,0
@@ -26254,7 +26254,7 @@ waittimer 4
 print 1
 next
 ;Б@МИВяМВВњЦ{ЦљГ`ГЗГRВЌБAГoГМГУГ^ГCГУВћС_МВГЙГCГtГЛБB@
-` Ўоколад истинной любви, гарантирующий идеальный удар, - снайперска€ винтовка св€того ¬алентина. `@
+` Chocolate of true love, that guarantees a perfect strike, is like a sniper rifle. `@
 br
 for %Free3 = 155 to 170
 resettimer
@@ -26268,10 +26268,10 @@ lsp 785,":a;bmp2\TATI\s41\1\S41_majimeA1.bmp",270,0,150
 print 80
 
 ;Б@В†ВсВљВ…СЧВйГ`ГЗГRВЌБAГoГМГУГ^ГCГУВћЙљВ»ВсВ…В•БH@
-` » что из этого шоколад, который € послала вам, нье? `@`
+` The chocolate I sent to you, which one do you think it is? Nyeh? `@`
 br
 ;Б@Б\Б\ГVГGГXГ^ВSВPВOВ…В•\
-` Џ08213Џ08213 —иеста 410, нье`\
+` -- Chiester 410, nyeh!`\
 csp bgsp
 csp -1
 print 1
@@ -26304,15 +26304,15 @@ next
 locate 0,3
 ;Б@ИґГJГPГЙСжБЦБЦБЦБЦБЦБЦБЦБЦБЦФ‘ЧћОеХ√ЙЇ@
 ;Б@Ф≠ГVГGГXГ^ОoЦЕЛяЙqСаСжВSВOВXВUРнСаЦ{ХФ\
-` ¬ладельцу ќсколка #********* `@
-` ќт 4096-го отр€да √вардии сиест `\
+` To His Majesty, the Territory Lord of Fragment #***, `@
+` from the 4096th Infantry of the Chiester Sisters Imperial Guards. `\
 locate 0,3
 ;Б@ВҐВ¬ВаВ®РҐШbВ…В»ВЅВƒВ®ВиВ№ВЈБB@
-` Ѕольшое спасибо за всЄ.`@
+` Thank you very much for everything.`@
 br
 
 ;Б@Ц{УЦВЌОиНмВиВћГ`ГЗГRВрСЧВиВљВ©ВЅВљВћВ≈ВЈВ™БAНрФNВћГ`ГЗГRГМБ[ГgГeГНВћЙeЛњВ≈БAН°ФNВ©ВзОиНмВиГ`ГЗГRВћСЧХtВ™Л÷ВґВзВкВƒВµВ№ВҐВ№ВµВљБcБB\
-` я хотела сделать и послать вам шоколад ручной работы, но из-за шоколадной террористической атаки в прошлом году штаб запретил нам его делать... `\
+` I actually wanted to send you handmade chocolate, but because of the chocolate terrorism incident last year, there was a ban on putting handmade chocolate in the mail this year... `\
 
 for %Free3 = 90 to 232
 resettimer
@@ -26327,10 +26327,10 @@ print 80
 ;Б@Х√ЙЇВћВ®МыВ…НЗВ§ВжВ§В…БAРSВрНЮВяВƒСIВ—В№ВµВљБB@
 ;Б@В®ПҐПгВ™ВиТЄВѓВкВќНKВҐВ≈ВЈБI@
 locate 0,3
-` ѕотому € выбрала лучший из лучшего, который, по моему мнению, больше всего подходит вашему величеству.`@` ¬ы окажете мне великую честь, если попробуете! `@
+` I put my heart into choosing the chocolate most suitable for Your Majesty's tastes.`@` It would be my honor if you found it satisfactory! `@
 br
 ;Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@ДЯДЯГVГGГXГ^ВSВT\
-`                    Џ08213Џ08213 —иеста 45`\
+`                    -- Chiester 45`\
 csp bgsp
 csp -1
 print 1
@@ -26362,12 +26362,12 @@ waittimer 4
 print 1
 next
 locate 0,3
-` ¬ладельцу ќсколка #********* `@
-` ќт 4096-го отр€да √вардии сиест `\
+` To His Majesty, the Territory Lord of Fragment #***, `@
+` from the 4096th Infantry of the Chiester Sisters Imperial Guards. `\
 locate 0,3
 ;Б@В†ВиВ™В∆В§ВћЛCОЭВњВ…БAГ`ГЗГRВрЙИВ¶ВƒВ®СЧВиВµВ№ВЈБB@
 ;Б@В«В§В©В±ВкВ©ВзВаБAГVГGГXГ^ОoЦЕЛяЙqСаВрВжВлВµВ≠В≤ОwУ±КиВҐВ№ВЈБB\
-` ¬месте с шоколадом € посылаю вам чувства благодарности.`@` ѕередам любые ваши пожелани€ руководству »мператорской гвардии —естЄр сиест.`\
+` I hope my feelings of gratitude and the enclosed chocolate reach you well.`@` As you have, please allow the Chiester Sister Imperial Guards to remain in your thoughts.`\
 
 for %Free3 = 90 to 150
 resettimer
@@ -26380,10 +26380,10 @@ next
 ;Б@В±ВкВ≈БAГoГМГУГ^ГCГУВћВ®НмЦ@ВЌВ†ВЅВƒВҐВ№ВЈВ©БH@
 ;Б@Л≥В¶ВƒВаВзВ¶ВљВ»ВзБAВ†ВиВ™ВљВҐВ≈ВЈБB
 locate 0,3
-` ¬ »мператорской гвардии одни женщины. я не привыкла к такому обычаю.`@` ≈сть ли какой-нибудь особый этикет?`@` Ѕуду очень признательна, если вы расскажете. `@
+`There are only girls in the Imperial Guards, so this custom is new to me.`@` Have I followed proper Valentine's Day etiquette with my letter?`@` If you find the time to let me know, thank you very much in advance. `@
 br
 ;Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@Б@ДЯДЯГVГGГXГ^ВTВTВU\
-`                    Џ08213Џ08213 —иеста 556`\
+`                    -- Chiester 556`\
 for %Free3 = 150 to 262
 resettimer
 msp bgsp,0,-2,2
@@ -26392,9 +26392,9 @@ print 1
 next
 locate 0,3
 ;Т«РLБF@
-` ѕостскриптум: `@
+` P.S. `@
 ;Б@РжУъБAИшВҐВљВ®ВЁВ≠ВґВ™СеЛ•В≈ВµВљБB@ОЯВћМмЙqФCЦ±ВЌЛCВрВ¬ВѓВљВҐВ≈ВЈБB\
-` Ѕумажка с предсказанием, которую € вытащила на дн€х, сулит мне неудачу.`@` Ќаверн€ка роковое предупреждение по поводу следующей миссии сопровождени€.`\
+` The fortune slip that I pulled at a shrine the other day said I was in for 'terrible luck'.`@` I should take care on my next mission.`\
 csp bgsp
 csp -1
 print 1
@@ -26486,7 +26486,7 @@ next
 locate 0,3
 ;ГhГЙГmБ[ГЛ 
 ;Б@ГZГУГgГoГМГУГ^ГCГУГfБ[ВрПjХЯВµБAУъН†ВћКіО”ВћЛCОЭВњВрНЮВяВƒБAЦ{Г`ГЗГRВрСЧХtВµГ}ГXБB@
-` ¬ честь ƒн€ св€того ¬алентина и с целью выразить вам признательность за всЄ € насто€щим дарю вам этот шоколад.`@
+` In celebration of St. Valentine's Day and to express my gratitude, I'm sending this chocolate to YOU.`@
 br
 
 for %Free3 = 90 to 140
@@ -26502,8 +26502,8 @@ print 80
 
 ;Б@ГoГМГУГ^ГCГУВЌБAСЧВйВжВиБAВаВзВЅВƒВЁВљВҐГfГXБB@
 ;Б@Г`ГЗГRВЌНDВЂГfГXБB@/
-` ’от€ в ƒень ¬алентина мне больше нравитс€ получать, нежели отдавать.`@
-` я люблю шоколад.`@/
+` However, rather than sending chocolate on Valentine's Day, I would prefer to RECEIVE.`@
+` Chocolate is my LOVE.`@/
 for %Free3 = 1 to 30
 resettimer
 msp 785,0,1,0
@@ -26511,7 +26511,7 @@ waittimer 10
 print 1
 next
 ;ОqЛЯВ»ГmГfБB@
-` я ведь ребЄнок.`@` ¬прочем, мне не нравитс€ гор€чий шоколад.`@/
+` After all, I am a KID.`@` Though, hot chocolate is something I HATE.`@/
 for %Free3 = 1 to 40
 resettimer
 msp 785,0,1,0
@@ -26548,13 +26548,13 @@ print 1
 next
 
 ;В±ВЏВЈГmГfБB@
-` я легко его проливаю. `@
+` It's too easy to SPILL. `@
 csp 785
 lsp 785,":a;bmp2\TATI\dla\1\dla_komaruA1a.bmp",-90,70,150
 print 80
 
 ;Б@БcБcРфВЅВƒВаЧОВњВ»ВҐГfГXБB\
-` ...» не могу смыть. `\
+` ...And too difficult to wash OFF. `\
 for %Free3 = 140 to 232
 resettimer
 msp bgsp,0,-2,2
@@ -26564,8 +26564,8 @@ next
 locate 0,3
 ;Б@ГKБ[ГgГЛБ[ГhВ…ОиОЖВрМ©ВєВйВ∆БAЙљУxВаПСВЂТЉВµВрВ≥ВєВзВкВƒГCГДВ»ГmГfБB@
 ;Б@Н°ФNВЌГKБ[ГgГЛБ[ГhВ…М©В¬В©ВйСOВ…БAВ±ВЅВїВиСЧХtВµГ}ГXБB@
-` ≈сли √ертруд увидит это письмо, она заставит мен€ переписать его. “ерпеть это не могу. `@
-` ѕоэтому отправлю письмо втайне, до того как она его найдЄт.`\
+` If Gertrude will see this letter, I'll end up having to write ANOTHER. I can't stand HER. `@
+` So, I'm sending it in secret, before it can be noticed by GERTRUDE.`\
 
 for %Free3 = 1 to 35
 resettimer
@@ -26582,7 +26582,7 @@ print 1
 next
 locate 0,3
 ;Б@Б\Б\ОеР»ИўТ[РRЦвКѓБ@ГhГЙГmБ[ГЛБEВ`БEГmГbГNГXБB\
-` Џ08213Џ08213 √лавный инквизитор јйзерн ёнгфрау, ƒланор ј. Ќокс.`\
+` -- Head Inquisitor of Esierne Jungfrau, Dlanor A. KNOX.`\
 
 
 
