@@ -25649,11 +25649,11 @@ print 99,2000,"breakup.dll/llB"
 ld c,RON_WaraiA2,80
 
 ;БuОЄЧзВҐВљВµВ№ВЈБB@РнРlВ≥В№БAКFЧlВ©ВзГoГМГУГ^ГCГУГМГ^Б[ВрЧaВ©ВЅВƒВ®ВиВ№ВЈБBБv\
-`"ѕростите за беспокойство.`@` √осподин Ѕаттлер, € принЄс письма ко ƒню св€того ¬алентина."`\
+`"I apologise for the disturbance.`@` Master Battler, I have brought Valentine's Day letters."`\
 
 ld l,BUT_waraiA2,23
 ;БuВ®БAВїВ§В©БHБ@В«ВкВ«ВкБcБHБv\
-`"ќ, правда? ƒай взгл€нуть..."`\
+`"Huh, really? Let me take a look..."`\
 textoff
 bg black,22
 csp -1
@@ -25694,7 +25694,7 @@ next
 locate 0,3
 ;ГЛГVГtГ@Б[@
 ;ГQБ[ГАФ’ВћОеВ…ВµВƒБAИћСеВ»ВйЧћОеХ√ЙЇВ÷БB\
-` ¬ладельцу игровой доски, благородному великому лорду.`\
+` To His Majesty, the Territory Lord and the Master of the Game Board.`\
 
 for %Free3 = 90 to 130
 resettimer
@@ -25704,14 +25704,14 @@ print 1
 next
 locate 0,3
 ;Б@ГoГМГУГ^ГCГУГfБ[В…В¬ВЂБAЧщНЦВћОµОoЦЕВрСгХ\ВµВƒБAГ`ГЗГRГМБ[ГgВрВ®С°ВиВЈВйВ∆В∆ВаВ…БA@ЙiЙУВћТЙРљВрВ®РЊВҐР\ВµПгВ∞ВйВаВћВ≈В†ВиВ№ВЈБB@
-` ¬новь настал ƒень св€того ¬алентина, а потому, как лидер —еми сестЄр чистилища, € насто€щим дарю вам этот шоколад`@` и обет вечного послушани€. `@
+` On account of Valentine's Day, and as the representative of the Seven Sisters of Purgatory,`@` I hereby present an offering of chocolate as well as an oath of our eternal allegiance. `@
 br
 csp 785
 lsp 785,":a;bmp2\TATI\RG1\1\RG1_waraiA1.bmp",270,0,150
 print 80
 
 ;Б@Б\ЧщНЦВћОµОoЦЕБAТЈПЧГЛГVГtГ@Б[ВжВиБAИ§В∆ТЙРљВрНЮВяВƒБB\
-` Џ08213Џ08213 —тарша€ из —еми сестЄр чистилища: Ћюцифер, с любовью и преданностью.`\
+` -- From the eldest of the Seven Sisters of Purgatory, Lucifer, with love and loyalty.`\
 for %Free3 = 130 to 272
 resettimer
 msp bgsp,0,-2,0
@@ -25727,7 +25727,7 @@ print 80
 ;Б@В±ВћГЛГVГtГ@Б[БAВ≤ЧpЦљВҐВљВЊВѓВкВќБAИ÷ОqВ…ВаРCСдВ…ВаБAФLВ…ВагOЯ~В…ВаБAЙ∆ЛпВ…ВаУzЧкВ…ВаВ»ВиВ№ВЈБB@
 ;Б@В«В§В©В±ВћФЏВµВҐЙ∆ЛпВяВрБAЧћОеХ√ЙЇВћВ®ЛCВ…ПҐВЈВ№В№В…В®ОgВҐЙЇВ≥ВҐБB\
 
-` ≈сли € могу быть вам полезна, € готова превратитьс€ во что угодно - в кресло, в подсвечник, в кошку, в ковЄр, в мебель и даже в рабыню.`@` ѕрошу, приказывайте мне, жалкой вещи, когда пожелаете. `\ 
+` Given your order, I would be honored to become a chair, candle stand, cat, carpet, furniture or even slave for your sake.`@` My Lord, please use this lowly piece of furniture however you wish. `\ 
 
 csp bgsp
 csp -1
@@ -25762,7 +25762,7 @@ next
 ;ГМГФГBГAГ^ГУБ@@ 
 locate 0,3
 ;Б@В«В§ВєБAОДИ»КOВ©ВзВаВљВ≠В≥ВсГ`ГЗГRВрВаВзВЅВƒВйВЊВлВ§БAЧћОеХ√ЙЇВ÷БB\
-` Ѕлагородному лорду, которому уже наверн€ка подарили много шоколада. `\
+` To the Territory Lord who probably already received a ton of chocolate from others. `\
 
 for %Free3 = 90 to 140
 resettimer
@@ -25772,14 +25772,14 @@ print 1
 next
 locate 0,3
 ;Б@ОДВћГ`ГЗГRВ»ВсВƒБAВ«В§ВєВљВ≠В≥ВсВћТЖВћВPВ¬В≈ВµВеВ§ВѓВкВ«ВаБAОДВћРЄИкФtВћЛCОЭВњВрНЮВяВƒВ®С°ВиВµВ№ВЈБB\
-` ’от€ мой шоколад у вас лишь один из многих, € влила в его приготовление свою душу и свои усили€.`\
+` Although my chocolate may be only one of the many that you've received, I still poured all of my heart and effort into making it.`\
 
 csp 785
 lsp 785,":a;bmp2\TATI\RG2\1\RG2_waraiA1.bmp",270,0,150
 print 80
 locate 0,3
 ;Б@В≈ВаБAВљВ≠В≥ВсВћТЖВћВPВ¬В≈БAОДВЌН\ВҐВ№ВєВсБB@
-` ѕускай он всего лишь иголка в стоге сена, мне всЄ равно.`@` ѕослание от сосредоточенной на вас пары глаз цвета завистливой красной незабудки.`@` Ёхе-хе-хе-хех. `@
+` But even if my chocolate is just an insignificant part of a huge pile, that's fine.`@` I just hope that among the countless loving eyes gazing at you,  you won't forget the ruby-colored pair that would so easily fly into a jealous rage.`@` Ehehehehe. `@
 br
 for %Free3 = 140 to 232
 resettimer
@@ -25788,7 +25788,7 @@ waittimer 5
 print 1
 next
 ;Б@ДЯДЯДЯЧщНЦВћОµОoЦЕБAОЯПЧБAГМГФГBГAГ^ГУВжВиБAИ§В∆ОєУiВрНЮВяВƒБB\
-` Џ08213Џ08213 ¬тора€ по возрасту из —еми сестЄр чистилища: Ћевиафан, с любовью и ревностью.`\
+` -- From the second eldest of the Seven Sisters of Purgatory, Leviathan, with love and jealousy.`\
 csp bgsp
 csp -1
 print 1
@@ -25820,7 +25820,7 @@ print 1
 next
 locate 0,3
 ;Б@ЙдВзВ™ОµОoЦЕВћОеВ…ВµВƒБAИћСеВ»ВйЧћОеХ√ЙЇВ÷БB\
-` ’оз€ину —еми сестЄр, благородному великому лорду.`\
+` To His Majesty, the Territory Lord and the Master of us Seven Sisters.`\
 for %Free3 = 90 to 120
 resettimer
 msp bgsp,0,-2,0
@@ -25833,12 +25833,12 @@ lsp 785,":a;bmp2\TATI\RG3\1\RG3_KomaruA3.bmp",270,0,150
 print 80
 locate 0,3
 ;Б@ХsНbФгВ»ВЂОoЦЕВљВњВ™БAЧћОеХ√ЙЇВ…Ц≥ЧзВ»ОиОЖВрУYВ¶ВљГ`ГЗГRВрМ£ПгВµВƒВҐВйВаВћВ∆ОvВҐВ№ВЈБB@
-` «наю, мои глупые сЄстры могут написать грубости в своих письмах.`@
+` My stupid sisters have undoubtedly included some shameless letters along with the chocolates they have sent you.`@
 br
 ;Б@ВµВ©ВµБAОoЦЕВљВњВ…Р”ФCВЌВ†ВиВ№ВєВсБB@
 ;Б@СSВƒБAОДВћУъБXВћОwУ±В™ОКВзВ ВєВҐВ≈ВЈБB@Р[В≠В®ШlВ—Р\ВµПгВ∞В№ВЈБB\
-` Ќо они не виноваты.`@
-` ѕросто € недостаточно хорошо их учила.`@` ѕримите мои извинени€.`\
+` However, they are not at fault.`@
+` All the blame lies with me and my sorely lacking guidance.`@` My humblest apologies.`\
 for %Free3 = 120 to 252
 resettimer
 msp bgsp,0,-2,0
@@ -25852,12 +25852,12 @@ print 80
 ;Б@В®ОґВиВЌВ«В§В©БAВ±ВћОДВяВ…В®КиВҐТvВµВ№ВЈБB@
 ;Б@В«ВћВжВ§В»В®ОґВиВрВаКoМеВµВƒВ®ВиВ№ВЈБcБB@
 locate 0,3
-` ј также выскажите мне суровые замечани€, если хотите...`@` я могу выдержать любые сильные слова, потому как готова к ним...`@
+` If anyone is to be reprimanded, it should be me...`@` I am prepared to receive any and all criticism...`@
 
 br
 
 ;Б@ДЯДЯДЯЧщНЦВћОµОoЦЕБAОOПЧБAГTГ^ГУВжВиБAИ§В∆О”НяВрНЮВяВƒБB\
-` Џ08213Џ08213 “реть€ по возрасту из —еми сестЄр чистилища: —атана, с любовью и извинени€ми.`\
+` -- From the third eldest of the Seven Sisters of Purgatory, Satan, with love and apologies.`\
 csp bgsp
 csp -1
 print 1
@@ -25887,11 +25887,11 @@ print 1
 next
 locate 0,3
 ;Б@ГQБ[ГАФ’ВћОеВ…ВµВƒБAИћСеВ»ВйЧћОеХ√ЙЇВ÷БB@
-` ¬ладельцу игровой доски, благородному великому лорду. `@
+` To His Majesty, the Territory Lord and the Master of the Game Board. `@
 br
 ;Б@ОДВЌСљРФВћТjРЂВ…Г`ГЗГRВрФzВЅВƒВ®ВиВ№ВЈВ™БAВїВкВЌБAО©М»ВрЦБВ©В О“В≈В≥В¶ВаЦИФNГ`ГЗГRВ™ВаВзВ¶БAВ№ВЈВ№ВЈВ…С”СƒВ…В≥ВєВйВљВяВћИЂЦВВћГ`ГЗГRВ»ВћВ≈ВЈБB\
 
-` я многим мужчинам отправл€ла шоколад, но то были дь€вольские конфеты, делающие из мужчин ленивых свиней.`\
+` I have given chocolate to many, but all of it has been demonic chocolate designed to drive the helpless to sink further and further into sloth, year after year.`\
 
 for %Free3 = 90 to 232
 resettimer
@@ -25906,10 +25906,10 @@ print 80
 ;Б@ВµВ©ВµХ√ЙЇВЌО©М»ВћМ§иrВрПнВ…С±ВѓВзВкВйВ®ХыБB@
 ;Б@С”СƒВ÷Вћг©В≈В»В≠БAРSВжВиВћЛCОЭВњВрНЮВяВƒБAГoГМГУГ^ГCГУГ`ГЗГRВрМ£ПгВҐВљВµВ№ВЈБB@
 locate 0,3
-` ќднако же ваше величество всегда посв€щает себ€ работе.`@` ѕоэтому никакой ловушки - лишь насто€щий шоколад от мен€ ко ƒню ¬алентина. `@ 
+` Your Majesty, however, keeps tirelessly improving himself.`@` Thus, the Valentine's chocolate I'm offering today is not hiding a trap of sloth but my heartfelt feelings. `@ 
 br
 ;Б@ДЯДЯЧщНЦВћОµОoЦЕБAОlПЧБAГxГЛГtГFГSБ[ГЛВжВиБAИ§В∆МhИ”ВрНЮВяВƒБB\
-` Џ08213Џ08213 „етвЄрта€ по возрасту из —еми сестЄр чистилища: Ѕельфегор, с любовью и уважением. `\
+` -- From the fourth eldest of the Seven Sisters of Purgatory, Belphegor, with love and respect. `\
 csp bgsp
 csp -1
 print 1
@@ -25942,11 +25942,11 @@ waittimer 5
 print 1
 next
 locate 0,3
-` ≈го ¬еличеству территориальному лорду.`@
+` To our magnificent and stunning Territory Lord.`@
 
 br
 ;Б@Й∆ЛпВ∆ВµВƒУ≠ВЂБAХ√ЙЇВћРMЧКВрПЯВњОжВйВ±В∆ВЌЙ∆ЛпВћКмВ—В≈ВЈБB@
-` ƒл€ вещи завоЄвывать доверие господина одно удовольствие.`@
+` As furniture, nothing pleases me more than working for Your Majesty and gradually gaining your trust.`@
 
 csp 785
 lsp 785,":a;bmp2\TATI\RG5\1\RG5_MajimeA1.bmp",270,0,150
@@ -25954,7 +25954,7 @@ print 80
 
 ;Б@В≈ВаВїВкИ»ПгВћРMЧКВрУЊВљВҐВ∆КиВ§ВћВЌБAЙ∆ЛпВ…ВЌЙяВђВљКиВҐВ≈ВµВеВ§В©БH\
 ;Б@ОДВЌЛ≠Ч~ВћГ}ГВГУБB@
-` Ќо можно ли вещи желать заслужить ещЄ большее доверие?`@` я жадна€ и хочу быть единственной, кто отражаетс€ в ваших глазах.`@
+` However, do you think it's above a furniture's station to wish for trust even greater than this?`@` I am covetous furniture who wishes to be the only one reflected in your eyes.`@
 br
 for %Free3 = 90 to 242
 resettimer
@@ -25963,7 +25963,7 @@ waittimer 5
 print 1
 next
 ;Б@ДЯДЯЧщНЦВћОµОoЦЕБAМ№ПЧГ}ГВГУВжВиБAИ§ВрНЮВяВƒБB@И§ВрЛБВяВƒБB\
-` Џ08213Џ08213 ѕ€та€ по возрасту из —еми сестЄр чистилища: ћаммон, с любовью`@` и ещЄ большей любовью. `\
+` -- From the fifth eldest of the Seven Sisters of Purgatory, Mammon, with love and`@` even more love. `\
 csp 785
 lsp 785,":a;bmp2\TATI\RG5\1\RG5_hohoemiA1.bmp",270,0,150
 print 80
@@ -26001,7 +26001,7 @@ print 1
 next
 ;Б@ГQБ[ГАФ’ВћОеВ…ВµВƒБAИћСеВ»ВйЧћОеХ√ЙЇВ÷БB@
 locate 0,3
-` ¬ладельцу игровой доски, благородному великому лорду.`@
+` To His Majesty, the Territory Lord and the Master of the Game Board.`@
 br
 csp 785
 lsp 785,":a;bmp2\TATI\RG6\1\RG6_defA1.bmp",270,0,150
