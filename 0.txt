@@ -26625,14 +26625,14 @@ print 1
 next
 locate 0,3
 ;ГRБ[ГlГКГA 
-` ѕозвольте сказать.`@` «найте, что € бы хотела спросить, как у вас проходит самое холодное врем€ года, когда греешьс€ под котацу, чувству€ приближение весны! \
+` Please, allow me to speak.`@` Know that I would like to ask how this cold time of the year is treating you, and to let you know that huddling under a kotatsu is the most blissful experience while waiting for the spring!` \
 
 csp 785
 lsp 785,":a;bmp2\TATI\cor\1\cor_majimeA1.bmp",60,0,150
 print 80
 locate 0,3
 ;Б@НрФNВћГ`ГЗГRГМБ[ГgГeГНОЦМПИ»ЧИБAЦ{НsОЦВрОєУiВµУ]ХҐВ≥ВєВсВ∆КйВёФyСљРФВ™БAФ∆НsРЇЦЊВрПoВµВљВйВаВћЦзБB@
-` ѕосле шоколадных террористических актов в прошлом году многие банды стро€т планы, и их необходимо остановить.`@
+` Owing to the chocolate terrorism incident last year, a great number of sympathizers seeking to overthrow this event out of jealousy have since risen. A notice regarding this criminal activity has already been issued.`@
 br
 
 for %Free3 = 1 to 10
@@ -26651,7 +26651,7 @@ next
 
 
 ;Б@Ц@ВћФ‘РlВћО©КoВрОЭВњВƒБAЙvБXВ…РEЦ±В…ЧгВёВаВћЦзВвБI\
-`  ак блюстители закона, мы должны работать ещЄ усерднее!`\
+` As defenders of the law, we must endeavor to engage in our duties with ever-growing enthusiasm!`\
 for %Free3 = 90 to 115
 resettimer
 msp bgsp,0,-4,2
@@ -26666,10 +26666,10 @@ br
 br
 br
 ;Б@Б\Б\Б\ХвН≤Кѓ ГRБ[ГlГКГA@
-` Џ08213Џ08213 ѕомощник  орнели€`@
+` -- Aide Cornelia`@
 br
 ;Б@ИўТ[РRЦвКѓВљВйО“БAПСЦ ВаЦ@МкВрОgВ§В±В∆В™ЛБВяВзВкВйВаВћЦзБB@ЙrВЁУпВ≥БAХљВ…В≤ЧeОЌХтВиЛЛВ¶БB\
-` »нквизиторы об€заны использовать официальный €зык даже в письменных документах.`@` ѕрошу мен€ простить, если не всЄ пон€тно.`\
+` For your information, Inquisitors are required to utilize court language even when writing letters.`@` Should any difficulties arise upon reading, I offer my sincerest apologies.`\
 
 csp -1
 print 1
@@ -26710,13 +26710,13 @@ next
 locate 0,3
 ;ГKБ[ГgГЛБ[Гh 
 ;Б@ЛёМ[БBК¶В≥ЙvБXВ…МµВµВҐН°УъВ±ВћН†БAХ√ЙЇВ…В®ВҐВƒВЌВ№ВЈВ№ВЈВ…МдМТНNВ≈В†ВйВ∆О@ВµХтВйВаВћЦзВвБB@
-` ѕозвольте сказать. —егодн€ холодно, и € желаю, чтобы ваше величество оставались в добром здравии. `@
+` Please, allow me to speak. Lately, the cold weather has been ever increasing in its intensity. I hope that Your Majesty has been taking care to remain healthy. `@
 br
 ;Б@ЛёВсВ≈ГZГУГgГoГМГУГ^ГCГУГfБ[ВрПjХЯВЈВйВ∆В∆ВаВ…БA@МhИ§ВћГ`ГЗГRГМБ[ГgВрВ±В±В…СЧХtВµХтВйБB@
-` Ќасто€щим € дарю благословени€ св€того ¬алентина и прилагаю шоколад, полный любви и уважени€. `@
+` In celebration of Valentine's Day, allow me to send you this chocolate expressing my most humble respect and admiration. `@
 br
 ;Б@Б\Б\ПгЛЙХвН≤КѓБ@ГKБ[ГgГЛБ[Гh\
-` Џ08213Џ08213 ѕервоклассный св€щенник, √ертруд`\ 
+` -- Senior Aide Gertrude`\ 
 br
 br
 br
@@ -26741,8 +26741,8 @@ bg black,22
 ;bg cateye_1,22
 ;Б@Н≈ЛяБAГlГRВрОФВҐОnВяВ№ВµВљБBВ©ВнВҐВҐВ≈ВЈВжВЋБB@
 ;Б@lХ√ЙЇВЌМҐФhВ≈ВЈВ©БAФLФhВ≈ВЈВ©БB\
-` я недавно завела кошку, она така€ мила€. `@
-`  то вашему величеству нравитс€ больше?  ошки или собаки? `\
+` I have recently obtained a cat. It's adorable. `@
+` I was wondering whether Your Majesty's preference lies with cats or dogs. `\
 ;bg black,22
 ;mono 0
 ;csp -1
@@ -26777,7 +26777,7 @@ next
 
 ;Г[ГpГЛ
 locate 0,3
-` — ƒнЄм св€того ¬алентина!`@`  ак он вам?! `@
+` Happy Valentine's Day!`@` How are you liking it so far?! `@
 br
 csp 785 
 lsp 785,":a;bmp2\TATI\zep\1\zep_waraiA8.bmp",0,0,150
@@ -26822,9 +26822,9 @@ waittimer 20
 next
 
 
-` ѕотр€сающее событие! `@
+` It's an outstanding event! `@
 ;Б@ЙљВµВлН°УъВЌБAЙЬОиВ»ТjОqВљВњВрБAГ`ГЗГRВћУ≈ЙеВ≈ОлВиЧІВƒВйВ±В∆В™ЛЦВ≥ВкВљИкУъВЊВ©ВзВЋБB\
-` ¬идите ли, сегодн€ нам разрешили поохотитьс€ на робких мальчиков, использу€ дь€вольскую силу шоколада. `\
+` After all, today is the day when we're allowed to use the sweet poison of chocolate for hunting! `\
 
 for %Free3 = 60 to 120
 resettimer
@@ -26838,15 +26838,15 @@ lsp 785,":a;bmp2\TATI\zep\1\zep_waraiA5.bmp",0,0,150
 print 80
 ;Б@ЦlВЌБAС_ВЅВљКlХ®ВЌБAРвСќВ…У¶В™В≥В»ВҐВжБB@
 locate 0,3
-`  ак только € нацелюсь на добычу, ей уже не сбежать. `@
+` Once I set my eyes on the prey, I'll never allow them to escape. `@
 br
 ;Б@ВЊВ©ВзВ±ВћГ`ГЗГRВЌБAГoГМГУГ^ГCГУГ`ГЗГRВ»ВсВƒРґИ’ВµВҐВаВћВґВбВ»В≠ВƒБB@
-` “ак что шоколад - это не просто хитрость ¬алентина. `@
+` So the chocolate here isn't just any old Valentine's Day chocolate. `@
 se1 4
 csp 785 
 lsp 785,":a;bmp2\TATI\zep\1\zep_waraiA3.bmp",0,0,150
 ;Б@ГLГ~В÷ВћБAФ∆НsЧ\НРВЅВƒВ∆В±ВлВ©В»БcБH\
-` ≈го можно считать адресованным уведомлением о преступлении... `\
+` You could consider it an advance warning of a crime... `\
 
 csp 785 
 lsp 785,":a;bmp2\TATI\zep\1\zep_waraiA4.bmp",0,0,150
@@ -26854,10 +26854,10 @@ print 80
 ;Б@И§ВћСРМіВ≈БAЦјВҐЬfЬrВЈВйГLГ~В∆ВҐВ§ЧЈРlВжБB@
 ;Б@В«В§В©ЦlВ…ПPВнВкВ»ВҐВжВ§В…ЛCВрВ¬ВѓВƒБЩ@
 locate 0,3
-` ќ-о, путешественнику не так-то просто идти на ощупь в саванне любви.`@` ѕостарайтесь не попастьс€ мне под рукуЏ09734 `@
+` Ohh, it's not so easy for a blind traveller to find their way in the desert of love.`@` Try your best to avoid me~ `@
 br
 ;Б@Б\Б\ЧцВћОлЧ¬О“Б@Г[ГpГЛ\
-` Џ08213Џ08213 «епар, хищный демон любви`\
+` -- Zepar, the Hunter of Love`\
 
 for %Free3 = 1 to 50
 resettimer
@@ -26901,15 +26901,15 @@ print 1
 next
 locate 0,3
 ;ГtГЛГtГЛ 
-` — ƒнЄм св€того ¬алентина!`@`  ак поживаете? `@
+` Happy Valentine's Day!`@` How have you been? `@
 br
 csp 785
 lsp 785,":a;bmp2\TATI\fur\1\fur_waraiA2.bmp",0,0,150
 print 80
 ;Б@Н°УъВўВ«БAГ`ГЗГRГМБ[ГgВ™К√В≠ВƒВ∆ВлВѓВйУъВЌСґНЁВµВ»ВҐВнБB@
-` Ќет другого столь м€гкого и тающего дн€. `@
+` There's no day so soft and so melty as this one. `@
 ;Б@В«В§В©БAВ«ВсВ»В…ПђВ≥В»ИкЧ±ВћГ`ГЗГRВ≈В†ВЅВƒВаБAВїВћТЖВ…ЛlВ№ВЅВљСzВҐВрВҐВЅВѕВҐВ…Ц°ВнВЅВƒБB\
-` —коль бы ни был мал этот кусочек шоколада, сокрытые в нЄм чувства - насто€щий пир. `\
+` Know that no matter how small the piece of chocolate gifted to you is, the feelings hidden inside it are enough for an entire feast. `\
 
 for %Free3 = 50 to 120
 resettimer
@@ -26941,7 +26941,7 @@ waittimer 10
 
 next
 locate 0,3
-` ¬сЄ ещЄ думаете, что ваш шоколад всего лишь исполнение об€занности?`@` ƒа будет вам известно, что без такой об€занности женщины больше не смогли бы скрывать свои истинные чувстваЏ09734 `\
+` So do you think that chocolate is given to you out of duty?`@` I'll tell you this. This "duty" merely gives blushing girls a way to cover up their true feelings for you~ `\
 
 csp 785
 lsp 785,":a;bmp2\TATI\fur\1\fur_waraiA1.bmp",0,0,150
@@ -26949,13 +26949,13 @@ print 80
 se2 54
 ;Б@ОДВћГ`ГЗГRВЌВаВњВлВсБAСSХФБAЦ{ЦљБB@
 locate 0,3
-` –азумеетс€, в моЄм шоколаде все мои чувства. `@
+` Of course, my chocolate is not hiding any feelings at all~ `@
 br
 ;Б@И§ВаПЧВаЧvВзВ»ВҐВ»ВсВƒГJГbГRВ¬ВѓВƒВйГLГ~ВрБA@ВаВ§И§В»В≠ВµВƒРґВЂВƒВҐВѓВ»ВҐСћВ…ВµВƒВ†В∞ВйВ©ВзКoМеВµВƒВҐВƒ
-` ѕриготовьтесьЏ09734 `@
+` Prepare to meet them at full force~ `@
 br
 ;Б@Б\Б\ЧцВћТ≤Л≥О“Б@ГtГЛГtГЛ\
-` Џ08213Џ08213 ƒемон и инструктор любви, ‘урфур `\
+` -- Furfur, the Trainer of Love `\
 
 for %Free3 = 1 to 50
 resettimer
@@ -26990,17 +26990,17 @@ bg G1F_S1aP,0
 
 ld r,RON_WaraiA2,0
 ld l,BUT_nayamuA2,23
-`"’ех. »нтересно, что там, в этом шоколаде.`@` ћне слишком страшно его есть." `\
+`"Heh. I wonder what's in that chocolate.`@` I'm too scared to eat it." `\
 ld r,RON_WaraiA1,24
 ;БuСеПдХvВ≈В≤ВіВҐВ№ВЈВжБB@РнРlВ≥В№В™ФёПЧТBВћГ`ГЗГRВрРHВ„ВйВ±В∆ВЌПoЧИВ©ВЋВ№ВЈВћВ≈БBБv@
-`"Ќе беспокойтесь.`@` ¬сЄ равно вы уже не сможете насладитьс€ еЄ шоколадом ручной работы." `\
+`"Don't worry about that.`@` You won't be able to partake in Milady's handmade chocolate anymore." `\
 ld l,BUT_OyaA1,80
 ;БuВЌБHБ@ВїВиВбРHВҐВљВҐВ∆ВЌОvВнВ»ВҐВ™БAВ»ВсВ≈ВЊБHБv\
-`"Ё? я и не хотел, но...почему?" `\
+`"Eh? I wasn't planning to, but... why?" `\
 
 bg black,22
 ;БuВ±ВњВзВрБBБv\
-`"ѕрочитайте." `\
+`"Read this." `\
 
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 
@@ -27027,7 +27027,7 @@ quakey 2,300
 ;ГxГAГgГКБ[Г`ГF 
 locate 0,3
 ;Б@ГnГbГsБ[ГoГМГУГ^ГCБ[ГУБIБI@Б@ГAБ`ГУГhБA@ОcФOВ≈ВµВљВЯВ†В†ВЯВ†ВЯВ†Г@БIБI@
-` Happy Valentines!!!`@` »-и...`@`кака€ жа-а-алость! `@
+` <Happy Valentine's>!!!`@` <And>...`@`ohh, toooo baaaaaad! `@
  
 br
 
@@ -27053,17 +27053,17 @@ next
 
 ;Б@ВїВ»ВљВ…ВЌВЄВҐВ‘ВсВ∆Г`ГЗГRВ™УЌВҐВƒВҐВљВжВ§ВЊВ™БA@П®В∆ГXГ^ГbГtВ™СSВƒБAФьЦ°ВµВ≠ВҐВљВЊВҐВƒВ®ВҐВљВЉБI@
 ; П®В…ЦЏВрХtВѓВзВкВљВ©ВзВ…ВЌН≈МгБIБ@ПIРґБAПЧОqВ©ВзВћГ`ГЗГRВЌУЌВ©В В∆ТmВйВ™Ч«ВҐБB\
-` ѕросто чтобы ты знал, € съела предназначенный дл€ теб€ шоколад.`@` ѕопадЄшьс€ мне - умрЄшь!`@` «най, что ты никогда не сможешь получить от девушек шоколад, никогда! `\
+` Just so you know, I've already eaten all the chocolate sent to you.`@` And if I ever see you, you're dead!`@` You're not getting your hands on chocolate ever again! `\
 
 csp 785
 lsp 785,":a;bmp2\TATI\bea\1\BEA_AkuwaraiA5.bmp",0,0,150
 print 80
 locate 0,3
 ;Б@В№Б[БAЧђРќВ…ЛCВћУ≈ВЊВ©ВзБAИкЧ±ВЊВѓГ`ГЗГRВрРiТжВµВжВ§БB@
-` Ќо мне жаль теб€ за твою убогую физиономию, так что вот, € оставила тебе кусочек. `@/
+` But I feel sorry for your ugly face, so I left a tiny piece just for you! `@/
 se2 37
 ;Б@ОЬФяР[ВҐП®В…КіО”ВЈВйВ™ВҐВҐБI\
-`Ѕлагодари мен€ за доброту! `\ 
+`Be grateful for my kindness! `\ 
 wait 500
 
 for %Free3 = 200 to 230
@@ -27133,7 +27133,7 @@ waittimer 20
 next
 locate 0,3
 ;Б@ВўБAЦ{УЦВЌОиНмВиВћВ¬ВаВиВЊВЅВљВ™ВїВћБA@В†БAВ†В№ВиВ…ФьЦ°ВµВ≠ПoЧИВƒВµВ№ВЅВљВћВ≈БAО©Х™В≈РHВ„ВƒВµВ№ВЅВљБI@/
-` я...€ подумала...сделать тебе шоколад самой, но вкус моего слишком хорош.`@` ћ-мне стало жаль отправл€ть его тебе, поэтому € съела его. `@/
+` I thought of giving you something handmade, but it was so delicious that I ate it myself.`@/
 csp -1
 
 bg "bmp\background\sbook\zoom\16.png",0
@@ -27142,10 +27142,10 @@ se2 37
 quakey 2,300
 
 ;Б@ВЊВ©ВзВїВ»ВљВ…ВЌНёЧњЧpВ…ФГВЅВљГ`ГЗГRВ≈П[Х™В≈В†ВйБI@
-`“ебе можно подарить и купленный шоколад! `@
+`Store-bought is good enough for you! `@
 br
 ;Б@Б\Б\Й©ЛаВћЦВПЧБ@ГxГAГgГКБ[Г`ГF\
-` Џ08213Џ08213 «олота€ ведьма Ѕеатриче`\
+` -- The Great Golden Witch, Beatrice`\
 
 mov ?v_l[17],1 ;КщУ«ГtГЙГO
 
@@ -27173,21 +27173,21 @@ bgm1 60
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
 ld c,BUT_FutekiA1,23
-`"’ех. ќчень на неЄ похоже." `\
+`"Heh. Just as you'd expect from her." `\
 ld r,RON_WaraiA1,24
 ;БuВ«В§В©БAВ®ПмВ≥В№ВћРЄИкФtВћВ®ЛCОЭВњВрОуВѓВ∆ВЅВƒВ†В∞ВƒВ≠ВЊВ≥ВҐВ№ВєБBБv\
-`"Ќо всЄ же, примите глубокие чувства миледи." `\
+`"Still, please accept Milady's feelings." `\
 
 ld c,BUT_DefA3,80
 ;БuБcБcВ№В†БAВљВ№В…ВЌНёЧњЧpВћГ`ГЗГRВаВҐВҐВ©ВаВ»БBБv@
-`"...Ћадно, в купленном шоколаде нет ничего плохого." `\
+`"...Alright, fine. There's nothing wrong with store-bought chocolate, anyway." `\
 ld r,RON_WaraiA2,24
 ;БuВ†ВиВ™В∆В§В≤ВіВҐВ№ВЈБB@В≈ВЌН≈МгВ…БAЙПОхВ≥В№ВћВ®ОиОЖВ∆Г`ГЗГRВрБBБv\
-`"Ѕлагодарю вас.`@` ¬от последнее - письмо и шоколад от госпожи Ёнж." `\
+`"Thank you very much.`@` At last, here's a letter and chocolate from Lady Ange." `\
 
 ld c,BUT_oyaA2,80
 ;БuВ¶БHБ@ЙПОхВ©ВзВаБcБcБHБv\
-`"Ё? ƒаже от Ёнж?.." `\
+`"Eh? Even Ange?.." `\
 
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 
@@ -27208,9 +27208,9 @@ next
 ;Б@ВЂВЅВ∆ГoГМГУГ^ГCГУВћГ`ГЗГRВ™БAВ®МZВњВбВсВћВ∆В±В…ВаВљВ≠В≥ВсУЌВҐВƒВҐВйВ∆ОvВҐВ№ВЈБB@
 ;Б@ОvВнВєВ‘ВиВ»Г`ГЗГRВаВљВ≠В≥ВсВ†ВйВЊВлВ§ВѓВ«БAХВВ©ВкВ»ВҐВжВ§В…БI\
 locate 0,3
-` Ѕратику.`@
-` ѕолагаю, ты уже получил тонны шоколада. `@
-` ќни просто пытаютс€ привлечь твоЄ внимание, так что особо не радуйс€ ему! `\
+` To my brother.`@
+` I'm sure that even someone like you received a ton of Valentine's chocolate this year. `@
+` But they're just trying to get your attention, so don't act too happy about it! `\
 
 for %Free1 = 1 to 100
 resettimer
@@ -27221,7 +27221,7 @@ next
 ;Б@В®МZВњВбВсВћН†В∆ИбВЅВƒБAН≈ЛяВћПЧВћОqВЌВ®ЧFТBКіКoВ≈БAЛCМyВ…Г`ГЗГRВрВвВиОжВиВЈВйВсВ≈ВЈБB@
 ;Б@Г`ГЗГRВ™ВњВеВЅВ∆ОиНмВиВ≈ГnБ[ГgМ`ВЊВЅВљВиВЈВйВ©ВзВЅВƒБAХ@ВћЙЇВрРLВќВ≥В»ВҐВжВ§В…БI\
 locate 0,3
-` ¬ отличие от твоих времЄн, сейчас девушки дар€т шоколад даже обычным друзь€м.`@` ћой шоколад ручной работы, и € сделала его в виде сердечек... ќсобо не задумывайс€, ничего особенного! `\
+` Unlike back in your day, nowadays it's common for girls to just gift chocolate to friends.`@` My chocolate is handmade, and heart-shaped... but don't think too hard about it! `\
 
 csp -1
 bg black,2
@@ -27233,7 +27233,7 @@ br
 br
 br
 ;Б@Б\Б\В®МZВњВбВсВћВ©ВнВҐВҐЦЕБ@ЙПОхВжВи\
-` Џ08213Џ08213 ќт твоей милой младшей сестры, Ёнж`\
+` -- From your little sister, Ange`\
 
 bg white,22
 csp -1
