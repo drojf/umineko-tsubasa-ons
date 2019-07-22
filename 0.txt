@@ -27296,15 +27296,15 @@ br
 br
 
 ;Б@Б@Б@Б@ХЧВћХ÷ВиВЅВƒБAТmВЅВƒВ№ВЈБcБH@
-`    «наете о вест€х, которые приносит ветер? `@
+`    Have you ever heard the news brought by the wind? `@
 br
 
 ;Б@Б@Б@Б@Б@Ц{УЦВ…ХЧВ™Й^ВсВ≈ВЂВƒБA@
-`            ќн и правду переносит их 
+`            The wind is truly carrying them along,`@ 
 br
 
 ;Б@Б@Б@ОДВљВњВћО®М≥В≈ЪСВҐВƒВ≠ВкВйВсВ≈ВЈБB\
-`               и шепчет нам в уши. `\
+`               and whispering in our ears. `\
 
 bg "bmp\background\sbook\ochaA1.bmp",6
 br
@@ -27315,15 +27315,15 @@ br
 
 Se1 1010
 ;Б@Б@  Б@БuВ≤Л@МЩФ@ЙљБAГxГЛГУГJГXГeГЛБH@
-`            " ак ты, Ѕернкастель? `@
+`            "How are you, Bernkastel? `@
 br
 
 ;Б@Б@Б@Б@Б@СfУGВ»В®ТГЙпВрКJВЂВ№ВЈБB@
-`       я провожу замечательное чаепитие.`@
+`       I am hosting a wonderful tea party.`@
 br
 
 ;Б@Б@Б@Б@Б@В«В§В©В≤ОQЙЅЙЇВ≥ВҐВ»БBБv\
-`               ѕрисоедин€йс€." `\
+`               Please do participate." `\
 
 E_MA
 Se1 1010
@@ -27344,16 +27344,16 @@ bgm1 110
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
 ;Б@ИкСћБAТNВћВ®ЧUВҐВ≈ВµВеВ§БB@
-` ќт кого же это приглашение? `\
+` Who could have possibly sent this? `\
 
 
 ;Б@В≈ВаБAЦВПЧВрЧUВ§В∆ВҐВ§ВћВ≈ВЈВ©ВзБAСКОиВаВЂВЅВ∆БAЦВПЧВ…ИбВҐВ†ВиВ№ВєВсБB\
-` Ќо она наверн€ка и сама ведьма, раз приглашает ведьму. `\
+` It must be from a witch, since a witch is being invited. `\
 
 ld r,BER_defA1,22
 
 ;БuБcБcЦ ФТВҐВґВбВ»ВҐБB@ХtВЂНЗВЅВƒВ†В∞ВйВнБAСёЛьВрИкОЮБAЦYВкВзВкВйВ»ВзБBБv\
-`"... ак интересно.`@` Ћадно, если так € ненадолго отвлекусь от скуки." `\
+`"...Fascinating.`@` Oh well, this doesn't seem too boring, so I'll play along." `\
 
 
 ;БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БE
@@ -27363,9 +27363,9 @@ bg forest_P3b,10
 me1v 5,30
 
 ;Б@ХЧВ…У±В©ВкВƒБB@ГxГЛГУГJГXГeГЛВ™ВвВЅВƒВЂВљВћВЌБAЯTСУВ∆ЦќВЅВљБAИ√ВҐРXБB\
-` ≈Є вЄл ветер.`@` Ѕернкастель оказалась у густого и мрачного леса. `\
+` Guided by the wind,`@` Bernkastel came to a dark, gloomy forest. `\
 ;БuБcБcВ±ВсВ»РXВћТЖВ≈ОEВ≥ВкВљВзБB@В«ВсВ»В…ФяЦ¬ВрВ†В∞ВƒВаБAТNВ…ВаХЈВҐВƒВаВзВ¶В»ВҐВнВЋБB@ЦВПЧВћВ®ТГЙпВ…В“ВЅВљВиВћРXВЊВнБBБv\
-`"...≈сли бы кого убили в этом лесу,`@` сколько бы он ни кричал, никто бы не услышал.`@` »деальный лес дл€ чаепити€ ведьм." `\
+`"...If someone were to be murdered here,`@` they could scream all they want and nobody would hear them.`@` This forest seems perfect for a witch's tea party." `\
 
 
 ;БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БE
@@ -27373,7 +27373,7 @@ E_MA
 
 
 ;Б@РXВћУьМыВ…ВЌБAИ÷ОqВћВжВ§В…РЎВиФ≤ВҐВљБAСеВЂВ»РЎВиКФВ∆БAПђВ≥В»К≈Ф¬В™В†ВиВ№ВµВљБB\
-` ѕри входе в лес сто€л пенЄк в форме стула, и висела табличка. `\
+` At the entrance to the forest, there was a chair-shaped tree stump with a small sign hanging on it. `\
 textoff
 se1 1010
 bg "bmp\background\sbook\ita01.bmp",26
@@ -27387,26 +27387,26 @@ delay 2000
 
 
 ;Б@ГxГЛГУГJГXГeГЛВЌБAРЎВиКФВћИ÷ОqВрБAВґВлВиВ∆М©ВƒВ©ВзМЊВҐВ№ВµВљБB\
-` Ѕернкастель посмотрела на пень и сказала: `\
+` Bernkastel looked the stump over. `\
 
 ;БuБcБcВ¶В•БAВнВ©ВЅВƒВйВнБB@/
-`"...ƒа, всЄ €сно. `@/
+`"...Ah, I see. `@/
 se1 20
 
 ;В±ВкВ…НјВйВ∆БAг©В≈БAНљВ©ЙљВ©В≈ФЫВзВкВƒБB@ПгВ©ВзВ„ВµВбВЅВ∆Г`ГFГКБ[ГpГCВ≈ВаН~ВЅВƒВЂВƒБA/
-`—ев, € попаду в ловушку, и мен€ св€жут цеп€ми.`@` —верху упадЄт вишнЄвый пирог, и € превращусь в посмешище. `/
+`They want me to sit here to trigger some sort of trap. For example, I might be bound by chains`@` while a cherry pie falls on my head, and I'll end up a laughing stock. `/
 se2 37
 
 ;ПќВҐВаВћВ…В≥ВкВйВЅВƒБAОпМьВ»ВћВжВЋБBБv\
-`¬от что ты планируешь?" `\
+`Is that what you're planning?" `\
 bg forest_P3b,4
 
 ;Б@КлВ»ВҐКлВ»ВҐБB@
-` „уть не попалась.`\
+` Well, you almost got me.`\
 
 
 ;Б@ГxГЛГУГJГXГeГЛВЌКлВ§В≠БAВ®ТГЙпВћЛqРlВ≈ВЌВ»В≠БAЧ]ЛїВ…В≥ВкВƒВµВ№В§В∆В±ВлВ≈ВµВљБB\
-` Ѕернкастель едва не стала на чаепитии развлечением вместо гостьи. `\
+` Bernkastel was almost made into entertainment for the guests of the tea party, instead of being a guest herself. `\
 
 
 ;БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БE
@@ -27414,17 +27414,17 @@ se1 1010
 bg forest_P2b,4
 
 ;Б@РXВћПђУєВрРiВсВ≈ВҐВЂВ№ВЈБB@
-` ќна пошла дальше по лесной тропинке.`\
+` She continued further down the forest path.`\
 
 
 ;Б@ВЈВйВ∆БAЦЎдХВћЦќВЁВ™В†ВиБAВїВћСOВ…ПђВ≥В»ГeБ[ГuГЛВ™ТuВ©ВкВƒВҐВ№ВµВљБB\
-` ¬скоре Ѕерн увидела малиновый куст и столик перед ним.`\
+` Soon, Bern found a raspberry bush with a small table in front.`\
 
 bg "bmp\background\sbook\drink.bmp",2
 
 
 ;Б@ВїВ±В…ВЌБAЦЎдХВћГWГЕБ[ГXВ™ТuВ©ВкВƒВҐВ№ВµВљБB\
-` Ќа нЄм сто€л малиновый сок. `\
+` On top, there was a glass of raspberry juice. `\
 
 se1 1010
 bg "bmp\background\sbook\drink2.bmp",5
@@ -27438,25 +27438,25 @@ bg "bmp\background\sbook\drink2.bmp",5
 
 
 ;Б@ГxГЛГУГJГXГeГЛВЌБAГWГЕБ[ГXВћГRГbГvВрБAВґВлВиВ∆М©ВƒВ©ВзМЊВҐВ№ВµВљБB\
-` Ѕернкастель посмотрела на стакан с соком и сказала: `\
+` Bernkastel looked at the juice glass. `\
 ;БuБcБcВ¶В•БAВнВ©ВЅВƒВйВнБB@ В«В§ВєБA/
-`"...ƒа, всЄ €сно.`@` ќн наверн€ка отравлен.`/
+`"...Ah, I see.`@` It must be poisoned.`/
 se1 1020
 
 ;У≈В™УьВЅВƒВҐВƒБAВ±ВкВрИщВёВ∆БAВ®Х†ВрЙуВµВƒБAПќВҐВаВћВ…В≥ВкВйВ∆ВҐВ§БA/
-`  огда € его выпью, у мен€ расстроитс€ желудок, и € превращусь в посмешище. `/
+` When I drink this, my stomach will start hurting so much that I'll break down in pain, and I'll end up a laughing stock. `/
 se2 37
 
 ;ОпМьВ»ВћВжВЋБBБv\
-`¬от что ты задумала?" `\
+`Is that what you're planning?" `\
 bg "bmp\background\sbook\drink.bmp",24
 
 ;Б@КлВ»ВҐКлВ»ВҐБB@
-` „уть не попалась. `\
+` Well, you almost got me. `\
 
 
 ;Б@ГxГЛГУГJГXГeГЛВЌБAВ№ВљВµВƒВаг©ВрМ©Ф≤ВЂВ№ВЈБB\
-` Ѕернкастель раскусила ещЄ одну ловушку. `\
+` Bernkastel figured yet another trap out. `\
 
 
 ;БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БE
@@ -27464,7 +27464,7 @@ se1 1010
 bg forest_P2a,4
 
 ;Б@РXВрРiВёВ∆БAНsВ≠РжБXВ≈БAЧlБXВ»г©В™БAГxГЛГУГJГXГeГЛВрС“ВњОуВѓВƒВҐВ№ВµВљБB\
-` ¬ лесу, куда бы она ни свернула, еЄ ждали различные ловушки. `\
+` Whereever she went, the forest was full of various traps waiting for her. `\
 
 se2 1010
 bg "bmp\background\sbook\ita02.bmp",23
@@ -27473,12 +27473,12 @@ bg "bmp\background\sbook\ita02.bmp",23
 ;EDnote: orinigally hidden
 
 ;БuБcБcВ–ВЅВ©В©ВйВнВѓВ»ВҐВ≈ВµВеБB@/
-`"...я ни за что на это не куплюсь.`@/
+`"...Ah, I see.`@/
 
 se1 38
 
 ;В«В§ВєБAУ≈УьВиВ»ВћВжБBБv\
-` ќчевидно же, что он отравлен." `\
+` This is obviously poisoned too." `\
 
 se3 1010
 bg "bmp\background\sbook\ita03.bmp",24
@@ -27487,12 +27487,12 @@ bg "bmp\background\sbook\ita03.bmp",24
 ;ED note: Also orinally hidden.
 
 ;БuБcБcИшВЅК|В©ВйВнВѓВ»ВҐВ≈ВµВеБB@/
-`"...» на такое € тоже не попадусь. `@/
+`"...Ah, I see. `@/
 
 se2 3
 
 ;В«В§ВєБAг©В»ВћВжБB@ВнВ©ВЅВƒВсВЊВ©ВзБBБv\
-`Ќаверн€ка ловушка.`@` Ћегко догадатьс€." `\
+`This is certainly a trap.`@` That was easy to figure out." `\
 
 textoff
 bg forest_P2a,6
@@ -27509,7 +27509,7 @@ se3 1010
 bg "bmp\background\sbook\S_house.bmp",24
 
 ;Б@ВвВ™ВƒБAРXВћЙЬВ…БAВ®ЙўОqВ≈ПoЧИВљБAЙ∆В™М©В¶ВƒВЂВ№ВµВљБB\
-` ¬ конце концов в глубине леса она наткнулась на конфетный домик. `\
+` After some time, she ended up in the deepest part of the forest.`@` There, she saw a house made out of candy. `\
 
 se1 1010
 bg "bmp\background\sbook\ita04.bmp",5
@@ -27520,12 +27520,12 @@ bg "bmp\background\sbook\ita04.bmp",5
 ;Ednote: also orinally hidden.
 
 ;БuБcБcВ±ВћФnО≠В∞ВљБAТГЙпВћОеВЌТNВ©ВµВзБB@ВєВяВƒКзВ≠ВзВҐФqВсВ≈ВвВйВнБB@БcБcВ®ВЅВ∆БAВ±ВћЙ∆ВаБAг©В©ВаВµВкВ»ВҐВнВЋБB@ЧpРSВµВ»В≠ВњВбБB\
-` ... то устроил это нелепое чаепитие?`@` Ќадеюсь, они хот€ бы позвол€т мне взгл€нуть на них.`@`  ...O, точно, этот дом тоже может оказатьс€ ловушкой.`@` Ќужно быть настороже.`\
+` ...Who's the host of this ludicrous tea party?`@` I hope I can at least get a look at their face.`@` ...Ah, I see. This house must be a trap too.`@` I should be careful.`\
 
 bg "bmp\background\sbook\S_house.bmp",26
 
 ;Б@ГxГЛГУГJГXГeГЛВЌБAСІВрОEВµВƒБAВїВЅВ∆БAЙ∆ВћТЖВћЧlОqВрВ§В©В™ВҐВ№ВµВљБcБB\
-` Ѕернкастель затаила дыхание и украдкой загл€нула в дом... `\
+` Bernkastel held her breath and carefully looked inside the house... `\
 
 
 ;БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БE
@@ -27534,15 +27534,15 @@ se1 1010
 bg "bmp\background\sbook\tea.bmp",9
 
 ;Б@Й∆ВћТЖВ…ВЌБAГЙГАГ_ГfГЛГ^В∆БAВїВµВƒГtГFГUГКБ[ГkВ™БAВ®ТГВрИщВЁВ»В™ВзБAТkПќВµВƒВҐВ№ВµВљБB\
-` ¬нутри Ћ€мбдадельта и ‘езарин пили чай, вед€ дружескую беседу. `\
+` Inside, Lambdadelta and Featherine were drinking tea and having a chat together. `\
 
 ;БuЧИВйВнВжБAГxГЛГУВЌБBБv@
-`"Ѕерн придЄт." `\
+`"Bern will certainly come soon." `\
 ;БuВ†ВкВЌБAФLВжВиЛ^ВиР[ВҐРЂХ™БB@г©В…ИбВҐВ»ВҐВ∆Л^ВиБAУrТЖВ≈БAИшВЂХ‘ВµВљВ…ИбВҐВ»ВҐБBБv\
-`"” неЄ ещЄ более скептический характер, чем у кошки.`@` ќна заподозрит, что это ловушка, и по дороге повернЄт назад." `\
+`"She's even more skeptical than a cat.`@` She'll think this all to be a trap, then turn back before she gets here." `\
 
 ;Б@УсРlВЌБAГxГЛГУГJГXГeГЛВ™ЧИВйВ©ЧИВ»ВҐВ©В≈БAМЊВҐСИВЅВƒВҐВйВжВ§В≈ВµВљБB\
-` ќни вдвоЄм спорили по поводу того, придЄт ли Ѕернкастель. `\
+` The two were arguing about whether or not Bern would end up coming to the party. `\
 
 
 
@@ -27558,28 +27558,28 @@ ld l,LAM_MajimeA1,80
 
 
 ;БuГxГЛГУВЌРвСќЧИВйВнБB@РвСќВћЦВПЧВ∆ВµВƒЦсС©ВЈВйБB@/
-`"Ѕерн об€зательно придЄт.`@`  л€нусь как ведьма абсолюта. `@/
+`"No, Bern will certainly, definitely come.`@` I stake my title as the Witch of Certainty on it. `@/
 
 
 ;ВїВкВ…БAг©В»ВсВƒЛѓВ¶ВйВнВѓВ™В»ВҐВнБB@И÷ОqВ∆В©ИщВЁХ®В∆В©БAВїВкВ…В®ВвВ¬В∆В©БB@РXВћВ®ТГЙпВрКyВµВсВ≈ВаВзВ¶ВйВжВ§В…БAВљВ≠В≥ВсВћОпМьВ≈МдОЭВƒРђВµВµВƒВйВсВЊВаВћБB@ВЂВЅВ∆ГxГЛГУВаБAКyВµВЁВ»В™ВзБAВ±В±В№В≈ВвВЅВƒЧИВйВЌВЄВжБBБv\
-`» она бы ни за что не испугалась ловушек.`@` Ѕудь то пни, напитки или закуски.`@` я много чего придумала, чтобы она насладилась чаепитием в лесу.`@` Ѕерн получит удовольствие и придЄт сюда." `\
+`Also, she's not one to be scared of traps.`@` Whether it's chairs, drinks, or snacks, it doesn't matter.`@` I left all those things on her way to make her trip more enjoyable.`@` Bern will come here, and she'll be in a nice mood." `\
 
 mov %FEA_Isyou,2
 
 ld r,FEA_DefA2,24
 
 ;БuВЌВƒВ≥ВƒБAВ«В§В©В»БcБH@Б@ОДВЌБAВ†ВкВ™ЫёПЧВЊВЅВљН†В©ВзВжВ≠ТmВЅВƒВҐВйБB@ВїВ»ВљВ™ОvВЅВƒВҐВйВжВиБAВ†ВкВЌВЌВйВ©В…ХsКнЧpВ≈ЛрУЁВ≈БAВїВµВƒЛѓВ¶ВвВЈВҐБB@БcБcВїВ»ВљВћОпМьВрЙрВєВйВўВ«БAВ†ВкВћРSВЌНLВ≠В»ВҐБBБv\
-`"„то ж, посмотрим...`@` я хорошо еЄ знаю, ведь она была моей мико.`@` “ы пон€ти€ не имеешь, до чего она неуклюжа, глупа и пуглива.`@`  ...” неЄ не такое большое сердце, чтобы она пон€ла твой замысел." `\
+`"We'll see...`@` Since she's my former miko, I know her well.`@` You have no idea how clumsy, silly and scaredy she is.`@` ...She doesn't have enough heart to figure your plan out." `\
 
 ld l,LAM_AkuwaraiA1,80
 
 ;БuВїВкВЌВ†ВсВљВћВ∆В±В…ЛПВљОЮВћШbВ≈ВµВеВ§БcБH@Б@Н°ВЌИбВ§ВћВжБB@В†ВћОqВЌВЋБAОДВ∆ИкППВ…ЧVВ‘ВжВ§В…В»ВЅВƒВ©ВзБAВЈВЅВ©ВиЦЊВйВ≠В»ВЅВљВћБB@РћВћВ†ВћОqВ∆ВЌИбВ§ВћВжБBБv\
-`"“акой она была раньше, с тобой.`@` “еперь она друга€.`@` Ќачав играть со мной, Ѕерн стала более открытой.`@` ќна не така€, как тогда." `\
+`"You were the one who made her like that, weren't you?`@` Well, she's changed now.`@` Ever since she started playing with me, Bern opened up a lot.`@` She's not the same person she was before." `\
 
 ld r,FEA_DefA1,80
 
 ;БuВ«В§В©В»БH@Б@ВҐВ≠ВзЙaВрЧ^В¶ВжВ§В∆ВаБAЦмЧ«ФLВЌМИВµВƒЙщВ©В БB@В±ВћТГЙпВЌБAОДВ∆ВїВ»ВљВћУсРlВЂВиВћВаВћВ…В»ВйВ≈В†ВлВ§БBБv\
-`"Ќеужели?`@` —колько еЄ ни корми, бездомна€ кошка никогда не прив€зываетс€.`@` Ќа этом чаепитии будем только мы вдвоЄм." `\
+`"Oh, really?`@` No matter how much you might feed a stray cat, it will never become attached to you.`@` The two of us will be the only guests at this tea party." `\
 
 
 cl l,0
@@ -27588,9 +27588,9 @@ cl r,22
 bg "bmp\background\sbook\tea.bmp",6
 
 ;БuЧИВйВнВжБcБI@Б@РвСќВ…ГxГЛГУВЌЧИВйВнБI@/
-`"ќна придЄт!..`@` Ѕерн точно придЄт! `@/
+`"She'll come!..`@` Bern will certainly come! `@/
 ;!s0Б@РвСќВћЦВПЧВ™ЦсС©ВЈВйБIБv/
-!s0`¬едьма абсолюта кл€нЄтс€!" `/
+!s0`I swear as the Witch of Certainty!" `/
 se1 4
 mbg white,1
 mcbg 22
@@ -27599,19 +27599,19 @@ mcbg 22
 
 
 ;БuЧИВ ЧИВ БB@В†ВкВЌМИВµВƒЧИВйВ±В∆ВЌВ»ВҐБB@/
-`"Ќе придЄт она, не придЄт.`@` Ќи в коем случае. `@/
+`"No, no, she won't.`@` There's no way. `@/
 
 se2 59
 
 ;КѕМАВћЦВПЧВ™ЦсС©ВµВжВ§БB@В≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈБcБIБv/
-`я кл€нусь как ведьма театра.`@` *хи-хи*хи-хи*хи-хи*!.." `/
+`I'll swear it as the Witch of Theatergoing.`@` *giggle*, *giggle*, *giggle*.." `/
 
 se1 37
 
 \
 
 ;БuЧИВйВнВжБI@Б@В†ВћОqВЌБAОДВ∆ЧVВ‘ВжВ§В…В»ВЅВƒВ©ВзБAХѕВнВЅВљВћБcБIБIБv\
-`"ѕридЄт!`@` ќна изменилась, когда стала играть со мной!.." `\
+`"She'll come!`@` She's a different person now!.." `\
 
 textoff
 mendef 0
@@ -27631,28 +27631,28 @@ bg forest_P2a,63
 
 
 ;Б@ГxГЛГУВЌБAСЂСБВ…РXВћПђУєВрИшВЂХ‘ВµВƒВҐВ№ВµВљБB@
-` Ѕерн быстро пошла обратно по лесной тропинке. `\
+` Bern quickly went backwards along the forest path. `\
 
 
 ;Б@г©В…ЛCХtВЂБAжщВрХ‘ВµВљВ©ВзБcБH@
-` ќна пон€ла, что это была ловушка, и повернула назад?.. `\
+` Did she sense another trap and decided to turn back?.. `\
 
 
 ;Б@П≠ВµЧlОqВ™ИбВ§ВжВ§В≈ВµВљБB\
-` ¬роде бы не совсем. `\
+` No, that wasn't it. `\
 
 ;БuБcБcГAГEГAГEГНБ[ГЙВ…БAРвСќЧИВ»ВҐВ∆МЊВнВкВљВзБB@БcБcИ”ТnВ≈ВаНsВЅВƒВвВлВ§ВЅВƒОvВ§ВнБB@В†ВсВ…ВбВлГHВћОvВҐТ ВиВ…В»ВйВћВЊВѓВЌБAРвСќВ…В≤ВяВсВжБB@БcБcБcВ¶В•БAВїВкВЊВѓВ™ЧЭЧRВжБB@ГЙГАГ_ВћВ†ВсВџВсВљВсВ…Л`ЧЭЧІВƒВµВƒВйВ¬ВаВиВЌБAВ≥ВзВ≥ВзВ»ВҐВсВЊВ©ВзБBБv\
-`"...ѕросто јуаурора сказала, что € ни за что не приду.`@`  ...’очу сделать ей назло.`@` ћеньше всего мне хочетс€ делать так, как ожидает эта стерва.`@`  ...ƒа, вот единственна€ причина.`@` я буду не потакать глупости Ћ€мбды." `\
+`"...It's just that Auau thinks I won't come.`@` ...So I'll do it to spite her.`@` The last thing I want to do is what that bitch expects of me.`@` ...Yep, that's the only reason.`@` Lambda has nothing to do with it, not at all." `\
 
 se1 1010
 bg black,63
 
 
 ;Б@ГxГЛГУВЌВїВ§ЩкВЂВ»В™ВзБAВ≈ВаБAВ«ВсВ«ВсУєВрИшВЂХ‘ВµВƒНsВЂВ№ВЈБB@
-` Ѕерн пробормотала себе под нос и быстро проследила свои шаги. `\
+` Bern was muttering to herself while still rapidly walking backwards. `\
 
 ;Б@В®ТГЙпВ…ОQЙЅВЈВйВ¬ВаВиВ»ВћВ…БAВ«В§ВµВƒВ«ВсВ«ВсБAЛAВЅВƒВµВ№В§ВћБcБH\
-` –аз она собиралась присоединитьс€ к чаепитию, зачем было возвращатьс€?.. `\
+` If she did want to join the tea party, why was she doing that?.. `\
 
 
 
@@ -27661,10 +27661,10 @@ se2 1010
 bg forest_P3b,63
 
 ;Б@ВїВ±ВЌБAРXВћУьМыВ≈ВµВљБB@
-` ѕосле она подошла ко входу в лес. `\
+` She went all the way back to the entrance to the forest. `\
 
 ;Б@РЎВиКФВћИ÷ОqВ∆ПђВ≥В»К≈Ф¬БB\
-`   пеньку и маленькой вывеске.`\
+` All the way back to the chair-shaped stump with the sign.`\
 
 
 bg "bmp\background\sbook\ita01.bmp",23
@@ -27673,10 +27673,10 @@ bg "bmp\background\sbook\ita01.bmp",23
 
 
 ;БuБcБcВ¶В•БAВ№ВЅВљВ≠В…ВаВЅВƒБAХаВЂС±ВѓВ≈ФжВкВљВнБB@ВЇВ–ВїВ§В≥ВєВƒВаВзВ§ВнВжБBБv\
-`"...ƒа, € и вправду вымоталась после такой долгой прогулки.`@` я принимаю предложение." `\
+`"...Yeah, I'm really exhausted from walking this much.`@` I'll rest here for a bit." `\
 
 ;Б@ГxГЛГУВЌБAРЎВиКФВћИ÷ОqВ…НШК|ВѓВ№ВЈБB\
-` Ѕерн села на пень.`\
+` Bern sat on the chair.`\
 bg black,45
 
 se1 20
@@ -27687,11 +27687,11 @@ se3 3
 
 
 ;Б@ВЄВҐВ‘ВсВ∆ЙУЙсВиВµВƒВµВ№ВҐВ№ВµВљВ™БB@
-` ¬есьма окольным путЄм, но...`\
+` This was a roundabout way of doing things...`\
 
 
 ;Б@БcБcВжВ§ВвВ≠БAГЙГАГ_ГfГЛГ^ВћВ®ТГЙпВ…БAОQЙЅВ≈ВЂВљВжВ§В≈ВЈБB\
-` ќна наконец прин€ла участие в чаепитии Ћ€мбдадельты. `\
+` But she did end up participating in Lambdadelta's tea party. `\
 
 
 
@@ -27710,33 +27710,33 @@ se1v 47,100
 quakey 2,300
 
 ;БuВ†ВЅВЌВЅВЌВЅВЌВЅВЌБAВ†Б[ВЅВЌВЅВЌВЅВЌВЅВЌБIБ@ВўВзВЋВўВзВЋБHБ@ГxГЛГУБAИшВЅК|В©ВЅВљБB@ВЇБ[ВЅВљВҐБAИшВЅК|В©ВйВ∆ОvВЅВƒВљВнБ`БЩБv\
-`"јха-ха-ха, ха-ха-ха-ха! „то € говорила, Ѕерн попалась!`@` я знала, что смогу еЄ пойматьЏ09734 " `\
+`"Ahahaha, ahahahha! Told you, told you, I caught Bern!`@` I knew I could catch her!~" `\
 
 ld l,FEA_DefA2,23
 ld l,FEA_DefA1,80
 
 ;БuБcБcЛ^ВиР[ВЂВ±В∆БAФLВћФ@ВµВ∆ОvВЅВƒВҐВљВїВ»ВљВ™БAБcБcВ±ВћТцУxВћг©В…ИшВЅК|В©ВйВ∆ВЌБB@БcБcОЄЦ]БA/
-`"...я-то думала, что ты так же скептична, как кошка...`@` ѕодумать только, что ты попалась в такую ловушку.`@`  ...“ы мен€ не разочаро-`/
+`"...And here I was thinking you're as skeptical as a cat...`@` To think that you'd fall for a trap of this level.`@`  ...You disappoint-`/
 
 
 ;БcВҐВвБAЦOВЂВ≥ВєВ В»БAВїВ»ВљВЌБBБv\
-`...хот€ нет, ты и в самом деле не даЄшь заскучать." `\
+`...actually, no. You truly never let me get bored." `\
 
 bg "bmp\background\sbook\forest01.bmp",26
 
 ;БuБcБcБcВїВ§ВЋБAОДВЌЦ{УЦВ…ХѕВнВЅВљВнБB@ГЙГАГ_ВћВєВҐВ≈БAВЊВҐВ‘К√МыВ…В»ВЅВљВнВжБBБv\
-`"......ƒа, € действительно изменилась.`@` »з-за Ћ€мбды € поглупела." `\
+`"...Yeah, I've changed.`@` I've become more paper thanks to Lambda." `\
 
 ;Б@ГxГЛГУГJГXГeГЛВЌРЎВиКФВћИ÷ОqВћПгВ≈БAСЊВҐНљВ…ВЃВйВЃВйК™ВЂВ…В≥ВкБA/
-` Ѕернкастель, сид€щую на пне, сковало цеп€ми, и ей на голову упал чизкейк. `/
+` Bernkastel was sitting on the stump bound by chains and with a cheesecake on top of her head. `/
 
 se1 31
 
 ;У™В…Г`Б[ГYГPБ[ГLВ™ВPГzБ[ГЛБAР^ВЅЛtВ≥В№В…БB@ЦXОqВћВжВ§В…БAФёПЧВћВ†ВљВ№В…БAВ„ВЅВµВбВиВ∆НЏВЅВƒВҐВ№ВЈБB\
-`ќн был у неЄ на голове,`@` почти как шл€па. `\
+`It looked almost like a hat. `\
 
 ;Б@В±ВћРЎВиКФВ…НјВйВ∆БAВїВ§В»ВйВжВ§В…БAг©В™ОdК|ВѓВзВкВƒВҐВљВћВ≈ВЈБB\
-` Ћовушка была сделана так, чтобы сработать на том, кто с€дет на пень. `\
+` The trap was designed to be triggered by whoever sits on the chair. `\
 
 
 ;БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БE
@@ -27745,20 +27745,20 @@ se1 31
 bg "bmp\background\sbook\S_house.bmp",6
 
 ;БuКyВµВсВ≈ВаВзВ¶ВљБHБ@ОДВћЧ]ЛїВЌБBБv@
-`"“ебе понравилось моЄ развлечение?" `\
+`"Did you have fun?" `\
 ;БuБcБcВ№ВЯВ№ВЯВЋБB@В±ВкВ™Г`Б[ГYГPБ[ГLВґВбВ»В≠ВƒБAФ~К±ГWГГГАВћГpГCВЊВЅВљВзХSУ_ЦЮУ_ВЊВЅВљВнВжБBБv\
-`"...Ќедурно.`@` —вались мне на голову сливовый пирог с вареньем вместо чизкейка, € бы дала тебе высший балл." `\
+`"...Well, it's not bad.`@` If it was a plum jam pie instead of a cheesecake, I would have given you a perfect score." `\
 
 ;БuВҐВвБAГ`Б[ГYГPБ[ГLВ≈ОЧНЗВЅВƒВҐВйВЉБB@ВїВ»ВљВћФѓВ…БAОјВ…ВжВ≠ОЧНЗВ§БBБv@
-`"„то ты, чизкейк тебе идеально подходит.`@` ѕрекрасно сочетаетс€ с твоими волосами." `\
+`"Oh no, the cheesecake suits you perfectly.`@` It truly matches your hair well." `\
 ;БuБcБcГAГEГAГEГНБ[ГЙВћУ™В…ВЌБAСљХ™БAФ[У§В∆В®В©ВзВћГWГГГАХrВ™ОЧНЗВ§ВнВжБBБv\
-`"...ј твоей голове, јуаурора, больше всего подойдут натто и бутылка с джемом окара." `\
+`"...And you, Auau. Natto and okara jam would probably suit your head best." `\
 
 
 bg "bmp\background\sbook\ochaA2.bmp",6
 
 ;Б@ВжВ§ВвВ≠ГxГЛГУГJГXГeГЛВаУЮТЕВµБAКyВµВҐКyВµВҐБAЦВПЧВљВњВћВ®ТГЙпВ™ОnВ№ВЅВљВћВ≈ВµВљБB\
-` — по€влением Ѕернкастель увлекательное чаепитие ведьм наконец началось.`\
+` Now that Bern has arrived, the fun tea party of witches could finally begin.`\
 
 
 Se1 1010

@@ -22,9 +22,9 @@ Current progress:
 |9|Yes|No|Not yet released|
 |10|Yes|No|Not yet released|
 |11|Yes|No|Not yet released|
-|12|In progress|No|Not yet released|
+|12|Yes|No|Not yet released|
 |13|Yes|No|Not yet released|
-|14|No|No|Not yet released|
+|14|In progress|No|Not yet released|
 |15|No|No|Not yet released|
 |Postscript|No|No|Not yet released|
 
