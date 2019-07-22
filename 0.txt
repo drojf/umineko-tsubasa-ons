@@ -27798,13 +27798,13 @@ mov %r_hyouji_side,1
 
 
 ;Б@ЦlВЌБAВҐВ¬В©ВзВ±В±В…ВҐВйВсВЊВлВ§БB\
-` —колько уже € здесь?`\
+` How long have I been here?`\
 ;Б@В№В«ВлВЁВ©ВзЦЏКoВяВљВћВ∆ВЌБAВњВеВЅВ∆ИбВ§БB@
-` — того момента, как € очнулс€ от дремоты, всЄ как-то иначе. `\
+` Things seem to have changed since I woke up. `\
 
 
 ;Б@ВїВ±ВЌЙЈВ©ВҐХzТcВћТЖВ≈ВаБAВ ВҐВЃВйВЁВрУьВкВйШUВћТЖВ≈ВаВ»В©ВЅВљВ©ВзБB\
-` ¬едь € не в тЄплой постели и не в корзине с плюшевыми игрушками.`\
+` Because I was neither in the warm futon, nor the basket filled with stuffed animals.`\
 bg white,42
 
 se1 1030
@@ -27819,38 +27819,38 @@ bg "bmp\background\sbook\sakutaro01.bmp",45
 
 
 ;Б@ВїВ±ВЌНrЧЅВ∆ВµВљБAКвОRВћШ[В…М©В¶В№ВµВљБB@
-` Ѕыло мрачно, и € сто€л у подножь€ скалистой горы. `\
+` It was dark, and I found myself standing at the base of a rocky mountain. `\
 
 
 ;Б@СРВаРґВ¶ВƒВҐВ»ВҐБAФНВЂПoВµВћКвФІБB@
-` Ќикакой травы, просто гола€ скала. `\
+` There was no grass, just a naked rock. `\
 
 
 ;Б@ЦЎВЌВ†ВЅВƒВаБAМЌВкЙ ВƒБAИкЦЗВћЧtВ≥В¶В¬ВѓВƒВҐВ№ВєВсВ≈ВµВљБB\
-` Ѕыли деревь€, но совсем высохшие, без единого листочка. `\
+` There were trees, but they were completely withered, not a single leaf on them. `\
 
 
 ;Б@БcБcЦlВЌТNБH@Б@БcБcВ±В±ВЌВ«В±БH\
-` ... то €?`@` ...√де €? `\
+` ...Who am I?`@` ...Where am I? `\
 
 ;БuВ†В»ВљВЌБAР^ЧҐШ±В™СеРЎВ…ВµВƒВҐВљБAГЙГCГIГУВћВ ВҐВЃВйВЁБA@В≥В≠ВљВлВ§В≈ВЈВжБBБv\
-`"“ы драгоценный плюшевый лев ћарии,`@` —акутаро."`\
+`"You are Maria's precious stuffed lion,`@` Sakutaro."`\
 
 ;Б@ВїВћРЇВ…БAЦlВЌСSВƒВрОvВҐПoВµВ№ВµВљБB\
-` Ѕлагодар€ этому голосу € всЄ вспомнил. `\
+` Thanks to that voice I remembered everything. `\
 
 
 ;Б@ВїВ§ВЊБB@ЦlВЌГЙГCГIГУВћВ ВҐВЃВйВЁВћВ≥В≠ВљВлВ§БB@
-` ¬ерно.`@` я - —акутаро, плюшевый лев. `\
+` That's exactly right.`@` I am Sakutaro, a stuffed lion. `\
 
 
 ;Б@В«В§ВµВƒЦlВЌБAВ±ВсВ»В∆В±ВлВ…БH@
-` ѕочему € здесь? `\
+` But why am I here? `\
 ;Б@Р^ЧҐШ±ВЌВ«В±БH\
-` √де ћари€? `\
+` Where's Maria? `\
 
 ;Б@ВїВкВзВрОЯБXВ∆ОvВҐПoВЈВ§ВњВ…БAО©Х™ВћН≈КъВћЛLЙѓВрОvВҐПoВµБA@В±В±В™В«В§ВҐВ§В∆В±ВлВ»ВћВ©ВрБAО©СRВ∆О@ВµВ№ВµВљБB\
-` ¬спомнив всЄ, € вспомнил своЄ последнее воспоминание`@` и догадалс€, где нахожусь. `\
+` Remembering things one by one, I arrived at my last memory`@` and figured out where I was. `\
 
 bg black,2
 
