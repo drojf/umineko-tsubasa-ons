@@ -24,8 +24,8 @@ Current progress:
 |11|Yes|No|Not yet released|
 |12|Yes|No|Not yet released|
 |13|Yes|No|Not yet released|
-|14|In progress|No|Not yet released|
-|15|No|No|Not yet released|
+|14|Yes|No|Not yet released|
+|15|In progress|No|Not yet released|
 |Postscript|No|No|Not yet released|
 
 Installation instructions:
