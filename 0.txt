@@ -4308,10 +4308,10 @@ bgm1 152
 
 bg Se1F_S1aR,2
 
-` —Єстры сиесты императорской гвардии, созданные в честь полЄта багрового дракона, стали чем-то вроде Џ00171мемориала императорской гвардииЏ00187. `\
+` The Chiester Sisters Imperial Guards were supposedly a Memorial Corps formed in commemoration of the Flight of the Red Dragon. `\
 
 ;Б@ВµВ©ВµБAВїВкВЌВ†В≠В№В≈ВаБAЙПЛNТSВђВћМгХtВѓЧRЧИВ…ЙяВђВЄБA@ВїВћМЛРђВ∆Й^ЧpВЌБAНСЦhСеРbВ…ВжВЅВƒУьФOВ…МvЙжВ≥ВкВƒВЂВљВаВћВ≈В†ВйБB\
-` ќднако это была лишь поверхностна€ причина.`@` ѕо словам министра национальной обороны, их создание и использование тщательно спланировали.`\
+` However, that was merely a superstition.`@` According to the Ministry of Defense, the formation and all operations of the Chiester Corps were carefully planned for.`\
 bg black,2
 
 
@@ -4319,28 +4319,28 @@ mono 1
 bg sub_R2a,2
 
 ;Б@ВUВWФNВ…НСЦhСеРbВЌНСУаМRОЦЦВЦ@ГББ[ГJБ[В…БAИ»ЙЇВћОdЧlВ≈Й^ЧpВ≈ВЂВйРVЛяЙqСаЦВЦ@ХЇОmВћРЁМvПСВрТсПoВЈВйВжВ§В…ЛБВяВљБB\
-` 68 лет министерство требовало, чтобы колдун военных дел предоставл€л проекты новых магических солдат императорской гвардии со следующими характеристиками.`\
+` For 68 years, the Ministry has been gathering design documents from all domestic military magic manufacturers in order to create a new type of magical soldiers for the Imperial Guard.`\
 
 ;Б@ВїВкВЌВRВeМvЙжВ∆МƒВќВкВйОdЧlВ≈БAВRВ¬ВћВeБA@С¶ВњБAГtГ@Б[ГXГgГЛГbГNБAГtГ@Б[ГXГgГVГЕБ[ГgБAГtГ@Б[ГXГgГLГЛВрТBРђВµБA@В≥ВзВ…БAРvСђВ»РЃФхБAРvСђВ»Й^ЧpБAРvСђВ»УWКJВ»В«БAГIБ[Г_Б[ВЈВйС§В…В∆ВЅВƒБAВ†В№ВиВ…УsНЗВћЧ«ВҐВ±В∆ВќВ©ВиВ™ХјВ„ВзВкВљВаВћВ≈В†ВЅВљБB\
-` Ёто был так называемый Џ00171проект 3ѕЏ00187:`@` ѕервый взгл€д, ѕервый выстрел, ѕервое убийство.`@`   тому же, учитыва€ следующие характеристики - своевременное техобслуживание, практичность и быстрое развитие, - это было очень удобно дл€ того, кто отдавал приказы.`\
+` There were strict specifications set for this so-called "3F Project".`@` These specifications, namely, were "First Detection", "First Shot" and "First Kill".`\
 
 bg black,22
 bg sub_R2b,22
 
 ;Б@В±ВћОdЧlВ…ЙЮВ¶ВзВкВйРVМ^ЦВЦ@РґЦљСћВ∆ВµВƒБA@Н≈ПIУIВ…ВЌШVХ№ВћВqВ`ВbО–В∆ГVГGГXГ^О–В™ЦЉПжВиВрЛУВ∞БAВїВкВЉВкВћРЁМvПСВрТсПoВµВљБB\
-` Ќаконец  оролевский корпус и компани€ —иест объ€вили о своЄм намерении разработать новую модель магической формы жизни, котора€ оправдает их ожидани€,`@` и отправили различные наброски проекта.`\
+` At long last, two well-known companies -- the RAC and Chiester -- have offered to design a new model of a magical life form`@` and submitted their respecitve design documents.`\
 
 ;Б@ВqВ`ВbО–ВЌУ`УЭВћВlГVГКБ[ГYВрБAЛяЙqСаОdЧlВ…Л≠ЧЌВ»ГВГfГЛГ`ГFГУГWВрНsВ»ВҐБA@Ч≥Й§ГyГУГhГЙГSГУВћЛяЙqСаВћЦЉВ…ТpВґВ»ВҐРнУђЧЌВрОЭВљВєВйВ±В∆В…ПdУ_ВрТuВҐВљБB\
-` “радиционна€ сери€ ћ перетерпела значительные изменени€ модели в соответствии со спецификаци€ми »мператорской гвардии`@` и с акцентом на обладании боевой прочностью, чтобы не зап€тнать им€ ѕендрагона.`\
+` The RAC have made impressive changes to the traditional Model M to bring it up to date with the new Imperial Guard specifications,`@` putting emphasis specifically on fighting strength as not to tarnish the name of King Pendragon.`\
 
 ;Б@ВRВ¬ВћВeВ≈В†ВйБAРжРІФ≠М©БAРжРІНUМВБAРжРІМВФjВрОјМїВЈВйВљВяБA@ТPУ∆В≈ВћРвСеВ»НUМВЧЌВ…УЅЙїВµБAР¶В№ВґВҐХЇКнУЛНЏЧ ВрОјМїВµВљБB\
-` „то касаетс€ 3ѕ, ради реализации упреждающего удара и преимущественного уничтожени€`@` они были оснащены устрашающим оружием и специализировались на независимой, огромной наступательной способности. `\
+` In order to meet the 3F specification, the model was given overwhelming independent offensive capabilities`@` and a tremendous capacity for onboard weaponry. `\
 
 ;Б@В±ВкВ…ВжВиБAТPЛRВ≈ВћСеЙќЧЌРнУђВ…СќЙЮВ≈ВЂБA@П≠В»В≠В∆ВаГ}ГjГЕГAГЛГXГyГbГNПгВ≈ВЌБAХЇКнОjВрУhВиС÷В¶В©ВЋВ»ВҐБAПdЙќЧЌЦВЦ@РґЦљСћВ∆В»ВйВЌВЄВЊВЅВљБB@
-` „тобы выдержать большую огневую мощь,`@` они должны были стать магической формой жизни со специализацией на артиллерийском оружии, что могло бы запросто переписать историю боевого оружи€.`\
+` This model could demonstrate heavy firepower even as just a single unit, and,`@` at least based on the design document,`@` was powerful enough to rewrite the entire history of weapons.`\
 
 ;Б@СеРbС§ВЌБAТPЛRПdЙќЧЌВћГtГМБ[ГYВрЛCВ…УьВиБA@СIТиПIФ’К‘НџВ…ВЌБAВlГVГКБ[ГYВћНћЧpВ≈ВўВЏУаТиВµВƒВҐВљВ∆ВҐВ§БB\
-` —о своей стороны министерство хорошо отнеслось к демонстрации индивидуальной силы артиллерийских солдат.`@` ѕусть даже официально об этом ещЄ не за€вили, было €сно, что окончательное решение будет в пользу серии ћ.`\
+` The Ministry was so obsessed with the words "single unit" and "heavy firepower" that it was almost certain that Model M would win the competition,`@` even though there was no official word on that as of yet.`\
 
 bg black,2
 mono 0
@@ -4394,26 +4394,26 @@ bg homing7,10,600
 bgm1 78
 
 ;Б@ВїВкВ…СќВµГVГGГXГ^О–ВЌБAРvСђВ»РЃФхБAРvСђВ»Й^ЧpБAРvСђВ»УWКJВ»В«ВрПdОЛБB@
-`  омпани€ —иест, напротив, отдавала преимущество эффективности эксплуатации, обслуживанию и развитию. `\
+` On the other hand, the Chiester company decided to emphasise quick maintenance, operation and deployment. `\
 
 ;Б@ВqВ`ВbО–ВћВlГVГКБ[ГYВ∆ВЌР^ЛtВ…БAИјЙњБAМШШSБAСеЧ РґОYБAНВСђУWКJВрО|В∆ВЈВйГVГGГXГ^ГVГКБ[ГYВрТсИƒВµВљБB\
-` ѕредлагаемые серии —иест были основаны на принципах, полностью противоположных серии  оролевского корпуса: дешевизна, прочность, быстрое развитие и массовое производство.`\
+` Contrary to the RAC's Model M, the Chiester Series model was inexpensive, robust, and easy to deploy in large quanitites.`\
 
 ;Б@ВRВ¬ВћВeВ…В¬ВҐВƒВЌБAТPЛRВ≈ОјМїВЈВйВ±В∆ВрПЙКъВћТiКKВ≈ХъКьБB@
-` „то касаетс€ 3ѕ, их реализаци€ была заброшена на первом же этапе разработки.`\
+` In order to meet the 3F specification, Chiester have decided to avoid single-unit implementation plans altogether.`\
 
 ;Б@РкЦеФ\ЧЌВ…УЅЙїВµВљМ¬БXВћГVГGГXГ^ГVГКБ[ГYВ™ШAМgВЈВйВ±В∆В≈ОјМїВЈВйВ∆ВµБAЧpХЇПгВћЦвСиВ≈ГJГoБ[В≈ВЂВйВ∆ВµВљБB\
-` Ѕыли разработаны индивидуальные союзы серий —иест с особыми способност€ми, добавл€ющими возможность св€зыватьс€ друг с другом и быть в состо€нии разбиратьс€ с тактическими задачами.`\
+` The Chiester series was developed with a unique communication ability that allowed them to coordinate matters of tactics.`\
 
 bg black,2
 wait 1000
 bg Mhal_3a,22
 
 ;Б@В±ВкВЌВ№ВЅВљВ≠В…ВаВЅВƒР≥Ш_В»ВћВЊВ™БA@Ч≥Й§ГyГУГhГЙГSГУВ…СКЙЮВµВҐЛяЙqХЇВ≈В†ВйВ„ВЂВ∆ВЈВйСеРbВћИ”МьВрР≠Х{НВКѓВљВњВ™ЛВВЁОжВиЙяВђБA@УЦПЙБAГVГGГXГ^ГVГКБ[ГYВЌВ№ВЅВљВ≠Х]ЙњВ≥ВкВƒВҐВ»В©ВЅВљБB@
-` ќднако, хот€ это был большой плюс,`@` вли€тельные лица, опира€сь на идею министра о том, что »мператорска€ гварди€ должна быть достойна ѕендрагона,`@` изначально даже не учитывали серию —иест.`\
+` Despite the series having multiple advantages,`@` the officials were under the impression that the Minister intended to create individual units powerful enough to be King Pendragon's personal guard,`@` so they haven't paid any mind to the Chiester design at all.`\
 
 ;Б@ВїВћХ]ЙњВЌБAУVКEВвЦВКEВ»В«ВћХЇКнОЦПоВ™ХѕЙїВЈВйВ…В¬ВкБAОЯСжВ…ЛtУ]ВµОnВяВйБB\
-` ¬ ответ на постепенные изменени€ условий вооружени€ ада и ра€ оценка начала медленно мен€тьс€.`\
+` However, that decision had to be reevaluated to ongoing changes in the state of military equipment.`\
 
 bg black,2
 wait 1000
@@ -4422,29 +4422,29 @@ mono 1
 bg Sky_2b,22
 
 ;Б@УЦОЮБAН≈СеВћМRОЦЛ≠НСВ∆ВµВƒЛ∞ВкВзВкВƒВҐВљЦВКEВЌБAХ®Ч В…ВжВйЦOШaНUМВВрУЊИ”В∆ВµВƒВҐВљБB@
-` ¬ те времена ада, известного за количество военных ресурсов, страшились как крупнейшую военную державу.`\
+` Hell, known for its vast quantity of military resources, was feared as the greatest military power of the time.`\
 
 ;Б@ВµВ©ВµБAСќУЩВ»МRОЦГoГЙГУГXВрЛБВяВйВаВ§ИкХыВћСеНСБAУVКEВЌБA@ВVВPФNВ…РнСИОjВрУhВиС÷В¶ВйРVЛ@О≤БAЧмОqРнГVГXГeГАВћН\ТzВ…РђМчБB@
-` ƒл€ другой великой державы - ра€, требующего справедливого военного баланса - в 71-м году была успешно реализована структура, способна€ переписать историю войны: боева€ система, использующа€ духовные частицы. `\
+` However, heaven managed to rewrite military history by successfuly constructing the Spirit Particle Combat System. `\
 ;Б@ХЇИхВ∆Ч\ОZВ∆Х®Ч В…ФCВєВљЧЌЙЯВµВћНUМВВрБAКЃСSВ…ХХОEВЈВйВ±В∆В…РђМчВµВљВћВ≈В†ВйБB\
 
-` ”далось полностью упразднить подход грубой силы, завис€щий от бюджета, ресурсов и военнослужащих.`\
+` This allowed to completely bypass the usual military approach that relied entirely on brute force and strength.`\
 
 bg black,22
 bg moon_1a,22
 
 ;Б@В±ВкВЌС¶ВњБAВ©В¬ВƒВћЙpЧYжЭВ≈ОqЛЯВљВњВћУ≤ВкВ∆ВµВƒХ`В©ВкВƒВЂВљБAТPЛRПdХРСХВћГqБ[ГНБ[СЬВ™БA@ВаВЌВвСЊМ√ВћВ®В∆ВђШbВћТЖВЊВѓВ…В»ВЅВƒВµВ№ВЅВљВ±В∆ВрО¶ВЈБB\
-` ¬ооружЄнные до зубов герои из эпических сказаний, которыми восхищались дети, остались в прошлом.`\
+` With this new system, the figure of a heavily-armed lone hero from children's fairy tales became a thing of the past.`\
 
 bg white,22
 mono 0
 bg moon_2a,22
 
 ;Б@ГVГGГXГ^О–ВЌВїВћЧђВкВрВҐВњСБВ≠О@ВµБA@ГVГGГXГ^ГVГКБ[ГYВ…ЧмОqРнВ…СќЙЮВ≈ВЂВйФ\ЧЌВћХtЙЅВрМИТиВµВљБB@
-`  омпани€ —иест решила выпустить серию —иест, способную взаимодействовать с системой духовных частиц.`\
+` The Chiester company was quick to react to the change and added Anti-Spirit Particle Combat capabilities to the Chiester series.`\
 
 ;Б@В±В§ВµВƒБAГVГGГXГ^ГVГКБ[ГYВћН≈СеВћУЅТ•В≈В†ВйБA@И§ПћБuВ§В≥ВђВћО®БvВ™ТaРґВµВљВћВ≈В†ВйБB\
-` » так по€вилась особа€ сери€ —иест,`@` которой дали прозвище Џ00171 роличьи ушиЏ00187.`\
+` This took the form of the most prominent feature of the Chiester series, the so-called`@` "Rabbit Ears".`\
 
 bg black,2
 
@@ -4453,23 +4453,23 @@ wait 1000
 bg homing5R,22
 
 ;Б@ХРСХВаВqВ`ВbО–ВlГVГКБ[ГYВћВжВ§В»ЛМЧИОdЧlВћГnБ[ГhГ|ГCГУГgСХФхМ^В≈В»В≠БA@ЧмОqРнВрФOУ™В…БAИўОЯМ≥ГEГFГ|ГУГЙГbГNВрИнСБВ≠КJФ≠БB@
-` Ќе с традиционными методами оснащени€ армии серии ћ, а с системой духовных частиц`@` быстро растущий арсенал был на совершенно другом уровне.`\
+` The RAC could not modify the Model M's traditional hardware to include the new capabilities themselves,`@` so the rapidly-evolving and adaptable system that Chiester had to offer was on a whole different level.`\
 
 ;Б@ВlГVГКБ[ГYВ∆ВЌР≥ФљСќВ…БAУЛНЏЧ ВрУOТкУIВ…Л]РµВ…ВµВƒВ≈ВаБAГXГeГЛГXРЂВ…УЅЙїВ≥ВєВљБB\
-` ¬ противоположность серии ћ, жертвование количеством предустановленного оборудовани€ позвол€ло специализироватьс€ на невидимости.`\
+` Additionally, in direct contrast with the Model M, Chiester has sacrificed the amount of preinstalled onboard equipment so that their model could specialise in stealth.`\
 
 bg homing6R,22
 
 ;Б@ГVГGГXГ^О–ГНГrГCГXГgВћКИУЃВаВ†ВиБAНСЦhСеРbВЌУѓФNБAВRВeМvЙжВ…СќВµБA@ЧмОqРнВћСќЙЮВрН≈СеМјНlЧґВЈВйВ±В∆В∆БAОјОњПгВћХыРjУ]КЈВрРйМЊБB@
-` ќтчасти благодар€ лоббистской де€тельности компании —иест,`@` министр национальной обороны в том же году прин€л во внимание духовные частицы и объ€вил об изменении целей проекта 3ѕ.`\
+` In addition to that, the Chiester lobbyists were showing strong efforts.`@` That year, the Minister of Defense made a substantial change to the 3F specification and declared Anti-Spirit Particle Combat measures to be a top priority.`\
 
 ;Б@В±ВкВ…ВжВиБAВїВкВ№В≈В№ВЅВљВ≠М©МьВЂВаВ≥ВкВƒВ±В»В©ВЅВљБAГVГGГXГ^ГVГКБ[ГYВ™БAИкЛCВ…ЛrМхВрЧБВ—ВйВ±В∆В∆В»ВЅВљБcБB\
-` » так некогда игнорируема€ сери€ —иест вдруг завоевала всеобщее внимание...`\
+` And thus, the previously overlooked Chiester Series ended up in the limelight in just a single day...`\
 
 bg homing7,22
 
 ;Б@В±В§ВµВƒБAН≈ПIУIВ…ГVГGГXГ^О–ВћГVГGГXГ^ГVГКБ[ГYВ™ПЯЧШВµБA@Р‘ВЂЧ≥ВћФтЧИВрЛLФOВµВƒМЛРђВµВљЛLФOЛRОmТcВћЦЉВ…БAО–ЦЉВрК•ВЈВйЙhЧ_ВрЧ^В¶ВзВкВљВћВ≈В†ВйБB\
-`  онечна€ сери€ —иест добилась успеха,`@` и компании была дана привилеги€ открыть празднование полЄта багрового дракона.`\
+` The final implementation of the Chiester series has been successful,`@` and the company was given the privelege of naming this new series the Memorial Order, formed in commemoration of the Flight of the Red Dragon.`\
 
 bg white,2
 
