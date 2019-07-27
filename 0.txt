@@ -17307,7 +17307,7 @@ ld c,RON_WaraiA1,80
 `"Next, ladies, please show me your originality by decorating it to your own taste.`@` I shall merely suggest nuts as a basis.`@` Almond, pistachio, cashews...`@` walnuts and tea leaves are wonderful as well."`\
 
 ;ˆ«–‚‚ÌƒXƒyƒVƒƒƒ‹ƒŒƒVƒs‚Æ‚µ‚Ü‚µ‚Ä‚ÍAƒ_ƒ`ƒ…ƒ‰‚Ìí‚ÉƒGƒ“ƒWƒFƒ‹ƒgƒ‰ƒ“ƒyƒbƒg‚Ì“Y‚¦‰Ô•t‚«‚Åü‚è—§‚Ä‚é‚Ì‚à‚¨§‚ßB@H‚×‚é‚Æ‚ ‚ç•sv‹cAˆÓ’†‚Ì”Ş‚Ì–{“–‚Ì‘z‚¢l‚Ì–¼‘O‚ª•·‚«o‚¹‚Ä‚µ‚Ü‚¤‚©‚àHv\
-`"he demons' special recipe calls for it to be decorated with the seed of a datura and a flower of a brugmansia.`@` When he eats it, perhaps you'll mysteriously find out the name of the girl he likes?"`\
+`"The demons' special recipe calls for it to be decorated with the seed of a datura and a flower of a brugmansia.`@` When he eats it, perhaps you'll mysteriously find out the name of the girl he likes?"`\
 ld c,RON_AkuWaraiA1,80
 
 ;uƒoƒŒƒ“ƒ^ƒCƒ“‚Í‰³—‚Ì–²‚ÌÕ“TcI@@‚ ‚È‚½‚Ì‘f“G‚Å‘åØ‚Èˆê“ú‚ªA¶ŠU‚Ì‹L”O‚Æ‚È‚é‚æ‚¤A‚±‚ÌƒƒmƒEƒFAS‚æ‚è‚¨‹F‚è\‚µã‚°‚Ä‚¨‚è‚Ü‚·‚æB@‚Õ‚Á‚­‚Á‚­‚Á‚­Iv@
@@ -17380,7 +17380,7 @@ print 99,1000,"breakup.dll/lrb"
 ;@ˆêl‚ªp‚ğŒ»‚µ‚Ä‚µ‚Ü‚Á‚Ä‚ÍA‚à‚¤‘¼‚Ìo–…‚à‰B‚ê‚Ä‚¢‚Ä‚à‚µ‚å‚¤‚ª‚È‚¢B@
 ;@—â‘ ŒÉ‚Ì’†‚â‚ç“ç‚Ì’†‚â‚çA‚ ‚¿‚±‚¿‚©‚çAè‚â‘«‚ª‚É‚ã‚¤‚Á‚ÆL‚Ño‚µ‚Ä‚«‚ÄAµo–…‚ªŸX‚Ép‚ğŒ»‚·B\
 ` Once one of them appears, it's no use for the other sisters to stay hidden.`\
-` From the refrigerator, from the pots, and from many other similar places, hands and f eet began to emerge, followed by the remaining six sisters themselves.`\
+` From the refrigerator, from the pots, and from many other similar places, hands and feet began to emerge, followed by the remaining six sisters themselves.`\
 se1 52
 ld c,RG4_OdorokiA3,0
 print 99,1000,"breakup.dll/llb"
@@ -17613,7 +17613,7 @@ se1 47
 ld l,RG7_WaraiA1,26
 
 ;u“V‘‚³‚ÜƒbI@@‚Í‚¢AƒoƒŒƒ“ƒ^ƒCƒ“‚Ìƒ`ƒ‡ƒRƒŒ[ƒg‚Å‚·I@@ó‚¯æ‚Á‚Ä‰º‚³‚¢ƒbIv@
-`"Mr. Amakusa!`@` his is Valentine's Day chocolate!`@` Please, accept it!"`\
+`"Mr. Amakusa!`@` This is Valentine's Day chocolate!`@` Please, accept it!"`\
 ;ƒƒAƒXƒ‚
 
 ;@ccŠ„‚Æ³U–@Ac‚¢‚âA‚Ş‚µ‚ë^³–Ê‚©‚ç‚Ì‹­P‚¾‚Á‚½B\
@@ -17740,7 +17740,7 @@ quakex 2,400
 ld l,AMA_MajimeA1,80
 
 ;u‚ [[[‚ñv\
-`"À-à-àì."`\
+`"N-nom."`\
 ;ƒ“V‘
 
 ;@’‡–r‚Ü‚¶‚¢—öl“¯m‚Ì‚æ‚¤‚È¢ŠE‚ğAu‚É\’z‚µ‚Ä‚µ‚Ü‚Á‚Ä‚¢‚éB@‹°‚é‚×‚µ‚ÁAF—~‚ÌƒAƒXƒ‚I\
@@ -18264,7 +18264,7 @@ bg Gdin_1c,0
 ld r,RUD_AkuwaraiA1,24
 
 ;u‚Ğ‚ã‚£A‚Ü‚³‚©‚¨ì‚¿‚á‚ñ‚©‚ç‚à‚ç‚¦‚é‚Æ‚Ív‚í‚È‚©‚Á‚½‚ºB@‚ ‚è‚ª‚Æ‚ÈB@‚Ç‚¤‚¾‚¢A‚»‚ÌŒã‚ÍB@Œ³‹C‚Å‚â‚Á‚Ä‚é‚©Bv\
-`"My, I didn't expect to get chocolate from a young lady.`@` Thanks.`@` By the way,`@` were you all right after all that?"`\
+`"My, I didn't expect to get chocolate from a young lady.`@` Thanks.`@` By the way,`@` were you alright after all that?"`\
 ;ƒ—¯•¤•v
 
 ld l,RG4_fumanA2,23
@@ -18423,7 +18423,7 @@ me1 24
 ld l,KIR_KomaruA1,80
 
 ;@‚Ü‚³‚©©•ª‚ªƒ`ƒ‡ƒR‚ğ‚à‚ç‚¦‚é‚Æ‚Ív‚í‚¸A–¶]‚Í‹êÎ‚¢‚ğ•‚‚©‚×‚éB\
-` I didn't expect I'd be the one getting chocolate', Kyrie thought with a dry smile.`\
+` 'I didn't expect I'd be the one getting chocolate', Kyrie thought with a dry smile.`\
 
 ld l,KIR_WaraiA2,80
 
@@ -18721,7 +18721,7 @@ ld r,JES_IkariA1,24
 ld l,RG3_IkariA2,80
 
 ;u‚®ƒbAcc‚¤‚®‚®‚®‚®‚®ƒbII@@‚¨Šè‚¢‚¾‚©‚ç‚à‚ç‚¢‚È‚³‚¢‚æƒbA‰½‚Å„‚ª‚±‚ñ‚È‚É‚Ü‚Å•K€‚É‚È‚Á‚Äƒ`ƒ‡ƒR“n‚³‚È‚«‚á‚È‚ç‚È‚¢‚Ì‚æA‚Ç‚±‚Ü‚Å„‚É’p‚ğ‘~‚©‚¹‚ê‚Î‹C‚ªÏ‚Ş‚Ì‚æII@/
-`"Guh... ugugugugu!`@` I'm begging you to accept this, if I don't hand this over to somebody it's all over for me, so mock me as much as you want `@/
+`"Guh... ugugugugu!`@` I'm begging you to accept this, if I don't hand this over to somebody it's all over for me, so mock me as much as you want! `@/
 se1 6
 se2 52
 cl l,99,1000,"breakup.dll/ulb"
@@ -19131,7 +19131,7 @@ ld l,BUT_WaraiA1,80
 ld c,RG1_OdorokiA3,80
 
 ;ucccc‚¦Av\
-`"......İ..."`\
+`"...Eh..."`\
 ;ƒƒ‹ƒVƒtƒ@[
 
 
@@ -19205,7 +19205,7 @@ se1 4
 se1 4
 
 ;@@’·—ƒ‹ƒVƒtƒ@[‚ÉŠ|‚©‚ê‚ÎAƒoƒŒƒ“ƒ^ƒCƒ“‚È‚Çƒ`ƒ‡ƒ‚¢‚à‚ñ‚æI@@‚ ‚Ìƒjƒ“ƒQƒ“•—î‚ªƒzƒƒCƒgƒf[‚É‰½‚ğ‚¨•Ô‚µ‚µ‚Ä‚­‚ê‚é‚Ì‚©AŠy‚µ‚İ‚¾‚íBv\
-@` Just ask your elder sister Lucifer and Valentine's Day chocolate is a cinch!`@` I'll be treated to human hospitality on White Day, it sounds fu."`\ 
+@` Just ask your elder sister Lucifer and Valentine's Day chocolate is a cinch!`@` I'll be treated to human hospitality on White Day, it seems."`\ 
 ;ƒƒ‹ƒVƒtƒ@[
 
 bg G1F_S1bp,0
@@ -19783,7 +19783,7 @@ se1 48
 quakey 2,200
 
 ;‰½‚ğ‚¨•Ô‚µ‚µ‚Ä‰º‚³‚é‚Ì‚©Šy‚µ‚İ‚¡`™v\
-`I can't wait! "`\
+`I can't wait!"`\
 ;ƒƒAƒXƒ‚
 
 ;@ƒAƒXƒ‚‚Æƒxƒ‹ƒ[‚ÍAo–…‚Ì––‚Áq“ñl‘g‚Å‚Æ‚Ä‚à’‡‚ª‚¢‚¢B@
@@ -19956,7 +19956,7 @@ ld r,RG3_OdorokiA1,80
 ld l,RG1_FumanA2,80
 
 ;uƒTƒ^ƒ“‚Í‚Ç‚¤‚È‚ÌB@‰Ã‰¹‚Éƒ`ƒ‡ƒR‚ğ‘¡‚Á‚½‚ñ‚¶‚á‚È‚©‚Á‚½‚Á‚¯Hv@
-`"What about you Satan?`@` You gave Kanon chocolate, right?"`\
+`"What about you, Satan?`@` You gave Kanon chocolate, right?"`\
 ;ƒƒ‹ƒVƒtƒ@
 
 
@@ -21033,10 +21033,10 @@ ld r,ENJ_FumanA1,80
 ;ƒ‰õ
 
 ;@g’ƒ‚Ì‚è‚ğŠy‚µ‚İ‚È‚ª‚çAÄ‚«‚½‚ÄƒzƒbƒgƒP[ƒL‚Åƒp[ƒeƒB‚ğ‚µ‚æ‚¤B@
-` Let's make pancakes while we're enjoying the aroma of the tea.`\
+` I decided to make some pancakes while we're enjoying the aroma of the tea.`\
 
 ;@„‚¾‚Á‚ÄA‚±‚¤Œ©‚¦‚Ä‚à‚¨‹à‚Ì—Í‚¾‚¯‚Å‰ğŒˆ‚·‚é‚ñ‚¶‚á‚È‚¢‚Ì‚æAƒzƒbƒgƒP[ƒL‚­‚ç‚¢Ä‚¯‚é‚ñ‚¾‚©‚çB@cc‚ÆŒ¾‚Á‚ÄA‚Î‚µ‚­Ä‚«ã‚°‚Ä‚¢‚é^‚ÁÅ’†‚¾‚Á‚½‚Ì‚¾B\
-` But because I don't make them often, or, rather, I always just buy them premade, I might burn some of them.`@` ...Well, now we're surrounded by burning stench.`\
+` But because I don't make them often, or, rather, I always just buy them premade, I thought I might burn some of them.`@` ...Well, now we're surrounded by burning stench.`\
 
 
 bg Gdin_1a,0
@@ -22368,7 +22368,7 @@ bg Mkit_1b,0
 ld r,GAP_WaraiA2,80
 
 ;u‚¨‚©‚µ‚Èƒ^ƒCƒ~ƒ“ƒO‚Å—V‚Ñ‚É—ˆ‚¿‚á‚Á‚½‚©‚µ‚çB@–Z‚µ‚©‚Á‚½Hv@
-`"id I pick a bad time to come and play?`@` Are you busy??"`\
+`"Did I pick a bad time to come and play?`@` Are you busy??"`\
 ;ƒƒKƒ@ƒv
 
 
@@ -22736,7 +22736,7 @@ ld l,BUT_odorokiA3,23
 ld r,BEA_AseruA2,24
 
 ;u‚¤Acc‚¤‚Şc‚Áv@
-`"Ho..."`\
+`"Hoh..."`\
 ;ƒƒxƒAƒg
 
 
@@ -23065,7 +23065,7 @@ bg black,22
 ;!d800‚æ‚ë‚µ‚­\‚µã‚°•ò‚éA“¯m“ñ“™iÕcBv\
 `"Another thing, this wasn't decided by the union or anything, but traditionally, new recruits get to work thirty minutes early in order to clean all the desks and set out the tea.`@` Well, I suppose it is your first day, so don't feel too bad.`@` It's been nice talking to you, Cornelia."`\
 `"Oh, and one more thing, the union is throwing a welcome party for all the new recruits today at 6:00.`@` Will you come?`@` There's gonna be food there!"`\
-`"Á-`@/
+`"I-`@/
 !d800`I'm honored by your consideration, Second Class Minister..."`\
 
 bg Wsan_1c,22
@@ -23121,7 +23121,7 @@ print 22
 ;@¶ŠU‚ğ•ù‚°‚½‚¢E–±AˆÙ’[R–âŠ¯B@‚»‚ê‚Í‚Â‚Ü‚èA¶ŠU‚ğ–@Œê‚Å‰ß‚²‚·‚Æ‚¢‚¤‚±‚ÆB@
 ` court language was the largest symbol of all of those hopes.`\
 
-` The Inquisitor Section was the duty she wanted to devote the entirety of her life to.`@` That meant equal devotion to using court language.`
+` The Inquisitor Section was the duty she wanted to devote the entirety of her life to.`@` That meant equal devotion to using court language.`\
 
 ;@‚¾‚©‚çA”Ş—‚Í–@Œê‚É­‚µ‚Å‚àŠµ‚ê‚æ‚¤‚ÆA•n‚µ‚©‚Á‚½—¼e‚É‰½“x‚à‘i‚¦A@‚¨¬Œ­‚¢‚Í‚¢‚ç‚È‚¢‚©‚çA–@Œê‰ï˜b‹³º‚ÉT‚P‰ñA’Ê‚í‚¹‚Ä‚à‚ç‚Á‚Ä‚¢‚½B\
 ` In order to use it properly, she had begged her poor parents,`@` insisting she "didn't need an allowance", to let her attend a weekly court language class.`\
@@ -23271,7 +23271,7 @@ quakex 9,700
 wait 1000
 
 ;@\‚Ì¶‚ÌˆÙ–¼‚ğ‚Âƒhƒ‰ƒm[ƒ‹E‚`EƒmƒbƒNƒX‚à—L–¼‚¾B\
-` That's where Dlanor A. Knox, famous for her ten wedges, resided.`\
+` That's where Dlanor A. KNOX, famous for her ten wedges, resided.`\
 bg black,2
 bg cit_1a,5
 
@@ -23514,7 +23514,7 @@ bg "bmp\background\city\off_1a.bmp",22
 ` Her predecessor had her left a list of telephone numbers under her deskmat, most of them for local delivery shops.`\
 
 ;@ŠOü‚Í‚O”­M‚©‚çB@/
-` ÎCornelia dialed 0 to switch to the external line, and then...`@/
+` Cornelia dialed 0 to switch to the external line, and then...`@/
 
 se1 53
 
@@ -23620,7 +23620,7 @@ bg "bmp\background\sbook\ayukawa.bmp",22
 `"S-Sir,`@` know that the orders I have humbly gathered are as follows.`@` One large order of duck.`@` One regular.`@` One Kanto-style tempura.`@` One katsudon."`\
 
 ;u‚ñ[HI@@“V‚Õ‚ç‚Í‚¨‚»‚Î‚Æ‚¤‚Ç‚ñA‚Ç‚Á‚¿‚¡HI@@‚ ‚ÆƒJƒc˜¥‚Í‚ËAŠÖ“Œ•—‚Ì—‘‚Æ‚¶‚ÆAŠÖ¼•—‚Ìƒ\[ƒX‚Æ‚Q‚Â‚ ‚é‚ÌƒEƒ`‚ÍBv@
-`"Eh?!`@` So, do you want tempura with udon or soba?!`@` And are you sure you want the Kanto style?`@` That's the one with the egg.`@` We also do Kansa-style, which comes with the sauce!"`\
+`"Eh?!`@` So, do you want tempura with udon or soba?!`@` And are you sure you want the Kanto style?`@` That's the one with the egg.`@` We also do Kansai-style, which comes with the sauce!"`\
 
 ;u‚ÂA‹Ş‚ñ‚Å‚¨q‚Ë\‚µã‚°‚éB@Ä“xAÚ×‚ğà–¾‚µ‹‹‚¦cBv\
 `"I beg your patience.`@` Please, allow me to collect the particulars once more..."`\
@@ -23696,7 +23696,7 @@ bgm1 9
 bg black,22
 
 ;@”Ş—‚ÍŸ‘æ‚ÉA©‚ç‚Ì–²‚Ö‚Ìî”M‚ğ—h‚ç‚¬n‚ß‚Ä‚¢‚½ccB@
-` ÏHer plan to advance towards her dream had been thrown off course...`\
+` Her plan to advance towards her dream had been thrown off course...`\
 
 ;@¡‚Ì”Ş—‚ÍAƒgƒCƒŒ‚Ì‹¾‚É‰f‚éA”e‹C‚ğ¸‚Á‚½©•ª‚ğŒ©‚Ä‚ÍA@—­‘§‚ğ˜R‚ç‚·‚æ‚¤‚É‚È‚Á‚Ä‚¢‚éccB\
 ` Looking at her face in the bathroom mirror,`@` she sighed over the loss of ambition she saw reflected there...`\
@@ -23968,7 +23968,7 @@ bg "bmp\background\sbook\Ke2.jpg",22
 ` She pointed at a notice attached to the bulletin board in the hallway.`\
 
 ;@‚»‚ê‚ÍAl–•”‚ÌŒf¦‚µ‚½Aƒvƒƒ|[ƒUƒ‹ƒvƒƒWƒFƒNƒg‚Ì•åW’m‚¾‚Á‚½B\
-` It stated that the human resources department was taking applications for a proposal project.`\
+` It stated that the human resources department was accepting project applications.`\
 
 ;@‚±‚ê‚ÍA‚â‚é‹C‚ ‚éEˆõ‚©‚ç©”­“I‚ÉƒvƒƒWƒFƒNƒg‚ğ’ñˆÄ‚³‚¹‚ÄŒö•å‚µA@—DG‚È’ñˆÄÒ‚É‚ÍA‚»‚ê‚ğÀÛ‚ÉÀs‚·‚él–“I”z—¶‚ª—^‚¦‚ç‚ê‚é‚Æ‚¢‚¤‚à‚Ì‚¾B@
 ` It was a request for motivated staff members to come up with voluntary public projects,`@` and the department would consider outstanding proposals for actual implementation.`\
@@ -24230,7 +24230,7 @@ bg "bmp\background\sbook\Ka4.jpg",25
 
 
 ;@‚Æ‚È‚ê‚ÎA‚»‚Ìsˆ×‚Ì‰·°‚Å‚ ‚é“DŒsˆ×‚ğæ‚è’÷‚Ü‚ê‚Î‚¢‚¢B\
-` Therefore, it is better to crack down on the source of the problem ? intoxication.`\
+` Therefore, it is better to crack down on the source of the problem -- intoxication.`\
 
 bg "bmp\background\sbook\Ka3.jpg",0
 
@@ -24276,7 +24276,7 @@ ld r,COR_OdorokiA1,0
 mcbg 22
 
 ;u‰ä‚çEˆõ‚ª–Í”Í‚ğ¦‚·‚±‚Æ‚ğŒö¦‚µ–Í”Í‚ğ¦‚³‚Ë‚ÎAlS‚É“Í‚­‚±‚Æ‚Í‚È‚¢‚Æ’m‚è‹‹‚¦B@‚æ‚Á‚ÄA“–ƒvƒƒWƒFƒNƒg‚É‚æ‚èA–{“ú‚©‚çƒnƒƒEƒBƒ“ŠúŠÔI—¹‚Ü‚ÅA@“–ŒW‚Ìˆùğ‚Æ‹i‰Œ‚ÌˆêØ‚ğ‹Ö~‚·‚é‚à‚Ì‚Æ’m‚è‹‹‚¦‚ÁBv\
-`"We cannot expect to sway people's hearts towards exemplary behaviour if we, members of the staff, do not first lead by that very example.`@` Therefore, in accordance with this project, know that drinking alcohol and smoking tobacco has been heretofore prohibited for the staff of this department until the end of the Halloween period."`\
+`"We cannot expect to sway people's hearts towards exemplary behaviour if we, members of the staff, do not first lead by that very example.`\` Therefore, in accordance with this project, know that drinking alcohol and smoking tobacco has been heretofore prohibited for the staff of this department until the end of the Halloween period."`\
 
 bg "bmp\background\sbook\Ke6.jpg",22
 
@@ -24462,7 +24462,7 @@ bg "bmp\background\sbook\Ke_s3.jpg",22
 bg "bmp\background\sbook\Ke_s2.jpg",24
 
 ;@‚»‚µ‚ÄA“Á‚É\‚µo‚½‚í‚¯‚Å‚Í‚È‚¢‚ªA@ccc‚à‚¤„‚Ì–¼‘O‚É“ñd–Tü‚ª“ü‚ê‚Ä‚ ‚èA©•ª‚Ğ‚Æ‚è‚ªŒ‡Èˆµ‚¢‚É‚È‚Á‚Ä‚¢‚½B\
-` nd although I hadn't explicitly said anything...`@` my name had already been marked on the party attendance list as the sole absentee.`\
+` And although I hadn't explicitly said anything...`@` my name had already been marked on the party attendance list as the sole absentee.`\
 
 ;@«‘Ş‚ğ\‚µo‚éèŠÔ‚ªÈ‚¯‚ÄA/
 ` It did save me the effort of turning the invitation down myself. `@/
@@ -24653,7 +24653,7 @@ bg cit_2a,2
 
 
 ;@‚±‚¤‚µ‚ÄŒûŒê‚Å˜b‚³‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚±‚Æ‚ªA/
-` Speaking colloquially vent against my beliefs, and saddened me.`\
+` Speaking colloquially went against my beliefs, and saddened me.`\
 
 
 bg "bmp\background\sbook\cit_1N.bmp",2
