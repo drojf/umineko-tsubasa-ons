@@ -11526,9 +11526,9 @@ ld r,MAR_WaraiA1,80
 `"Uu!`@` Maria made a Thanksgiving Day present at school!! `@/
 
 ;@‚Ù‚ç[A‚±‚ê‚È‚ÌA/
-`Ñìîòğèòå, âîò, `/
+`Here, look, `/
 ;!d900‚¤[Iv\
-!d900`ó-ó!"`\
+!d900`uu!"`\
 ;ƒ^—¢˜±
 
 ld l,BUT_WaraiA1,23
@@ -11696,7 +11696,7 @@ ld c,JES_WaraiA1,80
 ld l,GEO_KomaruA2,23
 
 ;uƒvAƒvƒŒƒ[ƒ“ƒg‚Í’l’i‚¶‚á‚È‚¢‚æB@cc‚±‚ê‚Í‚Q‚O–œ‚¿‚å‚Á‚Æ‚­‚ç‚¢‚Ì‚©‚ÈBv\
-`"P-Presents aren't about the cost.`@` ...I guess this was about 200,000 yen ($2000)." `\
+`"P-Presents aren't about the cost.`@` ...I guess this was about 200,000 yen ($$2000)." `\
 ;ƒ÷¡
 
 ld r,BUT_OdorokiA2,0
@@ -11782,7 +11782,7 @@ ld r,MAR_NiyariA2,24
 
 ld l,JES_TohohoA1,23
 ;u–‚–@Hv\
-`"Ìàãèÿ?" `\
+`"Magic?" `\
 ;ƒéu
 
 ld r,MAR_WaraiA1,80
@@ -11794,13 +11794,13 @@ ld r,MAR_WaraiA1,80
 ld c,GEO_HohoemiA1,24
 
 ;u‚»‚¤‚¾‚ËB@‘¡‚é•¨‚Ì’l’i‚ÍŠÖŒW‚È‚¢‚ñ‚¾‚æB@‘Šè‚ğv‚Á‚ÄA‰½‚ğ‘¡‚Á‚½‚çŠì‚Ô‚©l‚¦A@©•ª‚Ì‘«‚Å‚»‚ê‚ğ’T‚µA•ï‚ñ‚Å‚¿‹A‚èAŠ´Ó‚ÌŒ¾—t‚Æ‹¤‚Éè“n‚·A‚»‚Ì‰ß’öB@‚»‚ê‚ªƒvƒŒƒ[ƒ“ƒg‚Æ‚¢‚¤Œ`‚É‚È‚Á‚ÄŒ‹À‚µ‚ÄA‘Šè‚É“`‚í‚éB@cc–‚–@‚ÆŒÄ‚ñ‚Å‚à‚¢‚¢‚à‚Ì‚¾‚Æv‚¤‚æBv\
-`"That's true.`@` The price of the gift doesn't matter.`@` It's about thinking of what would make that person happy,`@` going to find it yourself, wrapping it up, and giving it to them with words of thanks.`@` That whole process takes the form of a present, so it can be handed to another person.`@` ...I think it makes sense to call that magic." `\
+`"That's true.`@` The price of the gift doesn't matter.`\` It's about thinking of what would make that person happy,`@` going to find it yourself, wrapping it up, and giving it to them with words of gratitude.`@` That whole process takes the form of a present, so it can be handed to another person.`@` ...I think it makes sense to call that magic." `\
 ;ƒ÷¡
 
 ld r,MAR_WaraiA2,80
 
 ;u–{“–‚É–‚–@‚È‚ñ‚¾‚æcI@@‚±‚Ì–‚–@‚ğg‚¤‚Æ‚ËH@@ƒ}ƒ}‚ª•K‚¸Œ³‹C‚É‚È‚Á‚ÄA‚É‚±‚É‚±‚É‚È‚é‚ÌI@@‚»‚µ‚Ä‰ïĞ‚Ìd–‚à‘‚­I‚í‚é‚æ‚¤‚É‚È‚Á‚ÄA–ˆ“ú‚¨‰Æ‚É‹A‚Á‚Ä‚«‚ÄAˆê‚É‚¨—[”Ñ‚ğH‚×‚Ä‚­‚ê‚é‚æ‚¤‚É‚È‚é‚ÌI@@–{“–‚È‚ñ‚¾‚æHI@@‚·‚²‚¢Œø‚«–Ú‚È‚ÌI@‚¤[Iv\
-`"Yes, it's real magic!..`@` Do you know what will happen when I use this magic?`@`  Mama will definitely be happy and smile!`@` And she'll finish her work early, come home every day, and we'll eat dinner together!`@` It's the turth!`@` It'll certainly work! Uu!" `\
+`"Yes, it's real magic!..`@` Do you know what will happen when I use this magic?`@`  Mama will definitely be happy and smile!`@` And she'll finish her work early, come home every day, and we'll eat dinner together!`@` It's the truth!`@` It'll certainly work! Uu!" `\
 ;ƒ^—¢˜±
 
 cl a,24
@@ -11982,7 +11982,7 @@ ld r,JES_WaraiA1,24
 ld l,MAR_WAraiA2,23
 
 ;u‘ ‰P”Œ•ƒ‚³‚ñ‚É‚ÍA‚Ç‚ñ‚È‚Ì‚ª—‡‚¤‚©‚È‚ŸB@‚¤[‚¤[I@^—¢˜±‚Í‚±‚Ìƒsƒ“ƒN‚ÌƒJƒo‚³‚ñ‚Ì‚ª‚¢‚¢[Iv/
-`"Which one would look best on Uncle Krauss?`@` Uu uu! Maria likes this pink one!" `/
+`"Which one would look best on Uncle Krauss?`@` Uu-uu! Maria likes this pink one!" `/
 se1 48
 quakey 1,100
 
@@ -12869,7 +12869,7 @@ se1 1010
 ` When he opened the card, he found a short message written in Kyrie's methodical handwriting.`\
 
 ;g—¯•¤•v‚³‚ñ‚ÖA“ú ‚Ì‹C‚¿‚ğ‚ß‚ÄB@–¶]•ílh\
-` "To Rudolf, with our everyday feelings.`@` Kyrie & Battler"`\
+` "To Rudolf, with our everyday feelings. From Kyrie & Battler."`\
 
 ld c,RUD_WaraiA1,80
 
@@ -12911,7 +12911,7 @@ bgm1 3
 se2 4
 
 ;–¾“ú‰ï‚¦‚é‚Á‚ÄŒ¾‚Á‚½‚ëH@@‚±‚±‚Ö‚Í‚ ‚Ü‚è“d˜b‚·‚é‚È‚Á‚ÄŒ¾‚Á‚½‚ºB@cc‚Í‚Á‚Í‚ÍA”n­‚¾‚ÈA¡–é‚Í‚æ‚­Q‚Ä‚¨‚¯‚Á‚ÄB@–¾“ú‚Ì–é‚ÍQ‚ç‚ê‚é‚Æ‚ÍŒÀ‚ç‚Ë‚¥‚¼Hv\
-`I said I'd see you tomorrow, didn't I?`@` I told you not to call me here too much.`@` ...Hahaha, you idiot, I'm telling you to sleep well tonight.`@` You won't be sleeping much tomorrow night, okay?~" `\
+`I said I'd see you tomorrow, didn't I?`\` I told you not to call me here too much.`@` ...Hahaha, you idiot, I'm telling you to sleep well tonight.`@` You won't be sleeping much tomorrow night, okay?~" `\
 ;ƒ—¯•¤•v
 
 bg "bmp\background\sbook\ke_s1.jpg",0
@@ -12925,7 +12925,7 @@ ld r,RUD_AkuwaraiA1,22
 ;@‚à‚Í‚âƒ‰ƒCƒtƒ[ƒN‚ÆŒ¾‚Á‚Ä‚à‚¢‚¢B@ƒrƒWƒlƒX‚ÅA”ül‚Ìƒl[ƒ`ƒƒƒ“‚ğŒ©‚Â‚¯‚é‚ÆAŒûà‚©‚¸‚É‚Í‚¢‚ç‚ê‚È‚¢‚Ì‚¾B\
 ` You could call it his life's work at this point.`@` He couldn't exist without seeking out beautiful ladies during his business and seducing them. `\
 ;@¡“ú‚Ì“ú’ö‚ª•Ğ•t‚¢‚ÄŒ¨‚Ì‰×‚à‰º‚èA[–é‚Æ‚¢‚¤‚±‚Æ‚Å–­‚Èƒeƒ“ƒVƒ‡ƒ“‚à‚‚¢‚Ì‚©A@—¯•¤•v‚ÍA‘ål‚È‰ï˜b‚ğŠy‚µ‚İ‚È‚ª‚çA‚»‚Ìó˜bŠí‚ğŒ¨‚Å•ø‚¦AƒvƒŒƒ[ƒ“ƒg‚Ì«•ï‚ğ‰ğ‚­B\
-` After finishing the work for the day, he lets the tension out,`@`holds the phone with his shoulder and enjoys some adult conversation.`\
+` After finishing the work for the day, he lets the tension out,`@` holds the phone with his shoulder and enjoys some adult conversation.`\
 ;@•‚‹C‚Í‚µ‚È‚ª‚ç‚à‰Æ‘°ƒT[ƒrƒX‚Í–Y‚ê‚È‚¢B@‚»‚ê‚ğ—¼—§‚Å‚«‚Ä‚±‚»A^‚Ì•‚‹C“¹‚Æ”Ş‚Íl‚¦‚Ä‚¢‚½B\
 ` Even when cheating, he didn't forget his responsibility to his family.`@` He wondered if being able to balance those two things was the true way of cheating.`\
 bg white,22
@@ -13057,7 +13057,7 @@ quakey 2,100
 
 `Ahahahahahaha!`@` Uh...`/
 !d600` uh, I'm sorry?!`@` Um, well, `/
-!d800` You see, actually, some urgent business came up for tomorrow?!`@` I, `/
+!d800` you see, actually, some urgent business came up for tomorrow?!`@` I, `/
 !d800` I'll get in touch with you later?`/
 !d600` Oh, uh, c-could you not contact me for a while?`@` Y-`/
 !d500`you see, `/
@@ -13169,7 +13169,7 @@ se2 72
 quakey 3,600
 
 ;@@„Œê‚·‚é‰É‚ª‚ ‚Á‚½‚çAƒtƒƒ“ƒgƒXƒŠƒbƒg‚Ì”’ƒƒ“ƒs‚Ìƒ‰ƒt‚ğã‚°‚Ä‚¿‚å‚¤‚¾‚¢II@@‹¹‚ÌƒŠƒ{ƒ“‚à–Y‚ê‚È‚¢‚Å‚æƒbIHv
-@`If you have time to gossip, show me the rough design of that front slit white dres!`@` And don't forget about the purple ribbon on the chest!" `
+@`If you have time to gossip, show me the rough design of that front slit white dress!`@` And don't forget about the purple ribbon on the chest!" `
 !sd\
 ;ƒ˜OÀ
 
@@ -13498,7 +13498,7 @@ ld l,BEA_AkuwaraiA2,23
 ld r,WAL_WaraiA2,80
 
 ;u‚ ‚è‚ª‚Æ‚¤AƒxƒAƒgB@cc‚±‚Ì“h‚èŠGA‚ä‚Á‚­‚è‚ÆŠy‚µ‚Ş‚±‚Æ‚É‚µ‚Ü‚·‚ËB@cccc‚ñHv\
-`"Thank you, Beato.`@` ...I will enjoy working in this coloring book.`@` ...Hm?" `\
+`"Thank you, Beato.`@` ...I will enjoy working on this coloring book.`@` ...Hm?" `\
 ;ƒƒƒ‹ƒMƒŠƒA
 
 bg book1,22
@@ -27558,7 +27558,7 @@ ld l,LAM_MajimeA1,80
 
 
 ;uƒxƒ‹ƒ“‚Íâ‘Î—ˆ‚é‚íB@â‘Î‚Ì–‚—‚Æ‚µ‚Ä–ñ‘©‚·‚éB@/
-`"No, Bern will certainly, definitely come.`@` I stake my title as the Witch of Certainty on it. `@/
+`"No, Bern will certainly, definitely come.`@` I stake my title as the Witch of Certainty on it. `\
 
 
 ;‚»‚ê‚ÉAã©‚È‚ñ‚Ä‹¯‚¦‚é‚í‚¯‚ª‚È‚¢‚íB@ˆÖq‚Æ‚©ˆù‚İ•¨‚Æ‚©A‚»‚ê‚É‚¨‚â‚Â‚Æ‚©B@X‚Ì‚¨’ƒ‰ï‚ğŠy‚µ‚ñ‚Å‚à‚ç‚¦‚é‚æ‚¤‚ÉA‚½‚­‚³‚ñ‚ÌïŒü‚ÅŒä‚Ä¬‚µ‚µ‚Ä‚é‚ñ‚¾‚à‚ÌB@‚«‚Á‚Æƒxƒ‹ƒ“‚àAŠy‚µ‚İ‚È‚ª‚çA‚±‚±‚Ü‚Å‚â‚Á‚Ä—ˆ‚é‚Í‚¸‚æBv\
