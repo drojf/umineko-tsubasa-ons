@@ -18,13 +18,13 @@ Current progress:
 |5|Yes|Yes|v0.5.0|
 |6|Yes|Yes|v0.34.0|
 |7|Yes|Yes|v0.50.0|
-|8|Yes|No|Not yet released|
-|9|Yes|No|Not yet released|
-|10|Yes|No|Not yet released|
-|11|Yes|No|Not yet released|
-|12|Yes|No|Not yet released|
-|13|Yes|No|Not yet released|
-|14|Yes|No|Not yet released|
+|8|Yes|Yes|v0.98.0|
+|9|Yes|Yes|v0.98.0|
+|10|Yes|Yes|v0.98.0|
+|11|Yes|Yes|v0.98.0|
+|12|Yes|Yes|v0.98.0|
+|13|Yes|Yes|v0.98.0|
+|14|Yes|Yes|v0.98.0|
 |15|In progress|No|Not yet released|
 |Postscript|No|No|Not yet released|
 
