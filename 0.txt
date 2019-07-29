@@ -4480,29 +4480,29 @@ bg black,2
 ;!d700ИјЙњБA/
 ;!d900ТбРЂФ\В≈М©ВљЦЏВЊВѓВћБAЛVШљХЇБA/
 ;!d1000ВаВµВ≠ВЌВ®РlМ`В…ЙяВђВ»ВҐВ∆ИµВЂЙЇВлВ≥ВкВљБB/
-` —естЄр сиест, впервые созданных дл€ императорской гвардии, превзойд€ первоначальную идею о создании только одного солдата, и к тому же на новой системе,`@` заметил старый правительственный чиновник и его последователи, которые не могли пон€ть общий смысл системы духовных частиц.`\
-!s0` ќни посчитали подобный караул непригодным дл€ его величества корол€ дракона, `/
-!d700`примитивным, `/
-!d900`€вно неэффективным, `/
-!d1000`...и дискредитировали их как простых кукол.`/
+` The Chiester sisters, being the first Imperial Guards to go against the conventional idea of being implemented as single stand-alone units,`@` were noticed by conservative government officials who were still failing to grasp the idea of the Spirit Particle Combat system.`\
+!s0` They went on to immediately declare the Chiester series as cheap, `/
+!d700`primitive, `/
+!d900`obviously ineffective, `/
+!d1000`...and even went so far as to insultingly refer to them as "the dolls".`/
 !sd\
 
 bg cha_R2d,25
 
 ;Б@ВµВ©ВµБAРкЦеВћВЁВ…УЅЙїВµВљМ¬БXВћРЁМvВ…ВжВиБA@ГXГyГVГГГКГXГgВрТбГRГXГgВ≈РґВЁПoВЈВ±В∆В™ПoЧИБAРvСђВ»Й^ЧpВ∆УWКJВрОјМїБB\
-` “ем не менее, с проектом, в котором каждый разрабатываетс€ ради определЄнной цели,`@` можно создать подразделени€ без особых затрат и добитьс€ быстрого развити€.`\
+` However, the heavily-specialised moduar designs allowed for a low manufacturing cost, simplified further development as well as increased the speed of deployment.`\
 
 ;Б@ФCЦ±В…НЗВнВєВƒВїВкВЉВкВћФ\ЧЌВ…УЅЙїВµВљХЇОmВрХ“РђВЈВйВ±В∆В…ВжВиБA@СљОнСљЧlВ»ФCЦ±В…СќЙЮВ≈ВЂВйВ±В∆ВрОЯСжВ…ТmВзВµВяВљБB\
-` Ѕлагодар€ объединению нескольких солдат с самыми разными способност€ми`@` всем постепенно стало €сно, что так можно выполнить абсолютно любую миссию.`\
+` It eventually became obvious to everyone that choosing specialised units according to their respective abilities`@` would allow to deal with any mission imaginable.`\
 
 bg black,22
 bg Mhal_3a,26
 
 ;Б@М¬БXВћФ\ЧЌВЌБAЧEСsВ≈ПdХРСХВ»СЉВћЛяЙqСаВћХЇОmВ…ВЌЙУВ≠ЛyВќВ»ВҐБB@
-` »ндивидуальный потенциал и близко не стоит с храброй, т€желовооружЄнной императорской гвардией.`\
+` The individual abilities of each Chiester unit was a far cry from those of the other heavily-armed Imperial Guards.`\
 
 ;Б@ВµВ©ВµБAРкЦеРЂВ…УЅЙїВµВљХЇОmВ≈Х“РђВµВљФёПЧВзВћХ™СаВЌБAРVОЮСгВћВ†ВзВдВйРнУђВ≈РнЙ ВрЛУВ∞ВƒВҐВЅВљБB\
-`  оманда —иест, состо€ща€ из высококвалифицированных специалистов, добивалась всЄ лучших и лучших результатов в каждом сражении новой эры.`\
+` However, this squad of sisters formed from specialised soldiers, each with their own area of expertise, kept improving their results with each fight they participated in.`\
 
 bg black,2
 fede 0,3000
@@ -4515,7 +4515,7 @@ ld r,S41_DefA1,26
 ld c,S00_DefA1,26
 
 ;Б@ГVГGГXГ^ОoЦЕЛяЙqСаВћОoЦЕВ∆ВҐВ§ТPМкВЌБA@В№В≥В…ФёПЧВзВ™ШAС—ВµВљРнУђПWТcВ≈В†ВйВ±В∆ВрЧYХўВ…МкВЅВƒВҐВйВћВ≈В†ВйБcБcБB\
-` —иест императорской гвардии стали называть сЄстрами,`@` что идеально подчЄркивало боевую солидарность группы...`\
+` The name "Sisters" was given to the Chiester units`@` due to their powerful intercommunication capabilities.`\
 
 mcl a,0
 
@@ -4525,53 +4525,53 @@ bg Hill_1a,2
 ld r,S41_DefA1,24
 
 ;Б@ГVГGГXГ^ВSВPВOВЌБAС_МВУЅЙїВ∆ВµВƒРґВЁПoВ≥ВкВљБB\
-` —иеста 410 была создана как снайпер.`\
+` Chiester 410 was designed as a sniper.`\
 
 ;Б@ФёПЧВ…ВЌЧDПGВ»ОЋМВГМБ[Г_Б[В™Ч^В¶ВзВкВƒВҐВйВ™БA@УЅВ…БAС™ТиМЛЙ ВрГAГiГНГOУIВ…У«ВЁОжВйМ¬РЂУIВ»Г`ГЕБ[ГУГiГbГvВ™НsВ»ВнВкВƒВҐВљБB@
-` ¬ дополнение к исключительному диапазону стрельбы, присутствует индивидуальна€ калибровка чтени€ данных цели. `\
+` Aside from having a phenomenal firing range, she was equipped with a special analogue radar. `\
 
 ;Б@ЛяСгВћЧмОqРнВЌСSВƒБAгkЦІВ»С™ТиМЛЙ ВрМ≥В…НsВ»ВнВкВйБB@Ц{ЧИВ»ВзВќВїВ±В…БAГAГiГНГOУIВ»НlВ¶В™СґНЁВЈВйЧ]ТnВЌВ»ВҐБB\
-` ƒуховные частицы дают абсолютно точные данные.`@` ѕо правде говор€, аналогов быть не может.`\
+` The Spirit Particles themselves provide precise information.`@` With that in mind, their data should obviously be read digitally.`\
 
 ld r,S41_MajimeA1,80
 
 ;Б@ВµВ©ВµБAРнПкВЌГfГWГ^ГЛВ≈В»В≠БAПнВ…ГAГiГНГOВ≈В†ВйБB@ПнВ…БAВOВ∆ВPИ»КOВћБAСzТиВµВ»В©ВЅВљЙљВ©В™ХіВкНЮВёЙ¬Ф\РЂВ™В†ВйБB@ГVГGГXГ^ВSВPВOВЌБAВїВћГOГМБ[В»КіКoВрКіВґОжВйВ±В∆В…БAУЅВ…ПGВ≈ВйВжВ§В…РЁМvВ≥ВкВƒВҐВљООНмМ^В≈В†ВЅВљБB\
-` ќднако поле бо€ - это не только расчЄты.`@` ¬сегда может вмешатьс€ нечто иное, чем 0 и 1.`@` —иеста 410 была предназначена дл€ улавливани€ этой самой серой зоны.`\
+` However, the battlefield itself is analogue, not digital.`@` The possibility for unexpected circumstances outside of pure ones and zeroes did exist.`@` Chiester 410 was designed specifically to excel in that gray area.`\
 
 mono 1
 bg Hill_1b,0
 ld c,S41_OdorokiA1,2
 
 ;Б@УьСаПЙКъВћМPЧыВ≈ВЌБAС_МВОиВ∆ВµВƒВЌЦ}НЋИ»ЙЇВ≈БA@ВїВћУ∆УЅВ»РЂКiВаВ†ВЅВƒБAВ©В»ВиТбВҐХ]ЙњВрОуВѓВƒВҐВљБB@
-` Ќа первых учебных зан€ти€х новобранцев,`@` отчасти из-за своей личности, такой посредственный снайпер получил довольно низкую оценку.`\
+` Early on she was ranked quite low.`@` During practice her skills as a sniper were mediocre at best and her peculiar personality didn't do her any favors either.`\
 
 ;Б@Ц≥Ш_БAРнПкВ…В®ВҐВƒВаБAЧFМRВ©ВзВћГКГУГNПоХсВрР≥КmВ…ЧЪНsВєВЄУ∆О©ВћНlВ¶В≈ЙрОяВµБAЦљЧяВ…П]ВнВ»ВҐВЌВЃВкО“В∆ВҐВ§Х]ЙњВрЧ^В¶ВзВкВƒВҐВљБB\
-` “ех, кто в бою не полагаетс€ на информацию от св€зи с товарищами по команде, а сам решает, что делать, считают изго€ми, не выполн€ющими приказы.`\
+` She made her decisions based not so much on information provided by friendly troops as on her own ideas, which led to her being thought of as a rogue who refused to follow orders.`\
 
 ld l,S45_DefA1,23
 ld c,S41_DefA1,80
 
 ;Б@ВµВ©ВµБAС™Ч УЅЙїВ≈В†ВйГVГGГXГ^ВSВTВ∆ГyГAВ…В»ВЅВƒВ©ВзБAВSВPВOВЌМ©ВйМ©ВйВ∆У™КpВрМїВµОnВяВйБB\
-` ќднако, оказавшись в паре с 45, котора€ специализировалась на измерени€х, 410 постепенно начала выдел€тьс€.`\
+` However, after she was paired with Chiester 45, who specialised in firing calculations, 410 started to rapidly improve.`\
 
 bg black,2
 mono 0
 bg homing7,2
 
 ;Б@ВїВћЧВФNВћШшЩSНССгЧЭРнСИВ≈БAЦмРнГXГiГCГpБ[В∆ВµВƒМАУIВ…КJЙ‘БB@
-` ¬ следующем году во врем€ войны марионеточных стран она резко стала известна на поле бо€ как профессиональный снайпер. `\
+` The following year, she participated in a war between several puppet nations, and dramatically blossomed into an excellent field sniper. `\
 
 ;Б@ТЕФCВ©ВзВнВЄВ©ВPПTК‘В≈БA@ОOП\ОlОЃО©УЃЙїЛРРlТЖСаВрЛЧЧ£ВPВWВOВOГБГЛГeВ©ВзСќСХНbС_МВЛ|В≈БAТЖРХСеФjВQЛRБAО©Ч•ХаНsХsЙ¬ВPЛRВ∆ВЈВйСsРвВ»РнЙ ВрЛУВ∞ВйБB\
-` —пуст€ неделю после повышени€`@` с бронебойным луком она добилась поразительных результатов, нанес€ серьЄзный урон двум подразделени€м с рассто€ни€ 1800 мерут.`\
+` In just a week after taking up her post`@` she had achieved a grand victory against the 34th Automated Giant Squadron, by using an armor-piercing sniping bow from a range of 1800 merute.`@` She has caused fatal damage to two units and disabled one unit's walking capacity.`\
 
 mono 1
 print 2
 
 ;Б@ВїВћМгВаМАУIРнЙ ВрЛУВ∞С±ВѓБAВPФNМгВ…ВЌПгЛЙСIФ≤С_МВОиВ…ПЄРiБB@ПЄРiОЃУTВ≈НƒЙпВµВљМ≥Л≥КѓВЌБAФёПЧВћКзВ™В†ВйВ±В∆В…ЙљВжВиВаЛ¬УVВµВљВ∆ЙсМЏВµВƒВҐВйБB\
-` ”спехи были и позже, и спуст€ год еЄ назначили на должность старшего снайпера.`@` Ќа церемонии повышени€ присутствовал еЄ бывший инструктор, поражЄнный больше всех остальных...`\
+` Her military achievements only kept increasing from that point on, and a year later she was promoted.`@` Her former teacher was present on the promotion ceremony with a face full of shock and surprise...`\
 
 ;Б@С_МВОиВћЦЉЧ_ВћПџТ•В∆МЊВнВкВйЙ©ЛаЛ|ВрОиВ…ВµВƒВ©ВзВЌБAВ≥ВзВ…ВїВћНЋФ\ВрКJЙ‘БB@ГVГGГXГ^ОoЦЕЛяЙqСаВћС_МВП\МЖВ…РФВ¶ВзВкВйЙhЧ_ВрБAТNВжВиВаСБВ≠ТBРђВµВљБcБcБB\
-` — золотым луком - символом чести стрелков - еЄ талант продолжал расти.`@` » всего этого она добилась гораздо быстрее, чем дес€ть лучших стрелков в императорской гвардии —естЄр сиест...`\
+` Thanks to the golden bow -- the symbol of snipers' honour -- her talents only grew further.`@` She acheived all of that much faster than even the most elite snipers of the Chiester Imperial Guards...`\
 
 bg black,0
 
@@ -4583,13 +4583,15 @@ ld r,S41_DefA1,22
 
 
 ;Б@БcБcВ∆ПСВ≠В∆БB@
-` ...ѕо крайней мере, так говор€т.`\
+` ...Or so they say, anyway.`\
 
 bgm1 21
 
 
 ;Б@ВSВTВћСfР∞ВзВµВҐГtГHГНБ[В™В†ВЅВљВ©ВзВ±ВїБAВSВPВOВћЛHЧLВ»НЋФ\В™КJЙ‘ВµВљВћВЊВлВ§В∆БAЙЈВ©В≠НlВ¶ВƒВµВ№В§ВаВћВЊБB\
-` Ѕыть может, 410 раскрыла в себе редкий талант благодар€ поддержке 45.`\
+` It's nice to think that 410's rare talent could bloom thanks to the excellent support provided by 45.`\
+
+` However, as I said this, giving the credit to both of them, 410 burst into laughter and told me the truth.`
 
 mono 0
 bg Mhal_3a,0
@@ -4603,19 +4605,19 @@ ld r,S41_AkuwaraiA2,80
 
 ;БuВSВTВ™БAХKОАВ±ВҐВƒГNГ\Р^Ц ЦЏВ…С™Ч ВµВљГfБ[Г^ВрБAЦ≥ОЛВµВƒВвВйВ∆БAВ†ВљВ”ВљНҐВиПoВЈВћВ™Ц ФТВ©ВЅВљВЊВѓВ…В•БфБv\
 ;БГГVГGГXГ^ВSВPВO
-`"»гнорировать данные, которые 45 рассчитывает с такой серьЄзностью, и смотреть на то, как она тр€сЄтс€, так весело, ньеЏ09834 "`\
+`"You know, it's so fun to just ignore the data that 45 has calculated so seriously and watch her huff and puff in anger, nyeh~!"`\
 
 ld l,S45_KomaruA1,80
 
 ;БuВSВPВOВЌВҐВ¬ВаВ–В«ВҐВсВ≈ВЈВЅБA/
-`"410 така€ жестока€! `/
+`"410 is a meaaanie! `/
 
 se1 48
 quakey 2,400
 
 ;@ОДВ™ВњВбВсВ∆УЦВљВйВжВ§В…БAВ™ВсВќВЅВƒС™Ч ВµВƒВйВћВ…БAСSСRЦ≥ОЛВµВљВиВ∆В©ВЈВйВсВ≈ВЈБAВ†ВсВ№ВиВ≈ВЈВЅБcБIБIБv\
 ;БГГVГGГXГ^ВSВT
-`я всегда слежу за тем, чтобы мои измерени€ точно были верными, а ты только продолжаешь мен€ игнорировать!"`\
+`I always work hard to give you the most precise calculations possible, and you just ignore them! Meanie!"`\
 
 se1 47
 
@@ -4623,42 +4625,42 @@ ld r,S41_AkuwaraiA1,80
 
 ;БuВSВTВћС™Ч ВЌМЛН\В®В©ВµВҐВ©ВзБAВїВкВ≠ВзВҐВ≈ВњВеВ§В«ВҐВҐВ…В•БBБv\
 ;БГГVГGГXГ^ВSВPВO
-`"“вои измерени€ часто такие странные, что ничего удивительного, нье."`\
+`"Your calculations are always so ridiculous that I'm better off ignoring them anyway, nyeh."`\
 
 ld l,S45_OdorokiA1,80
 
 ;БuМЛН\В»ВсВƒВ–В«ВҐВ≈ВЈВЅБAН≈ЛяВЌВўВ∆ВсВ«В»ВҐВ≈ВЈВЅБcБIБI@/
-`"„то значит Џ00171странныеЏ00187?!  ак жестоко! я уже не помню, когда мы в последний раз успешно выполн€ли миссию!`@/
+`"What do you mean, "ridiculous"?! How cruel! I don't even remember when our last succesful mission was!`@/
 
 ;Б@ВҐВЅВѕВҐУ{ВзВкВљВ©ВзУЅВ…ТНИ”ВµВƒВйВсВ≈ВЈВЅБIБIБv\
 ;БГГVГGГXГ^ВSВT
-` Ќас только и делают, что критикуют!"`\
+` Everyone just criticises us!"`\
 
 bg black,0
 ld l,S45_OdorokiA1,2
 
 ;Б@ГVГGГXГ^ВSВTВ…В¬ВҐВƒВаЛLВµВƒВ®В±В§БB\
-` ѕоговорим о —иесте 45.`\
+` Let's talk about Chiester 45 as well.`\
 
 ;Б@ВSВTВЌЧмОqРнВ∆УЅВ…С™ТиВ…УЅЙїВµВƒРґВЁПoВ≥ВкВљБB@
-` 45 была создана дл€ измерений духовных частиц. `\
+` 45 was specifically created for the purpose of Spirit Particle calculations during combat. `\
 
 ;Б@С™ТиВ∆ВЌЙsЧШВ©В¬ЧвНУВ»ВаВћВ≈В†ВиБAВOВ©ВPВ©ВрР≥КmВ…М©Л…ВяБAИкРЎВћГuГМВ»В≠ВїВкВрС™ТиВµХсНРВЈВйБB\
-` ѕоскольку измерени€ беспощадно точные, они колеблютс€ в пределах 0 и 1, и не допускаетс€ никаких ошибок.`\
+` Her calculations are meant to be ruthlessly exact, with not even a 1-bit margin for error.`\
 
 ld l,S45_DefA2,80
 
 ;Б@ВµВ©ВµБAВSВTВЌЧмОqРнИ»СOВћГtГHБ[Г}ГbГgВ≈КоЦ{РЁМvВ™В»В≥ВкВƒВ®ВиБAГfГWГ^ГЛУIВ»С™ТиВ…КЃСSВ…СќЙЮВ≈ВЂВƒВҐВ»ВҐБB\
-` ≈Є базова€ конструкци€ была создана на духовных частицах в старом формате, поэтому 45 может только принимать цифровые данные.`\
+` However, these digital measurements cannot be interpreted well by units designed to process analogue data.`\
 
 bg homing6R,22
 
 ;Б@М≥ЧИВћЛCОгВ≈Л≠ФЧКѕФOУIВ»РЂКiВаСКВ№ВЅВƒБAО©Х™ВћС™ТиМЛЙ В…О©РMВ™ОЭВƒВ»ВҐВ∆ВҐВ§БA@В†ВйИ”Ц°БAН≈ТбН≈ИЂВ»С™ТиИхВ…В»ВЅВƒВµВ№ВЅВљВћВ≈В†ВйБB\
-` »з-за своей робости и посто€нного страха угрозы она не была уверена в своих расчЄтах,`@` что сделало еЄ худшей измерительной машиной.`\
+` Furthermore, she was weak and easily intimidated, which led to her being unsure of her own results.`@` In a manner of speaking, this made her the worst measurer possible.`\
 
 
 ;Б@Ц≥Ш_БAМPЧыРђР—ВаЦFВµВ≠В»В≠БAУѓКъВљВњВ™С™ТиИхВ∆ВµВƒЛяЙqСаВћОзМмР_В∆В»ВЅВƒВҐВ≠ТЖБAВєВҐВЇВҐМгХыКƒОЛВµВ©ФCВ≥ВкВ»ВҐБAВ®Й„Х®ВћВжВ§В»ИµВҐВрОуВѓВƒВҐВљБB\
-` —амо собой разумеетс€, что еЄ коллеги, не получившие плохих результатов на тренировках и вступившие в божественную стражу императорской гвардии, относ€тс€ к тем, кому дорога разве что в арьергард, как к багажу.`\
+` Needless to say, her training record was poor as well, causing her peers in the Imperial Guard to entrust her with nothing but rear surveillance, treating her like baggage.`\
 
 bg black,2
 wait 1000
@@ -4675,13 +4677,13 @@ quakex 2,300
 
 
 ;Б@ВїВсВ»ВSВTВЊВ©ВзБAС_МВОиВћЛ»О“ИµВҐВЊВЅВљВSВPВOВћГyГAВ…СIВќВкВљВћВЌБA@В†ВйИ”Ц°БAЦпЙоО“УѓОmВрВ≠ВЅХtВѓВљБAКсВєПWВяВƒВЂВ»И”Ц°В™Л≠В©ВЅВљБB\
-` “о, что 45 поставили в пару с 410, которую считали бунтаркой, большинство истолковало как попытку избавитьс€ от двух наиболее проблематичных —иест.`\
+` Pairing 45 together with the rebellious 410 was interpreted by the majority as an attempt to get rid of the two most problematic Chiester sisters.`\
 
 ld c,S41_defA1,80
 ld r,S45_DefA1,80
 
 ;Б@ВµВ©ВµБAВ±ВћГyГAВ…В»ВЅВƒВ©ВзУсРlВЌСfР∞ВзВµВҐРнЙ ВрРґВЁПoВЈВжВ§В…В»ВйВћВЊВ©ВзБA@РҐВћТЖБAЙљВ™ЛNВ±ВйВ©ВнВ©ВзВ»ВҐВаВћВЊБB\
-` Ќикто не ожидал, что в паре эти двое добьютс€ небывалого успеха.`\
+` Nobody ever expected this pair to succeed so greatly.`\
 
 bg black,2
 fede 0,2000
@@ -4691,32 +4693,29 @@ bgm1 3
 bg Mhal_3a,6
 
 ;Б@ОДВЌБAВ»ВЇВ±ВћКсВєПWВяГyГAВ™Н≈НВВћС_МВГRГУГrВ…В»ВЅВљВћВ©БA@ТЈВҐВ±В∆ФYВЁБAН≈ЛяБAВжВ§ВвВ≠ИкВ¬ВћМ©ЙрВ…ТHВиТЕВҐВљБB@
-` —пуст€ долгое врем€`@` мне наконец открылс€ возможный ответ на вопрос, почему така€ странна€ пара стала лучшим снайперским дуэтом в перестрелках. `\
+` I struggled to understand this for the longest time.`@` However, I may have finally reached my answer as to why this strange duo became the amazing sniper combination that they are. `\
 
 ;Б@ВїВкВЌБAВSВPВOОеУ±ВћГyГAВЊВ©ВзВ∆ВҐВ§В±В∆В≈В†ВйБB\
-` ƒело в том, что 410 была в этой паре лидером.`\
+` I believe the reason to be that 410 is the leader of the pair.`\
 
 bg cha_R2d,25
 ;Б@ВSВPВOВЌЛ»О“В≈ЦљЧяЦ≥ОЛВ™УxБXОwУEВ≥ВкВƒВҐВљВљВяБA@ФёПЧВрЦ\СЦВ≥ВєВ»ВҐБAКƒОЛВрМУВЋВљНВИ≥УIВ»БAВ†ВйВҐВЌПгР»ВћХЇОmВ™ГyГAВ∆В≥ВкВйВ±В∆В™СљВ©ВЅВљБB@
-` »з-за еЄ упр€мства и частого неповиновени€ приказам`@` 410 много раз ставили в пару с теми, кто был опытнее или, по крайней мере, мог держать еЄ под присмотром.`\
+` Thanks to her stubborness and disobidience,`@` 410 was usually paired with more experienced soldiers who could monitor and control her.`\
 
 ;Б@ВSВPВOВаБAПгР»О“ВћЦљЧяВ≈ВЌБAПЯОиЛCВ№В№В∆ВҐВ§ВнВѓВ…ВЌНsВ©ВЄБAХsТеХЕВкВ»В™ВзВаЦљЧяВ…П]В§БB@ВїВ±В…О©ОеРЂВЌВ»ВҐБB\
-` ƒаже 410 не могла делать что вздумаетс€ и всЄ-таки следовала указани€м старшего по званию, хоть и дулась.`@` Ќикакой независимости.`\
+` Even if 410 followed orders only half-heartedly, she still could not disobey her superiors.`@` She couldn't act independently.`\
 
 bg black,22
 
 ;Б@ВµВ©ВµБAВSВTВЌВSВPВOВрКƒУ¬В≈ВЂВйВжВ§В»РЂХ™В≈ВЌВ»В©ВЅВљБB@ВїВћВљВяБAВSВPВOВЌПЙВяВƒО©ОеРЂВрУЊВƒБAНЋФ\ВрФ≠КцВ≈ВЂВйВжВ§В…В»ВЅВљВнВѓВ≈В†ВйБB\
-` ќднако 45 идеально подходила дл€ наблюдени€ за 410.`@` » так та впервые обрела независимость и начала демонстрировать свой талант.`\
-
-;Б@БcБcВаВЅВ∆ВаВ±ВкВрО©ОеРЂВ∆ВҐВ§ВћВЌФ@ЙљВ»ВаВћВ©БB\
-` ...¬ чЄм же заключалась эта независимость?`\
+` However, 45 could not keep 410 under her control.`@` This finally gave 410 the space she needed to demonstrate her true talent.`\
 
 ld r,S45_DefA2,0
 ld c,S41_DefA1,22
 
 
 ;Б@ОДВ…МЊВнВєВкВќБAВSВTВ™ЛCОгВ»ВћВрВҐВҐВ±В∆В…БAВSВPВOВ™НDВЂПЯОиВ…Ц\СЦВµВƒВҐВйВжВ§В…ВµВ©М©В¶В»ВҐВћВЊВ™БcБcБB@
-` ≈сли и высказывать мнение, робка€ 45 никогда не мешала 410 свободно резвитьс€...`\
+` Though, in my opinion, 45's timidness just allows 410 to act recklessly...`\
 
 
 textoff
@@ -4737,13 +4736,13 @@ next
 
 
 ;Б@ВЊВ©ВзОДВЌБAВSВPВOВћВїВћНDВЂПЯОиВ™БAС_МВВћНЋФ\ВрКJЙ‘В≥ВєВйМЃВ…В»ВЅВљВћВЊВлВ§В∆БAТЈВҐВ±В∆НlВ¶ВƒВЂВљБB\
-` ¬озможно, именно непослушание 410 стало ключом к успешному развитию еЄ снайперских навыков.`\
+` So, I thought that perhaps 410's recklessness is what allowed her capabilities as a sniper to blossom...`\
 
 mcl a,0
 bg black,22
 fede 0,2000
 ;Б@ВµВ©ВµБAВ«В§ВвВзИбВЅВљВзВµВҐБB\
-` Ќо на самом деле это не так.`\
+` However, that didn't seem to be the only reason.`\
 
 mono 1
 bg Hill_1a,6
@@ -4754,10 +4753,10 @@ ld r,S45_KomaruA1,24
 ld l,S41_AkuwaraiA1,23
 
 ;Б@ВSВPВOВЌБAВSВTВрВ©ВзВ©В§ВћВ™Ц ФТВ≠ВƒБA@ВнВіВ∆С™Ч ГfБ[Г^ВрЦ≥ОЛВµБAГgГКГbГLБ[В»ОЋМВВрНsВ»ВЅВƒВҐВйВзВµВҐВћВЊБB\
-` 410 нравилось дразнить 45 за намеренное игнорирование данных расчЄтов,`@` но всЄ равно она могла осуществл€ть довольно сложные атаки.`\
+` 410 liked to tease 45 by purposefully ignoring her measurements,`@` yet she could still pull off very difficult attacks.`\
 
 ;Б@БcБcЛ¬УVВЈВйВжВ§В»ОЋМВВрНsВ»ВҐБAВSВTВрЛЅВ©ВєВљВиНҐВзВєВљВиБB@ВSВPВOВЌВїВкВ…ЙxВрУЊВƒБAВ№ВЈВ№ВЈВ…ВїВкВрГGГXГJГМБ[ГgВ≥ВєВйВ±В∆В≈БAРнЙ В…МЛВ—ХtВѓВƒВҐВйВзВµВҐВћВ≈В†ВйБB\
-` ...“акие поразительные удары удивили и обеспокоили 45.`@` —амодовольство 410 также оказывало существенное вли€ние на исход бо€.`\
+` ...Such astounding shots surprised and shocked 45.`@` 410's self-satisfaction with this has further contributed to her military success.`\
 
 textoff
 
@@ -4768,18 +4767,18 @@ wait 1000
 ld r,S45_MajimeA1,80
 
 ;Б@ВSВTВЌО©Х™В™КяЛпВ…В≥ВкВƒВҐВйВ±В∆ВрБAЦ{УЦВЌМЩВ™ВЅВƒВҐВйБB@
-` ѕо правде говор€, 45 ненавидела, когда еЄ использовали как игрушку.`\
+` Honestly, 45 hated being treated like 410's toy.`\
 
 ;Б@ФёПЧВЌСfТЉВЈВђВйВ≠ВзВҐР^ВЅТЉВЃВ»ОqВ»ВћВ≈БA@ИкХыУIВ…В©ВзВ©ВнВкС±ВѓВйВ∆ВҐВ§К÷МWВ…БAМцХљРЂВрМ©ПoВєВ»ВҐВћВЊВлВ§БB\
-` Ѕудучи слишком послушной и честной, она не видела никакой справедливости в посто€нных насмешках.`\
+` She was a nice and honest person, and she justly saw this mocking and harassing relationship as unfair to her.`\
 
 bg black,2
 
 ;Б@ВSВPВOВ…УаППВ≈БAО©Х™ВЌВїВћГyГAВ…СКЙЮВµВ≠В»ВҐВ∆БAЙљУxВ©ГyГAКЈВ¶ВрР\РњВµВƒВҐВйБB@
-` ќна несколько раз втайне от 410 просила дать ей другого партнЄра, говор€, что 410 ей не подходит.`\
+` She has, on several occasions, petitioned to be paired up with someone other than 410.`\
 
 ;Б@ВµВ©ВµБAУсРlВћГyГAВћЙЎБXВµВҐРнЙ ВрОiЧяХФВаТmВЅВƒВҐВйВћВ≈БA@ВїВћР\РњВ™ОуЧЭВ≥ВкВйВ±В∆ВЌВ»ВҐВЊВлВ§БcБcБB\
-` ќднако, поскольку даже генералы знали о блест€щих результатах этого военного дуэта, еЄ просьбу так и не выполнили...`\
+` However, the headquarters were very well aware of the military success of this specific pairing, so her petitions were always denied...`\
 
 textoff
 
@@ -4807,17 +4806,17 @@ se3v 66,70
 wait 2000
 
 ;Б@Ц{ЧИБAС_МВГyГAВћРнЙ ВЌБAУсРlВ≈М÷ВйВ„ВЂВаВћВЊБB@
-` ¬ообще-то они обе должны были гордитьс€ результатами своего дуэта.`\
+` Ideally, both of them would be proud of the results they achieved.`\
 
 ;Б@ВµВ©ВµБAВSВPВOВћГgГКГbГLБ[В»С_МВВЌБA@ЦЊВзВ©В…ГXГ^ГУГhГvГМБ[В…ВжВйМ¬РlЛZВ≈В†ВиБAВїВкВрМ|ПpВ∆МƒВ‘О“В№В≈ВҐВйБB\
-` Ќо высока€ точность 410 была €вно индивидуальным мастерством, и некоторые даже называли еЄ искусством.`\
+` But 410's precise shooting was obviously the main point of interest for others,`\
 
 
 ;Б@ВїВћИ„БAУсРlВћРнЙ ВЌБAУсРlВћВ∆ВЌЙрВ≥ВкВЄБA@ВSВPВOВћМ¬РlРнЙ ВћВжВ§В…В≥ВкВƒВµВ№ВЅВƒВҐВйВ±В∆В™ВўВ∆ВсВ«ВЊБB@
-` ѕоэтому все считали, что исход битвы решает именно 410,`@` не понима€, что на самом деле он зависит от них обеих.`\
+` so many contributed their successes to 410 alone.`\
 
 ;Б@ВїВµВƒВSВPВOЦ{РlВаБAВїВћРнЙ ВрО©Х™ВћМ¬РlУIВ»ВаВћВЊВ∆РБТЃВµВƒВµВ№ВЅВƒВҐВйБcБcБB\
-` » даже сама 410 публично за€вила, что это исключительно еЄ заслуга...`\
+` Even 410 herself has once declared that to be the case...`\
 
 bg black,22
 mono 0
@@ -4825,13 +4824,13 @@ mono 0
 bg cha_R2d,22
 
 ;Б@СfТЉВЈВђВйВSВTВ…В∆ВЅВƒБAВїВкВЌФяВµВ≠В»ВҐВ±В∆В≈ВЌВ»ВҐБB@
-` ѕослушной 45 стало грустно.`\
+` This obviously didn't make 45 very happy.`\
 
 ;Б@ВµВ©ВµБAВSВPВOВћУVНЋУIНЋФ\ВћСOВ…БAВїВкВ™МыВ©ВзПoВйВ±В∆ВЌВ»В©ВЅВљБB\
-` ќна была лишь тенью на фоне потр€сающей 410.`\
+` She was completely overshadowed by 410.`\
 
 ;Б@БcБcОДВЌПгОiВ∆ВµВƒБAВїВкВрХqКіВ…О@ВµБAВSВPВOВ…БAВаВ§П≠ВµГpБ[ГgГiБ[ВрШJВнВиБA@КіО”ВЈВйВ„ВЂВ≈ВЌВ»ВҐВ©В∆ТЙНРВµВљВ±В∆В™В†ВйБB\
-` ... ак их начальник, € отнеслась к этому с чувствительностью и спросила 410, почему она так строга со своим партнЄром и даже ни разу не поблагодарила еЄ.`\
+` ...Since I was their superior, I felt responsible and decided to ask 410 why she treated her partner so harshly and never even said a word of gratitude to her.`\
 
 bg black,22
 
@@ -4845,12 +4844,12 @@ ld l,S00_majimeA2,80
 
 ;БuВ®СOВ∆ВƒБAВSВTВ©ВзГКГУГNВ™В»ВѓВкВќБAРФБXВћС_МВВЌРђВµУЊВ»В©ВЅВљВЌВЄБB@ВаВ§П≠ВµВїВћВ±В∆ВрБAВSВTВ…КіО”ВµВƒВаВҐВҐВћВ≈ВЌВ»ВҐВ©БHБv\
 ;БГГVГGГXГ^ВOВO
-`"Ѕез 45 многие твои атаки не удались бы.`@` –азве не стоит поблагодарить еЄ?"`\
+`"Without 45, most of your shots would have failed.`@` Shouldn't you thank her?"`\
 
 ld r,S41_AkuwaraiA1,24
 ;БuВ…В•В…В•БAВ№ВЯВљВOВOВ™В®РаЛ≥ВрМЊВҐПoВµВљВ…В•БBБv\
 ;БГГVГGГXГ^ВSВPВO
-`"Ќье-нье, 00 оп€ть начинает читать нотации, нье."`\
+`"Nyeh-nyeh, 00 is reading more of her lectures, nyeh."`\
 
 bg black,22
 bg cha_R2d,22
@@ -4858,74 +4857,74 @@ bg cha_R2d,22
 ;Б@ВSВPВOВ™БAПђФnО≠В…ВµВљВжВ§В»ХрВкКзВрХВВ©В„ВйБB@
 ;Б@ОДВЌБAВSВTВ™РFБXВ∆ФYВсВ≈ВҐВйВ±В∆БAВїВµВƒБA@ВїВкВЌВSВPВOВћКіО”ВћМЊЧtВ≈БAШJВ§В±В∆В™ПoЧИВйВ∆ОwУ±ВµВљБB\
 ;Б@ВЈВйВ∆БAВSВPВOВЌП≠ВµВЊВѓХЃКSВµВ»В™ВзБAОДВ…В±В§СiВ¶ВљБB\
-` 410 состроила глуповатое лицо.`\
-` 45 всегда очень ответственна, и € попыталась объ€снить 410, что можно иногда вознаграждать еЄ словами благодарности.`\
-` ќднако она даже возмутилась тому, что € жалуюсь.`\
+` 410 stared at me blankly.`\
+` 45 had her own share of problems, and I tried to explain to 410 that she should try to put her mind at ease.`\
+` Looking a little indignant from hearing that, 410 spoke to me.`\
 
 bg Mhal_3a,26
 ld r,S41_defA1,24
 
 ;БuВOВOВЌМлЙрВµВƒВйВ…В•БB@БcБcОДВЌКmВ©В…РнЙ ВрИ–Т£ВйВµО©ЦЭВаВЈВйВ…В•БB@В≈ВаБAВїВкВрОДИкРlВћРнЙ ВЊВ»ВсВƒОvВЅВљВ±В∆ВЌВ»ВҐВµБAВҐВ¬ВЊВЅВƒУсРlВћРнЙ ВЊВ∆ОvВЅВƒВйВ…В•БBБv\
 ;БГГVГGГXГ^ВSВPВO
-`"00, ты не понимаешь, нье.`@`  ...ƒа, € очень горжусь своими результатами в бою.`@` ѕотому что считаю их не только своей заслугой, но и еЄ, нье."`\
+`"00, you don't get it, nyeh.`@` ...Yes, I like to act big and boast about our victories.`@` But I haven't once thought of them as my own. The credit always belongs to both of us. Nyeh."`\
 
 
 ld l,S00_KomaruA1,23
 
 ;БuБcБcВїВ§В»ВћВ©БH@Б@В®СOВћХБТiВћМЊУЃВ©ВзВЌБAВ∆ВƒВаУсРlВћРнЙ ВЊВЅВљВ∆ОvВЅВƒВҐВљВ∆ВЌОvВ¶ВсВћВЊВ™БcБcБBБv\
 ;БГГVГGГXГ^ВOВO
-`"...¬ самом деле?`@` Ќа вид так не скажешь..."`\
+`"...Really?`@` It doesn't look like you honestly think that way..."`\
 
 ld r,S41_akuwaraiA2,80
 
 ;БuОЄЧзВ»ШbВЊВ…В•БB@ОДВЌВSВTВрБAВ±ВкВ№В≈В≈БAВїВµВƒВ±ВкВ©ВзВаН≈НВВћГpБ[ГgГiБ[ВЊВ∆ОvВЅВƒВйВ…В•БB@/
-`" ак грубо, нье.`@` я всегда считала и считаю 45 самым лучшим партнЄром, нье. `@/
+`"Rude, nyeh.`@` I always thought 45 to be my best partner, and I always will, nyeh. `@/
 
 ld r,S41_DefA1,80
 
 ;ВSВTВ∆В»ВзБAПoЧИВ»ВҐВ±В∆ВЌЙљВаВ»ВҐВ…В•БI@Б@Н≈НВВћГpБ[ГgГiБ[БI@Б@ВҐВ¬В№В≈ВаВЄВЅВ∆ГyГAВ≈ВҐВљВҐВ∆ОvВЅВƒВйВ…В•БcБIБv\
 ;БГГVГGГXГ^ВSВPВO
-`— 45 нет ничего невозможного, нье!`@` ќна незаменимый товарищ!`@` я всегда считала нас командой, нье!.."`\
+`With 45, I can do anythinyeh!`@` She's an irreplacable friend!`@` I always thought us an amazing team, nyeh!.."`\
 
 
 ;Б@ВїВ§ФчПќВёФёПЧВ…ОДВЌБAВSВTВ©ВзГyГAКЈВ¶ВрСКТkВ≥ВкВљВ±В∆В™В†ВйВћВрБAС≈ВњЦЊВѓВзВкВйВнВѓВаВ»ВҐБcБB\
-` ¬ид€ еЄ улыбку, € не смогла сказать ей, что 45 неоднократно просила мен€ дать ей другого партнЄра...`\
+` Seeing her smile, I couldn't bring myself to tell her that 45 had petitioned for a partner change...`\
 
 bg cha_R2d,25
 
 
 ;БuБcБcВ¬В№ВиБAВ®СOВ…ВЌВSВTВ…КіО”ВЈВйЛCОЭВњВЌВ†ВйВћВ©БHБv@
 ;БГГVГGГXГ^ВOВO
-`"...“ак ты благодарна 45?"`\
+`"...So you're actually thankful to 45?"`\
 
 
 ;БuВ†ВйВ…В•БB@УЦСRВЊВ…В•БAГpБ[ГgГiБ[ВЊВ…В•БB@/
-`" онечно.`@` ќна ведь мой партнЄр, нье. `@/
+`"Of course.`@` She is my partnyer. `@/
 
 
 ;ВїВсВ»В±В∆БAВOВOВ…В≠В«В≠В«МЊВнВкВйХыВ™ГАГJВ¬В≠В…В•БBБv\
 ;БГГVГGГXГ^ВSВPВO
-`ћен€ больше беспокоит то, что ты мен€ упрекаешь, нье."`\
+`It kinda pisses me off that you would even doubt that, nyeh."`\
 
 bg black,22
 
 ;Б@ВёВµВлЬбСRВ∆В≥ВкВйБB@БcБcЬбСRВ∆ВµВљВҐВћВЌВ±ВЅВњВЊБB\
-` ¬место того чтобы упрекать еЄ,`@` ...мне стоит упрекнуть себ€.`\
+` Instead of admonishing her`@`... I should have really been admonishing myself.`\
 
 ;Б@ОДВЌБAВжВ§ВвВ≠УсРlВћЙЈУxНЈВрЧЭЙрВЈВйБB@
-` я наконец пон€ла разницу между ними.`\
+` I finally understood the main point of difference between them.`\
 
 ;Б@ВSВPВOВЌСfТЉВ»РЂКiВ≈В»ВҐВ©ВзБAМ÷Т£ВаВЈВйВµФPВ≠ВкВљМЊВҐХыВаВЈВйБB\
-` 410 непокорна.`@` ќна часто преувеличивает или грубо отвечает.`\
+` 410 is rebellious.`@` She often exaggerates things and boasts.`\
 
 ;Б@ВЊВ©ВзБAЦTЦЏВ…ВЌСSВƒВћРнЙ ВрО©Х™ВЊВѓВћЧЌВ≈УЊВљВ∆О©ЦЭВµВƒВҐВйВжВ§В…М©В¶ВƒВµВ№В§БB@
-` ѕостороннему кажетс€, будто она хвастаетс€ тем, что добилась всего своими силами. `\
+` It seemed to me -- and probably to most outsiders -- that she was merely boasting of her own abilities. `\
 
 ;Б@ВµВ©ВµФёПЧВЌБAОјНџВ…ВЌВSВTВ∆ВћГyГAВ»В≠ВµВƒУЊВзВкВ»В©ВЅВљРнЙ ВЊВ∆Р[В≠ЧЭЙрВµВƒВҐВйБB\
-` ќднако на самом деле она знает, что без 45 не справилась бы.`\
+` However, she knew that she couldn't do it without 45, and was trying to praise her as well.`\
 
 ;Б@ВїВµВƒБAВSВTВрН≈НВВћГpБ[ГgГiБ[ВЊВ∆ФFВяБAВ±ВкВ©ВзВаВЄВЅВ∆ВЄВЅВ∆ИкППВ…ВҐВљВҐВ∆КиВЅВƒВҐВйВћВЊБB\
-`  роме того, она признаЄт 45 самым лучшим партнЄром и надеетс€ всегда быть с ней в одной команде.`\
+` Not only that, but she acknowledges 45 as the best possible partner and hopes to remain by her side forever.`\
 
 mono 1
 
@@ -4934,20 +4933,16 @@ ld r,S45_KomaruA1,22
 
 
 ;Б@БcБcВµВ©ВµБAВїВћЛCОЭВњВ™ВSВTВ…БAТ ВґВƒВҐВ»ВҐБB@
-` ...ќднако эти чувства не могли достичь 45.`\
+` ...But those feelings never reached 45, and that was a problem.`\
 
 ;Б@ВSВTВЌБAО©Х™ВЌЦ≥Ф\В≈БAВSВPВOВ…В©ВзВ©ВнВкВƒФnО≠В…В≥ВкВƒВҐВйВЊВѓВЊВ∆РMВґВƒВҐВйБB\
-` ќна считала, что 410 посто€нно дразнит еЄ и насмехаетс€ над ней из-за еЄ слабости.`\
+` She just thought that she was incompetent, and that 410 was mocking her and making fun of her.`\
 
 ;Б@СSВƒВћРнЙ ВЌВSВPВOВћНЋФ\В…ВжВйВаВћВ≈БA@О©Х™И»КOВћВаВЅВ∆ЧDВкВљОoЦЕВ∆ГyГAВрСgВсВЊВ»ВзБAВаВЅВ∆РнЙ В™ПoВєВйВ∆РMВґВƒВҐВйБcБcБB\
-` ≈й казалось, что весь их успех - заслуга талантливой 410`@` и что если бы на еЄ место назначили более опытную —естру, 410 справл€лась бы гораздо лучше.`\
+` She thought that their success was only thanks to 410 alone`@` and that a more experienced Chiester could be much more helpful as a partner to 410.`\
 
 ;Б@ВЊВ©ВзМЊВЅВƒВвВЅВљБB@
-` ѕоэтому € сказала ей.`\
-
-
-;Б@КіО”ВЌМыВ…ВµВ»ВѓВкВќУ`ВнВзВ»ВҐВ∆БB\
-` —казала, что она должна выразить свою благодарность словами, если действительно благодарна.`\
+` So I told 410 that she should express her gratitude with words if she really is thankful.`\
 
 bg black,22
 mono 0
@@ -4960,7 +4955,7 @@ E_A
 
 ;БuМЩВ…В•БBБv\
 ;БГГVГGГXГ^ВSВPВO
-`"Ќе буду €, нье."`\
+`"But I don't wannyeh."`\
 
 ld r,S00_OdorokiA1,24
 
@@ -4974,22 +4969,22 @@ ld l,S41_defA1,80
 
 ;БuКіО”ВµВƒВ№ВЈБAВ†ВиВ™В∆В§БAВ»ВсВƒБB@ВїВсВ»ПђВЅТpВЄВ©ВµВҐВ±В∆БAВнВіВнВіМыВ…ПoВµВƒМЊВ§В»ВсВƒБAПоВѓВ»ВҐВ…В•БB@ВSВTВ∆ОДВЌН≈НВВћГpБ[ГgГiБ[ВЊВ©ВзБAН°В≥ВзВїВсВ»В±В∆ВрМЊВнВ»В≠ВƒВаБAРSВЌП[Х™Т ВґНЗВЅВƒВйВ…В•БcБIБv\
 ;БГГVГGГXГ^ВSВPВO
-`"Џ00171я благодарна, спасибоЏ00187.`@` Ќи за что не скажу вслух такие постыдные слова.`@` ћы с 45 лучшие партнЄры и прекрасно понимаем друг друга даже без слов, нье!.."`\
+`"'I appreciate your help, thank you'.`@` That kind of thing is so embarassing to actually put into words, you know?`@` 45 and I are the best partnyers, so we understand each other without words!.."`\
 
 bg black,25
 bg Mhal_3b,22
 
 ;Б@РSВ≈ВЈВ≈В…БAМЊЧtВ…ПoЧИВ»ВҐХ°ОGВ»М`В≈БAВїВкВЌЛ§ЧLВ≥ВкВƒВҐВйБB@
-` ≈Є характер до того сложный, что не описать словами.`\
+` The feeligns were too complicated to put into words.`\
 
 ;Б@ВЊВ©ВзВїВкВрБAМыВ≈ЦaВ∞ВйТцУxВћМЊЧtВ≈ЙЇИ Ц|ЦуВµВƒВµВ№В§В∆БA@РSВћТЖВћЛCОЭВњВ™БAВёВµВлВЁВЈВЏВзВµВ≠В»ВЅВƒВµВ№В§БB@
-` ¬ виде слов еЄ чувства были бы вовсе не такими €ркими, как есть на самом деле. `\
+` If she did put them into words, it would dilute the raw emotion. `\
 
 ;Б@БcБcФёПЧВЌВїВћВжВ§В»В±В∆ВрМЊВЅВƒБAВSВTВ…О”И”ВрУ`В¶ВйВ„ВЂВЊВ∆ВҐВ§ОДВћТсИƒВрБAЦ≥ОЛВµВљБB\
-` ...ћоЄ предложение таким образом передать 45 благодарность было проигнорировано.`\
+` ...Having told me this, 410 chose to ignore my advice.`\
 
 ;Б@БcБcБcР«КбВ≈ЙEХыМьВ…ОАКpВрОЭВ¬БAВаВЌВвЦ≥Ф\В»РЋМуУЅЙїВћОДВ…БAН≈МгВ…Ч^В¶ВзВкВљФCЦ±В™БA@БcБcВ«В§ВвВзБAВ±ВћЛ»О“С_МВГyГAВћК«ЧЭВзВµВ©ВЅВљБB\
-` ......” моего пол€ зрени€ справа есть слабое место - раньше € специализировалась на разведке, но теперь стала бесполезна.`@`  ...ѕоэтому последней миссией, которую мне доверили, было присматривать за двум€ этими сорванцами.`\
+` ...Because I'm blinded in my right eye, I became inefficient in my specialty of reconnaissance.`@` ...So, my final task seems to be keeping this troublesome pair of snipers in line.`\
 
 bg black,1
 se1v 20,70
@@ -4997,10 +4992,10 @@ wait 500
 se2v 48,70
 
 ;Б@ВSВPВOВаБAОДВћЙEВ™ОАКpВ≈В†ВйВ±В∆ВрТmВЅВƒВҐВƒБA@/
-` 410 тоже знала, что права€ сторона - моЄ слабое место, `@/
+` 410 was also aware of my blind spot, `@/
 
 ;ОДВћКіПоУIВ»ХљОиВЌБAВ–ВзВиВ∆В©ВнВ≥ВкВƒВµВ№ВЅВљБcБcБB\
-`пусть даже чувствительность сохранилась...`\
+` so she nimbly dodged my emotionally charged slap...`\
 textoff
 
 fede 0,2000
