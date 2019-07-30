@@ -5055,15 +5055,13 @@ ld r,S55_DefA1,26
 bgm1 11
 
 ;Б@ГVГGГXГ^ВTВTВUВЌБAН≈РVОЃХРЛпВћООНмХiВ∆ВµВƒРґВЁПoВ≥ВкБA@Й^ЧpООМ±ВћВљВяВ…ГVГGГXГ^ОoЦЕЛяЙqСаВ…Х“УьВ≥ВкВљБAЦ¬ВиХ®УьВиВЊВЅВљБB\
-` —иесту 556, созданную как прототип новейшей модели брони,`@` отправили в императорскую гвардию —естЄр сиест в экспериментальных цел€х.`\
+` Chiester 556 was created as a prototype for state-of-the-art weaponry,`@` and thus she joined the Imperial Guards for experimental purposes.`\
 
 ;Б@УЅЙїВЌБAХ™СаЙќЧЌОxЙЗБB@
-` ≈Є задачей была поддержка огневой команды. `\
-;Б@ХљВљВ≠МЊВ¶ВќБAПdЙќЧЌТSУЦВ≈В†ВйБB@
-` ѕопросту говор€, она отвечала за т€жЄлую артиллерию.`\
+` She specialised in fire support -- or, in other words, the heavy firepower. `\
 
 ;Б@В±ВћУЦОЮВЌБAВSВPВOВЌУаКOВ≈ВаЧLЦЉВ»ГJГКГXГ}С_МВОиВЊВЅВљВ±В∆ВаВ†ВиБA@Н≈РVХРЛпВћВTВTВUВ∆СgВ№ВєВйВћВ…БAРнЙ ГXГRГAПгВЌБAВњВеВ§В«Ч«В©ВЅВљВ…ИбВҐВ»ВҐБB\
-` ¬ то врем€ 410 всюду была известна за харизматические методы атаки,`@` и даже несмотр€ на объединение с 556 - новейшей моделью, - она продолжала демонстрировать превосходные результаты в бою.`\
+` At the time, 410 has already acheived worldwide fame as a charismatic sniper,`@` so the management believed that joining her up together with 556 and her new weaponry`@` was a sure-fire way for 410 to acheive ever greater victories.`\
 
 bg black,23
 
@@ -5074,33 +5072,33 @@ ld l,S41_AkuwaraiA1,80
 
 ;БuХ™СаЙќЧЌОxЙЗБH@Б@ВїВиВбВ№ВљБAВ≤ВЅВ¬ВҐВћВ™ЧИВљВ…В•БBБv\
 ;БГГVГGГXГ^ВSВPВO
-`"ѕоддержка огневой команды?`@` » зачем это надо, нье?"`\
+`"Fire support?`@` Who nyeeds that?"`\
 
 ld r,S45_MajimeA1,24
 
 ;БuВнБAОДВљВњВћГyГAВЌБAЙУЛЧЧ£В…УЅЙїВµВƒВҐВ№ВЈВ™БAСеЧ ВћУGВ…ВжВйИкРƒУЋМВВрЛяЛЧЧ£В≈РHВҐО~ВяВйЧЌВ…ВЌМЗВѓВƒВҐВ№ВЈБB@БcБcВЂВЅВ∆БAВїВкВрХвВЅВƒВ≠ВкВйХыВ»ВсВґВбВ»ВҐВ©В∆БcБcБBБv\
 ;БГГVГGГXГ^ВSВT
-`"Ќ-наш дуэт специализируетс€ на длинных дистанци€х, и нам не всегда удаЄтс€ защитить себ€ от атак с близкого рассто€ни€.`@` ƒумаю, еЄ послали дл€ того, чтобы это компенсировать..."`\
+`"Our pair specialises in long-range attacks, s-so we're lacking in the ability to suppress enemies at short range...`@` Um... I think she's m-meant to help us compensate for that..."`\
 
 ld l,S41_AkuwaraiA2,80
 
 ;БuЙУЛЧЧ£В≈БAВ®ВҐВµВҐКlХ®ВЊВѓВаВзВЅВƒБAВ†В∆ВЌР_ПoЛSЦvВ…ПцФ≠ВЅВƒВћВ™БAВ§ВњВзВћП\Ф™Ф‘В…В•БB@БcБcБcБcХ™СаЙќЧЌОxЙЗВ»ВсВƒБAГmГНГ}БAХKЧvВ»ВҐВ…В•БфБv\
 ;БГГVГGГXГ^ВSВPВO
-`"ћы атакуем с дальних рассто€ний, и наша задача - брать самую вкусную добычу, а потом испар€тьс€, нье.`@`  ...Ќикака€ поддержка не нужна, нье."`\
+`"Picking off delicious prey from long distance and vanishing into thin air is our specialty, nyeh.`@` ...We don't need no stupid fire support, nyeh."`\
 
 bg Hill_1aR,22
 
 ;Б@ВSВPВOВЌБAО©Х™ВћС_МВВћСЂОиВ№В∆ВҐВ…В»ВйВ©ВзБAО„ЦВВїВ§В»РVОQО“ВЌВҐВзВ»ВҐВ∆МЊВ§БB@
-` 410 за€вила, что ей не нужен тупица-новичок, который будет только мешатьс€.`\
+` 410 was saying that they had no need for a newbie who would only get in their way.`\
 
 ;Б@ВSВTВ…В∆ВЅВƒВїВкВЌБAВЂВЅВ∆О©Х™ВаСЂОиВ№В∆ВҐВ…К№В№ВкВйВћВЊВлВ§В∆БAВ№ВљРSВћПЭВрСЭВвВЈВ±В∆В…В»ВЅВƒВҐВйБB\
-` 45 посчитала, что это относитс€ и к ней, поэтому эти слова ранили еЄ.`\
+` However, since 45 thought of herself as a hindrance as well, those words hurt her.`\
 
 ;Б@БcБcВµВ©ВµВSВPВOВ…В∆ВЅВƒВЌБAВSВTВ∆ВћКЃРђВ≥ВкВљГyГAВ≈В†ВйО©Х™ВљВњВ…БA@М©ТmВзВ ХФКOО“В™УьВЅВƒВЂВƒВўВµВ≠В»ВҐВ∆ВҐВ§БAПГЦpВ»ЛCОЭВњВ™В†ВйВЊВѓВ»ВћВЊБB@
-` ...ќднако 410 имела в виду лишь то, что их идеальному дуэту не нужны посторонние. `\
+` ...But 410 simply didn't want anyone to intrude on her relationship with 45 that she thought to already be perfect. `\
 
 ;Б@ОДВЌЧЉО“ВћЛєТЖВрТmВЅВƒВҐВйВ©ВзБAНҐВЅВљВаВћВЊВ∆БAМ√ПЭВ™Т…ВЁО®ВрВ≥ВЈВйВћВЊВЅВљБB\
-` я знала об их истинных чувствах и подумала, что не стоило впиватьс€ в старые шрамы.`\
+` I understood what both of them were feeling, and the situation made me uncomfortable. The scar on my ear started acting up and itch.`\
 
 bg black,22
 fede 0,2000
@@ -5113,7 +5111,7 @@ ld l,S00_MajimeA1,26
 
 ;БuХЈВ±В¶ВйВ©БAВTВTВUБB@ПАФхВЌВҐВҐВ©БBБv\
 ;БГГVГGГXГ^ВOВO
-`"556, ты готова?"`\
+`"556, you ready?"`\
 
 bg black,24
 bg Hill_1b,0
@@ -5124,26 +5122,26 @@ ld r,S55_DefA1,24
 ;!d800ПАФхВжВµВ≈ВЈБB/
 ;!sd@В†ВиВ™В∆В§В≤ВіВҐВ№ВЈБBБv\
 ;БГГVГGГXГ^ВTВTВU
-!s0`"556 на св€зи, `/
-!d800`подготовка завершена. `/
-!sd@`—пасибо."`\
+!s0`"556 here, `/
+!d800`I'm fully prepared. `/
+!sd@`Thank you very much."`\
 
 
 ;Б@ВTВTВUВ™БAЦмКOОЋМВПкВ…ЧІВ¬БB@
 ;Б@Н≈РVОЃХРЛпВћЙќЧЌВћБAВ®ФвШIЦЏВЊВЅВљБB\
-` 556 была на стрельбище. `@
-` —осто€лс€ дебют огневой мощи последнего поколени€.`\
+` 556 was practicing on the outdoors shooting range. `@
+` This was her debut as the state-of-the-art weaponry.`\
 
 cl r,0
 ld c,S55_WaraiA2,4
 
 ;Б@ВTВTВUВЌБAВѕВЅВ∆М©ВйМјВиБAВSВTВ∆В©В»ВиЛяВїВ§В»ФgТЈВрКіВґВљБB\
-` Ќа первый взгл€д 556 по длине волны была близка к 45.`\
+` At a glance, 556 seemed to be on pretty much the same wavelength as 45.`\
 
 ld c,S55_WaraiA1,80
 
 ;Б@Х®НШВЌСеРlВµВ≠ТЪФJВ≈БA@БcБcВ–ВеВЅВ∆ВЈВйВ∆БAВSВPВOВ∆ВћСКРЂВЌБAВSВTУѓЧlБAВ©В»ВиИЂВҐВ©ВаВµВкВ»ВҐБB\
-` ќна вела себ€ спокойно и вежливо,`@` ...и так же, как 45, была плохо совместима с 410.`\
+` She was meek, polite,`@` ...and utterly incompatible with 410.`\
 
 bg black,2
 
@@ -5156,20 +5154,20 @@ ld l,S00_MajimeA1,23
 
 ;БuЦЏХWБAР¬ВћХWУIМQБB@ВSВTБAС™ТиКJОnБBБv@
 ;БГГVГGГXГ^ВOВO
-`"÷ель - син€€ группа мишеней.`@` 45, начать передачу данных."`\
+`"Blue target group.`@` 45, begin transmission."`\
 
 ld r,S45_MajimeA1,24
 
 ;БuВиВеБAЧєЙрВЅБB@ТnМ`С™ТиКJОnБAМлНЈПCР≥БB@ВTВTВUВ…ГfБ[Г^ГКГУГNБBБv\
 ;БГГVГGГXГ^ВSВT
-`"ѕ-прин€то.`@` —бор данных по траектории, исправление ошибок в расчЄте.`@` ѕередача данных 556."`\
+`"R-roger.`@` Commencing terrain analysis and error correction.`@` 556, data link!"`\
 
 bg Hill_1aR,0
 ld l,S41_AkuwaraiA2,24
 
 ;БuБcБcВ…В•БB@В«ВћТцУxВћВаВсВ©БAВ®ОиХјВЁФqМ©В…В•БBБv\
 ;БГГVГGГXГ^ВSВPВO
-`"...Ќье.`@` ѕосмотрим, на что ты способна."`\
+`"...Nyeh.`@` Let's see what you've got."`\
 
 textoff
 bg black,2
@@ -5196,16 +5194,16 @@ ld c,S55_HohoemiA1,22
 
 ;БuВSВTВжВиГfБ[Г^ГКГУГNБB@ЦЏХWХвСЂБB@КіО”ВµВ№ВЈБB@НUМВКJОnБBБv\
 ;БГГVГGГXГ^ВTВTВU
-`"ѕриЄм данных от 45.`@` ƒополнение цели.`@` —пасибо.`@` Ќачать атаку."`\
+`"45, data link.`@` Targets identified.`@` Thank you very much.`@` Commencing attack."`\
 
 ;Б@ВTВTВUВ™Ц≥НЬВ»ВйСеМ^ВћЙФВћЛ|ВрИшВ≠БB@
-` 556 нат€нула тетиву простоватого, большого лука. `\
+` 556 drew a large, crude lead bow. `\
 
 ;Б@БcБcВSВPВOВљВњВћОgВ§Й©ЛаЛ|ВћВжВ§В»ЧDЙлВ≥ВЌМЗХ–ВаВ»ВҐБB@
-` ...¬ нЄм не было ни намЄка на величие, как у лука 410 или 45. `\
+` ...It didn't have even a hint of the greatness that the golden bow of 410 and 45 posessed. `\
 
 ;Б@ВµВ©ВµБAЧDЙлВ≥В∆ЙќЧЌВ…ИцЙ К÷МWВЌВ»ВҐБB\
-` ќднако элегантность не вли€ет на огневую мощь.`\
+` However, elegance has nothing to do with firepower.`\
 
 textoff
 bg black,29
@@ -5245,24 +5243,24 @@ bg Hill_1b,22
 me1 5
 
 ;Б@ВTВTВUВћВ®ВЅВ∆ВиВµВљХµИЌЛCВ∆ВЌУЮТкСКЧeВкВйВ∆ОvВ¶В»ВҐБA@ЙФВћЛ|В™УfВЂПoВЈБAВ§ВЋВйЙФВћСеО÷ВЌБAИкЧсВ…ЧІВƒВзВкВљП\РФМ¬ВћХWУIВрБAВ№В≥В…ЙФВћСеО÷В™БAВїВћРгВ≈ГxГНГКВ∆дrВяОжВйВжВ§В…БAР^Й°В÷В»ВђУ|ВµБAХ≤БXВ…Х≤Н”ВµВƒВҐВ≠БB\
-` “ак, как никто не ожидал,`@` 556 отпустила тетиву, ударив волнистой змеЄй свинцового цвета. «ме€ распалась на дес€ть таких же и ударила по дюжине целей с таким шипением, как у насто€щих змей.`\
+` In direct contrast to 556's gentle looks,`@` the bow spat out a swelling lead serpent towards the ten-odd targets standing in a row.`\` The serpent slithered under the targets as if licking and tasting them and then cut them down sideways, crushing them to tiny pieces.`\
 
 
 bg black,22
 
 ;Б@ВPЦ{ВћЙ©ЛаВћЦоВ≈БAСКОиВћОгУ_ВрФьВµВ≠ОЋФ≤В≠С_МВВ∆ВЌВ№ВЅВљВ≠ИўВ»ВйБB\
-` —овершенно не похоже на одну золотую стрелу, направленную в заметно слабую точку мишени.`\
+` It was nothing like beautifully sniping and piercing the opponent's weak point with a single golden arrow.`\
 
 
 
 ;Б@ЙљП\БAЙљХSВ∆ВҐВ§ЙФВћЦоВћВ§ВЋВиВ≈БAСКОиВрИщВЁНЮВсВ≈И≥У|ВЈВйВ∆ВҐВ§БA@В№ВЅВљВ≠ИўВ»ВйБAЛ∞ВлВµВҐНUМВВЊВЅВљБB\
-` ”страшающа€ атака с дес€тком, сотней стрел дл€ уничтожени€ противника.`\
+` Instead, it was an utterly terrifying attack that made use of dozens or even hundreds of lead arrows`@` that would completely overwhelm any opponent.`\
 
 mono 0
 bg Hill_1c,2
 
 ;Б@ОДВљВњВЌРVМ^ХРЛпВћЧeОЌВ»ВҐНUМВЧЌВ…БAВµВќВµВћК‘БAХрСRВ∆ВєВіВйВрУЊВ»В©ВЅВљБB\
-` ¬ид€ всю разрушительную мощь новой модели оружи€, мы не могли не ошеломитьс€.`\
+` We couldn't help but stand in awe of the merciless offensive power of this new type of weaponry.`\
 
 
 fede 0,3000
@@ -5271,28 +5269,28 @@ E_A
 ld l,S00_komaruA1,2
 
 ;Б@БcБcВїВµВƒВЈВЃВ…ТЉКіВЈВйБB@
-` ...я сразу же пон€ла. `\
+` ...Then, I immediately understood. `\
 
 bgm1 176
 
 
 
 ;Б@В±ВћИ≥У|УIВ»ЙќЧЌВЌКmОјВ…БA@БcБcВSВPВOВћГЙГCГoГЛРSВ…ЙќВрХtВѓВйВЊВлВ§БB\
-` “ака€ ошеломл€юща€ огнева€ мощь...`@`только разожгла огонь в сердце гордой 410.`\
+` This overwhelming firepower...`@`would only set 410's heart alight.`\
 
 bg "bmp\background\forest\o_sky_1ac.png",25
 
 ;Б@К‘ИбВҐВ»В≠БB@ВїВµВƒВ≥ВзВ…КmОјВ…БAОДВћУ™Т…ВћОнВрСЭВвВЈВЊВлВ§БcБcБB@
-` Ќикаких сомнений.`@` » теперь у мен€ будет ещЄ больше головной боли... `\
+` There's no doubt.`@` This will be a giant headache... `\
 
 
 ;Б@БcБcВЊВлВ§БA/
-` ...¬от видите, `/
+` ...Oh, look, `/
 
 wait 500
 
 ;В≈ВЌВ»ВҐВ»БB@БcБcВ†ВЯБAВаВ§ВSВPВOВ™ЧНВсВ≈ВйВЉБB@У™В™Т…ВҐБcБcБB\
-`начинаетс€.`@`  ...ј-а, 410 уже дразнит еЄ.`@`  ак хлопотно...`\
+`it's starting.`@` ...Agh, 410 is teasing her already.`@` What a pain...`\
 
 bg black,22
 
@@ -5303,13 +5301,13 @@ ld l,S41_AkuwaraiA1,23
 
 ;БuБcБcВ»В©В»В©ВвВйВ…В•БBБv@
 ;БГГVГGГXГ^ВSВPВO
-`"...ј ты, оказываетс€, знаешь своЄ дело, нье." `\
+`"...It seems you know your stuff, nyeh." `\
 
 ld r,S55_HohoemiA2,24
 
 ;БuВ†ВиВ™В∆В§БB@ВSВTВћГfБ[Г^ГКГУГNВћВ®ЙAВ≈ВЈБBБv\
 ;БГГVГGГXГ^ВTВTВU
-`"—пасибо.`@` ¬сЄ благодар€ каналу передачи данных 45."`\
+`"Thank you very much.`@` It was all thanks to 45's data link."`\
 
 bg black,24
 
@@ -5320,32 +5318,32 @@ ld l,S45_majimeA1,80
 
 ;БuВҐБAВҐВ¶БcБcБB@В†ВћВ≠ВзВҐВћЛЧЧ£В≈ВµВљВзБcБA@ВTВTВUВћОЋМВГМБ[Г_Б[В≈ВаП[Х™В…ХвСЂВ≈ВЂВ№ВЈВµБcБcБBБv\
 ;БГГVГGГXГ^ВSВT
-`"ƒ-да нет...`@` Ќа коротких дистанци€х`@` твоего радара было бы более чем достаточно, 556..."`\
+`"N-not at all...`@` At such a short range`@` your radar alone would have done just fine, 556..."`\
 
 ld r,S55_DefA2,24
 
 ;БuВ≈ВаБAВSВTВћГfБ[Г^ВћВ®ЙAВ≈ОЋМВВрРђМчВ≈ВЂВ№ВµВљБB@В†ВиВ™В∆В§БBБv@
 ;БГГVГGГXГ^ВTВTВU
-`"Ќо всЄ же, мой выстрел удалс€ благодар€ твоим данным.`@` —пасибо."`\
+`"Nevertheless, my firing succeeded thanks to the data provided by you.`@` Thank you very much."`\
 
 ld l,S45_komaruA1,80
 ;БuБcБcВ«БAБcБcВ«В§ВаБBБv\
 ;БГГVГGГXГ^ВSВT
-`"...Ќ-не за что."`\
+`"...Y-you... are very welcome."`\
 
 bg black,22
 bg "bmp\background\forest\o_sky_1ac.png",26
 
 ;Б@ВTВTВUВЌБAХ®НШВћВвВ≥ВµВҐБAВ®ВЅВ∆ВиВµВљТЭВиХыВрВЈВйОqВЊВЅВљБB@
-` ” 556 был м€гкий характер, и она разговаривала очень вежливо. `\
+` 556 had a calm demeanour and a gentle way of talking. `\
 
 
 
 ;Б@ВїВµВƒБAВаВ§ИкВ¬ВћУЅТ•В∆ВµВƒБAЙпШbВћМкФцВ…БAВвВљВзВ∆КіО”ВрИ”Ц°ВЈВйБAБgВ†ВиВ™В∆В§БhВрУьВкВљВ™ВЅВљБB@
-` ≈щЄ одной еЄ особенностью было добавл€ть в предложение благодарность. `\
+` She also had the tendency to express her gratitude indiscriminately. `\
 
 ;Б@ЙљВ©ВрЙЮВ¶ВйУxВ…БAВїВћМкФцВ…ВЌВ†ВиВ™В∆В§В™ХtВ≠ВћВЊБB\
-` ѕри св€зи она добавл€ла Џ00171спасибоЏ00187 в конец.`\
+` Almost every time she responded to someone, she would thank them.`\
 
 bg black,23
 bg Hill_1c,0
@@ -5354,51 +5352,51 @@ ld c,S41_AkuwaraiA1,23
 
 ;БuВ≈ВаБAБcБcФьВµВ≠В»ВҐВ…В•БB@ВўВсВћВPВTМ¬ВћУIВрС≈ВњФ≤В≠ВЊВѓВ≈БAВ†ВсВ»В…ГoГКГoГКВ∆ЙФВћЦоВрМВВњВ№В≠ВЅВƒБB@Р^ВсТЖВ…ПђВ≥В≠МКВрКJВѓВкВќВҐВҐВаВћВрБAУIВ≤В∆Х≤БXВ…ВµВњВбВЅВƒБBБv\
 ;БГГVГGГXГ^ВSВPВO
-`"Ќо...как так, нье.`@` — таким луком ты могла бы большее.`@` „ем проделывать дырки в мишен€х, надо было разбить их вдребезги."`\
+`"But... nyeh.`@` You could do so much more with this bow.`@` Instead of punching holes in the middle of the targets, you could have torn them completely apart, nyeh."`\
 
 ld l,S00_MajimeA2,23
 
 ;БuБcБcВ±ВзБAВSВPВOБcБIБ@РнСИВ…ФьВµВҐВаФьВµВ≠В»ВҐВаВ»ВҐВЉБB@ВTВTВUВћОЋМВВ…УпХ»ВрВ¬ВѓВйВ»БI@Б@/
-`"...Ёй, 410!.. ¬ бою это не имеет значени€.`@` ’ватит искать изъ€ны в еЄ атаке. `@/
+`"...Hey, 410!.. That has no relevance in actual combat.`@` Quit nitpicking! `@/
 
 ld l,S00_MajimeA1,80
 
 ;ВTВTВUВаЛCВ…ВЈВйВ»БB@ВSВPВOВЌП≠ВµВ–ВЋВ≠ВкВљВ∆В±ВлВ™В†ВЅВƒБcБcБAБv\
 ;БГГVГGГXГ^ВOВO
-`ј ты, 556, не обращай внимани€.`@` ” 410 немного м€тежный характер..."`\
+`Ah, 556, don't pay her any mind.`@` 410 can be somewhat difficult..."`\
 
 bg Hill_1c,23
 ld c,S55_WaraiA1,24
 
 ;БuВҐВ¶БAВїВсВ»В±В∆ВЌВ†ВиВ№ВєВсБAВOВOБB@В†ВиВ™В∆В§БBБv\
-`"Ќет, ничего страшного, 00.`@` —пасибо."`\
+`"No, it's no problem at all, 00.`@` Thank you very much."`\
 
 ld c,S55_WaraiA2,80
 
 ;БuБcБcВїВµВƒВSВPВOВаВ†ВиВ™В∆В§БB@ВїВ§В≈ВЈВЋБAФьВµВ≠В»ВҐВµБAВҐВ≠ВзРнСИВ≈ВаБAВ†В†ВҐВ§РнВҐХыВЌВжВ≠В»ВҐВ∆ОvВҐВ№ВЈБB@ВїВкВрЛ≥В¶ВƒВ≠ВкВƒБAВ†ВиВ™В∆В§БBБv\
 ;БГГVГGГXГ^ВTВTВU
-`"...» тебе тоже спасибо, 410.`@` “ы права, он нисколько не из€щен, и € не уверена, стоит ли его использовать.`@` —пасибо, что указала на это."`\
+`"...Thanks to you too, 410.`@` You're right that I could have done better.`@` Thank you very much for pointing that out."`\
 
 ;Б@ЦЊВзВ©В…УпХ»В∆ВнВ©ВйВSВPВOВћВїВкВ…ВаБA@ВTВTВUВЌБAВ†ВиВ™В∆В§В∆МЊВҐВ»В™ВзБAР√В©В…ФчПќВсВЊБB\
-` 556 улыбнулась и даже поблагодарила 410,`@` осознава€ всю странность своего лука.`\
+` Even though 410 was just finding something to nitpick,`@` 556 smiled gently and thanked her anyway.`\
 
 cl c,0
 ld r,S55_HohoemiA3,23
 
 ;БuВSВPВOВвВSВTВўВ«ВћШrВ™В†ВйВ»ВзБA@Р≥КmВ…С_ВЅВљВ∆В±ВлВрОЋФ≤В≠В±В∆В≈БAХsХKЧvВ»Т…ВЁВаБAЦ≥С В»Л]РµВаИкРЎПoВ≥ВЄВ…БA@Н≈ПђМјВћТ…ВЁВЊВѓВ≈ФCЦ±ВрТBРђВ≈ВЂВйВ∆ОvВҐВ№ВЈБB@БcБcВ≈ВаБAОДВћВжВ§В»ЧРЦ\В»ОЋМВВ≈ВЌБAСКОиВрЦ≥ОЬФяВ…С≈ВњН”В≠ВЊВѓБBБv\
-`"”читыва€ ваши способности,`@` вы - 410 и 45 - можете целитьс€ ровно туда, куда хотите, избега€ ненужных жертв`@` и заверша€ миссию с наименьшими потер€ми.`@`  ...Ќо с таким грубым оружием, как у мен€, от цели не остаЄтс€ и следа."`\
+`"Were my skills as great as yours, 410 and 45,`@` I could aim precisely where I needed to and crush my victims completely without wasting any ammo.`@` ...But my crude weapon is not designed for such precision."`\
 
 ld r,S55_WaraiA1,80
 
 ;БuБcБcРнПкВ≈В†ВЅВƒВаБAЦ≥ОЬФяВ≈В†ВйВ±В∆ВЌЛЦВ≥ВкВ»ВҐВ∆ОvВҐВ№ВЈБB@ВїВкВрЛ≥В¶ВƒВ≠ВкВƒБAВ†ВиВ™В∆В§БBБv\
 ;БГГVГGГXГ^ВTВTВU
-`"ѕо-моему, нечто столь безжалостное нельз€ использовать даже на поле бо€.`@` —пасибо, что дала мне знать."`\
+`"Thank you very much for bringing my attention to that."`\
 
 
 ld l,S41_MajimeA1,23
 
 ;БuБcБcБcБcБcБcБcБcВ…В•БcБBБv\
-`".........Ќье..."`\
+`"...Nyeh..."`\
 
 ;БГГVГGГXГ^ВSВPВO
 
@@ -5406,14 +5404,14 @@ bg black,22
 bg "bmp\background\forest\o_sky_1ac.png",26
 
 ;Б@МЦЙ№ВрРБВЅВ©ВѓВйЛCЦЮБXВЊВЅВљВћВ…БAВ±ВсВ»ХЧВ…МЊВнВкВƒКіО”В≥ВкВйВ»ВсВƒБAВSВPВOВаСzСЬВµВ»В©ВЅВљВ…ИбВҐВ»ВҐБB\
-` 410 и представить себе не могла, что на такую агрессию ей ответ€т благодарностью.`\
+` 410 never expected her rudeness to be met with gratitude.`\
 
 
 ;Б@ВїВћМгВаБAЙљВ∆В©О©Х™ВћГyБ[ГXВрТЌВаВ§В∆БAРFБXВ∆ЧНВсВ≈ВЌБAВSВTВ™В†ВљВ”ВљВµВ»В™ВзГtГHГНБ[ВЈВйБB@
-` 45 тоже подогрела ссору под вли€нием товарища. `\
+` Afterwards, many similar incidents took place, with 410 picking fights about various things and 45 desperately trying to patch things up. `\
 
 ;Б@ВїВµВƒВїВкВзВ…ЧЅВµВ∞В»ПќКзВ≈ФчПќВЁХ‘ВµВƒВЌБAХKВЄБAВ†ВиВ™В∆В§В∆КіО”ВћМЊЧtВрХtВѓВƒХ‘ОЦВрВЈВйБB\
-` » всЄ равно она продолжала с м€гкой улыбкой отвечать словами благодарности.`\
+` And it always ended with 556's words of gratitude.`\
 
 bg black,22
 bg Hill_1c,0
@@ -5423,7 +5421,7 @@ ld l,S41_AkuwaraiA1,22
 
 
 ;Б@ВїВћВвВиОжВиВ™ЙДБXВ∆С±ВЂБAН≈МгВ…ВЌВSВPВOВЌБAБuВ±ВҐВ¬ВћВ†ВЊЦЉВЌБAВ†ВиВ™В∆В§ГEГTГMВ…ВЈВйВ…В•БBБvВ∆МЊВнВµВяБA@В∆В§В∆В§БAСёОUВ≥ВєВƒВµВ№В§ВћВЊВЅВљБB\
-` ¬ конце концов 410 решила дать ей прозвище Џ00171 ролик спасибоЏ00187.`\
+` This kept repeating itself until 410 nicknamed 556 the "thanks bunnyeh" and stormed off.`\
 
 textoff
 
@@ -5431,7 +5429,7 @@ cl l,24
 wait 1000
 
 ;Б@ВSВTВ…ВЌБAВїВкВ™БAСКУЦЛ@МЩВрИЂВ≠ВµВљВжВ§В…М©В¶ВљВћВЊВлВ§БB@Б@ХsТеХЕВкВƒЛОВЅВƒВҐВ≠ВSВPВOВћМгВрБAВSВTВ™Т«ВЅВƒВҐВ≠БB\
-` 45 показалось, что атмосфера помрачнела.`@` 410 надулась и ушла, и она последовала за ней.`\
+` This seemed to sour 45's mood completely.`@` 410 walked away sulkily, and 45 went after her.`\
 
 textoff
 bg black,4
@@ -5457,54 +5455,54 @@ ld l,S00_MajimeA2,23
 
 ;БuБcБcВ†ВиВ™В∆В§ГEГTГMВ∆ВЌБAВ–В«ВҐВ†ВЊЦЉВЊВ»БBБv@
 ;БГГVГGГXГ^ВOВO
-`"...Џ00171 ролик спасибоЏ00187 - ужасное прозвище."`\
+`"'Thanks bunnyeh' is a horrible nickname."`\
 
 ld r,S55_WaraiA2,24
 
 
 ;БuВҐВҐВ¶БB@Г`Б[ГАГБГCГgВ…БAПЙУъВ…В†ВЊЦЉВрЦбВ¶ВйВ»ВсВƒОvВҐВ№ВєВсВ≈ВµВљВ©ВзКрВµВҐВ≈ВЈБB@В†ВиВ™В∆В§В≤ВіВҐВ№ВЈБBБv\
 ;БГГVГGГXГ^ВTВTВU
-`"¬овсе нет.`@` я и не думала, что мои товарищи по команде дадут мне прозвище уже в первый день.`@` —пасибо."`\
+`"Not at all.`@` I never expected my teammates to give me a nickname on my very first day. It is an honor.`@` Thank you very much."`\
 
 ld l,S00_DefA1,80
 
 ;БuБcБcВ«В§ВµВƒБAВїВсВ»В…ВаВ†ВиВ™В∆В§В∆БH@Б@ЙљВ©И”Ц°В™В†ВйВћВ»ВзЛ≥В¶ВƒЧ~ВµВҐБBБv\
 ;БГГVГGГXГ^ВOВO
-`"...ѕочему ты благодаришь за такое?`@` —кажи, если есть причина."`\
+`"...Why are you thanking her for that?`@` Is there some reason behind it?"`\
 
 bg black,25
 
 bg beach_2a,26
 
 ;Б@ВSВPВOВћВжВ§В»Л»О“ВЌБAВїВћЛ»О“В‘ВиВрО¶ВЈВљВяБAЦ≥И”ОѓВћВ§ВњВ…ВїВћГTГCГУВрЙпШbВ…НЮВяВƒВµВ№В§БB@
-` ћ€тежность 410 невольно отражалась в еЄ фразах. `\
+` 410's rebellious nature was clearly reflected in her speech as well, raising similar questions. `\
 
 ;Б@БcБcЧбВ¶ВќБA@ФёПЧВћБgВ…В•БhВ∆ВҐВ§МкФцВ»В«В™ВїВ§ВЊБB\
-` ...Ќапример, этим Џ00171ньеЏ00187 в конце.`\
+` ...For example, that 'nyeh' at the end.`\
 
 ;Б@ВµВ©ВµВTВTВUВЌЛ»О“В…ВЌМ©В¶ВЄБA@В†ВиВ™В∆В§В∆ВҐВ§МЊЧtВ…М≈ОЈВЈВйВжВ§В»БAВ–ВЋВ≠ВкВљВ∆В±ВлВЌМ©В¬ВѓВзВкВ»В©ВЅВљВ©ВзБAВїВкВ…ОДВЌЛїЦ°ВрОЭВЅВљВћВЊБB\
-` 556 не была похожа на бунтарку, и € не замечала иронии в еЄ посто€нной благодарности.`@` ѕоэтому мне стало очень любопытно.`\
+` But 556 didn't seem like a troublemaker, and she didn't realize the irony behind her thanking everyone like that.`@` I was curious to learn more about that.`\
 
 fede 0,2000
 E_A
 
 ld c,S55_WaraiA3,80
 ;Б@БcБcВЈВйВ∆ВTВTВUВЌБAПЙВяВƒВ†ВиВ™В∆В§ВрХtВѓВЄВ…БAОДВ…В±В§МЊВЅВљБB\
-` ...» тогда 556 впервые сказала не добавл€€ благодарности.`\
+` ...And that was when 556 spoke without thanking anyone for the first time.`\
 
 bgm1 167
 
 ld c,S55_HohoemiA1,80
 
 ;БuОДВЌБAЛ≠ВҐВ≈ВЈБB@ГVГGГXГ^Ц{О–ООМ±Г`Б[ГАВ≈ВаФ≤МQВћРђР—В≈ВµВљБB@БcБcВ≈ВЈВ™БAО©НЫВкВљВ±В∆ВЌВ†ВиВ№ВєВсБB@ОДВ™Н≈НВВћРђР—ВрПoВєВйВћВЌБAВїВћВљВяВ…С§Ц ВрОxЙЗВµВƒВ≠ВкВљГ`Б[ГАГБГCГgВ™В†ВЅВƒВ±ВїВ≈ВЈБBБv\
-`"я сильна€.`@` я получила отличные результаты в проверке —иест из штаба компании.`@`  ...Ќо этим не хвастаютс€.`@` я добилась этого только благодар€ своим коллегам."`\
+`"I am strong.`@` I got excellent marks from the Chiester Headquarters Test Team.`@`  ...But none of that is something to brag about.`@` The only reason I ever succeeded is thanks to my friends."`\
 
 
 ld c,S55_WaraiA3,80
 
 ;БuБcБcВЊВ©ВзОДВЌБAПнВ…О©Х™ВћРђР—ВЌБAВїВкВрОxВ¶ВƒВ≠ВкВљЛяВµВҐТЗК‘ВљВњВћВ®ЙAВЊВ∆КіО”ВµВƒВҐВ№ВЈБBБv\
 ;БГГVГGГXГ^ВTВTВU
-` ...ѕоэтому обычно € благодарю товарищей за всЄ то, что они делают дл€ внесени€ вклада в мой успех.`\
+` ...That is why I will always thank my comrades for supporting me.`\
 
 bg black,23
 bg beach_2b,0
@@ -5512,7 +5510,7 @@ ld l,S00_MajimeA2,23
 
 ;БuБcБcБcТ№ВћНCВрРчВґВƒБAВSВPВOВ…ИщВ№ВєВљВҐЛCОЭВњВЊБBБv\
 ;БГГVГGГXГ^ВOВO
-`"......’отела бы €, чтобы 410 последовала твоему примеру."`\
+`"...I wish 410 followed your example, even if just a little..."`\
 
 
 bg black,22
@@ -5524,62 +5522,62 @@ bg sky_1a,5
 
 ;БuВ≈ВаБAОДВЌВїВћКіО”ВрБA@СКОиВ…У`ВнВйВжВ§В…ВµВƒВҐВљВћВ©БAЛ^ЦвВ…ОvВЅВљВ±В∆В™В†ВиВ№ВЈБBБv@
 ;БГГVГGГXГ^ВTВTВU
-`"Ќо когда € беспокоюсь по поводу того, передалась ли благодарность моим партнЄрам,`@` возникает проблема."`\
+`"But I always get worried that my gratitude doesn't reach them,`@` which causes me problems."`\
 
 
 ;БuБcБcБcБcЛ^ЦвБHБv\
 ;БГГVГGГXГ^ВOВO
-`".........ѕроблема?"`\
+`"...Reach them?"`\
 
 
 
 ;БuВЌВҐБB@ОДВЌБAВЁВсВ»В…КіО”ВµВƒВҐВ№ВЈБB@БcБcВ≈ВаВїВкВрБAТNВ…ВаУ`В¶ВЄБAВнВ©ВЅВƒВаВзВ¶ВЄБAУсУxВ∆ЙпВ¶В»ВҐК÷МWВ…В»ВЅВƒВµВ№ВЅВљВзБB@ВїВћСКОиВЌБAОДВ…КіО”В≥ВкВљВ±В∆ВЌВ»В©ВЅВљВ∆РґКUОvВЅВƒВµВ№В§В≈ВµВеВ§БB@ОДВ™Ц{УЦВЌКіО”ВµВƒВҐВйВ∆ВµВƒВаБBБv@
 ;БГГVГGГXГ^ВTВTВU
-`"ƒа. я благодарна всем.`@`  ...≈сли не скажешь, они не поймут, а ведь мы можем больше не увидетьс€...`@` » кто-то всю жизнь будет думать, что ему никогда не были искренне благодарны.`@` ƒаже если на самом деле это не так."`\
+`"Yes. I am truly thankful to everyone.`@` ...But if I don't say it, they might never know about that... And, if it so happens that I'll never meet them again,`@` someone might live their entire life without knowing that there were people who were truly and wholeheartedly grateful to them for their help.`\` Even if such people did exist."`\
 
 ;БuБcБcБcБcБcБcБBБv\
 ;БГГVГGГXГ^ВOВO
-`"..............."`\
+`"..."`\
 
 bg black,22
 bg beach_2b,26
 ld r,S55_WaraiA2,24
 
 ;БuОДВљВњВЌГVГGГXГ^ОoЦЕЛяЙqСаВћХЇОmВ≈ВЈБB@БcБcВҐВ¶БAЦљВ†ВйМјВиТNВ≈В†ВЅВƒВаБB@В†ВйУъБAУЋСRБAРlВЌУсУxВ∆ЙпШbВ™ПoЧИВ»В≠В»ВйК÷МWВ…В»ВиВ№ВЈБBБv\
-`"ћы - солдаты императорской гвардии —естЄр сиест.`@`  ...¬се мы.`@` ¬сегда приходит день, который оказываетс€ дл€ кого-то из нас последним."`\
+`"We are the soldiers of the Chiester Imperial Guards.`@` ...All of us.`@` There will certainly come a day when we talk to each other for the last time."`\
 
 ld r,S55_HohoemiA1,80
 
 ;БuУЋСRЦKВкВљВїВћУъВ…БAНQВƒВƒВїВкВ№В≈ВћКіО”ВрУ`В¶ВжВ§В∆ОvВЅВƒВаБA@ВаВ§БAВїВкВрУ`В¶ВйВ±В∆ВЌПoЧИВ»ВҐБB@БcБcБcВїВћОЮБAСКОиВЌОДВћВ±В∆ВрВ«В§ОvВ§ВћВ≈ВµВеВ§ВЋБB@Б@БcБcОДВЌВїВкВрОvВ§В∆БAБ@БcБcФяВµВҐВћВ≈ВЈБBБv\
 ;БГГVГGГXГ^ВTВTВU
-`"» тогда товарищи уже не могут выразить благодарность, которую всегда хотели сказать друг другу.`@`  ......„то товарищ подумал бы обо мне в такой момент?`@`  ...√рустно думать об этом."`\
+`"And after that, comrades can no longer express gratitude to one another.`@` ...What would a comrade think of me if such a thing happens?`@` ...It's sad to think about this."`\
 
 bg black,5
 bg sea_3b,2
 
 ;Б@СеР®ВћРФВ¶РЎВкВ»ВҐВўВ«ВћРlВљВњВ…БAПнВ…КіО”ВµВƒВҐВйВ¬ВаВиВ≈ВµВљБB@
-` ќна была благодарна бесчисленному множеству людей. `\
+` There were countless people she was thankful to. `\
 
 ;Б@В≈ВаБAВїВкВрТNВ…ВаУ`В¶В№ВєВсВ≈ВµВљБB@
-` Ќо не могла по-насто€щему донести до них эту благодарность. `\
+` But she could never truly convey that to them. `\
 
 ;Б@ВЊВ©ВзФёВзВЌБAОДВ™КіО”ВµВƒВҐВ»ВҐВ∆ОvВЅВљВ∆ВµВƒВаБAНяВЌВ»ВҐВћВ≈ВЈБB\
-` » из-за этого они думали, что их не цен€т.`\
+` So some of them thought that everyone considers them worthless.`\
 
 bg black,2
 bg beach_2b,0
 ld c,S55_HohoemiA1,2
 
 ;БuВїВµВƒБAВїВћМлЙрВрЙрВ≠Л@ЙпВ™БAВ†ВйУъУЋСRБAЙiЙУВ…ОЄВнВкВљВ∆ВµВљВзБB@БcБcБcВїВћРlВ…ОДВЌБAКіО”В≥ВкВљВ±В∆В™В»ВҐЧвВљВҐПЧВћОqВЊВ∆БAЙiЙУВ…ОvВнВкС±ВѓВйВ≈ВµВеВ§БBБv\
-`"ќднажды навсегда тер€ешь шанс исправить эту неоднозначность,`@` и выходит, что твой товарищ до самого конца считал теб€ хладнокровной и не испытывающей благодарности."`\
+`"One day, you'll lose the opportunity to clear up those kinds of emotions,`@` and it will turn out that your comrade has thought you to be a cold-blooded and heartless being the whole time."`\
 
 ld c,S55_waraiA2,80
 
 ;БuВїВµВƒОДВаБAВ«В§ВµВƒВїВћОЮВ™ЦKВкВйВ№В≈БAВїВкВрИкУxВаУ`В¶ВйВ±В∆В™ПoЧИВ»В©ВЅВљВћВ©В∆БAЙiЙУВ…МгЙчВЈВйВ≈ВµВеВ§БB@/
-`"» € посто€нно жалею, что не смогла донести благодарность, когда была така€ возможность. `@/
+`"I always regret letting an opportunity to convey my gratitude slip past me. `@/
 
 ;БcБcВЂВЅВ∆ВҐВ¬В©СzВҐВ™У`ВнВйБH@Б@МЊЧtВ≈У`В¶ВйВћВЌЦмХйБHБ@@МЁВҐВЌТ ВґНЗВЅВƒВйВ©ВзБAН°В≥ВзМЊЧtВ»ВсВƒХKЧvВ»ВҐБcБcБH@ОДБAВїВ§ВҐВ§ВћВ™МЩВҐВ…В»ВЅВљВсВ≈ВЈБBБv\
-`Џ00171ќднажды они об€зательно поймутЏ00187?`@` Џ00171¬ыражать словами слишком убогоЏ00187?`@` Џ00171ћы понимаем друг друга так хорошо, что слова не нужныЏ00187?..`@` Ќенавижу слышать такое."`\
+`'Surely, they must understand'?`@` 'Words are unnecessary'?`@` 'We understand each other perfectly, so we don't need to say it out loud'?..`@` I hate hearing things like that."`\
 
 bg black,24
 bg beach_2a,24
@@ -5588,7 +5586,7 @@ ld l,S55_HohoemiA1,23
 
 
 ;БuВЊВ©ВзБB@БcБcБcОДВЌСSВƒВћРlВ∆ВћПoЙпВҐВ…БAПнВ…ОЯВћЛ@ЙпВ™УВУЋВ…ОЄВнВкВйВ©ВаВµВкВ»ВҐВ±В∆ВрБAПнВ…ЛѓВ¶ВƒВҐВ№ВЈБB@БcБcВ±В§ВµВƒВOВOВ∆ШbВµВƒВҐВйН°УъВ≈В≥В¶БAН≈МгВћУъВ©ВаВµВкВ»ВҐБB@ЦЊУъВћВ†В»ВљВ…БAОДВЌПoЙпВ¶ВйНKЙ^ВрОТВкВ»ВҐВ©ВаВµВкВ»ВҐБBБv\
-`"¬ конце концов,`@` ......€ посто€нно боюсь потер€ть следующую возможность увидеть того, кого знаю.`@`  ...¬озможно, даже сегодн€ - последний день, когда € вижу 410.`@` „то если завтра € уже не смогу увидеть еЄ?"`\
+`"After all,`@` ...I'm always afraid to lose my next chance to see someone.`@`  ...Today could even be the last day I'd ever see 410.`@` What if I don't see her tomorrow?"`\
 
 textoff
 
@@ -5600,13 +5598,13 @@ wait 500
 ld c,S55_DefA1,80
 
 ;БuБcБcВЊВ©ВзОДВЌУсУxВ∆БB@БcБcБcБcСКОиВ…КіО”ВрУ`В¶ВйЛ@ЙпВрУ¶ВµВљВ≠В»В≠ВƒБAПнВ…В†ВиВ™В∆В§В∆БAБcБcСКОиВ…МЊВҐУYВ¶ВйВћВ≈ВЈБB@БcБcВЊВ©ВзБAВ±ВсВ»ШbВрХЈВҐВƒВ≠ВкВƒБA@/
-`"...ѕоэтому,`@` чтобы не упустить шанс поблагодарить, € обычно добавл€ю в конец Џ00171спасибоЏ00187.`@`  ...», поскольку ты выслушала мен€,`@/
+`"...So that I don't miss my chance,`@` I always say thanks whenever I can.`@` ...And to you, for listening to me,`@/
 
 ld c,S55_WaraiA3,2
 
 ;В†ВиВ™В∆В§БBБv\
 ;БГГVГGГXГ^ВTВTВU
-` спасибо."`\
+` thank you very much."`\
 
 textoff
 bg white,42
@@ -5631,14 +5629,14 @@ csp bgsp
 print 2
 
 ;Б@ВїВкВЌКmВ©В…БAБcБcФяВµВҐШbВЊВЅВљБB@
-` Ќесомненно, ...это был печальный разговор. `\
+` That was... a sad conversation. `\
 
 ;Б@ВаВµВаВ†ВйУъБAУЋСRБAВSВTВ™ОpВрПЅВµВƒВµВ№ВЅВљВзБB@БcБcВSВPВOВЌБAВSВTВ…КіО”ВћЛCОЭВњВрУ`В¶ВйВ±В∆В™ПoЧИВ»В©ВЅВљВ∆БA@ЙiЙУВ…МгЙчВЈВйВ©ВаВµВкВ»ВҐБB\
-` Ѕыть может, если однажды 45 вдруг исчезнет,`@` ...410 будет вечно сожалеть о том, что не донесла до неЄ свою благодарность.`\
+` If 45 were to suddenly disappear one day,`@` ...410 would no doubt regret being unable to convey her gratitude to her.`\
 
 
 ;Б@БcБcВїВµВƒВSВTВаБAВSВPВOВ…ВЌВљВЊВћИкМЊВаКіО”В≥ВкВљВ±В∆В™В»ВҐВ∆БAЙiЙУВ…ФяВµВЁВ…ХпВ№ВкВйВ©ВаВµВкВ»ВҐБB@ВSВPВOВЌБAЦ{УЦВЌВ†ВсВ»В…ВаСfТЉВ…БAВSВTВћВ±В∆ВрКіО”ВµВƒВҐВйВ…ВаВ©В©ВнВзВЄБB\
-` ...¬еро€тно, даже 45 вечно будет грустить при мысли, что ни разу не слышала от неЄ слова благодарности.`@` ј ведь 410 искренне благодарна ей.`\
+` ...Or, maybe, 45 would forever be wrapped in the despair of never hearing a single "thank you" from her.`@` Even though 410 was truly thankful to her.`\
 
 bg black,22
 bg beach_2a,22
@@ -5646,7 +5644,7 @@ ld l,S55_DefA2,23
 
 ;БuВЊВ©ВзБB@ОДВЌВ†В»ВљВ…ВаБAВ†ВиВ™В∆В§ВрБBБv\
 ;БГГVГGГXГ^ВTВTВU
-`"ѕоэтому...`@`€ хочу поблагодарить и теб€."`\
+`"So... `@`I want to thank you too."`\
 
 bg black,22
 
@@ -5658,10 +5656,10 @@ E_A
 
 
 ;!s0БuБcБcБcБcХsЧvВЊВ»БA/
-!s0`".........ћен€...`/
+!s0`"...I...`/
 
 ;!d800ОДВ…ВЌБBБv/
-!d800`не нужно благодарить."`/
+!d800` will never allow that."`/
 !sd\
 ;БГГVГGГXГ^ВOВO
 
@@ -5674,25 +5672,25 @@ ld l,S55_hohoemiA1,80
 
 ;БuБcБcВ¶БHБv\
 ;БГГVГGГXГ^ВTВTВU
-`"...Ё?"`\
+`"...Eh?"`\
 
 bg beach_2b,0
 ld c,S00_MajimeA2,24
 ld c,S00_DefA1,80
 
 ;БuОДВЌХ™СаВћГКБ[Г_Б[В∆ВµВƒБAТNВаТEЧОВ≥ВєВ»ВҐБB@ВїВћВжВ§В»Ц≥ЧlВрЛЦВ≥В»ВҐБB@/
-`" ак лидер команды, € не дам своим подчинЄнным погибнуть.`@` » € такого не допущу. `@/
+`"As the leader of the team, I will not allow anyone to die.`@` I will never allow that to happen. `@/
 
 ld c,S00_OdorokiA2,80
 
 ;ВїВкВЌЛMЧlВ∆ВƒВЊБB@КіО”ВћМЊЧtВрЧФВиВ…ОgВҐБAВҐВ¬В≈ВаЙдВ™Х™СаВрФ≤ВѓПoВєВйВжВ§В…РSВћПАФхВрВЈВйВ»В«БAХsУЌВЂРзЦЬВЅБBБv\
-`¬озмутительно, что ты благодаришь всех без причины и готова в любой момент покинуть мою команду."`\
+`It disgusts me that you're throwing around those words of gratitude and acting as if we'll all disappear tomorrow."`\
 
 ld c,S00_MajimeA1,80
 
 ;БuВїВћдDФ≤ВѓВљН™РЂБAВ±ВћОДВ™ВЁВЅВњВиВ∆Т@ВЂТЉВµВƒВвВйГbБB@ВжВ§В±ВїБAЙдВ™Х™СаВ÷БcБIБIБ@ЛMЧlВрКљМ}ВЈВйБIБv\
 ;БГГVГGГXГ^ВOВO
-`"я избавлю теб€ от такого трусливого отношени€!`@` ƒобро пожаловать в мою команду!.. ћы принимаем теб€ с распростЄртыми объ€ти€ми!"`\
+`"I will get you rid of that cowardice!`@` Welcome to my team!.. You're staying with us now!"`\
 
 bg beach_2a,0
 ld r,S55_WaraiA1,24
@@ -5700,7 +5698,7 @@ ld r,S55_WaraiA3,80
 
 ;БuВ†ВиВ™В∆В§В≤ВіВҐВ№ВЈБAВOВOБB@ГVГGГXГ^ВTВTВUБAТЕФCВµВ№ВЈБBБv\
 ;БГГVГGГXГ^ВTВTВU
-`"—пасибо, 00.`@` —иеста 556, готова служить."`\
+`"Thank you very much, 00.`@` Chiester 556, reporting for duty."`\
 
 
 textoff
@@ -5719,7 +5717,7 @@ br
 br
 
 ;Б@В±ВћУъВ©ВзБAГ}ГКГAЛ®ВћМмЙqВЌБAОlРlСgВ≈В∆В»ВЅВљВћВЊВЅВљБcБcБcБB\
-` ¬ тот день они вчетвером стали личным эскортом леди ћарии......`\
+` From that day on, they became the personal guard of Lady MARIA...`\
 
 textoff
 
@@ -5736,14 +5734,14 @@ br
 br
 br
 
-!s0`             ј вы? `/
-!d1000`¬сегда ли вам... `
+!s0`             What about you? `/
+!d1000`Do you... `
 br
 ;!d1000Б@Б@Б@Б@БcБcБcУ`В¶ВзВкВйВ§ВњВ…БA
-!d1000`              удаЄтс€ правильно...`
+!d1000`              always remember...`
 br
 ;!d1000Б@Б@Б@Б@ВњВбВсВ∆У`В¶ВƒВ№ВЈВ©БcБH/
-!d1000`            передать благодарность?..`/
+!d1000`            to say thanks?..`/
 !sd\
 
 textoff

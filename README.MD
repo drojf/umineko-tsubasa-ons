@@ -25,7 +25,7 @@ Current progress:
 |12|Yes|Yes|v0.98.0|
 |13|Yes|Yes|v0.98.0|
 |14|Yes|Yes|v0.98.0|
-|15|In progress|No|Not yet released|
+|15|Yes|No|Not yet released|
 |Postscript|No|No|Not yet released|
 
 Installation instructions:
