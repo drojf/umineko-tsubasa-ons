@@ -1,32 +1,11 @@
 # Umineko Tsubasa English PS3 patch
 
-This is an attempt to merge the [English translation](https://uminekotsubasa.github.io)
+This is an attempt to merge the English translation
 of Umineko Tsubasa together with the [PS3 mod by Golden Abyss](http://golden-abyss.blogspot.com/2015/12/umineko-tsubasa-ps3_19.html)
 which is available exclusively in the Russian language.
 
 This mod *does not* add voices, since Tsubasa has never actually been released by Alchemist, and therefore not voiced.
-This mod *does* add ADV mode. However, the first story is fully NVL, so you will not see it right away!
-
-Current progress:
-
-|Story #|Translated|Playtested|Released since version|
-|--|--|--|--|
-|1|Yes|Yes|v0.1.0|
-|2|Yes|Yes|v0.2.0|
-|3|Yes|Yes|v0.3.0|
-|4|Yes|Yes|v0.4.0|
-|5|Yes|Yes|v0.5.0|
-|6|Yes|Yes|v0.34.0|
-|7|Yes|Yes|v0.50.0|
-|8|Yes|Yes|v0.98.0|
-|9|Yes|Yes|v0.98.0|
-|10|Yes|Yes|v0.98.0|
-|11|Yes|Yes|v0.98.0|
-|12|Yes|Yes|v0.98.0|
-|13|Yes|Yes|v0.98.0|
-|14|Yes|Yes|v0.98.0|
-|15|Yes|No|Not yet released|
-|Postscript|No|No|Not yet released|
+This mod *does* add ADV mode.
 
 Installation instructions:
 
@@ -35,10 +14,5 @@ Installation instructions:
 - Extract the archive to the Umineko Tsubasa directory (you need to own the Japanese game to use this!). Note: you *do* want to keep the subfolder, in other words, after extraction, your game should now contain a `[07th-Mod]` folder.
 - Run `[07th-Mod] Umineko Tsubasa.exe` inside the `[07th-Mod]` folder and enjoy the currently-translated stories.
 
-Main points of interest for developers:
-- `0.txt` is the main script file which is used by this mod. 
-This is the file where the English translation is being added to.
-***IMPORTANT***: this file is encoded in Windows-1251. Some of the old comments are in Shift-JIS, but those can be ignored.
-***UNTIL THE TRANSLATION WORK IS FINISHED, THIS FILE MUST REMAIN IN WINDOWS-1251!!!***
-When the translation is done, it will be converted back into Shift-JIS to render the comments readable again.
-- `script-old.txt` is the old English translation (from before the PS3 patch). Editing this is pointless, merely consult it for the English text.
+The main point of interest for developers is `0.txt`, the main script file which is used by this mod. 
+***IMPORTANT***: this file is encoded in Shift-JIS, and must remain in this encoding!

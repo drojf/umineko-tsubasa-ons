@@ -4963,7 +4963,7 @@ me1 5
 
 ;ЃuЃcЃc‚З‚¤‚µ‚Д‚БЃBЃv\
 ;ЃѓѓVѓGѓXѓ^‚O‚O
-`"...Но почему?"`\
+`"...Н? ?ъHем??"`\
 
 ld l,S41_defA1,80
 
@@ -7640,7 +7640,7 @@ ld r,KUM_WaraiA2,24
 
 ;Ѓu‚Щ‚Б‚Щ‚Б‚ЩЃI@Ѓ@‚Ж‚с‚Е‚а‚И‚ў‚Ж‚с‚Е‚а‚И‚ўЃB@ђнђl‚і‚Ь‚НЃA—rг»‚©‚зѓvѓЉѓ“ЃA€Зђm“¤•…‚Ь‚Е‰Ѕ‚Е‚а‚ЁЌD‚«‚Е‚ў‚з‚Б‚µ‚б‚ў‚Ь‚·‚а‚М‚Л‚ҐЃBЃv@
 `"Hohoho!`@` Of course not, of course not.`@` From pudding to almond jelly to anything else, Master Battler just loves sweets."`\
-;ЃѓЊF‘
+;ЃѓЊF?
 
 ld l,NAN_MajimeA1,23
 
@@ -16415,7 +16415,7 @@ bg M2F_P1aN,0
 ld l,Jes_KomaruA2,0
 ld r,Nat_ZutuuA1,24
 
-;ЃАЌЫЃA‚ЁЏм—l‚Є’…•ц‚µ‚Д‚ў‚й‚М‚р‰њ—l‚Й™й‚Я‚з‚кЃA@Ћ¶ђУ‚рЋу‚Ї‚Д‚ў‚й‚Ж‚±‚л‚аЊ©‚Ѕ‚±‚Ж‚Є‚ ‚йЃB\
+;?АЌЫЃA‚ЁЏм—l‚Є’…•ц‚µ‚Д‚ў‚й‚М‚р‰њ—l‚Й™й‚Я‚з‚кЃA@Ћ¶ђУ‚рЋу‚Ї‚Д‚ў‚й‚Ж‚±‚л‚аЊ©‚Ѕ‚±‚Ж‚Є‚ ‚йЃB\
 ` I actually have seen Madam chewing Milady out for having her clothes out of shape. `\
 bg black,22
 ;Ѓ@‚ѕ‚©‚зЃA‚ж‚­‚ж‚­Ќl‚¦‚Д‚Э‚к‚ОЃA‚»‚с‚ИѓVѓ‹ѓGѓbѓg‚Мђl‰e‚ЄЃA‰®•~‚М’†‚ЕЊ©‚з‚к‚Ѕ‚Н‚ё‚Н‚И‚ў‚М‚ѕЃB@ђl‰e‚рЋv‚ўЏo‚№‚ОЋv‚ўЏo‚·‚Щ‚ЗЃA‚ ‚к‚ЄЃA‚±‚М‰®•~‚М’N‚©‚Е‚ ‚й‚Ж‚НЌl‚¦‚з‚к‚И‚­‚И‚Б‚ЅЃcЃB\
@@ -28857,96 +28857,96 @@ bgm1 139
 
 bg Different_space_2a,42
 locate 0,3
-` Есть много самых разных Осколков.`@
+` There are many different Fragments here.`@
 br
 ;Ѓ@”L” ‚Н’к–і‚µЃB@
-` Кошачья коробка бездонна.`@
+` The catbox is truly bottomless.`@
 ;Ѓ@‘Ѕ•ЄЃAЋи‚р“Л‚БЌћ‚с‚Е‘~‚«‰с‚№‚ОЃA‚Ь‚ѕ‚Ь‚ѕ‚ў‚­‚з‚Е‚аЊ©‚В‚Ї‚з‚к‚й‚с‚Е‚µ‚е‚¤‚ЛЃB\
-` Возможно, если сунуть туда руку и потрясти, можно будет найти и другие.`\
+` Perhaps, if you were to stick your hand inside, you'd find plenty more.`\
 locate 0,3
 bg Different_space_2b,22
 ;Ѓ@‚Ж‚и‚ ‚¦‚ёЃAЌЎ‰сЃAЏW‚Я‚Д‚«‚ЅѓJѓPѓ‰‚Н‚±‚с‚И‚Ж‚±‚лЃB@
-` Здесь собраны все найденные Осколки.`@
+` These are all the Fragments I managed to find so far.`@
 br
 ;Ѓ@‚а‚µ‚ ‚И‚Ѕ‚ЄЃA‚Ь‚ѕ‚Ь‚ѕѓJѓPѓ‰‚р‹Ѓ‚Я‚й‚И‚з‚ОЃAЌЎ“x‚Н‚ ‚И‚Ѕ‚Є’T‚µ‚ЙЌs‚Б‚Ѕ‚з‚ў‚ўЃB@
-` Хотите ещё - придётся искать самим.`@
+` If you want more... search for them yourself.`@
 ;Ѓ@”L” ‚М’†‚Й”т‚СЌћ‚с‚ЕЃA‹M•ыЋ©ђg‚ЄѓJѓPѓ‰‚р’T‚µ‚Д‚Э‚Ѕ‚з‚ў‚ўЃB\
-` Самостоятельно прыгнуть в коробку в поисках кошки.`\
+` Jump into the catbox, and explore the endless posibilities.`\
 locate 0,3
 bg Different_space_2c,22
 ;Ѓ@‚»‚МЃAѓJѓPѓ‰’T‚µ‚Й—·‚ЙЏoЉ|‚Ї‚й—E‹C‚рЋќ‚Д‚Ѕ‚И‚зЃA‹M•ы‚аЋ„‚Ѕ‚ї‚М’‡ЉФЃB@
 ;Ѓ@Ћ„‚М’‡ЉФ‚Ѕ‚ї‚Н‹M•ы‚М‚±‚Ж‚рЃAЌqЉCЋТ‚М–‚Џ—‚ЖЊД‚Ф‚Е‚µ‚е‚¤‚ЛЃB\
-` Если вы готовы отправиться на поиски Осколков, мы с вами партнёры.`@` Мои спутники будут называть вас странствующими ведьмами.`\
+` If you're ready to search for even more Fragments, you can consider yourself my partner,`@` a Voyager.`\
 
 bg black,22
 locate 0,3
 ;Ѓ@—¤‚М–‚Џ—‚НЃA—¬‚к’…‚­ѓJѓPѓ‰‚р‘Т‚Б‚ДЃA•l•У‚ЙЌА‚µ‚Д‚ў‚й‚±‚Ж‚µ‚©Џo—€‚И‚ўЃB@
 ;Ѓ@‚µ‚©‚µЋ„‚Ѕ‚ї‚Н€б‚¤ЃB@
-` Ведьмы суши пусть сидят на пляже и ждут, пока к берегу не отнесёт новый Осколок.`@` Мы не такие.`@
+` Let the Territory Lords sit by the sea and wait for a new Fragment to wash ashore.`@` They aren't like us.`@
 br
 ;Ѓ@ѓJѓPѓ‰‚МЉC‚ЦЃA‚»‚µ‚Д”L” ‚М’†‚Ц—·‚ЙЏo‚ДЃA’N‚Й‚аЊ©‚В‚Ї‚з‚к‚И‚ўѓJѓPѓ‰‚рЋи‚Й‚µЃA‚»‚к‚рЋ©•Є‚ѕ‚Ї‚М‚а‚М‚Й‚µ‚Дѓ|ѓPѓbѓg‚Й‚µ‚Ь‚¤‚МЃB\
-` Мы путешествуем по морю Осколков в кошачьей коробке и собираем Осколки, которые другим не найти.`\
+` We travel the Sea of Fragments in the cat box, finding new Fragments that were never discovered by anyone.`\
 locate 0,3
 ;Ѓ@ѓJѓPѓ‰‚МЉC‚Й•Y‚¤‚М‚НЃAѓJѓPѓ‰‚О‚©‚и‚¶‚б‚И‚ўЃB@
-` Но только те, что плавают в этом море.`@
+` But Fragments aren't the only thing found in this sea.`@
 
 bg book1,22
 
 ;Ѓ@‹UЏ‘Ќм‰Ж‚Ѕ‚ї‚Й‚ж‚Б‚Дђ¶‚ЭЏo‚і‚к‚ЅЃA‹UЏ‘‚МѓJѓPѓ‰‚а‚ў‚­‚В‚а•Y‚Б‚Д‚йЃB\
-` Благодаря фальсификаторам есть и фальшивые Осколки.`\
+` Sometimes, Forgeries created by false authors also drift here.`\
 
 bg different_spiral_1a,22
 locate 0,3
 ;Ѓ@‚»‚к‚з‚НЋћ‚ЙЉЉЊm‚ѕ‚Ї‚к‚ЗЃAЋћ‚ЙЏХЊ‚“IЃB@‚ ‚й‚ў‚НЋћ‚ЙђоЏо“I‚ЕЃAЋћ‚ЙђнњЙ‚і‚¦Љo‚¦‚і‚№‚йЃB@
-` Порой они смешны, порой даже шокируют.`@` Есть и те, что великолепны и бросают в дрожь.`@
+` Some of them are funny, some of them are shocking.`@` Some of them are so grand that they make your whole body shudder.`@
 ;Ѓ@—¤‚Й‚НЊ€‚µ‚Д—¬‚к’…‚©‚К‚»‚с‚ИѓJѓPѓ‰‚рЏW‚Я‚з‚к‚й‚М‚аЃAЋ„‚Ѕ‚ї‚М“БЊ ЃB\
-` Мы можем собирать и такие Осколки, которые никогда не попадут на сушу.`\
+` We can gather these kinds of Fragments as well. They would never reach the land.`\
 
 bg different_spiral_1b,22
 locate 0,3
 ;Ѓ@‚¤‚Ј‚сЃA‚»‚к‚З‚±‚л‚©ЃA‘D‚МЏг‚ЕЋ„‚Ѕ‚ї‚ађV‚Ѕ‚И‹UЏ‘‚р‹L‚µЃA‚»‚к‚рЉC‚Й“Љ‚¶‚й‚±‚Ж‚аЏo—€‚йЃB@
-` И также мы можем писать в лодке новые подделки и бросать их в море.`@
+` We could even write new Forgeries ourselves and throw them into the sea.`@
 ;Ѓ@‰^—З‚­—¤‚Й’H‚и’…‚ў‚Ѕ‚И‚зЃA•l•У‚М–‚Џ—‚Ѕ‚ї‚НЃAЋ„‚М‹UЏ‘‚р’D‚ўЌ‡‚Б‚Д“З‚с‚Е‚­‚к‚й‚М‚©‚µ‚зЃB\
-` Если моим подделкам посчастливится попасть на сушу, прочитают ли их ведьмы на пляже?`\ 
+` If our Forgeries were to make it to the land, would the witches waiting there read them?`\ 
 locate 0,3
 ;Ѓ@‚»‚к‚рЋv‚¤‚ЖЃA‚Ж‚Д‚а–щ‰хЃB@
-` Одна мысль об этом уже радует меня.`@
+` That idea alone makes me very happy.`@
 br
 ;Ѓ@ѓJѓPѓ‰‹™‚и‚ж‚иЃA‹UЏ‘Ќм‰Ж‚М•ы‚ЄЉy‚µ‚ў–‚Џ—‚а‚ў‚й‚з‚µ‚ў‚µ‚ЛЃB\
-` Судя по всему, некоторым ведьмам больше нравится создавать подделки, нежели вылавливать Осколки.`\
+` Some witches seem to enjoy creating Forgeries even more than searching for Fragments.`\
 
 bg black,22
 locate 0,3
 ;bg black,22
 ;bg chess2,22
 ;Ѓ@ѓxѓAѓgѓЉЃ[ѓ`ѓF‚МѓQЃ[ѓЂ”Х‚НЃA‚·‚Е‚ЙЏI‚н‚Б‚Д•В‚¶‚з‚к‚Д‚ў‚йЃB@
-` На этом игровая доска Беатриче сворачивается.`@ 
+` This is the end of Beatrice's game board.`@ 
 ;Ѓ@‚Й‚аЉЦ‚н‚з‚ёЃA‚Ь‚ѕЉП‹qђИ‚р—§‚Ѕ‚И‚ў–‚Џ—‚Ѕ‚їЃB\
-` Но ещё многие ведьмы не покинули зрительские места.`\
+` But I see that some witches are still waiting in the audience to see more.`\
 
 bg Different_space_2a,22
 locate 0,3
 ;Ѓ@‹M•ы‚Ѕ‚ї‚НЃA•l•У‚Й—¬‚к’…‚­‚М‚р‘Т‚В—¤‚М–‚Џ—ЃH@
-` Вы из тех ведьм, которые ждут на пляже?`@
+` Are you one of those waiting at the beach?`@
 ;Ѓ@‚»‚к‚Ж‚аЃAЌqЉCЋТ‚М–‚Џ—‚И‚М‚©‚µ‚зЃcЃH@
-` Или же вы странствующие ведьмы?`@
+` Are you a Voyager, or perhaps, a Forger?`@
 ;Ѓ@‚а‚ї‚л‚сЃA‚З‚ї‚з‚Е‚аЌ\‚н‚И‚ў‚Ї‚к‚ЗЃB@
-` Мне всё равно.`@
+` Well, I don't really care.`@
 br
 ;Ѓ@‚а‚µЃA‚ ‚И‚Ѕ‚ЖЌД‰п‚Е‚«‚й‚И‚зЃA‚»‚к‚НѓJѓPѓ‰‚М‘еЉCЊґ‚М’†‚Є‚ў‚ў‚н‚ЛЃB\
-` Но если мы ещё сможем встретиться, пусть мы встретимся в обширном море Осколков.`\
+` But if we could meet again, let us meet here, in the Sea of Fragments.`\
 
 bg Different_space_2c,22
 locate 0,3
 ;Ѓ@‚¶‚б‚ ‚ЛЃAЌЎ‰с‚МЋи“yЋY‚Н‚±‚к‚Е‚Ё‚µ‚Ь‚ўЃB@
-` Увидимся, на этом я вас покину.`@
+` And for now, I shall take my leave.`@
 br
 ;Ѓ@ѓoѓCѓoѓCЃA—¤‚М–‚Џ—‚Ѕ‚їЃB@
-` До встречи, ведьмы суши.`@
+` Goodbye, Territory Lords.`@
 ;Ѓ@‚»‚µ‚ДЃAЉC‚М–‚Џ—‚Ѕ‚їЃB@
-` И вы тоже, ведьмы моря.`@
+` Goodbye, Voyagers.`@
 ;Ѓ@‹Я‚ў“а‚ЙЃA‚Ь‚Ѕ‚ЛЃB\
-` Мы ещё встретимся.`\
+` Let us meet again, sometime in the future.`\
 
 bg black,2
 bgmonce"bgm3\Thanks‚Ц‚Б‚Ы‚±3•Є.ogg"
