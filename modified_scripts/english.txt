@@ -4206,7 +4206,7 @@ defsub jump_start
 
 ;óßÇøà íuÇÃç¿ïWÇéÊìæÇ∑ÇÈñΩóﬂ
 defsub tati_x_get
-
+defsub SeventhModCheckFile
 ;defsub texton
 ;defsub textoff
 pretextgosub *pretext
@@ -4252,6 +4252,38 @@ gosub *DATA_SET
 gosub *YATA_r_def
 
 texton
+
+SeventhModCheckFile "SE\01se_umi.wav"
+SeventhModCheckFile "SE\02se_umi.wav"
+SeventhModCheckFile "SE\03se_umi.wav"
+SeventhModCheckFile "SE\04_se_umi.wav"
+SeventhModCheckFile "SE\05_se_umi.wav"
+SeventhModCheckFile "SE\07_se_umi.wav"
+SeventhModCheckFile "SE\A1_07130.WAV"
+SeventhModCheckFile "SE\A1_07131.WAV"
+SeventhModCheckFile "SE\A1_07132.WAV"
+SeventhModCheckFile "SE\A1_07133.WAV"
+SeventhModCheckFile "SE\A1_16258.WAV"
+SeventhModCheckFile "SE\A1_17270.WAV"
+SeventhModCheckFile "SE\A1_21333.WAV"
+SeventhModCheckFile "SE\A5_01023.WAV"
+SeventhModCheckFile "SE\A5_01026.WAV"
+SeventhModCheckFile "SE\A5_02047.WAV"
+SeventhModCheckFile "SE\A5_04105.WAV"
+SeventhModCheckFile "SE\A5_04107.WAV"
+SeventhModCheckFile "SE\A5_04138.WAV"
+SeventhModCheckFile "SE\A5_06196.WAV"
+SeventhModCheckFile "SE\A5_07201.WAV"
+SeventhModCheckFile "SE\A5_07202.WAV"
+SeventhModCheckFile "SE\A5_07212.WAV"
+SeventhModCheckFile "SE\A5_08234.WAV"
+SeventhModCheckFile "SE\A5_08263.WAV"
+SeventhModCheckFile "SE\A5_10315.WAV"
+SeventhModCheckFile "SE\A5_10316.WAV"
+SeventhModCheckFile "SE\A5_10317.WAV"
+SeventhModCheckFile "SE\A5_14445.WAV"
+SeventhModCheckFile "SE\A6_24636.WAV"
+SeventhModCheckFile "SE\ahaha.wav"
 
 mov %backlogTotalNum,%BacklogNum
 mov %BacklogNum,Backlogpage1
@@ -57423,3 +57455,18 @@ print 1
 return
 ;*************************************
 
+*SeventhModCheckFile
+    getparam $Free1
+
+    *SeventhModCheckFileRecheck
+
+    ; If the file exists, just return
+    fileexist %Free2, $Free1
+    if %Free2 == 1 return
+
+    ; if the file doesn't exist, print error message and try again
+    `Error: File missing`
+    $Free1
+    `Please copy the SE folder from any version of Umineko, or contact 07th-mod for support`\
+    goto *SeventhModCheckFileRecheck
+return
